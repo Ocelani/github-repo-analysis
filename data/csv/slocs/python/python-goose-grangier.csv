@@ -1,0 +1,215 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Plain Text,requirements.txt,requirements.txt,6,6,0,0,0
+Autoconf,MANIFEST.in,MANIFEST.in,2,2,0,0,0
+gitignore,.gitignore,.gitignore,13,13,0,0,0
+Python,setup.py,setup.py,71,69,2,0,0
+Plain Text,LICENSE.txt,LICENSE.txt,202,169,0,33,0
+ReStructuredText,README.rst,README.rst,224,164,0,60,0
+YAML,.travis.yml,.travis.yml,11,8,0,3,0
+Python,tests/__init__.py,__init__.py,26,24,2,0,0
+Python,tests/configuration.py,configuration.py,40,38,2,0,0
+Python,tests/article.py,article.py,32,30,2,0,0
+Python,tests/parsers.py,parsers.py,264,262,2,0,0
+Python,goose/image.py,image.py,97,95,2,0,0
+Python,goose/configuration.py,configuration.py,115,113,2,0,1
+Python,goose/text.py,text.py,194,192,2,0,0
+Python,tests/extractors/tweets.py,tweets.py,33,31,2,0,0
+HTML,tests/data/parser/test1.html,test1.html,30,29,0,1,0
+Python,goose/network.py,network.py,60,58,2,0,0
+Python,tests/extractors/tags.py,tags.py,72,70,2,0,1
+HTML,tests/data/extractors/links/test_links.html,test_links.html,16,16,0,0,0
+Python,goose/outputformatters.py,outputformatters.py,137,135,2,0,0
+Python,tests/extractors/publishdate.py,publishdate.py,43,41,2,0,0
+Python,goose/__init__.py,__init__.py,100,98,2,0,4
+JSON,tests/data/extractors/videos/test_embed.json,test_embed.json,23,23,0,0,0
+Python,tests/extractors/__init__.py,__init__.py,0,0,0,0,0
+JSON,tests/data/extractors/videos/test_iframe.json,test_iframe.json,23,23,0,0,0
+JSON,tests/data/extractors/publishdate/test_publish_date_schema.json,test_publish_date_schema.json,6,6,0,0,0
+JSON,tests/data/extractors/videos/test_object.json,test_object.json,31,31,0,0,0
+HTML,tests/data/extractors/videos/test_embed.html,test_embed.html,40,39,0,1,0
+Python,goose/cleaners.py,cleaners.py,261,259,2,0,0
+Python,goose/utils/encoding.py,encoding.py,132,110,15,7,0
+Python,tests/extractors/links.py,links.py,33,31,2,0,0
+Python,goose/utils/__init__.py,__init__.py,142,136,2,4,5
+Python,tests/extractors/metas.py,metas.py,29,27,2,0,0
+Python,goose/version.py,version.py,25,23,2,0,0
+Python,tests/extractors/opengraph.py,opengraph.py,32,30,2,0,0
+Python,goose/video.py,video.py,48,46,2,0,0
+HTML,tests/data/extractors/videos/test_object.html,test_object.html,50,49,0,1,0
+Python,tests/extractors/authors.py,authors.py,32,30,2,0,0
+Python,tests/extractors/videos.py,videos.py,56,54,2,0,0
+Python,goose/parsers.py,parsers.py,244,242,2,0,0
+JSON,tests/data/extractors/links/test_links.json,test_links.json,6,6,0,0,0
+Python,tests/extractors/base.py,base.py,235,233,2,0,2
+Python,tests/extractors/images.py,images.py,225,223,2,0,4
+HTML,tests/data/extractors/opengraph/test_opengraph.html,test_opengraph.html,16,16,0,0,0
+Python,tests/extractors/title.py,title.py,37,35,2,0,0
+HTML,tests/data/extractors/publishdate/test_publish_date.html,test_publish_date.html,7,7,0,0,0
+HTML,tests/data/extractors/publishdate/test_publish_date_article.html,test_publish_date_article.html,7,7,0,0,0
+HTML,tests/data/extractors/publishdate/test_publish_date_rnews.html,test_publish_date_rnews.html,7,7,0,0,0
+JSON,tests/data/extractors/tags/test_tags_cnet.json,test_tags_cnet.json,22,22,0,0,0
+HTML,tests/data/extractors/publishdate/test_publish_date_schema.html,test_publish_date_schema.html,15,14,0,1,0
+JSON,tests/data/extractors/tags/test_tags_deadline.json,test_tags_deadline.json,11,11,0,0,0
+Python,tests/extractors/content.py,content.py,295,293,2,0,0
+JSON,tests/data/extractors/tags/test_tags_wnyc.json,test_tags_wnyc.json,13,13,0,0,0
+Python,goose/article.py,article.py,153,151,2,0,0
+JSON,tests/data/extractors/tags/test_tags_abcau.json,test_tags_abcau.json,10,10,0,0,0
+JSON,tests/data/extractors/images/test_known_image_css_parent_class/test_known_image_css_parent_class.json,test_known_image_css_parent_class.json,15,15,0,0,0
+HTML,tests/data/extractors/tags/test_tags_kexp.html,test_tags_kexp.html,304,228,16,60,0
+JSON,tests/data/extractors/content/test_cnn1.json,test_cnn1.json,13,13,0,0,0
+JSON,tests/data/extractors/content/test_elpais.json,test_elpais.json,92,92,0,0,0
+HTML,tests/data/extractors/tags/test_tags_abcau.html,test_tags_abcau.html,653,620,33,0,0
+JSON,tests/data/extractors/publishdate/test_publish_date.json,test_publish_date.json,6,6,0,0,0
+HTML,tests/data/extractors/images/test_known_image_css_parent_id/test_known_image_css_parent_id.html,test_known_image_css_parent_id.html,25,24,0,1,0
+JSON,tests/data/extractors/images/test_known_image_empty_src/test_known_image_empty_src.json,test_known_image_empty_src.json,15,15,0,0,0
+Python,goose/crawler.py,crawler.py,272,270,2,0,0
+JSON,tests/data/extractors/images/test_known_image_css_parent_id/test_known_image_css_parent_id.json,test_known_image_css_parent_id.json,15,15,0,0,0
+HTML,tests/data/extractors/images/test_known_image_empty_src/test_known_image_empty_src.html,test_known_image_empty_src.html,25,24,0,1,0
+JSON,tests/data/extractors/content/test_techcrunch1.json,test_techcrunch1.json,16,16,0,0,0
+JSON,tests/data/extractors/content/test_articlebody_attribute.json,test_articlebody_attribute.json,6,6,0,0,0
+JSON,tests/data/extractors/publishdate/test_publish_date_rnews.json,test_publish_date_rnews.json,6,6,0,0,0
+JSON,tests/data/extractors/tags/test_tags_kexp.json,test_tags_kexp.json,11,11,0,0,0
+JSON,tests/data/extractors/images/test_known_image_css_id/test_known_image_css_id.json,test_known_image_css_id.json,15,15,0,0,0
+JSON,tests/data/extractors/publishdate/test_publish_date_article.json,test_publish_date_article.json,6,6,0,0,0
+HTML,tests/data/extractors/images/test_known_image_css_id/test_known_image_css_id.html,test_known_image_css_id.html,25,24,0,1,0
+JSON,tests/data/extractors/opengraph/test_opengraph.json,test_opengraph.json,12,12,0,0,0
+HTML,tests/data/extractors/images/test_known_image_css_class/test_known_image_css_class.html,test_known_image_css_class.html,25,24,0,1,0
+JSON,tests/data/extractors/authors/test_author_schema.json,test_author_schema.json,11,11,0,0,0
+HTML,tests/data/extractors/authors/test_author_schema.html,test_author_schema.html,12,12,0,0,0
+HTML,tests/data/extractors/title/test_title_empty.html,test_title_empty.html,12,12,0,0,0
+HTML,tests/data/extractors/images/test_known_image_css_parent_class/test_known_image_css_parent_class.html,test_known_image_css_parent_class.html,25,24,0,1,0
+Plain Text,goose/resources/text/stopwords-nl.txt,stopwords-nl.txt,48,48,0,0,0
+Plain Text,goose/resources/text/stopwords-zh.txt,stopwords-zh.txt,151,151,0,0,0
+Python,goose/utils/images.py,images.py,123,121,2,0,0
+HTML,tests/data/extractors/tags/test_tags_cnet.html,test_tags_cnet.html,539,433,32,74,0
+Plain Text,goose/resources/text/stopwords-ar.txt,stopwords-ar.txt,162,162,0,0,0
+Python,goose/extractors/tags.py,tags.py,51,49,2,0,0
+HTML,tests/data/extractors/title/test_title_opengraph.html,test_title_opengraph.html,14,14,0,0,0
+Plain Text,goose/resources/images/known-image-css.txt,known-image-css.txt,9,9,0,0,0
+JSON,tests/data/extractors/images/test_known_image_css_class/test_known_image_css_class.json,test_known_image_css_class.json,15,15,0,0,0
+JSON,tests/data/extractors/images/test_opengraph_tag/test_opengraph_tag.json,test_opengraph_tag.json,15,15,0,0,0
+JSON,tests/data/extractors/title/test_title_opengraph.json,test_title_opengraph.json,6,6,0,0,0
+HTML,tests/data/extractors/images/test_opengraph_tag/test_opengraph_tag.html,test_opengraph_tag.html,20,19,0,1,0
+JSON,tests/data/extractors/title/test_title_empty.json,test_title_empty.json,6,6,0,0,0
+JSON,tests/data/extractors/images/test_known_image_name_parent/test_known_image_name_parent.json,test_known_image_name_parent.json,15,15,0,0,0
+JSON,tests/data/extractors/content/test_cnn_arabic.json,test_cnn_arabic.json,12,12,0,0,0
+HTML,tests/data/extractors/images/test_known_image_name_parent/test_known_image_name_parent.html,test_known_image_name_parent.html,22,21,0,1,0
+HTML,tests/data/extractors/tags/test_tags_deadline.html,test_tags_deadline.html,1486,1255,70,161,0
+JSON,tests/data/extractors/content/test_gizmodo1.json,test_gizmodo1.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_cnet.html,test_cnet.html,688,418,60,210,0
+HTML,tests/data/extractors/images/test_basic_image/test_basic_image.html,test_basic_image.html,2269,1066,57,1146,0
+JSON,tests/data/extractors/content/test_issue32.json,test_issue32.json,12,12,0,0,0
+JSON,tests/data/extractors/content/test_donga_korean.json,test_donga_korean.json,13,13,0,0,0
+JSON,tests/data/extractors/tweets/test_tweet.json,test_tweet.json,6,6,0,0,0
+JSON,tests/data/extractors/content/test_issue24.json,test_issue24.json,12,12,0,0,0
+HTML,tests/data/extractors/tweets/test_tweet.html,test_tweet.html,21,21,0,0,0
+HTML,tests/data/extractors/content/test_articlebody_tag.html,test_articlebody_tag.html,15,15,0,0,0
+Plain Text,goose/resources/text/stopwords-fr.txt,stopwords-fr.txt,220,218,0,2,0
+JSON,tests/data/extractors/images/test_basic_image/test_basic_image.json,test_basic_image.json,14,14,0,0,0
+HTML,tests/data/extractors/videos/test_iframe.html,test_iframe.html,34,33,0,1,0
+JSON,tests/data/extractors/content/test_bbc_chinese.json,test_bbc_chinese.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_elmondo1.html,test_elmondo1.html,795,749,45,1,0
+HTML,tests/data/extractors/content/test_espn.html,test_espn.html,932,762,90,80,0
+HTML,tests/data/extractors/content/test_foxNews.html,test_foxNews.html,3229,1020,11,2198,0
+Plain Text,goose/resources/text/stopwords-nb.txt,stopwords-nb.txt,117,117,0,0,0
+Plain Text,goose/resources/text/stopwords-ru.txt,stopwords-ru.txt,421,421,0,0,0
+JSON,tests/data/extractors/content/test_msn1.json,test_msn1.json,12,12,0,0,0
+JSON,tests/data/extractors/content/test_testHuffingtonPost.json,test_testHuffingtonPost.json,32,32,0,0,0
+JSON,tests/data/extractors/content/test_issue4.json,test_issue4.json,13,13,0,0,0
+JSON,tests/data/extractors/content/test_lefigaro.json,test_lefigaro.json,22,22,0,0,0
+JSON,tests/data/extractors/content/test_allnewlyrics1.json,test_allnewlyrics1.json,17,17,0,0,0
+HTML,tests/data/extractors/content/test_businessinsider3.html,test_businessinsider3.html,2189,1855,112,222,0
+JSON,tests/data/extractors/content/test_engadget.json,test_engadget.json,34,34,0,0,0
+Plain Text,goose/resources/text/stopwords-no.txt,stopwords-no.txt,120,120,0,0,0
+JSON,tests/data/extractors/content/test_issue25.json,test_issue25.json,25,25,0,0,0
+HTML,tests/data/extractors/content/test_guardian1.html,test_guardian1.html,57,29,0,28,0
+HTML,tests/data/extractors/tags/test_tags_wnyc.html,test_tags_wnyc.html,1307,915,37,355,0
+JSON,tests/data/extractors/content/test_time.json,test_time.json,13,13,0,0,0
+Plain Text,goose/resources/text/stopwords-en.txt,stopwords-en.txt,546,546,0,0,0
+Plain Text,goose/resources/text/stopwords-pl.txt,stopwords-pl.txt,277,277,0,0,0
+Plain Text,goose/resources/text/stopwords-sv.txt,stopwords-sv.txt,547,546,0,1,0
+Plain Text,goose/resources/text/stopwords-de.txt,stopwords-de.txt,894,891,0,3,0
+Plain Text,goose/resources/text/stopwords-it.txt,stopwords-it.txt,287,287,0,0,0
+HTML,tests/data/extractors/content/test_liberation.html,test_liberation.html,2269,1066,57,1146,0
+Plain Text,goose/resources/text/stopwords-pt.txt,stopwords-pt.txt,147,147,0,0,0
+Plain Text,goose/resources/text/stopwords-da.txt,stopwords-da.txt,101,101,0,0,0
+Plain Text,goose/resources/text/stopwords-hu.txt,stopwords-hu.txt,403,402,0,1,0
+Plain Text,goose/resources/text/stopwords-fi.txt,stopwords-fi.txt,68,68,0,0,0
+HTML,tests/data/extractors/content/test_businessWeek1.html,test_businessWeek1.html,1155,1049,23,83,0
+Python,goose/extractors/publishdate.py,publishdate.py,46,44,2,0,0
+HTML,tests/data/extractors/content/test_time2.html,test_time2.html,1394,1026,48,320,0
+HTML,tests/data/extractors/content/test_cnbc1.html,test_cnbc1.html,1008,977,0,31,0
+Python,goose/extractors/tweets.py,tweets.py,42,40,2,0,0
+Plain Text,goose/resources/text/stopwords-id.txt,stopwords-id.txt,1309,1309,0,0,0
+Python,goose/extractors/metas.py,metas.py,135,133,2,0,0
+Python,goose/extractors/__init__.py,__init__.py,38,36,2,0,0
+Python,goose/extractors/links.py,links.py,36,34,2,0,0
+HTML,tests/data/extractors/content/test_issue115.html,test_issue115.html,1740,1390,88,262,0
+Python,goose/extractors/opengraph.py,opengraph.py,39,37,2,0,0
+HTML,tests/data/extractors/content/test_articlebody_itemprop.html,test_articlebody_itemprop.html,15,15,0,0,0
+JSON,tests/data/extractors/content/test_politico.json,test_politico.json,12,12,0,0,0
+Plain Text,goose/resources/text/stopwords-es.txt,stopwords-es.txt,310,309,0,1,0
+JSON,tests/data/extractors/content/test_businessWeek2.json,test_businessWeek2.json,13,13,0,0,0
+Python,goose/extractors/content.py,content.py,369,367,2,0,0
+Plain Text,goose/resources/text/stopwords-ko.txt,stopwords-ko.txt,70,70,0,0,0
+Python,goose/extractors/images.py,images.py,419,417,2,0,0
+JSON,tests/data/extractors/content/test_issue28.json,test_issue28.json,12,12,0,0,0
+Python,goose/extractors/title.py,title.py,104,102,2,0,0
+Python,goose/extractors/authors.py,authors.py,46,44,2,0,0
+HTML,tests/data/extractors/content/test_get_canonical_url.html,test_get_canonical_url.html,1478,908,265,305,0
+JSON,tests/data/extractors/content/test_marketplace.json,test_marketplace.json,21,21,0,0,0
+Python,goose/extractors/videos.py,videos.py,138,136,2,0,0
+JSON,tests/data/extractors/content/test_businessWeek3.json,test_businessWeek3.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_usatoday_issue_74.html,test_usatoday_issue_74.html,184,171,0,13,0
+JSON,tests/data/extractors/content/test_huffingtonPost2.json,test_huffingtonPost2.json,12,12,0,0,0
+JSON,tests/data/extractors/content/test_espn.json,test_espn.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_issue24.html,test_issue24.html,22,19,0,3,0
+HTML,tests/data/extractors/content/test_aolNews.html,test_aolNews.html,1876,1152,90,634,0
+JSON,tests/data/extractors/content/test_elmondo1.json,test_elmondo1.json,13,13,0,0,0
+HTML,tests/data/extractors/content/test_issue32.html,test_issue32.html,1654,1042,111,501,0
+JSON,tests/data/extractors/content/test_foxNews.json,test_foxNews.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_articlebody_attribute.html,test_articlebody_attribute.html,15,15,0,0,0
+HTML,tests/data/extractors/content/test_issue129.html,test_issue129.html,1460,880,505,75,0
+HTML,tests/data/extractors/content/test_cbslocal.html,test_cbslocal.html,1405,1175,53,177,0
+HTML,tests/data/extractors/content/test_cnn_arabic.html,test_cnn_arabic.html,382,315,24,43,0
+JSON,tests/data/extractors/content/test_time2.json,test_time2.json,22,22,0,0,0
+HTML,tests/data/extractors/content/test_mashable_issue_74.html,test_mashable_issue_74.html,388,345,22,21,0
+HTML,tests/data/extractors/content/test_gizmodo1.html,test_gizmodo1.html,74,68,4,2,0
+HTML,tests/data/extractors/content/test_donga_korean.html,test_donga_korean.html,841,790,23,28,0
+JSON,tests/data/extractors/content/test_articlebody_itemprop.json,test_articlebody_itemprop.json,6,6,0,0,0
+JSON,tests/data/extractors/content/test_aolNews.json,test_aolNews.json,18,18,0,0,0
+JSON,tests/data/extractors/content/test_mashable_issue_74.json,test_mashable_issue_74.json,6,6,0,0,0
+JSON,tests/data/extractors/content/test_yahoo.json,test_yahoo.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_issue4.html,test_issue4.html,1960,1555,61,344,0
+HTML,tests/data/extractors/content/test_huffingtonPost2.html,test_huffingtonPost2.html,6411,4977,204,1230,0
+JSON,tests/data/extractors/content/test_okaymarketing.json,test_okaymarketing.json,6,6,0,0,0
+HTML,tests/data/extractors/content/test_okaymarketing.html,test_okaymarketing.html,1064,971,13,80,0
+JSON,tests/data/extractors/content/test_issue129.json,test_issue129.json,6,6,0,0,0
+HTML,tests/data/extractors/content/test_elpais.html,test_elpais.html,1346,1241,76,29,0
+HTML,tests/data/extractors/content/test_engadget.html,test_engadget.html,1198,885,107,206,0
+HTML,tests/data/extractors/content/test_allnewlyrics1.html,test_allnewlyrics1.html,288,231,20,37,0
+HTML,tests/data/extractors/content/test_issue25.html,test_issue25.html,2710,1935,17,758,0
+JSON,tests/data/extractors/content/test_cnet.json,test_cnet.json,19,19,0,0,0
+HTML,tests/data/extractors/content/test_msn1.html,test_msn1.html,83,83,0,0,0
+JSON,tests/data/extractors/content/test_businessinsider3.json,test_businessinsider3.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_issue28.html,test_issue28.html,1456,1333,28,95,0
+HTML,tests/data/extractors/content/test_yahoo.html,test_yahoo.html,1245,975,71,199,0
+HTML,tests/data/extractors/content/test_time.html,test_time.html,944,582,42,320,0
+JSON,tests/data/extractors/content/test_cnbc1.json,test_cnbc1.json,12,12,0,0,0
+JSON,tests/data/extractors/content/test_issue115.json,test_issue115.json,6,6,0,0,0
+HTML,tests/data/extractors/content/test_businessWeek2.html,test_businessWeek2.html,1145,875,17,253,0
+JSON,tests/data/extractors/content/test_get_canonical_url.json,test_get_canonical_url.json,22,22,0,0,0
+HTML,tests/data/extractors/content/test_marketplace.html,test_marketplace.html,1478,908,265,305,0
+JSON,tests/data/extractors/content/test_businessWeek1.json,test_businessWeek1.json,13,13,0,0,0
+JSON,tests/data/extractors/content/test_articlebody_tag.json,test_articlebody_tag.json,6,6,0,0,0
+JSON,tests/data/extractors/content/test_cbslocal.json,test_cbslocal.json,17,17,0,0,0
+JSON,tests/data/extractors/content/test_usatoday_issue_74.json,test_usatoday_issue_74.json,6,6,0,0,0
+HTML,tests/data/extractors/content/test_businessWeek3.html,test_businessWeek3.html,1107,843,17,247,0
+HTML,tests/data/extractors/content/test_cnn1.html,test_cnn1.html,1283,834,29,420,0
+JSON,tests/data/extractors/content/test_guardian1.json,test_guardian1.json,15,15,0,0,0
+JSON,tests/data/extractors/content/test_liberation.json,test_liberation.json,12,12,0,0,0
+HTML,tests/data/extractors/content/test_politico.html,test_politico.html,4171,1119,82,2970,0
+HTML,tests/data/extractors/content/test_bbc_chinese.html,test_bbc_chinese.html,2770,483,225,2062,0
+HTML,tests/data/extractors/content/test_techcrunch1.html,test_techcrunch1.html,1028,768,96,164,0
+HTML,tests/data/extractors/content/test_lefigaro.html,test_lefigaro.html,1351,1327,21,3,0
+HTML,tests/data/extractors/content/test_testHuffingtonPost.html,test_testHuffingtonPost.html,5507,4596,147,764,0

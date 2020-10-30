@@ -1,0 +1,66 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Python,12306.py,12306.py,124,119,4,1,0
+Python,baiduwenku.py,baiduwenku.py,50,44,1,5,9
+Python,downloader.py,downloader.py,59,57,1,1,0
+Markdown,README.md,README.md,255,146,0,109,0
+Python,geetest.py,geetest.py,328,308,15,5,0
+Python,douyin_pro.py,douyin_pro.py,159,143,14,2,1
+Python,daili.py,daili.py,139,70,63,6,11
+Python,douyin.py,douyin.py,134,118,14,2,1
+Python,shuaia.py,shuaia.py,49,43,1,5,11
+Python,dingdong/jd.py,jd.py,225,160,54,11,31
+Python,Netease/Netease.py,Netease.py,236,215,13,8,2
+Python,baiduwenku_pro_1.py,baiduwenku_pro_1.py,101,90,0,11,0
+Python,financical.py,financical.py,193,118,69,6,14
+Python,bilibili/bilibili.py,bilibili.py,211,180,21,10,6
+Python,2020/zycjw/video_download.py,video_download.py,64,61,0,3,0
+Python,one_hour_spider/vidoe_downloader.py,vidoe_downloader.py,90,68,19,3,0
+Python,hero.py,hero.py,155,122,31,2,8
+JavaScript,baiwan/app.js,app.js,52,49,2,1,4
+JavaScript,douyin/fuck-byted-acrawler.js,fuck-byted-acrawler.js,194,184,1,9,14
+Plain Text,Netease/music_list.txt,music_list.txt,10,10,0,0,0
+Plain Text,zhengfang_system_spider/requirements.txt,requirements.txt,4,4,0,0,0
+Python,2020/bilibili/download.py,download.py,120,113,4,3,0
+Markdown,dingdong/README.md,README.md,22,14,0,8,0
+Plain Text,baiwan/file.txt,file.txt,21,19,0,2,0
+Python,cartoon/cartoon/__init__.py,__init__.py,0,0,0,0,0
+Plain Text,zhengfang_system_spider/zhengfang.txt,zhengfang.txt,85,71,0,14,0
+Python,douyin/douyin.py,douyin.py,195,180,13,2,12
+Python,biqukan.py,biqukan.py,142,120,20,2,0
+Python,cartoon/cartoon/items.py,items.py,14,6,5,3,0
+Python,cartoon/cartoon/middlewares.py,middlewares.py,56,19,23,14,4
+Python,cartoon/cartoon/settings.py,settings.py,100,10,69,21,0
+Python,cartoon/cartoon/pipelines.py,pipelines.py,45,27,14,4,11
+HTML,baiwan/index.html,index.html,219,218,0,1,0
+Plain Text,video_downloader/requirements.txt,requirements.txt,4,4,0,0,0
+Python,cartoon/cartoon/spiders/__init__.py,__init__.py,4,0,4,0,0
+Python,video_downloader/MyQR/__init__.py,__init__.py,0,0,0,0,0
+Python,video_downloader/MyQR/terminal.py,terminal.py,38,32,2,4,2
+Python,cartoon/cartoon/spiders/comic_spider.py,comic_spider.py,82,47,26,9,6
+Markdown,bilibili/README.md,README.md,24,15,0,9,0
+Python,video_downloader/MyQR/myqr.py,myqr.py,132,92,17,23,101
+Markdown,douyin/README.md,README.md,19,11,0,8,0
+Python,video_downloader/video_downloader.py,video_downloader.py,324,187,114,23,4
+Plain Text,baiwan/question.txt,question.txt,1,1,0,0,0
+Python,2020/api/api.py,api.py,65,62,1,2,0
+Python,one_hour_spider/unsplash.py,unsplash.py,64,39,19,6,12
+Markdown,2020/README.md,README.md,37,27,0,10,0
+Python,2020/dmzj/cartoon.py,cartoon.py,74,59,10,5,9
+Python,baiwan/baiwan.py,baiwan.py,169,149,11,9,14
+Python,2020/xbqg/xbqg_spider.py,xbqg_spider.py,40,31,6,3,3
+Markdown,zhengfang_system_spider/README.md,README.md,38,30,0,8,0
+Python,2020/taobao/taobao_login.py,taobao_login.py,99,73,16,10,3
+Python,one_hour_spider/biquge20180731.py,biquge20180731.py,52,29,20,3,5
+Python,one_hour_spider/unsplash20180731.py,unsplash20180731.py,35,25,8,2,8
+Python,video_downloader/MyQR/mylibs/ECC.py,ECC.py,44,35,2,7,11
+Python,video_downloader/MyQR/mylibs/__init__.py,__init__.py,1,0,1,0,0
+Python,video_downloader/MyQR/mylibs/theqrmodule.py,theqrmodule.py,22,7,9,6,0
+Python,video_downloader/MyQR/mylibs/structure.py,structure.py,27,22,2,3,0
+Python,video_downloader/MyQR/mylibs/draw.py,draw.py,25,19,1,5,9
+Python,zhengfang_system_spider/spider.py,spider.py,229,220,2,7,0
+Python,video_downloader/MyQR/mylibs/data.py,data.py,118,97,6,15,29
+Python,one_hour_spider/biqukan.py,biqukan.py,87,42,39,6,5
+Python,video_downloader/MyQR/mylibs/matrix.py,matrix.py,195,156,9,30,116
+Python,2020/bilibili/xml2ass.py,xml2ass.py,802,692,67,43,83
+Python,video_downloader/MyQR/mylibs/constant.py,constant.py,135,54,61,20,0
+Python,bilibili/xml2ass.py,xml2ass.py,802,692,67,43,83

@@ -1,0 +1,83 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+License,LICENSE,LICENSE,21,17,0,4,0
+gitignore,.gitignore,.gitignore,7,7,0,0,0
+Markdown,CONTRIBUTING.md,CONTRIBUTING.md,19,14,0,5,0
+Markdown,README.md,README.md,107,81,0,26,0
+YAML,_config.yml,_config.yml,1,1,0,0,0
+YAML,.travis.yml,.travis.yml,17,15,0,2,0
+Plain Text,notebooks/intermediate/data/misc_data1.txt,misc_data1.txt,20,18,0,2,0
+Jupyter,notebooks/intermediate/notebooks/idiomatic_misc2.ipynb,idiomatic_misc2.ipynb,549,549,0,0,0
+Plain Text,notebooks/intermediate/data/empty.txt,empty.txt,0,0,0,0,0
+Python,utils/post_save_hook.py,post_save_hook.py,97,66,15,16,15
+Plain Text,notebooks/intermediate/data/misc_data2.txt,misc_data2.txt,25,22,0,3,0
+Jupyter,notebooks/beginner/notebooks/debugging.ipynb,debugging.ipynb,111,111,0,0,0
+Jupyter,notebooks/intermediate/notebooks/std_lib2.ipynb,std_lib2.ipynb,348,348,0,0,0
+Jupyter,notebooks/intermediate/notebooks/pytest_fixtures.ipynb,pytest_fixtures.ipynb,380,380,0,0,0
+Jupyter,notebooks/beginner/exercises/classes_exercise.ipynb,classes_exercise.ipynb,163,163,0,0,0
+Jupyter,notebooks/intermediate/notebooks/idiomatic_loops.ipynb,idiomatic_loops.ipynb,384,384,0,0,0
+Jupyter,notebooks/intermediate/notebooks/idiomatic_misc1.ipynb,idiomatic_misc1.ipynb,614,614,0,0,0
+Jupyter,notebooks/intermediate/notebooks/best_practices.ipynb,best_practices.ipynb,538,538,0,0,0
+HTML,notebooks/beginner/html/for_loops.html,for_loops.html,12192,12084,4,104,0
+Jupyter,notebooks/intermediate/notebooks/idiomatic_dicts.ipynb,idiomatic_dicts.ipynb,340,340,0,0,0
+HTML,notebooks/beginner/html/numbers.html,numbers.html,12216,12088,4,124,0
+HTML,notebooks/beginner/html/classes.html,classes.html,12335,12191,4,140,0
+HTML,notebooks/beginner/html/strings.html,strings.html,12711,12449,4,258,0
+Jupyter,notebooks/intermediate/exercises/std_lib2_exercise.ipynb,std_lib2_exercise.ipynb,233,233,0,0,0
+Jupyter,notebooks/intermediate/exercises/idiomatic_python_exercise.ipynb,idiomatic_python_exercise.ipynb,334,334,0,0,0
+HTML,notebooks/intermediate/html/idiomatic_misc2.html,idiomatic_misc2.html,12761,12537,4,220,0
+HTML,notebooks/intermediate/html/idiomatic_misc1.html,idiomatic_misc1.html,12875,12634,4,237,0
+HTML,notebooks/beginner/html/testing2.html,testing2.html,12097,12016,4,77,0
+Jupyter,notebooks/beginner/notebooks/dictionaries.ipynb,dictionaries.ipynb,320,320,0,0,0
+HTML,notebooks/beginner/html/file_io.html,file_io.html,12053,11980,4,69,0
+Jupyter,notebooks/beginner/notebooks/strings.ipynb,strings.ipynb,386,386,0,0,0
+Jupyter,notebooks/beginner/notebooks/conditionals.ipynb,conditionals.ipynb,293,293,0,0,0
+Jupyter,notebooks/beginner/exercises/dictionaries_exercise.ipynb,dictionaries_exercise.ipynb,127,127,0,0,0
+Jupyter,notebooks/beginner/exercises/recap1_exercise.ipynb,recap1_exercise.ipynb,117,117,0,0,0
+Jupyter,notebooks/beginner/exercises/for_loops_exercise.ipynb,for_loops_exercise.ipynb,142,142,0,0,0
+Jupyter,notebooks/beginner/exercises/recap2_exercise.ipynb,recap2_exercise.ipynb,202,202,0,0,0
+Jupyter,notebooks/beginner/exercises/conditionals_exercise.ipynb,conditionals_exercise.ipynb,78,78,0,0,0
+HTML,notebooks/beginner/html/venv.html,venv.html,11874,11845,4,25,0
+Jupyter,notebooks/beginner/exercises/file_io_exercise.ipynb,file_io_exercise.ipynb,112,112,0,0,0
+Jupyter,notebooks/beginner/exercises/testing2_exercise.ipynb,testing2_exercise.ipynb,200,200,0,0,0
+Jupyter,notebooks/beginner/exercises/functions_exercise.ipynb,functions_exercise.ipynb,138,138,0,0,0
+Jupyter,notebooks/beginner/exercises/lists_exercise.ipynb,lists_exercise.ipynb,149,149,0,0,0
+Jupyter,notebooks/beginner/notebooks/numbers.ipynb,numbers.ipynb,204,204,0,0,0
+HTML,notebooks/intermediate/html/idiomatic_dicts.html,idiomatic_dicts.html,12431,12276,4,151,0
+Jupyter,notebooks/beginner/notebooks/project_structure.ipynb,project_structure.ipynb,121,121,0,0,0
+HTML,notebooks/beginner/html/lists.html,lists.html,12472,12296,4,172,0
+Jupyter,notebooks/beginner/notebooks/testing1.ipynb,testing1.ipynb,152,152,0,0,0
+Jupyter,notebooks/beginner/notebooks/for_loops.ipynb,for_loops.ipynb,173,173,0,0,0
+Jupyter,notebooks/beginner/exercises/numbers_exercise.ipynb,numbers_exercise.ipynb,92,92,0,0,0
+HTML,notebooks/intermediate/html/best_practices.html,best_practices.html,12473,12391,4,78,0
+Jupyter,notebooks/beginner/notebooks/exceptions.ipynb,exceptions.ipynb,160,160,0,0,0
+Jupyter,notebooks/beginner/notebooks/std_lib.ipynb,std_lib.ipynb,395,395,0,0,0
+HTML,notebooks/intermediate/html/std_lib2.html,std_lib2.html,12366,12215,4,147,0
+Jupyter,notebooks/beginner/notebooks/modules_and_packages.ipynb,modules_and_packages.ipynb,134,134,0,0,0
+Jupyter,notebooks/beginner/notebooks/lists.ipynb,lists.ipynb,318,318,0,0,0
+Jupyter,notebooks/beginner/notebooks/file_io.ipynb,file_io.ipynb,160,160,0,0,0
+Jupyter,notebooks/beginner/notebooks/testing2.ipynb,testing2.ipynb,201,201,0,0,0
+Jupyter,notebooks/beginner/notebooks/functions.ipynb,functions.ipynb,254,254,0,0,0
+Jupyter,notebooks/beginner/notebooks/classes.ipynb,classes.ipynb,325,325,0,0,0
+Plain Text,notebooks/beginner/notebooks/my_log.txt,my_log.txt,2,2,0,0,0
+HTML,notebooks/intermediate/html/idiomatic_loops.html,idiomatic_loops.html,12544,12379,4,161,0
+Jupyter,notebooks/beginner/notebooks/venv.ipynb,venv.ipynb,92,92,0,0,0
+Jupyter,notebooks/beginner/exercises/std_lib1_exercise.ipynb,std_lib1_exercise.ipynb,117,117,0,0,0
+Jupyter,notebooks/beginner/exercises/testing1_exercise.ipynb,testing1_exercise.ipynb,80,80,0,0,0
+Jupyter,notebooks/beginner/exercises/debugging_exercise.ipynb,debugging_exercise.ipynb,63,63,0,0,0
+Jupyter,notebooks/beginner/exercises/exceptions_exercise.ipynb,exceptions_exercise.ipynb,113,113,0,0,0
+Jupyter,notebooks/beginner/exercises/strings_exercise.ipynb,strings_exercise.ipynb,156,156,0,0,0
+HTML,notebooks/beginner/html/functions.html,functions.html,12274,12139,4,131,0
+Plain Text,notebooks/beginner/data/numbers.txt,numbers.txt,10,10,0,0,0
+Plain Text,notebooks/beginner/data/empty_file.txt,empty_file.txt,0,0,0,0,0
+Plain Text,notebooks/beginner/data/random_data.txt,random_data.txt,1,1,0,0,0
+HTML,notebooks/beginner/html/exceptions.html,exceptions.html,12025,11953,4,68,0
+HTML,notebooks/beginner/html/conditionals.html,conditionals.html,12397,12245,4,148,0
+Plain Text,notebooks/beginner/data/simple_file.txt,simple_file.txt,4,4,0,0,0
+HTML,notebooks/beginner/html/debugging.html,debugging.html,11919,11874,4,41,0
+Plain Text,notebooks/beginner/data/simple_file_with_empty_lines.txt,simple_file_with_empty_lines.txt,6,4,0,2,0
+HTML,notebooks/intermediate/html/pytest_fixtures.html,pytest_fixtures.html,12542,12364,4,174,0
+HTML,notebooks/beginner/html/dictionaries.html,dictionaries.html,12410,12259,4,147,0
+HTML,notebooks/beginner/html/testing1.html,testing1.html,12007,11949,4,54,0
+HTML,notebooks/beginner/html/std_lib.html,std_lib.html,12517,12334,4,179,0
+HTML,notebooks/beginner/html/modules_and_packages.html,modules_and_packages.html,11903,11865,4,34,0
+HTML,notebooks/beginner/html/project_structure.html,project_structure.html,11925,11875,4,46,0

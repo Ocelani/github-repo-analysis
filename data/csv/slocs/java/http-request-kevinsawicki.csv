@@ -1,0 +1,16 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,LICENSE.md,LICENSE.md,19,16,0,3,0
+gitignore,.gitignore,.gitignore,7,5,1,1,0
+XML,pom.xml,pom.xml,11,11,0,0,0
+YAML,.travis.yml,.travis.yml,7,5,0,2,0
+Markdown,README.md,README.md,280,213,0,67,0
+XML,lib/pom.xml,pom.xml,227,216,1,10,0
+JSON,lib/src/site/resources/params.json,params.json,1,1,0,0,0
+HTML,lib/src/site/resources/index.html,index.html,292,222,3,67,0
+Java,lib/src/test/java/com/github/kevinsawicki/http/ServerTestCase.java,ServerTestCase.java,214,122,63,29,8
+JavaScript,lib/src/site/resources/javascripts/main.js,main.js,1,1,0,0,0
+Java,lib/src/test/java/com/github/kevinsawicki/http/EncodeTest.java,EncodeTest.java,106,51,30,25,0
+CSS,lib/src/site/resources/stylesheets/pygment_trac.css,pygment_trac.css,70,69,0,1,0
+CSS,lib/src/site/resources/stylesheets/stylesheet.css,stylesheet.css,431,334,17,80,0
+Java,lib/src/main/java/com/github/kevinsawicki/http/HttpRequest.java,HttpRequest.java,3259,1673,1296,290,181
+Java,lib/src/test/java/com/github/kevinsawicki/http/HttpRequestTest.java,HttpRequestTest.java,3697,2548,819,330,13

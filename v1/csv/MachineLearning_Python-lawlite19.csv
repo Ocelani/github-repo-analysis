@@ -1,0 +1,25 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+License,LICENSE,LICENSE,21,17,0,4,0
+Markdown,readme.md,readme.md,1292,1151,0,141,0
+Plain Text,LinearRegression/data.txt,data.txt,47,47,0,0,0
+Python,PCA/PCA_scikit-learn.py,PCA_scikit-learn.py,103,65,20,18,5
+CSV,LinearRegression/data.csv,data.csv,47,47,0,0,0
+Python,K-Means/K-Means_scikit-learn.py,K-Means_scikit-learn.py,19,14,1,4,1
+Python,AnomalyDetection/AnomalyDetection.py,AnomalyDetection.py,107,71,19,17,6
+Python,PCA/PCA.py,PCA.py,142,89,25,28,9
+Python,LogisticRegression/LogisticRegression_OneVsAll_scikit-learn.py,LogisticRegression_OneVsAll_scikit-learn.py,28,18,2,8,1
+Python,K-Means/K-Menas.py,K-Menas.py,124,90,16,18,13
+Plain Text,SVM/data.txt,data.txt,118,118,0,0,0
+Python,SVM/SVM_scikit-learn.py,SVM_scikit-learn.py,69,51,6,12,4
+gitignore,.gitignore,.gitignore,2,2,0,0,0
+Python,LogisticRegression/LogisticRegression_scikit-learn.py,LogisticRegression_scikit-learn.py,45,25,9,11,1
+Plain Text,LogisticRegression/data1.txt,data1.txt,100,100,0,0,0
+Python,LinearRegression/LinearRegression.py,LinearRegression.py,116,72,14,30,5
+Python,LogisticRegression/LogisticRegression_OneVsAll.py,LogisticRegression_OneVsAll.py,135,79,29,27,15
+Plain Text,LogisticRegression/data2.txt,data2.txt,118,118,0,0,0
+Python,NeuralNetwok/NeuralNetwork.py,NeuralNetwork.py,266,168,61,37,21
+Python,LinearRegression/LinearRegression_scikit-learn.py,LinearRegression_scikit-learn.py,42,25,6,11,1
+Python,LogisticRegression/LogisticRegression.py,LogisticRegression.py,154,93,26,35,12
+CSV,LogisticRegression/class_y.csv,class_y.csv,600,600,0,0,0
+CSV,NeuralNetwok/predict.csv,predict.csv,5000,5000,0,0,0
+CSV,LogisticRegression/predict.csv,predict.csv,5000,5000,0,0,0

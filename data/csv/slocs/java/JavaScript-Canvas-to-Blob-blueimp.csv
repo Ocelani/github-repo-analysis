@@ -1,0 +1,18 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+gitignore,.gitignore,.gitignore,1,1,0,0,0
+YAML,docker-compose.yml,docker-compose.yml,16,16,0,0,0
+Markdown,README.md,README.md,135,101,0,34,0
+Plain Text,LICENSE.txt,LICENSE.txt,20,16,0,4,0
+YAML,.github/FUNDING.yml,FUNDING.yml,1,1,0,0,0
+JSON,package.json,package.json,68,68,0,0,0
+YAML,.github/workflows/test.yml,test.yml,34,31,0,3,0
+JSON,package-lock.json,package-lock.json,990,990,0,0,0
+JavaScript,js/canvas-to-blob.min.js,canvas-to-blob.min.js,2,1,1,0,0
+HTML,test/index.html,index.html,40,25,15,0,0
+JavaScript,js/canvas-to-blob.js,canvas-to-blob.js,143,120,20,3,30
+JavaScript,test/test.js,test.js,350,305,27,18,8
+CSS,test/vendor/mocha.css,mocha.css,325,269,10,46,0
+JavaScript,test/vendor/load-image.js,load-image.js,229,131,83,15,43
+JavaScript,test/vendor/load-image-scale.js,load-image-scale.js,327,279,38,10,70
+JavaScript,test/vendor/chai.js,chai.js,10854,3426,6405,1023,629
+JavaScript,test/vendor/mocha.js,mocha.js,18397,11858,4417,2122,2034

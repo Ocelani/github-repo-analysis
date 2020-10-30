@@ -1,0 +1,17 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+License,LICENSE,LICENSE,20,16,0,4,0
+YAML,.travis.yml,.travis.yml,37,29,0,8,0
+gitignore,.gitignore,.gitignore,8,8,0,0,0
+Markdown,README.md,README.md,115,90,0,25,0
+XML,pom.xml,pom.xml,190,171,0,19,0
+XML,.travis/settings.xml,settings.xml,25,24,1,0,0
+Shell,.travis/deploy.sh,deploy.sh,10,8,1,1,1
+Java,src/main/java/ru/lanwen/verbalregex/VerbalExpression.java,VerbalExpression.java,844,323,435,86,33
+Java,src/test/java/ru/lanwen/verbalregex/UsageLibTest.java,UsageLibTest.java,44,28,5,11,0
+Java,src/test/java/ru/lanwen/verbalregex/matchers/TestsExactMatcher.java,TestsExactMatcher.java,40,27,5,8,0
+Java,src/test/java/ru/lanwen/verbalregex/PredefinedCharClassesTest.java,PredefinedCharClassesTest.java,100,70,5,25,0
+Java,src/test/java/ru/lanwen/verbalregex/matchers/EqualToRegexMatcher.java,EqualToRegexMatcher.java,26,17,5,4,0
+Java,src/test/java/ru/lanwen/verbalregex/matchers/TestMatchMatcher.java,TestMatchMatcher.java,40,27,5,8,0
+Java,src/test/java/ru/lanwen/verbalregex/NegativeCasesTest.java,NegativeCasesTest.java,113,82,5,26,0
+Java,src/test/java/ru/lanwen/verbalregex/RealWorldUnitTest.java,RealWorldUnitTest.java,152,113,11,28,0
+Java,src/test/java/ru/lanwen/verbalregex/BasicFunctionalityUnitTest.java,BasicFunctionalityUnitTest.java,786,661,0,125,1

@@ -1,0 +1,59 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+License,LICENSE,LICENSE,22,19,0,3,0
+Makefile,Makefile,Makefile,22,16,2,4,0
+YAML,circle.yml,circle.yml,10,6,4,0,0
+gitignore,.gitignore,.gitignore,11,8,2,1,0
+Markdown,Roadmap.md,Roadmap.md,105,82,0,23,0
+Markdown,README.md,README.md,238,163,0,75,0
+Markdown,.github/ISSUE_TEMPLATE.md,ISSUE_TEMPLATE.md,21,13,0,8,0
+Markdown,.github/PULL_REQUEST_TEMPLATE.md,PULL_REQUEST_TEMPLATE.md,13,9,0,4,0
+HTML,Example Apps/ExampleApp.html,ExampleApp.html,60,55,0,5,0
+Objective C,WebViewJavascriptBridge/WKWebViewJavascriptBridge.m,WKWebViewJavascriptBridge.m,198,139,12,47,38
+HTML,Example Apps/ExampleSwiftApp-iOS/echo.html,echo.html,33,32,0,1,0
+Objective C,WebViewJavascriptBridge/WebViewJavascriptBridgeBase.m,WebViewJavascriptBridgeBase.m,221,175,9,37,32
+C Header,WebViewJavascriptBridge/WebViewJavascriptBridgeBase.h,WebViewJavascriptBridgeBase.h,46,31,6,9,0
+Objective C,WebViewJavascriptBridge/WebViewJavascriptBridge.m,WebViewJavascriptBridge.m,211,156,15,40,36
+C Header,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/WebViewJavascriptBridge/WebViewJavascriptBridge-umbrella.h,WebViewJavascriptBridge-umbrella.h,11,8,0,3,0
+HTML,Tests/WebViewJavascriptBridgeTests/echo.html,echo.html,32,31,0,1,0
+Objective C,Tests/WebViewJavascriptBridgeTestHost/AppDelegate.m,AppDelegate.m,43,19,14,10,0
+C Header,WebViewJavascriptBridge/WebViewJavascriptBridge_JS.h,WebViewJavascriptBridge_JS.h,3,2,0,1,0
+JSON,Example Apps/ExampleSwiftApp-iOS/Pods/Local Podspecs/WebViewJavascriptBridge.podspec.json,WebViewJavascriptBridge.podspec.json,35,35,0,0,0
+C Header,Example Apps/ExampleApp-OSX/AppDelegate.h,AppDelegate.h,15,4,7,4,0
+C Header,Tests/WebViewJavascriptBridgeTestHost/WebViewJavascriptBridgeTestHost-Bridging-Header.h,WebViewJavascriptBridgeTestHost-Bridging-Header.h,13,3,7,3,0
+C Header,Tests/WebViewJavascriptBridgeTestHost/AppDelegate.h,AppDelegate.h,16,4,7,5,0
+Objective C,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/WebViewJavascriptBridge/WebViewJavascriptBridge-dummy.m,WebViewJavascriptBridge-dummy.m,5,5,0,0,0
+Objective C,Tests/WebViewJavascriptBridgeTestHost/main.m,main.m,16,7,7,2,0
+Xcode Config,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/WebViewJavascriptBridge/WebViewJavascriptBridge.xcconfig,WebViewJavascriptBridge.xcconfig,9,9,0,0,0
+Objective C,Example Apps/ExampleApp-OSX/AppDelegate.m,AppDelegate.m,131,91,15,25,0
+C Header,WebViewJavascriptBridge/WebViewJavascriptBridge.h,WebViewJavascriptBridge.h,50,33,7,10,1
+Xcode Config,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests.release.xcconfig,Pods-ExampleSwiftApp-iOSTests.release.xcconfig,9,9,0,0,0
+Objective C,Example Apps/ExampleApp-OSX/main.m,main.m,14,5,7,2,0
+Objective C,Tests/WebViewJavascriptBridgeTests/BridgeTests.m,BridgeTests.m,183,155,7,21,0
+JSON,Example Apps/ExampleSwiftApp-iOS/ExampleSwiftApp-iOS/Assets.xcassets/AppIcon.appiconset/Contents.json,Contents.json,68,68,0,0,0
+Objective C,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests-dummy.m,Pods-ExampleSwiftApp-iOSTests-dummy.m,5,5,0,0,0
+C Header,Tests/WebViewJavascriptBridgeTests/WebViewJavascriptBridgeTests-Bridging-Header.h,WebViewJavascriptBridgeTests-Bridging-Header.h,4,0,3,1,0
+Objective C,WebViewJavascriptBridge/WebViewJavascriptBridge_JS.m,WebViewJavascriptBridge_JS.m,139,109,10,20,16
+C Header,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS-umbrella.h,Pods-ExampleSwiftApp-iOS-umbrella.h,8,5,0,3,0
+C Header,WebViewJavascriptBridge/WKWebViewJavascriptBridge.h,WKWebViewJavascriptBridge.h,34,20,6,8,1
+C Header,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests-umbrella.h,Pods-ExampleSwiftApp-iOSTests-umbrella.h,8,5,0,3,0
+Xcode Config,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS.release.xcconfig,Pods-ExampleSwiftApp-iOS.release.xcconfig,9,9,0,0,0
+Swift,Tests/WebViewJavascriptBridgeTests/BridgeTests.swift,BridgeTests.swift,35,15,13,7,0
+Objective C,Example Apps/ExampleApp-iOS/ExampleWKWebViewController.m,ExampleWKWebViewController.m,80,56,7,17,1
+Shell,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests-resources.sh,Pods-ExampleSwiftApp-iOSTests-resources.sh,96,86,2,8,12
+Shell,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS-resources.sh,Pods-ExampleSwiftApp-iOS-resources.sh,96,86,2,8,12
+Xcode Config,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS.debug.xcconfig,Pods-ExampleSwiftApp-iOS.debug.xcconfig,9,9,0,0,0
+Markdown,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests-acknowledgements.markdown,Pods-ExampleSwiftApp-iOSTests-acknowledgements.markdown,29,23,0,6,0
+Swift,Example Apps/ExampleSwiftApp-iOS/ExampleSwiftApp-iOS/ViewController.swift,ViewController.swift,25,9,9,7,0
+Shell,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests-frameworks.sh,Pods-ExampleSwiftApp-iOSTests-frameworks.sh,91,67,10,14,20
+Swift,Example Apps/ExampleSwiftApp-iOS/ExampleSwiftApp-iOS/AppDelegate.swift,AppDelegate.swift,47,19,15,13,0
+Xcode Config,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOSTests/Pods-ExampleSwiftApp-iOSTests.debug.xcconfig,Pods-ExampleSwiftApp-iOSTests.debug.xcconfig,9,9,0,0,0
+Objective C,Example Apps/ExampleApp-iOS/ExampleUIWebViewController.m,ExampleUIWebViewController.m,90,64,7,19,1
+Shell,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS-frameworks.sh,Pods-ExampleSwiftApp-iOS-frameworks.sh,91,67,10,14,20
+C Header,Example Apps/ExampleApp-iOS/ExampleUIWebViewController.h,ExampleUIWebViewController.h,13,3,7,3,0
+C Header,Example Apps/ExampleApp-iOS/ExampleAppDelegate.h,ExampleAppDelegate.h,5,4,0,1,0
+Markdown,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS-acknowledgements.markdown,Pods-ExampleSwiftApp-iOS-acknowledgements.markdown,29,23,0,6,0
+Objective C,Example Apps/ExampleApp-iOS/main.m,main.m,26,22,1,3,3
+Objective C,Example Apps/ExampleApp-iOS/ExampleAppDelegate.m,ExampleAppDelegate.m,30,20,3,7,1
+Objective C,Example Apps/ExampleSwiftApp-iOS/Pods/Target Support Files/Pods-ExampleSwiftApp-iOS/Pods-ExampleSwiftApp-iOS-dummy.m,Pods-ExampleSwiftApp-iOS-dummy.m,5,5,0,0,0
+C Header,Example Apps/ExampleApp-iOS/ExampleWKWebViewController.h,ExampleWKWebViewController.h,14,4,7,3,0
+Swift,Example Apps/ExampleSwiftApp-iOS/ExampleSwiftApp-iOSTests/ExampleSwiftApp_iOSTests.swift,ExampleSwiftApp_iOSTests.swift,211,182,7,22,5

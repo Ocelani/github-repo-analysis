@@ -1,0 +1,229 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+gitignore,.gitignore,.gitignore,5,5,0,0,0
+Markdown,readme.md,readme.md,15,8,0,7,0
+JSON,package.json,package.json,34,34,0,0,0
+CSS,base.css,base.css,116,93,3,20,0
+JSON,package-lock.json,package-lock.json,2849,2849,0,0,0
+Markdown,snippets/README.md,README.md,14,9,0,5,0
+JSON,snippets/htmlbase.json,htmlbase.json,18,18,0,0,0
+HTML,snippets/htmlbase.html,htmlbase.html,15,11,0,4,0
+HTML,exercises/59 - Slider/index.html,index.html,58,53,0,5,0
+JavaScript,exercises/20 - The DOM/traversing-FINISHED.js,traversing-FINISHED.js,18,7,6,5,0
+HTML,playground/running-js-FINISHED.html,running-js-FINISHED.html,15,12,0,3,0
+HTML,exercises/85 - Audio Visualizer Oscilloscope/index.html,index.html,35,28,0,7,0
+JavaScript,exercises/55 - Face Detection Censorship/pixelated-face-DEMO.js,pixelated-face-DEMO.js,77,62,8,7,0
+JavaScript,exercises/59 - Slider/src/index-prototype-FINISHED.js,index-prototype-FINISHED.js,75,57,7,11,10
+HTML,exercises/75 - CORS and Recipes/index.html,index.html,29,25,0,4,0
+HTML,exercises/83 - Security/index.html,index.html,82,63,0,19,0
+JavaScript,exercises/20 - The DOM/traversing.js,traversing.js,0,0,0,0,0
+JSON,exercises/55 - Face Detection Censorship/package.json,package.json,17,17,0,0,0
+HTML,exercises/20 - The DOM/DOM-Cardio.html,DOM-Cardio.html,15,12,0,3,0
+JavaScript,exercises/20 - The DOM/creating-with-strings-FINISHED.js,creating-with-strings-FINISHED.js,16,12,1,3,0
+JavaScript,exercises/20 - The DOM/creating.js,creating.js,0,0,0,0,0
+JavaScript,exercises/20 - The DOM/creating-FINISHED.js,creating-FINISHED.js,56,34,8,14,0
+JavaScript,exercises/55 - Face Detection Censorship/pixelated-face-FINISHED.js,pixelated-face-FINISHED.js,92,72,11,9,0
+HTML,exercises/20 - The DOM/index-FINISHED.html,index-FINISHED.html,57,47,0,10,0
+JavaScript,exercises/20 - The DOM/DOM-Cardio-FINISHED.js,DOM-Cardio-FINISHED.js,94,54,31,9,0
+HTML,playground/hoisting-FINISHED.html,hoisting-FINISHED.html,15,12,0,3,0
+HTML,playground/variables-FINISHED.html,variables-FINISHED.html,33,25,0,8,0
+JavaScript,exercises/55 - Face Detection Censorship/pixelated-face.js,pixelated-face.js,3,0,3,0,0
+HTML,playground/objects.html,objects.html,17,13,0,4,0
+HTML,exercises/55 - Face Detection Censorship/face-FINISHED.html,face-FINISHED.html,58,48,0,10,0
+HTML,playground/switch-statements-FINISHED.html,switch-statements-FINISHED.html,71,65,0,6,0
+HTML,playground/switch-statements.html,switch-statements.html,16,11,0,5,0
+HTML,exercises/55 - Face Detection Censorship/face.html,face.html,48,38,0,10,0
+HTML,exercises/33 - Etch-a-Sketch/index.html,index.html,71,59,0,12,0
+HTML,playground/functions-FINISHED.html,functions-FINISHED.html,75,71,0,4,0
+HTML,playground/running-js.html,running-js.html,14,10,0,4,0
+JavaScript,exercises/20 - The DOM/the-dom.js,the-dom.js,0,0,0,0,0
+HTML,exercises/20 - The DOM/index.html,index.html,25,21,0,4,0
+JavaScript,exercises/59 - Slider/src/index.js,index.js,0,0,0,0,0
+HTML,playground/functions.html,functions.html,16,12,0,4,0
+Sass,exercises/59 - Slider/style.scss,style.scss,49,45,0,4,0
+HTML,exercises/36 - Tabs/index.html,index.html,39,36,0,3,0
+JavaScript,exercises/33 - Etch-a-Sketch/etch-a-sketch.js,etch-a-sketch.js,0,0,0,0,0
+HTML,exercises/20 - The DOM/DOM-Cardio-FINISHED.html,DOM-Cardio-FINISHED.html,32,27,0,5,0
+JSON,exercises/59 - Slider/package.json,package.json,17,17,0,0,0
+JavaScript,exercises/85 - Audio Visualizer Oscilloscope/sound.js,sound.js,0,0,0,0,0
+JavaScript,playground/types.js,types.js,0,0,0,0,0
+JavaScript,exercises/59 - Slider/src/index-FINISHED.js,index-FINISHED.js,63,48,8,7,8
+JavaScript,exercises/83 - Security/nasty-FINISHED.js,nasty-FINISHED.js,21,17,1,3,0
+JavaScript,exercises/16 - Debugging/debugging-START.js,debugging-START.js,58,35,9,14,0
+JavaScript,exercises/75 - CORS and Recipes/scripts.js,scripts.js,0,0,0,0,0
+JavaScript,exercises/20 - The DOM/the-dom-FINISHED.js,the-dom-FINISHED.js,50,17,21,12,0
+JavaScript,exercises/75 - CORS and Recipes/scripts-FINISHED.js,scripts-FINISHED.js,45,37,3,5,0
+HTML,exercises/46 - Arrays/for-loops-START.html,for-loops-START.html,27,19,0,8,0
+JavaScript,exercises/33 - Etch-a-Sketch/etch-a-sketch-FINISHED.js,etch-a-sketch-FINISHED.js,79,62,11,6,2
+HTML,exercises/16 - Debugging/debugging.html,debugging.html,16,13,0,3,0
+HTML,exercises/46 - Arrays/array-methods-START.html,array-methods-START.html,100,74,0,26,0
+JavaScript,exercises/85 - Audio Visualizer Oscilloscope/sound-FINISHED.js,sound-FINISHED.js,86,64,13,9,2
+JavaScript,playground/types-FINISHED.js,types-FINISHED.js,88,6,76,6,0
+JavaScript,exercises/36 - Tabs/tabs-finished.js,tabs-finished.js,35,19,12,4,0
+HTML,exercises/46 - Arrays/reduce-challenge-FINISHED.html,reduce-challenge-FINISHED.html,595,526,0,69,0
+JSON,exercises/83 - Security/package.json,package.json,17,17,0,0,0
+JavaScript,exercises/83 - Security/nasty.js,nasty.js,17,13,1,3,0
+JSON,exercises/85 - Audio Visualizer Oscilloscope/package.json,package.json,17,17,0,0,0
+JavaScript,exercises/85 - Audio Visualizer Oscilloscope/utils.js,utils.js,26,23,0,3,8
+HTML,exercises/84 - Web Speech Colour Game/index.html,index.html,18,14,0,4,0
+JavaScript,exercises/84 - Web Speech Colour Game/handlers.js,handlers.js,0,0,0,0,0
+JavaScript,exercises/84 - Web Speech Colour Game/handlers-FINISHED.js,handlers-FINISHED.js,24,16,6,2,1
+JavaScript,exercises/84 - Web Speech Colour Game/speech.js,speech.js,0,0,0,0,0
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/jokes.js,jokes.js,6,4,0,2,0
+HTML,exercises/46 - Arrays/for-loops-FINISHED.html,for-loops-FINISHED.html,81,63,0,18,0
+JavaScript,exercises/84 - Web Speech Colour Game/colors-FINISHED.js,colors-FINISHED.js,166,163,0,3,0
+JSON,exercises/75 - CORS and Recipes/package.json,package.json,17,17,0,0,0
+HTML,playground/event-loop.html,event-loop.html,17,13,0,4,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/data/buttonText.js,buttonText.js,13,11,1,1,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/lib/elements.js,elements.js,4,4,0,0,0
+HTML,exercises/34 - Click Outside/click-outside-FINISHED.html,click-outside-FINISHED.html,107,93,0,14,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/lib/handlers.js,handlers.js,14,12,1,1,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/lib/index.js,index.js,14,11,3,0,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/lib/utils.js,utils.js,9,8,1,0,1
+HTML,exercises/82 - npm modules - FINISHED/index.html,index.html,15,12,0,3,0
+JavaScript,exercises/82 - npm modules - FINISHED/index.js,index.js,72,55,3,14,3
+JSON,exercises/82 - npm modules - FINISHED/package.json,package.json,25,25,0,0,0
+JavaScript,exercises/29 - Events/events.js,events.js,0,0,0,0,0
+JSON,exercises/59 - Slider/package-lock.json,package-lock.json,6249,6249,0,0,0
+HTML,exercises/75 - CORS and Recipes/index-FINISHED.html,index-FINISHED.html,44,37,0,7,0
+HTML,exercises/56 - Sarcastic Text/index.html,index.html,54,47,0,7,0
+HTML,exercises/35 - Scroll To Accept/scroll-to-accept.html,scroll-to-accept.html,99,80,10,9,0
+JSON,exercises/75 - CORS and Recipes/package-lock.json,package-lock.json,6493,6493,0,0,0
+JavaScript,exercises/35 - Scroll To Accept/scroll-to-accept-FINISHED.js,scroll-to-accept-FINISHED.js,17,14,1,2,1
+CSS,exercises/77 - Currency Converter/money.css,money.css,61,52,0,9,0
+JavaScript,exercises/35 - Scroll To Accept/scroll-to-accept.js,scroll-to-accept.js,0,0,0,0,0
+JSON,exercises/84 - Web Speech Colour Game/package.json,package.json,17,17,0,0,0
+JavaScript,exercises/56 - Sarcastic Text/text-FINISHED.js,text-FINISHED.js,53,39,9,5,5
+HTML,exercises/35 - Scroll To Accept/scroll-to-accept-FINISHED.html,scroll-to-accept-FINISHED.html,103,84,10,9,0
+JSON,exercises/55 - Face Detection Censorship/package-lock.json,package-lock.json,7770,7770,0,0,0
+JavaScript,exercises/80 - Dad Jokes Modules - FINISHED/jokes.js,jokes.js,6,4,0,2,0
+JSON,exercises/83 - Security/package-lock.json,package-lock.json,7305,7305,0,0,0
+JavaScript,exercises/73 - Async Typer/scripts.js,scripts.js,0,0,0,0,0
+JavaScript,exercises/84 - Web Speech Colour Game/colors.js,colors.js,158,157,0,1,0
+HTML,exercises/80 - Dad Jokes Modules - FINISHED/index.html,index.html,84,71,0,13,0
+CSS,exercises/84 - Web Speech Colour Game/style.css,style.css,45,39,0,6,0
+JavaScript,exercises/56 - Sarcastic Text/text.js,text.js,0,0,0,0,0
+JSON,exercises/85 - Audio Visualizer Oscilloscope/package-lock.json,package-lock.json,7300,7300,0,0,0
+JavaScript,exercises/77 - Currency Converter/money.js,money.js,34,34,0,0,0
+JavaScript,exercises/77 - Currency Converter/money-FINISHED.js,money-FINISHED.js,97,86,4,7,1
+CSS,exercises/57 - Shopping List/shopping.css,shopping.css,54,45,1,8,0
+HTML,exercises/57 - Shopping List/index.html,index.html,25,20,0,5,0
+JavaScript,exercises/57 - Shopping List/shopping.js,shopping.js,0,0,0,0,0
+JavaScript,exercises/56 - Sarcastic Text/text-DEMO.js,text-DEMO.js,54,42,6,6,5
+HTML,exercises/72 - Async Prompts/index.html,index.html,22,17,0,5,0
+JavaScript,exercises/36 - Tabs/tabs.js,tabs.js,1,1,0,0,0
+JavaScript,exercises/57 - Shopping List/shopping-FINISHED.js,shopping-FINISHED.js,95,86,5,4,2
+JavaScript,exercises/16 - Debugging/debugging-FINISHED.js,debugging-FINISHED.js,80,51,11,18,0
+JavaScript,exercises/57 - Shopping List/shopping-DEMO.js,shopping-DEMO.js,83,64,6,13,4
+JavaScript,exercises/20 - The DOM/creating-with-strings.js,creating-with-strings.js,0,0,0,0,0
+JSON,exercises/84 - Web Speech Colour Game/package-lock.json,package-lock.json,7300,7300,0,0,0
+JavaScript,exercises/84 - Web Speech Colour Game/speech-FINISHED.js,speech-FINISHED.js,37,29,3,5,2
+HTML,exercises/77 - Currency Converter/index.html,index.html,30,27,0,3,0
+HTML,exercises/73 - Async Typer/index.html,index.html,55,51,0,4,0
+HTML,exercises/46 - Arrays/reduce-challenge-START.html,reduce-challenge-START.html,20,15,0,5,0
+JavaScript,exercises/72 - Async Prompts/scripts.js,scripts.js,0,0,0,0,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/elements.js,elements.js,4,4,0,0,0
+CSS,exercises/72 - Async Prompts/style.css,style.css,34,31,0,3,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/money.js,money.js,6,3,1,2,0
+HTML,exercises/79 - Currency Converter Modules Refactor  - FINISHED/index.html,index.html,30,27,0,3,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/handlers.js,handlers.js,12,11,0,1,0
+JavaScript,exercises/72 - Async Prompts/scripts-FINISHED.js,scripts-FINISHED.js,115,79,22,14,2
+JavaScript,exercises/20 - The DOM/DOM-Cardio.js,DOM-Cardio.js,44,0,30,14,0
+HTML,exercises/29 - Events/forms-FINISHED.html,forms-FINISHED.html,32,27,0,5,0
+JavaScript,exercises/73 - Async Typer/scripts-FINISHED.js,scripts-FINISHED.js,43,22,17,4,1
+HTML,exercises/46 - Arrays/array-loopings-methods-FINISHED.html,array-loopings-methods-FINISHED.html,265,222,0,43,0
+HTML,exercises/58 - Gallery/index.html,index.html,113,71,0,42,0
+HTML,exercises/34 - Click Outside/click-outside.html,click-outside.html,44,38,0,6,0
+JavaScript,exercises/58 - Gallery/gallery-DEMO.js,gallery-DEMO.js,78,65,4,9,8
+JavaScript,exercises/58 - Gallery/gallery.js,gallery.js,0,0,0,0,0
+CSS,exercises/58 - Gallery/gallery.css,gallery.css,81,72,0,9,0
+HTML,exercises/46 - Arrays/array-loopings-methods-START.html,array-loopings-methods-START.html,135,118,0,17,0
+JavaScript,exercises/58 - Gallery/gallery-FINISHED.js,gallery-FINISHED.js,91,68,11,12,10
+JavaScript,exercises/58 - Gallery/gallery-prototype-FINISHED.js,gallery-prototype-FINISHED.js,104,78,12,14,10
+HTML,exercises/81 - Dad Jokes Bundling - FINISHED/index.html,index.html,84,71,0,13,0
+JavaScript,exercises/34 - Click Outside/click-outside.js,click-outside.js,0,0,0,0,0
+HTML,exercises/29 - Events/forms.html,forms.html,28,24,0,4,0
+HTML,exercises/46 - Arrays/array-methods-FINISHED.html,array-methods-FINISHED.html,206,170,0,36,0
+JavaScript,exercises/76 - Dad Jokes/jokes.js,jokes.js,10,10,0,0,0
+HTML,playground/new-this.html,new-this.html,15,11,0,4,0
+HTML,exercises/76 - Dad Jokes/index.html,index.html,32,27,0,5,0
+JavaScript,exercises/76 - Dad Jokes/jokes-FINISHED.js,jokes-FINISHED.js,49,42,2,5,1
+JavaScript,exercises/34 - Click Outside/click-outside-FINISHED.js,click-outside-FINISHED.js,44,36,3,5,2
+HTML,exercises/76 - Dad Jokes/index-FINISHED.html,index-FINISHED.html,84,71,0,13,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/init.js,init.js,16,11,2,3,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/lib.js,lib.js,26,21,3,2,1
+JSON,exercises/81 - Dad Jokes Bundling - FINISHED/package.json,package.json,21,21,0,0,0
+JavaScript,exercises/29 - Events/forms.js,forms.js,0,0,0,0,0
+HTML,exercises/29 - Events/events.html,events.html,15,11,0,4,0
+JavaScript,exercises/29 - Events/events-FINISHED.js,events-FINISHED.js,53,37,6,10,0
+HTML,exercises/29 - Events/events-FINISHED.html,events-FINISHED.html,32,26,0,6,0
+JavaScript,exercises/29 - Events/forms-FINISHED.js,forms-FINISHED.js,44,33,4,7,4
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/data/buttonText.js,buttonText.js,13,11,1,1,0
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/lib/handlers.js,handlers.js,14,12,1,1,0
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/lib/elements.js,elements.js,4,4,0,0,0
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/lib/utils.js,utils.js,9,8,1,0,1
+JavaScript,exercises/81 - Dad Jokes Bundling - FINISHED/lib/index.js,index.js,14,11,3,0,0
+CSS,exercises/36 - Tabs/tabs-style.css,tabs-style.css,35,30,0,5,0
+HTML,playground/variables.html,variables.html,15,11,0,4,0
+HTML,playground/promise-chain-FINISHED.html,promise-chain-FINISHED.html,133,118,0,15,0
+HTML,playground/maps.html,maps.html,17,13,0,4,0
+CSS,exercises/79 - Currency Converter Modules Refactor  - FINISHED/money.css,money.css,61,52,0,9,0
+HTML,playground/if-statements-FINISHED.html,if-statements-FINISHED.html,154,125,0,29,0
+HTML,playground/event-loop-FINISHED.html,event-loop-FINISHED.html,76,67,0,9,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/utils.js,utils.js,15,14,0,1,0
+JavaScript,playground/hoisting.js,hoisting.js,0,0,0,0,0
+JSON,exercises/82 - npm modules - FINISHED/package-lock.json,package-lock.json,7358,7358,0,0,0
+HTML,playground/bind-call-apply-FINISHED.html,bind-call-apply-FINISHED.html,71,58,0,13,0
+JavaScript,playground/scope-FINISHED.js,scope-FINISHED.js,50,16,20,14,0
+JavaScript,playground/some-FINISHED.js,some-FINISHED.js,5,4,0,1,0
+HTML,playground/arrays.html,arrays.html,17,12,0,5,0
+HTML,playground/closures.html,closures.html,15,11,0,4,0
+HTML,playground/hoisting.html,hoisting.html,15,11,0,4,0
+JavaScript,playground/node-example.js,node-example.js,1,1,0,0,0
+HTML,playground/async-await-FINISHED.html,async-await-FINISHED.html,83,67,0,16,0
+HTML,playground/apis.html,apis.html,17,13,0,4,0
+JavaScript,exercises/79 - Currency Converter Modules Refactor  - FINISHED/currencies.js,currencies.js,36,35,0,1,0
+HTML,playground/arrays-FINISHED.html,arrays-FINISHED.html,93,78,0,15,0
+HTML,playground/promises-FINISHED.html,promises-FINISHED.html,94,78,0,16,0
+HTML,playground/promises.html,promises.html,17,13,0,4,0
+HTML,playground/classes-FINISHED.html,classes-FINISHED.html,61,48,0,13,0
+HTML,playground/maps-FINISHED.html,maps-FINISHED.html,44,38,0,6,0
+HTML,playground/apis-FINISHED.html,apis-FINISHED.html,41,33,0,8,0
+HTML,playground/async-await-error-handling.html,async-await-error-handling.html,38,33,0,5,0
+HTML,playground/new-this-FINISHED.html,new-this-FINISHED.html,89,73,0,16,0
+JavaScript,playground/some.js,some.js,0,0,0,0,0
+HTML,playground/objects-FINISHED.html,objects-FINISHED.html,118,97,0,21,0
+HTML,playground/async-await.html,async-await.html,17,13,0,4,0
+HTML,playground/closures-FINISHED.html,closures-FINISHED.html,52,44,0,8,0
+HTML,playground/if-statements.html,if-statements.html,19,16,0,3,0
+JavaScript,playground/scope.js,scope.js,0,0,0,0,0
+HTML,playground/scope.html,scope.html,15,11,0,4,0
+HTML,playground/scope-FINISHED.html,scope-FINISHED.html,15,12,0,3,0
+JavaScript,playground/modules/wes.js,wes.js,0,0,0,0,0
+HTML,playground/intervals.html,intervals.html,15,11,0,4,0
+HTML,playground/types.html,types.html,15,11,0,4,0
+HTML,playground/intervals-FINISHED.html,intervals-FINISHED.html,58,46,0,12,0
+JavaScript,playground/hoisting-FINISHED.js,hoisting-FINISHED.js,17,11,3,3,0
+HTML,playground/classes.html,classes.html,15,11,0,4,0
+JavaScript,playground/modules/utils-FINISHED.js,utils-FINISHED.js,10,8,1,1,0
+HTML,playground/custom-functions/index.html,index.html,15,11,0,4,0
+HTML,playground/bedmas.html,bedmas.html,39,33,0,6,0
+JavaScript,playground/modules/utils.js,utils.js,0,0,0,0,0
+HTML,playground/types-FINISHED.html,types-FINISHED.html,16,12,0,4,0
+HTML,playground/modules/index.html,index.html,15,11,0,4,0
+JavaScript,playground/modules/handlers.js,handlers.js,0,0,0,0,0
+HTML,playground/bedmas-FINISHED.html,bedmas-FINISHED.html,45,36,0,9,0
+JavaScript,playground/modules/scripts.js,scripts.js,0,0,0,0,0
+JavaScript,playground/modules/handlers-FINISHED.js,handlers-FINISHED.js,4,4,0,0,0
+HTML,playground/async-await-error-handling-FINISHED.html,async-await-error-handling-FINISHED.html,64,53,0,11,0
+JavaScript,playground/modules/wes-FINISHED.js,wes-FINISHED.js,12,10,0,2,0
+JavaScript,playground/modules/currencies.js,currencies.js,38,36,0,2,0
+JavaScript,playground/custom-functions/ways-to-make-a-function.js,ways-to-make-a-function.js,0,0,0,0,0
+HTML,playground/modules/index-FINISHED.html,index-FINISHED.html,16,13,0,3,0
+HTML,playground/bind-call-apply.html,bind-call-apply.html,15,11,0,4,0
+JavaScript,playground/custom-functions/cf.js,cf.js,0,0,0,0,0
+HTML,playground/custom-functions/index-FINISHED.html,index-FINISHED.html,16,13,0,3,0
+JavaScript,playground/modules/scripts-FINISHED.js,scripts-FINISHED.js,7,5,0,2,0
+JavaScript,playground/custom-functions/ways-to-make-a-function-FINISHED.js,ways-to-make-a-function-FINISHED.js,78,28,34,16,0
+JavaScript,playground/custom-functions/cf-FINISHED.js,cf-FINISHED.js,31,18,7,6,0
+CSS,playground/modules/base.css,base.css,259,240,4,15,0
+JSON,exercises/81 - Dad Jokes Bundling - FINISHED/package-lock.json,package-lock.json,7300,7300,0,0,0

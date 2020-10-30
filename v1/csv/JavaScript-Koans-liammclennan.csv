@@ -1,0 +1,27 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+JSON,testem.json,testem.json,4,4,0,0,0
+gitignore,.gitignore,.gitignore,2,2,0,0,0
+HTML,jskoans.htm,jskoans.htm,40,37,1,2,0
+Plain Text,license.txt,license.txt,21,16,0,5,0
+Markdown,README.md,README.md,12,7,0,5,0
+JavaScript,topics/about_assignment.js,about_assignment.js,12,9,0,3,0
+JavaScript,topics/about_strings.js,about_strings.js,34,27,0,7,0
+JavaScript,topics/about_control_structures.js,about_control_structures.js,73,63,2,8,6
+JavaScript,topics/about_regular_expressions.js,about_regular_expressions.js,31,23,1,7,0
+JavaScript,topics/about_operators.js,about_operators.js,47,35,5,7,4
+JavaScript,topics/about_numbers.js,about_numbers.js,16,13,0,3,2
+JavaScript,topics/about_asserts.js,about_asserts.js,14,10,0,4,0
+JavaScript,topics/about_this.js,about_this.js,44,31,5,8,0
+JavaScript,topics/about_reflection.js,about_reflection.js,68,55,3,10,4
+JavaScript,topics/about_scope.js,about_scope.js,21,15,1,5,0
+JavaScript,topics/about_functions_and_closure.js,about_functions_and_closure.js,75,49,12,14,1
+JavaScript,topics/about_objects.js,about_objects.js,43,37,0,6,0
+JavaScript,topics/about_prototypal_inheritance.js,about_prototypal_inheritance.js,61,40,10,11,0
+JavaScript,topics/about_truthyness.js,about_truthyness.js,22,17,0,5,0
+JavaScript,topics/about_prototype_chain.js,about_prototype_chain.js,63,29,20,14,0
+JavaScript,topics/about_equality.js,about_equality.js,23,17,0,6,1
+JavaScript,support/koans.js,koans.js,83,72,1,10,8
+JavaScript,topics/about_arrays.js,about_arrays.js,45,36,0,9,0
+CSS,support/qunit.css,qunit.css,244,169,18,57,0
+JavaScript,support/qunit.js,qunit.js,2212,1717,267,228,284
+JavaScript,support/jquery-1.4.1.js,jquery-1.4.1.js,6111,4741,542,828,975

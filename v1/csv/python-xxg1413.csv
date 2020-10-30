@@ -1,0 +1,5 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Plain Text,Youtube.txt,Youtube.txt,2,2,0,0,0
+YAML,_config.yml,_config.yml,1,1,0,0,0
+Markdown,README.md,README.md,229,154,0,75,0
+Markdown,README_cn.md,README_cn.md,841,288,0,553,0

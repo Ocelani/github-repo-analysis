@@ -1,0 +1,1148 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+gitignore,.gitignore,.gitignore,58,35,13,10,0
+License,LICENSE,LICENSE,22,17,0,5,0
+Markdown,README.md,README.md,27,20,0,7,0
+Python,ailurus1991/0006/main.py,main.py,31,23,2,6,8
+Plain Text,neo1218/0023/web/requirements.txt,requirements.txt,18,18,0,0,0
+Python,ailurus1991/0000/main.py,main.py,21,13,4,4,0
+Python,neo1218/0023/web/config.py,config.py,47,25,7,15,4
+Python,llluiop/0012/replacefilterwords.py,replacefilterwords.py,26,16,1,9,7
+Python,llluiop/0014/student.py,student.py,31,17,1,13,5
+Python,llluiop/0001/InvitationCode.py,InvitationCode.py,28,24,1,3,1
+Python,llluiop/0023/MyDjango/MyDjango/urls.py,urls.py,34,27,7,0,0
+Plain Text,llluiop/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,llluiop/0023/MyDjango/MyDjango/wsgi.py,wsgi.py,16,4,8,4,0
+Python,llluiop/0021/password.py,password.py,23,13,2,8,3
+Python,llluiop/0009/FindLinks.py,FindLinks.py,37,31,1,5,5
+Python,llluiop/0023/MyDjango/web/__init__.py,__init__.py,0,0,0,0,0
+Python,llluiop/0023/MyDjango/web/models.py,models.py,16,10,1,5,0
+Python,llluiop/0023/MyDjango/web/tests.py,tests.py,3,1,1,1,0
+Python,llluiop/0023/MyDjango/web/admin.py,admin.py,10,5,2,3,0
+Python,llluiop/0023/MyDjango/web/views.py,views.py,48,31,1,16,2
+Plain Text,GitRangerLiu/0014/student.txt,student.txt,5,5,0,0,0
+HTML,llluiop/0023/MyDjango/templates/index.html,index.html,86,58,13,15,0
+Python,deng47/problem 0000/solution for problem 0000.py,solution for problem 0000.py,13,11,0,2,1
+C++,llluiop/0007/Code.cpp,Code.cpp,157,126,2,29,37
+Plain Text,ddkangfu/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,llluiop/0014/student.txt,student.txt,5,5,0,0,0
+Plain Text,ddkangfu/0014/student.txt,student.txt,5,5,0,0,0
+Python,ailurus1991/0010/main.py,main.py,43,23,8,12,8
+Python,llluiop/0006/MostWords.py,MostWords.py,36,24,1,11,17
+Python,llluiop/0015/city.py,city.py,30,17,1,12,3
+Python,ddkangfu/0014/0014.py,0014.py,49,42,4,3,0
+Plain Text,llluiop/0006/diary/diary1.txt,diary1.txt,3,2,0,1,0
+Plain Text,llluiop/0015/city.txt,city.txt,5,5,0,0,0
+gitignore,llluiop/.gitignore,.gitignore,32,5,13,14,0
+Plain Text,llluiop/0006/diary/diary3.txt,diary3.txt,20,17,0,3,0
+Python,llluiop/0023/MyDjango/web/migrations/__init__.py,__init__.py,0,0,0,0,0
+Python,llluiop/0010/RandomLetter.py,RandomLetter.py,38,33,1,4,0
+Markdown,houshengandt/readme.md,readme.md,28,21,0,7,0
+XML,llluiop/0017/student.xml,student.xml,0,0,0,0,0
+HTML,llluiop/0023/MyDjango/templates/board.html,board.html,63,52,0,11,0
+Python,llluiop/0017/student.py,student.py,37,20,3,14,3
+Python,llluiop/0023/MyDjango/web/migrations/0002_message.py,0002_message.py,23,17,1,5,0
+Python,llluiop/0000/addNumOnPic.py,addNumOnPic.py,25,15,1,9,1
+Python,llluiop/0016/number.py,number.py,28,15,1,12,5
+Plain Text,llluiop/0016/number.txt,number.txt,5,5,0,0,0
+Python,llluiop/0023/MyDjango/web/migrations/0001_initial.py,0001_initial.py,21,15,1,5,0
+Python,llluiop/0011/filterwords.py,filterwords.py,27,15,1,11,4
+Python,llluiop/0023/MyDjango/MyDjango/settings.py,settings.py,114,77,11,26,0
+Python,llluiop/0008/MianText.py,MianText.py,43,33,1,9,2
+Plain Text,ailurus1991/0006/diaries/3.txt,3.txt,19,19,0,0,0
+Python,llluiop/0007/CodeLine.py,CodeLine.py,28,19,1,8,4
+Plain Text,llluiop/0006/diary/diary2.txt,diary2.txt,11,9,0,2,0
+Python,llluiop/0013/pictures.py,pictures.py,43,26,1,16,8
+Plain Text,llluiop/0006/diary/diary5.txt,diary5.txt,38,33,0,5,0
+Python,ailurus1991/0001/main.py,main.py,22,18,2,2,3
+Python,llluiop/0023/MyDjango/MyDjango/__init__.py,__init__.py,0,0,0,0,0
+Plain Text,ailurus1991/0001/codes.txt,codes.txt,200,200,0,0,0
+Python,llluiop/0023/MyDjango/manage.py,manage.py,10,6,1,3,1
+Plain Text,llluiop/0006/diary/diary.txt,diary.txt,38,33,0,5,0
+Plain Text,llluiop/0006/diary/diary4.txt,diary4.txt,34,29,0,5,0
+Python,GitRangerLiu/0014/json_to_excel.py,json_to_excel.py,35,24,5,6,7
+Plain Text,llluiop/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+CSS,llluiop/0023/MyDjango/static/bootstrap/css/starter-template.css,starter-template.css,7,7,0,0,0
+Python,llluiop/0004/calcwords.py,calcwords.py,20,11,2,7,9
+Python,llluiop/0005/changeResolution.py,changeResolution.py,32,20,1,11,9
+CSS,llluiop/0023/MyDjango/static/bootstrap/css/bootstrap-theme.css,bootstrap-theme.css,442,435,6,1,0
+Python,llluiop/0020/phonecalls.py,phonecalls.py,42,22,2,18,5
+CSS,llluiop/0023/MyDjango/static/bootstrap/css/bootstrap-theme.min.css,bootstrap-theme.min.css,5,1,4,0,0
+Python,GitRangerLiu/0013/crawler.py,crawler.py,47,35,3,9,5
+Plain Text,GitRangerLiu/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,GitRangerLiu/0012/filter_word.py,filter_word.py,30,18,8,4,8
+JavaScript,llluiop/0023/MyDjango/static/bootstrap/js/bootstrap.min.js,bootstrap.min.js,6,1,5,0,3
+SVG,llluiop/0023/MyDjango/static/bootstrap/fonts/glyphicons-halflings-regular.svg,glyphicons-halflings-regular.svg,229,229,0,0,0
+Plain Text,GitRangerLiu/0015/city.txt,city.txt,5,5,0,0,0
+Python,GitRangerLiu/0015/json_to_excel.py,json_to_excel.py,36,25,5,6,7
+JavaScript,llluiop/0023/MyDjango/static/bootstrap/js/bootstrap.js,bootstrap.js,2114,1388,189,537,382
+Plain Text,GitRangerLiu/0006/test/1.txt,1.txt,3,3,0,0,0
+Plain Text,GitRangerLiu/0006/test/2.txt,2.txt,4,4,0,0,0
+Python,GitRangerLiu/0006/count_words.py,count_words.py,27,23,0,4,11
+Plain Text,GitRangerLiu/0001/result.txt,result.txt,200,200,0,0,0
+Python,GitRangerLiu/0001/gen_charint.py,gen_charint.py,21,18,1,2,4
+Python,GitRangerLiu/0000/img_addnum.py,img_addnum.py,24,12,3,9,1
+Python,GitRangerLiu/0009/find_links.py,find_links.py,33,21,6,6,5
+XML,GitRangerLiu/0019/numbers.xml,numbers.xml,4,4,0,0,0
+Python,GitRangerLiu/0007/count_line.py,count_line.py,32,30,0,2,7
+Python,GitRangerLiu/0007/test/handlerdemo.py,handlerdemo.py,12,11,1,0,1
+Python,GitRangerLiu/0019/excel_to_xml.py,excel_to_xml.py,36,28,1,7,5
+Python,GitRangerLiu/0008/find_body.py,find_body.py,30,18,6,6,1
+Python,neo1218/0023/web/wsgi.py,wsgi.py,8,3,2,3,1
+Python,neo1218/0023/web/tests/test_basics.py,test_basics.py,22,17,0,5,0
+CSS,llluiop/0023/MyDjango/static/bootstrap/css/bootstrap.min.css,bootstrap.min.css,5,1,4,0,0
+Python,neo1218/0023/web/tests/__init__.py,__init__.py,0,0,0,0,0
+Python,neo1218/0023/web/tests/test_user_model.py,test_user_model.py,35,28,0,7,1
+Python,neo1218/0023/web/app/__init__.py,__init__.py,43,28,4,11,0
+Python,GitRangerLiu/0010/gen_captcha.py,gen_captcha.py,50,41,6,3,2
+Python,neo1218/0023/web/app/models.py,models.py,40,30,3,7,0
+Python,neo1218/0023/web/app/main/__init__.py,__init__.py,5,3,0,2,0
+Python,neo1218/0023/web/manage.py,manage.py,39,22,6,11,2
+Python,neo1218/0023/web/app/main/errors.py,errors.py,12,8,0,4,0
+Python,neo1218/0023/web/app/main/forms.py,forms.py,11,6,2,3,0
+Python,neo1218/0023/web/app/main/views.py,views.py,22,16,2,4,1
+HTML,neo1218/0023/web/app/templates/index.html,index.html,25,23,0,2,0
+HTML,neo1218/0023/web/app/templates/base.html,base.html,55,49,0,6,0
+CSS,llluiop/0023/MyDjango/static/bootstrap/css/bootstrap.css,bootstrap.css,6203,6191,7,5,0
+Python,neo1218/0023/web/app/auth/__init__.py,__init__.py,5,3,0,2,0
+HTML,neo1218/0023/web/app/templates/_macros.html,_macros.html,29,29,0,0,0
+HTML,neo1218/0023/web/app/templates/_posts.html,_posts.html,18,17,0,1,0
+Python,neo1218/0023/web/app/auth/forms.py,forms.py,37,26,2,9,2
+Java,GitRangerLiu/0007/test/Test.java,Test.java,9,5,4,0,0
+Python,GitRangerLiu/0017/excel_to_xml.py,excel_to_xml.py,44,31,5,8,6
+XML,GitRangerLiu/0017/student.xml,student.xml,5,5,0,0,0
+Markdown,neo1218/0023/web/README.md,README.md,6,4,0,2,0
+HTML,neo1218/0023/web/app/templates/500.html,500.html,9,7,0,2,0
+Python,neo1218/0023/web/app/auth/views.py,views.py,42,34,2,6,6
+HTML,neo1218/0023/web/app/templates/404.html,404.html,9,7,0,2,0
+Plain Text,llluiop/0004/english.txt,english.txt,17,8,0,9,0
+Plain Text,ailurus1991/0006/diaries/2.txt,2.txt,20,20,0,0,0
+Mako,neo1218/0023/web/migrations/script.py.mako,script.py.mako,22,15,0,7,0
+Plain Text,GitRangerLiu/0016/numbers.txt,numbers.txt,5,5,0,0,0
+HTML,neo1218/0023/web/app/templates/auth/register.html,register.html,13,11,0,2,0
+Python,GitRangerLiu/0011/filter_word.py,filter_word.py,32,11,18,3,5
+Python,GitRangerLiu/0016/json_to_excel.py,json_to_excel.py,32,23,3,6,5
+Plain Text,ailurus1991/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,ailurus1991/0011/main.py,main.py,27,18,3,6,6
+Plain Text,GitRangerLiu/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+XML,GitRangerLiu/0018/city.xml,city.xml,4,4,0,0,0
+Python,GitRangerLiu/0018/excel_to_xml.py,excel_to_xml.py,37,27,3,7,3
+Plain Text,GitRangerLiu/0002/result.txt,result.txt,200,200,0,0,0
+Python,GitRangerLiu/0004/count_word.py,count_word.py,27,18,5,4,7
+Python,GitRangerLiu/0002/store_reldb.py,store_reldb.py,37,32,2,3,0
+Python,GitRangerLiu/0005/change_size.py,change_size.py,35,25,1,9,7
+Plain Text,ailurus1991/0006/diaries/1.txt,1.txt,16,15,0,1,0
+Python,neo1218/0023/web/migrations/env.py,env.py,73,52,13,8,0
+Python,ailurus1991/0005/main.py,main.py,17,10,3,4,3
+Python,ailurus1991/0004/main.py,main.py,19,12,2,5,5
+Plain Text,ddkangfu/0015/city.txt,city.txt,5,5,0,0,0
+Python,neo1218/0023/web/migrations/versions/3277cb11e991_initial_migration.py,3277cb11e991_initial_migration.py,47,29,12,6,0
+Python,ddkangfu/0015/0015.py,0015.py,47,40,4,3,0
+Python,ddkangfu/0001/0001.py,0001.py,22,15,4,3,2
+Python,ddkangfu/0013/0013.py,0013.py,56,29,5,22,8
+Plain Text,ailurus1991/0004/input.txt,input.txt,8,8,0,0,0
+Python,ddkangfu/0009/0009.py,0009.py,21,9,4,8,3
+Python,ddkangfu/0008/0008.py,0008.py,21,9,4,8,3
+Python,ddkangfu/0007/0007.py,0007.py,52,34,5,13,9
+Python,ddkangfu/0000/0000.py,0000.py,23,10,5,8,1
+Python,ddkangfu/0007/source/static.py,static.py,27,14,9,4,0
+Python,ddkangfu/0007/source/i18n.py,i18n.py,22,11,7,4,2
+Plain Text,GitRangerLiu/0004/testtext.txt,testtext.txt,4,4,0,0,0
+Python,ddkangfu/0016/0016.py,0016.py,50,22,14,14,4
+Plain Text,ddkangfu/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Python,ddkangfu/0005/0005.py,0005.py,50,30,6,14,10
+Plain Text,ddkangfu/0004/english.txt,english.txt,11,6,0,5,0
+Python,ddkangfu/0002/0002.py,0002.py,88,79,4,5,0
+Python,ddkangfu/0004/0004.py,0004.py,29,14,4,11,2
+Python,lenzzz/0013/main.py,main.py,16,11,2,3,2
+Python,ddkangfu/0003/0003.py,0003.py,61,50,4,7,4
+Python,messyidea/0001/0001.py,0001.py,19,17,1,1,1
+Plain Text,vvzwvv/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,vvzwvv/0012/0012.py,0012.py,22,19,0,3,4
+Python,vvzwvv/0001/0001.py,0001.py,14,13,0,1,2
+Python,vvzwvv/0000/0000.py,0000.py,15,13,0,2,0
+Python,vvzwvv/0010/0010.py,0010.py,42,32,2,8,8
+Python,ShaoyuanLi/0000/example.py,example.py,9,7,0,2,0
+Python,ShaoyuanLi/0000/exmaple.py,exmaple.py,9,7,0,2,0
+Plain Text,ShaoyuanLi/0001/result.txt,result.txt,200,200,0,0,0
+Plain Text,vvzwvv/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,Liez-python-code/0014/student.txt,student.txt,5,5,0,0,0
+Python,Liez-python-code/0012/0012.py,0012.py,10,9,0,1,4
+Python,ShaoyuanLi/0001/0001.py,0001.py,24,22,2,0,0
+Python,vvzwvv/0011/0011.py,0011.py,22,17,0,5,5
+Python,Liez-python-code/0013/0013.py,0013.py,19,14,1,4,2
+Python,Liez-python-code/0001/0001.py,0001.py,20,16,1,3,1
+Plain Text,Liez-python-code/0015/student.txt,student.txt,5,5,0,0,0
+Plain Text,Liez-python-code/0011/word.txt,word.txt,11,11,0,0,0
+Python,Liez-python-code/0017/0017.py,0017.py,34,22,0,12,2
+Python,Liez-python-code/0011/0011.py,0011.py,13,12,0,1,5
+Python,Liez-python-code/0000/0000.py,0000.py,12,9,0,3,0
+Python,vvzwvv/0004/0004.py,0004.py,28,19,3,6,3
+Python,Liez-python-code/0014/0014.py,0014.py,18,15,0,3,4
+Python,Liez-python-code/0010/0010.py,0010.py,35,23,1,11,6
+Python,Liez-python-code/0015/0015.py,0015.py,18,15,0,3,4
+Python,Liez-python-code/0002/0002.py,0002.py,35,32,1,2,3
+Plain Text,ShaoyuanLi/0004/example.txt,example.txt,1,1,0,0,0
+Plain Text,ShaoyuanLi/0004/result.txt,result.txt,41,41,0,0,0
+Python,Liez-python-code/0020/0020.py,0020.py,82,62,8,12,17
+Python,Liez-python-code/0004/0004.py,0004.py,20,15,1,4,5
+Python,messyidea/0000/0000.py,0000.py,10,8,1,1,0
+Python,Liez-python-code/0005/0005.py,0005.py,22,20,0,2,4
+Python,ShaoyuanLi/0004/0004.py,0004.py,19,14,4,1,5
+Python,messyidea/0002/0002.py,0002.py,40,38,1,1,3
+Plain Text,messyidea/0004/input.txt,input.txt,3,3,0,0,0
+Python,messyidea/0005/0005.py,0005.py,8,4,2,2,0
+Plain Text,lenzzz/0004/artical.txt,artical.txt,3,2,0,1,0
+Python,lenzzz/0002/main.py,main.py,32,32,0,0,0
+Python,lenzzz/0004/main.py,main.py,21,16,0,5,9
+Python,robot527/0004/statistic_words.py,statistic_words.py,35,27,4,4,7
+Python,burun/0001/coupon_code_generator.py,coupon_code_generator.py,15,8,4,3,2
+Plain Text,burun/0000/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,burun/0006/diaries/010315.txt,010315.txt,6,3,0,3,0
+Python,burun/0005/img_resizer.py,img_resizer.py,39,24,8,7,5
+Python,burun/0000/add_number_to_avatar.py,add_number_to_avatar.py,28,12,7,9,0
+Python,burun/0004/count_words.py,count_words.py,30,14,10,6,8
+Python,burun/0007/0007.py,0007.py,46,35,9,2,1
+Plain Text,burun/0005/requirements.txt,requirements.txt,1,1,0,0,0
+Python,kentsay/0001/add_num2img.py,add_num2img.py,21,13,4,4,0
+Plain Text,burun/0004/english_text.txt,english_text.txt,3,3,0,0,0
+gitignore,fybhp/.gitignore,.gitignore,7,7,0,0,0
+Python,messyidea/0003/0003.py,0003.py,31,29,1,1,1
+Markdown,Kxrr/README.md,README.md,201,131,0,70,0
+Plain Text,burun/0006/diaries/050315.txt,050315.txt,69,40,0,29,0
+Plain Text,burun/0006/diaries/040315.txt,040315.txt,20,13,0,7,0
+Python,lenzzz/0000/main.py,main.py,11,7,0,4,0
+Python,lenzzz/0001/main.py,main.py,20,19,0,1,0
+Plain Text,burun/0006/diaries/030315.txt,030315.txt,145,143,0,2,0
+Python,robot527/0012/shield_sensitive_words.py,shield_sensitive_words.py,61,31,24,6,10
+Python,burun/0006/find_keywords_in_diary.py,find_keywords_in_diary.py,38,22,10,6,13
+Python,DockerFan/0001/0001.py,0001.py,19,11,4,4,2
+Plain Text,Kxrr/0003/codeResult.txt,codeResult.txt,200,200,0,0,0
+Plain Text,burun/0006/diaries/020315.txt,020315.txt,29,15,0,14,0
+Plain Text,robot527/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Kxrr/0000/0000.py,0000.py,22,12,5,5,0
+Plain Text,burun/0006/Stop Words.txt,Stop Words.txt,1,1,0,0,0
+Python,robot527/0011/word_filter.py,word_filter.py,54,33,15,6,9
+Python,rosalesjahaziel/0001/0001.py,0001.py,12,8,1,3,2
+Plain Text,robot527/0004/example.txt,example.txt,29,23,0,6,0
+Python,robot527/0008/find_text.py,find_text.py,38,33,4,1,1
+Python,messyidea/0004/0004.py,0004.py,17,12,3,2,9
+Python,robot527/0009/find_links.py,find_links.py,24,19,4,1,1
+gitignore,jiangqideng/.gitignore,.gitignore,1,1,0,0,0
+Python,Kxrr/0004/0004.py,0004.py,22,12,5,5,6
+Python,robot527/0007/count_codes.py,count_codes.py,91,83,5,3,1
+Markdown,preytaren/README.md,README.md,3,3,0,0,0
+Python,razzl/0001/0001.py,0001.py,17,8,6,3,8
+Python,burun/0007/codes/find_keywords_in_diary.py,find_keywords_in_diary.py,38,22,10,6,13
+Plain Text,levantado/0004/word.txt,word.txt,3,2,0,1,0
+Python,jennydai2011/0000/0000-02.py,0000-02.py,19,14,1,4,1
+HTML,neo1218/0023/web/app/templates/auth/login.html,login.html,15,13,0,2,0
+Python,jennydai2011/0000/0000.py,0000.py,28,23,2,3,1
+Python,fybhp/practice1/practice1.py,practice1.py,22,16,5,1,2
+Python,fybhp/practice6/practice6.py,practice6.py,51,43,5,3,13
+Python,fybhp/practice7/practice7.py,practice7.py,32,23,5,4,8
+Python,Kxrr/0001/0001.py,0001.py,19,14,2,3,1
+Python,fybhp/practice8/practice8.py,practice8.py,7,5,2,0,2
+Python,Kxrr/0003/0003.py,0003.py,23,12,4,7,4
+Python,levantado/0004/worder.py,worder.py,20,15,0,5,6
+Python,fybhp/practice9/practice9.py,practice9.py,6,4,1,1,2
+Plain Text,fybhp/practice15/city.txt,city.txt,5,5,0,0,0
+Python,burun/0007/codes/coupon_code_generator.py,coupon_code_generator.py,15,8,4,3,2
+Python,fybhp/practice0/practice0.py,practice0.py,20,10,6,4,0
+Python,fybhp/practice15/practice15.py,practice15.py,17,15,1,1,2
+Plain Text,fybhp/practice12/filter_words.txt,filter_words.txt,11,11,0,0,0
+HTML,fybhp/practice8/AGitPro.html,AGitPro.html,878,656,0,222,0
+Python,fybhp/practice14/practice14.py,practice14.py,22,19,1,2,4
+Python,fybhp/practice13/practice13/__init__.py,__init__.py,0,0,0,0,0
+Python,fybhp/practice23/logical.py,logical.py,48,42,1,5,2
+HTML,fybhp/practice23/templates/index.html,index.html,15,13,0,2,0
+Python,fybhp/practice24/TodoList.py,TodoList.py,95,82,1,12,7
+HTML,fybhp/practice23/templates/base.html,base.html,40,33,0,7,0
+HTML,fybhp/practice23/templates/_posts.html,_posts.html,15,14,0,1,0
+Python,burun/0007/codes/add_number_to_avatar.py,add_number_to_avatar.py,28,12,7,9,0
+Python,fybhp/practice5/practice5.py,practice5.py,39,33,5,1,12
+Python,fybhp/practice2/practice2.py,practice2.py,30,25,3,2,2
+HTML,fybhp/practice24/templates/index.html,index.html,66,61,0,5,0
+HTML,fybhp/practice24/templates/_macros.html,_macros.html,29,29,0,0,0
+HTML,fybhp/practice9/AGitPro.html,AGitPro.html,878,656,0,222,0
+Plain Text,fybhp/practice11/filter_words.txt,filter_words.txt,11,11,0,0,0
+SQL,fybhp/practice2/pra2.sql,pra2.sql,7,7,0,0,0
+Python,fybhp/practice3/practice3.py,practice3.py,28,25,1,2,2
+Python,fybhp/practice11/practice11.py,practice11.py,12,9,2,1,2
+Python,fybhp/practice13/practice13/spiders/shanben.py,shanben.py,22,17,3,2,4
+Python,fybhp/practice13/practice13/spiders/__init__.py,__init__.py,4,0,4,0,0
+Python,fybhp/practice4/practice4(2).py,practice4(2).py,33,29,1,3,13
+Plain Text,fybhp/practice16/numbers.txt,numbers.txt,5,5,0,0,0
+Python,fybhp/practice16/practice16.py,practice16.py,16,13,2,1,4
+Python,fybhp/practice4/practice4.py,practice4.py,28,26,1,1,7
+Plain Text,fybhp/practice4/English.txt,English.txt,15,9,0,6,0
+Python,fybhp/practice20/practice20.py,practice20.py,0,0,0,0,0
+Jupyter,jiangqideng/python练习题及答案-（0000题-0025题）-ipython-notebook原版.ipynb,python练习题及答案-（0000题-0025题）-ipython-notebook原版.ipynb,2596,2596,0,0,0
+Plain Text,Kxrr/0004/0004.txt,0004.txt,100,62,0,38,0
+XML,fybhp/practice18/city.xml,city.xml,13,10,3,0,0
+Python,fybhp/practice19/practice19.py,practice19.py,30,28,1,1,4
+XML,fybhp/practice19/numbers.xml,numbers.xml,13,10,3,0,0
+Python,fybhp/practice21/practice21.py,practice21.py,26,21,2,3,5
+Python,fybhp/practice10/practice10.py,practice10.py,25,23,1,1,0
+Python,fybhp/practice17/practice17.py,practice17.py,37,33,3,1,5
+XML,fybhp/practice17/student.xml,student.xml,14,10,4,0,0
+Python,fybhp/practice13/practice13/pipelines.py,pipelines.py,21,13,5,3,7
+Python,razzl/0000/0000.py,0000.py,22,15,4,3,0
+Python,razzl/0005/0005.py,0005.py,22,14,4,4,3
+Python,fybhp/practice13/practice13/items.py,items.py,17,6,7,4,0
+Python,fybhp/practice13/practice13/settings.py,settings.py,87,5,66,16,0
+Python,razzl/0002/0002.py,0002.py,39,29,7,3,8
+Python,razzl/0004/0004.py,0004.py,15,10,3,2,2
+Python,asahiSky/0001/test.py,test.py,19,16,0,3,6
+Python,asahiSky/0000/test.py,test.py,12,10,0,2,1
+Python,asahiSky/0021/test.py,test.py,24,15,0,9,4
+Python,asahiSky/0021/example.py,example.py,0,0,0,0,0
+Plain Text,rahulgsalecha/0001/result.txt,result.txt,96,96,0,0,0
+Python,fybhp/practice18/practice18.py,practice18.py,27,25,1,1,2
+Python,asahiSky/0011/test.py,test.py,17,14,0,3,4
+Python,rahulgsalecha/0001/calculator.py,calculator.py,38,26,3,9,1
+Python,fybhp/practice12/practice12.py,practice12.py,12,10,2,0,4
+Plain Text,fybhp/practice6/diary/diary1.txt,diary1.txt,9,5,0,4,0
+Plain Text,asahiSky/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,chen2aaron/creat_file.py,creat_file.py,22,10,8,4,3
+Python,zeyue/0007/ComputeCodeLines.py,ComputeCodeLines.py,221,150,57,14,23
+Markdown,zeyue/0007/README.md,README.md,42,31,0,11,0
+Python,chen2aaron/0001/getCode.py,getCode.py,39,23,12,4,0
+Plain Text,chen2aaron/0001/coupon.txt,coupon.txt,200,200,0,0,0
+Markdown,DIYgod/README.md,README.md,1,1,0,0,0
+Plain Text,fybhp/practice6/diary/diary3.txt,diary3.txt,1,1,0,0,0
+Plain Text,fybhp/practice6/diary/diary2.txt,diary2.txt,6,4,0,2,0
+Python,chen2aaron/0000/img.py,img.py,45,27,9,9,1
+Python,stingroc/0001/0001.py,0001.py,28,22,0,6,5
+Python,partrita/0001/make_code.py,make_code.py,25,17,6,2,3
+Markdown,NecoSama/README.md,README.md,2,2,0,0,0
+Plain Text,fybhp/practice14/student.txt,student.txt,5,5,0,0,0
+Markdown,monkey/0013/README.md,README.md,7,6,0,1,0
+Plain Text,monkey/0014/student.txt,student.txt,5,5,0,0,0
+Python,monkey/0014/main.py,main.py,56,50,5,1,0
+Plain Text,monkey/0015/city.txt,city.txt,5,5,0,0,0
+Python,monkey/0015/main.py,main.py,54,48,5,1,0
+Python,monkey/0009/main.py,main.py,29,12,9,8,3
+Plain Text,monkey/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Python,monkey/0008/main.py,main.py,27,9,9,9,1
+Markdown,ZsnnsZ/README.md,README.md,2,2,0,0,0
+Python,monkey/0016/main.py,main.py,55,38,14,3,0
+CSS,fybhp/practice24/templates/bootstrap.min.css,bootstrap.min.css,6,1,5,0,0
+Markdown,monkey/0004/README.md,README.md,5,4,0,1,0
+Plain Text,monkey/0004/text.txt,text.txt,29,15,0,14,0
+Python,monkey/0004/main.py,main.py,33,20,5,8,10
+Python,soolx/0001/0001.py,0001.py,0,0,0,0,0
+Markdown,soolx/README.md,README.md,201,131,0,70,0
+Plain Text,partrita/0001/codes.txt,codes.txt,10,10,0,0,0
+Python,monkey/0013/main.py,main.py,34,21,4,9,3
+Python,soolx/0000/0000.py,0000.py,15,10,2,3,1
+Python,Yixuan/0001/code.py,code.py,8,7,0,1,1
+Python,PanChuan/0001/generate_coupon.py,generate_coupon.py,20,14,4,2,5
+HTML,monkey/0008/The world's leading software development platform · GitHub.html,The world's leading software development platform · GitHub.html,757,629,1,127,0
+HTML,monkey/0009/The world's leading software development platform · GitHub.html,The world's leading software development platform · GitHub.html,757,629,1,127,0
+Python,PanChuan/0000/generate_red_reminder.py,generate_red_reminder.py,33,29,3,1,1
+Markdown,Yixuan/0001/code.md,code.md,200,200,0,0,0
+Plain Text,DIYgod/0001/Activation_code.txt,Activation_code.txt,200,200,0,0,0
+Python,DIYgod/0001/random_string.py,random_string.py,15,11,2,2,4
+Python,DIYgod/0000/add_num.py,add_num.py,14,9,2,3,1
+Python,DIYgod/0006/test.py,test.py,20,14,2,4,5
+Python,DIYgod/0006/a.py,a.py,18,16,0,2,7
+Python,DIYgod/0006/important_word.py,important_word.py,43,35,4,4,16
+Plain Text,DIYgod/0002/Activation_code.txt,Activation_code.txt,200,200,0,0,0
+Python,DIYgod/0005/change_resolution.py,change_resolution.py,20,14,2,4,5
+Python,DIYgod/0007/test.py,test.py,41,34,3,4,16
+Python,DIYgod/0003/store_redis.py,store_redis.py,13,9,1,3,3
+Plain Text,DIYgod/0004/count_test.txt,count_test.txt,3,2,0,1,0
+Python,DIYgod/0004/count_word.py,count_word.py,13,9,1,3,1
+Python,DIYgod/0007/count_lines.py,count_lines.py,36,29,3,4,9
+Python,DIYgod/0007/test/test.py,test.py,41,34,3,4,16
+Python,DIYgod/0002/store_mysql.py,store_mysql.py,34,29,2,3,6
+Python,ammmerzougui/0001/test.py,test.py,11,6,4,1,0
+Markdown,illuz/readme.md,readme.md,11,5,0,6,0
+Plain Text,DIYgod/0003/Activation_code.txt,Activation_code.txt,200,200,0,0,0
+Python,DIYgod/0006/test/test.py,test.py,20,14,2,4,5
+Markdown,illuz/Python Databases Note - MySQL.md,Python Databases Note - MySQL.md,144,101,0,43,0
+Markdown,yefan/README.md,README.md,1,1,0,0,0
+Python,yefan/004/004.py,004.py,24,13,5,6,2
+Python,protream/0023/run.py,run.py,90,74,15,1,4
+Python,cijianzy/0001/code.py,code.py,11,5,4,2,2
+Python,illuz/0001/key_generator.py,key_generator.py,27,8,11,8,3
+Python,illuz/0002/create_a_table_and_put_keys.py,create_a_table_and_put_keys.py,46,18,16,12,5
+Python,illuz/0000/0000_add_number_to_image.py,0000_add_number_to_image.py,68,38,17,13,8
+Python,cijianzy/0000/test.py,test.py,17,9,7,1,0
+SQL,protream/0023/schema.sql,schema.sql,7,7,0,0,1
+Python,Yixuan/0000/main.py,main.py,26,7,8,11,0
+Markdown,BrambleXu/README.md,README.md,202,132,0,70,0
+gitignore,protream/0023/.gitignore,.gitignore,4,4,0,0,0
+Python,yefan/011/011.py,011.py,28,21,2,5,6
+HTML,protream/0023/templates/index.html,index.html,34,33,0,1,0
+Python,yefan/020/020.py,020.py,26,24,1,1,5
+CSS,protream/0023/static/style.css,style.css,31,26,0,5,0
+Python,yefan/008/008.py,008.py,19,8,5,6,1
+Python,yefan/001/001.py,001.py,43,28,14,1,0
+Python,yefan/007/007.py,007.py,40,33,3,4,3
+Python,yefan/009/009.py,009.py,20,9,6,5,3
+Python,yefan/014/14.py,14.py,41,25,11,5,5
+Python,yefan/014/014.py,014.py,17,15,1,1,4
+Plain Text,yefan/014/student.txt,student.txt,5,5,0,0,0
+Python,yefan/013/013.py,013.py,39,21,11,7,3
+Plain Text,yefan/015/city.txt,city.txt,5,5,0,0,0
+Python,yefan/015/015.py,015.py,16,14,1,1,4
+Markdown,will/README.md,README.md,199,129,0,70,0
+Python,will/0001/app_store.py,app_store.py,62,36,23,3,0
+Plain Text,lwh/14/demo.txt,demo.txt,5,5,0,0,0
+Python,lwh/14/SaveToExcel.py,SaveToExcel.py,43,39,0,4,0
+Plain Text,lwh/2/active_code.txt,active_code.txt,200,200,0,0,0
+Python,lwh/2/active_code.py,active_code.py,25,19,6,0,0
+Python,lwh/2/pymysql.py,pymysql.py,39,31,4,4,0
+Python,lwh/4/word_counter.py,word_counter.py,19,13,2,4,2
+Plain Text,lwh/4/test_doc.txt,test_doc.txt,57,29,0,28,0
+Python,lwh/21/encrpyt.py,encrpyt.py,24,18,1,5,4
+Python,lwh/1/active_code.py,active_code.py,25,19,6,0,0
+Python,WangZhou/0001/gen_act_key.py,gen_act_key.py,21,11,5,5,3
+Python,lwh/10/captcha.py,captcha.py,34,23,5,6,3
+Python,WangZhou/0000/insert_num_angle.py,insert_num_angle.py,20,12,4,4,1
+Plain Text,lwh/12/demo.txt,demo.txt,11,11,0,0,0
+Python,BrambleXu/play0/play0.py,play0.py,32,11,17,4,1
+Python,lwh/12/filter.py,filter.py,31,25,1,5,5
+Python,Drake-Z/0014/0014.py,0014.py,31,26,4,1,0
+Plain Text,Drake-Z/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Drake-Z/0012/0012.py,0012.py,31,24,2,5,4
+Python,Drake-Z/0015/0015.py,0015.py,30,25,4,1,0
+Python,Drake-Z/0013/0013.py,0013.py,45,36,2,7,4
+HTML,jiangqideng/python练习题及答案-（0000题-0025题）-html预览版.html,python练习题及答案-（0000题-0025题）-html预览版.html,16493,16227,4,262,0
+Python,Drake-Z/0006/0006.py,0006.py,38,29,3,6,7
+Python,Drake-Z/0021/0021.py,0021.py,32,23,3,6,1
+Python,Drake-Z/0001/0001.py,0001.py,24,17,2,5,5
+Python,Drake-Z/0008/0008.py,0008.py,33,25,2,6,7
+Python,Drake-Z/0000/0000.py,0000.py,24,17,2,5,1
+Python,Drake-Z/0009/0009.py,0009.py,24,16,2,6,6
+Python,Drake-Z/0022/0022.py,0022.py,23,15,3,5,2
+Python,Drake-Z/0007/0007.py,0007.py,45,38,2,5,9
+Python,Drake-Z/0019/0019.py,0019.py,47,42,4,1,0
+Python,Drake-Z/0017/0017.py,0017.py,59,54,4,1,0
+Plain Text,Drake-Z/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Drake-Z/0018/0018.py,0018.py,46,42,3,1,0
+Python,Drake-Z/0016/0016.py,0016.py,29,15,9,5,5
+Python,Drake-Z/0010/0010.py,0010.py,39,21,11,7,6
+Python,Drake-Z/0007/test.py,test.py,41,31,2,8,2
+Python,Drake-Z/0011/0011.py,0011.py,22,15,2,5,1
+Python,Drake-Z/0020/0020.py,0020.py,32,23,3,6,4
+Plain Text,lwh/17/demo.txt,demo.txt,5,5,0,0,0
+Python,Drake-Z/0005/0005.py,0005.py,24,17,2,5,3
+Python,lwh/6/import_word.py,import_word.py,17,14,0,3,4
+Plain Text,Drake-Z/0004/English.txt,English.txt,2,2,0,0,0
+Python,Drake-Z/0003/0003.py,0003.py,28,20,2,6,3
+Python,Drake-Z/0004/0004.py,0004.py,18,11,2,5,1
+Python,Drake-Z/0002/0002.py,0002.py,37,29,2,6,3
+Plain Text,Drake-Z/0006/003.txt,003.txt,4,3,0,1,0
+Python,lwh/17/xlxs_to_xml.py,xlxs_to_xml.py,53,41,3,9,7
+Python,lwh/11/filter_word.py,filter_word.py,42,36,6,0,0
+Python,lwh/7/line_counter.py,line_counter.py,58,40,12,6,9
+Plain Text,lwh/11/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,Drake-Z/0006/002.txt,002.txt,3,2,0,1,0
+Plain Text,Drake-Z/0006/001.txt,001.txt,1,1,0,0,0
+Plain Text,lwh/6/myrecord/BillGate.txt,BillGate.txt,142,73,0,69,0
+Python,lwh/23MessageBoard/run.py,run.py,4,3,0,1,1
+Plain Text,lwh/6/myrecord/SteveJob.txt,SteveJob.txt,57,29,0,28,0
+Python,lwh/0/addnum.py,addnum.py,18,10,4,4,0
+Plain Text,lwh/6/myrecord/exp.txt,exp.txt,23,16,0,7,0
+Python,BrambleXu/play6/play6.py,play6.py,2,0,2,0,0
+Python,lwh/20/callinfo.py,callinfo.py,81,76,1,4,0
+Python,lwh/23MessageBoard/app/models.py,models.py,0,0,0,0,0
+Python,BrambleXu/play1/play1.py,play1.py,14,11,2,1,4
+Plain Text,BrambleXu/play1/Running_result.txt,Running_result.txt,200,200,0,0,0
+Plain Text,BrambleXu/play3/Running_result.txt,Running_result.txt,200,200,0,0,0
+Python,BrambleXu/play3/play3.py,play3.py,30,11,14,5,3
+Python,will/0000/add_num.py,add_num.py,37,25,12,0,0
+Python,BrambleXu/play4/play4_re.py,play4_re.py,14,9,2,3,1
+Python,will/0002/into_mysql.py,into_mysql.py,44,37,5,2,0
+Jupyter,BrambleXu/play5/play5.ipynb,play5.ipynb,446,446,0,0,0
+Python,will/0003/into_redis.py,into_redis.py,24,21,1,2,0
+Python,will/0004/sum.py,sum.py,21,17,1,3,6
+Python,nan86150/0000/main.py,main.py,20,10,2,8,0
+Plain Text,agmcs/0014/student.txt,student.txt,5,5,0,0,0
+Python,agmcs/0014/0014.py,0014.py,17,13,1,3,4
+Python,agmcs/0013/0013.py,0013.py,24,19,1,4,2
+Plain Text,BrambleXu/play4/text.txt,text.txt,8,4,0,4,0
+Plain Text,BrambleXu/play2/Running_result.txt,Running_result.txt,200,200,0,0,0
+Python,agmcs/0012/0012.py,0012.py,13,10,1,2,4
+Plain Text,agmcs/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,agmcs/0015/city.txt,city.txt,5,5,0,0,0
+Python,Raynxxx/0000/ex00.py,ex00.py,38,23,2,13,2
+Python,BrambleXu/play4/play4_counter.py,play4_counter.py,37,30,7,0,0
+Python,agmcs/0015/0015.py,0015.py,14,10,0,4,2
+Python,agmcs/0001/0001.py,0001.py,6,5,0,1,2
+Python,agmcs/0006/0006.py,0006.py,16,15,0,1,7
+Jupyter,BrambleXu/play4/test.ipynb,test.ipynb,275,275,0,0,0
+Python,agmcs/0009/0009.py,0009.py,11,8,1,2,0
+Python,lwh/23MessageBoard/app/__init__.py,__init__.py,5,3,0,2,0
+Python,BrambleXu/play5/play5.py,play5.py,35,21,8,6,5
+Python,lwh/23MessageBoard/app/views.py,views.py,10,8,0,2,0
+Jupyter,BrambleXu/play4/.ipynb_checkpoints/test-checkpoint.ipynb,test-checkpoint.ipynb,361,361,0,0,0
+Python,agmcs/0007/0007.py,0007.py,37,32,0,5,10
+Python,agmcs/0000/0000.py,0000.py,14,10,0,4,0
+HTML,lwh/23MessageBoard/app/templates/index.html,index.html,15,15,0,0,0
+Plain Text,agmcs/0006/test/China sends fresh water to Maldives.txt,China sends fresh water to Maldives.txt,12,6,0,6,0
+Python,BrambleXu/play2/play2.py,play2.py,36,30,3,3,6
+Jupyter,BrambleXu/play2/test.ipynb,test.ipynb,255,255,0,0,0
+Python,BrambleXu/play2/test.py,test.py,32,13,11,8,3
+Python,agmcs/0010/0010.py,0010.py,32,26,0,6,6
+Python,agmcs/0016/0016.py,0016.py,13,10,0,3,4
+Plain Text,agmcs/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Plain Text,agmcs/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,agmcs/0011/0011.py,0011.py,16,13,1,2,5
+Jupyter,BrambleXu/play5/.ipynb_checkpoints/play5-checkpoint.ipynb,play5-checkpoint.ipynb,6,6,0,0,0
+Jupyter,BrambleXu/play2/.ipynb_checkpoints/test-checkpoint.ipynb,test-checkpoint.ipynb,6,6,0,0,0
+Plain Text,agmcs/0004/test.txt,test.txt,1,1,0,0,0
+Python,agmcs/0005/0005.py,0005.py,26,23,0,3,5
+Python,agmcs/0004/0004.py,0004.py,5,5,0,0,3
+Python,problem 0004/solution for problem 0004.py,solution for problem 0004.py,9,9,0,0,3
+Python,karnikamit/0001/try1.py,try1.py,7,2,4,1,4
+HTML,lwh/23MessageBoard/app/templates/base.html,base.html,50,40,5,5,0
+Plain Text,agmcs/0006/test/President Xi demands accelerated FTA strategy.txt,President Xi demands accelerated FTA strategy.txt,26,13,0,13,0
+Python,chris5641/0001/activation_code.py,activation_code.py,23,16,4,3,2
+HTML,lwh/23MessageBoard/app/templates/handlemessage.html,handlemessage.html,4,4,0,0,0
+Plain Text,agmcs/0006/test/China's position paper on South China Sea.txt,China's position paper on South China Sea.txt,21,11,0,10,0
+Markdown,xyjxyf/README.md,README.md,55,37,0,18,0
+Plain Text,chris5641/0001/ActivationCode.txt,ActivationCode.txt,200,200,0,0,0
+Python,chris5641/0005/ChangeResolution.py,ChangeResolution.py,22,13,4,5,5
+Python,chris5641/0000/img.py,img.py,20,11,4,5,1
+Python,chris5641/0002/code2sql.py,code2sql.py,25,17,4,4,3
+Plain Text,chris5641/0002/ActivationCode.txt,ActivationCode.txt,200,200,0,0,0
+Python,xyjxyf/show_me_the_code.py,show_me_the_code.py,622,613,3,6,4
+Python,xyjxyf/0025/voice_open_browser.py,voice_open_browser.py,78,59,8,11,4
+Markdown,Jimmy66/README.md,README.md,9,5,0,4,0
+Plain Text,Jaccorot/0014/student.txt,student.txt,5,5,0,0,0
+Python,Jaccorot/0014/0014.py,0014.py,42,24,6,12,5
+Python,Jaccorot/0022/0022.py,0022.py,40,24,5,11,8
+Plain Text,Jaccorot/0015/city.txt,city.txt,5,5,0,0,0
+Python,Jaccorot/0013/0013.py,0013.py,30,17,5,8,3
+Python,Jaccorot/0012/0012.py,0012.py,22,12,6,4,6
+Plain Text,Jaccorot/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Jaccorot/0015/0015.py,0015.py,39,23,6,10,3
+SQL,Jaccorot/0023/schema.sql,schema.sql,7,7,0,0,1
+CSS,Jaccorot/0023/static/style.css,style.css,19,18,0,1,0
+Python,Jaccorot/0023/guestbook.py,guestbook.py,75,61,0,14,11
+HTML,Jaccorot/0023/templates/layout.html,layout.html,25,25,0,0,0
+Markdown,Jaccorot/0024/0024.md,0024.md,3,2,0,1,0
+Python,Jaccorot/0001/0001.py,0001.py,22,13,5,4,1
+Plain Text,Jaccorot/0006/2.txt,2.txt,1,1,0,0,0
+HTML,Jaccorot/0023/templates/login.html,login.html,14,14,0,0,0
+Python,Jaccorot/0008/0008.py,0008.py,19,8,5,6,1
+Python,Jaccorot/0007/0007.py,0007.py,48,32,5,11,17
+Python,Jaccorot/0000/0000.py,0000.py,23,12,5,6,0
+HTML,agmcs/0009/1.html,1.html,3,1,1,1,0
+Python,Jaccorot/0006/0006.py,0006.py,37,25,6,6,12
+Plain Text,Jaccorot/0006/1.txt,1.txt,1,1,0,0,0
+XML,Jaccorot/0019/numbers.xml,numbers.xml,4,4,0,0,0
+Python,Jaccorot/0019/0019.py,0019.py,52,44,7,1,0
+Plain Text,Jaccorot/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Plain Text,Jaccorot/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Jaccorot/0009/0009.py,0009.py,22,11,7,4,3
+HTML,Jaccorot/0008/Show-Me-the-Code_show-me-the-code_1.html,Show-Me-the-Code_show-me-the-code_1.html,974,719,1,254,0
+Python,Jaccorot/0016/0016.py,0016.py,37,23,6,8,5
+Python,Jaccorot/0017/0017.py,0017.py,50,42,7,1,0
+Python,Jaccorot/0010/0010.py,0010.py,48,38,7,3,0
+XML,Jaccorot/0018/city.xml,city.xml,4,4,0,0,0
+HTML,Jaccorot/0009/Show-Me-the-Code_show-me-the-code_1.html,Show-Me-the-Code_show-me-the-code_1.html,974,719,1,254,0
+XML,Jaccorot/0017/student.xml,student.xml,4,4,0,0,0
+Python,Jaccorot/0020/0020.py,0020.py,25,13,7,5,3
+Plain Text,Jaccorot/0004/file.txt,file.txt,3,3,0,0,0
+HTML,Jaccorot/0023/templates/show_entries.html,show_entries.html,25,24,0,1,0
+Plain Text,xyjxyf/0015/city.txt,city.txt,5,5,0,0,0
+Plain Text,xyjxyf/0014/student.txt,student.txt,5,5,0,0,0
+Python,Jaccorot/0005/0005.py,0005.py,37,24,5,8,8
+Python,Jaccorot/0002/0002.py,0002.py,41,34,4,3,5
+Python,Jaccorot/0003/0003.py,0003.py,27,20,4,3,1
+Python,Jaccorot/0011/0011.py,0011.py,28,15,6,7,7
+Plain Text,xyjxyf/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Plain Text,xyjxyf/0011/0011.txt,0011.txt,11,11,0,0,0
+Plain Text,chris5641/0004/test.txt,test.txt,3,2,0,1,0
+Plain Text,chris5641/0003/ActivationCode.txt,ActivationCode.txt,200,200,0,0,0
+Python,chris5641/0004/GetWordNum.py,GetWordNum.py,19,11,4,4,3
+Markdown,rusia-rak/README.md,README.md,5,3,0,2,0
+XML,xyjxyf/0017/student.xml,student.xml,14,10,4,0,0
+XML,xyjxyf/0019/numbers.xml,numbers.xml,13,10,3,0,0
+Python,xyjxyf/0007/stringer.py,stringer.py,29,10,15,4,0
+Plain Text,xyjxyf/0006/00062.txt,00062.txt,7,4,0,3,0
+Python,xyjxyf/tools/__init__.py,__init__.py,0,0,0,0,0
+Python,xyjxyf/tools/dxbaiduaudio.py,dxbaiduaudio.py,115,111,1,3,0
+Python,xyjxyf/tools/dxhtmlparser.py,dxhtmlparser.py,23,17,1,5,6
+Python,xyjxyf/tools/test.py,test.py,6,3,1,2,0
+Python,xyjxyf/tools/colorer.py,colorer.py,24,17,1,6,5
+Plain Text,xyjxyf/0006/00061.txt,00061.txt,12,6,0,6,0
+Python,chris5641/0003/code2redis.py,code2redis.py,19,11,4,4,3
+Python,xyjxyf/tools/geturlimgs.py,geturlimgs.py,66,49,3,14,15
+Markdown,xyjxyf/tools/README.md,README.md,33,17,0,16,0
+XML,xyjxyf/0018/city.xml,city.xml,13,10,3,0,0
+Python,xyjxyf/tools/imager.py,imager.py,189,98,52,39,24
+Python,xyjxyf/tools/stringer.py,stringer.py,76,55,16,5,0
+Python,Huangyunbo1996/0001/GenerateActivationCode.py,GenerateActivationCode.py,29,27,1,1,2
+Python,Matafight/0009/getLinks.py,getLinks.py,25,19,1,5,5
+Python,Matafight/0012/ResenWord.py,ResenWord.py,45,37,1,7,14
+Python,Huangyunbo1996/0007/lines.py,lines.py,38,33,1,4,8
+Python,Matafight/0007/countCodeLines.py,countCodeLines.py,63,47,3,13,9
+Plain Text,Matafight/0006/diary1.txt,diary1.txt,1,1,0,0,0
+Plain Text,Matafight/0012/filtered_word.txt,filtered_word.txt,11,11,0,0,0
+Plain Text,Matafight/0001/gencodes.txt,gencodes.txt,200,200,0,0,0
+Python,Matafight/0007/testDir/countWord.py,countWord.py,10,8,1,1,2
+Plain Text,Matafight/0011/filtered_word.txt,filtered_word.txt,11,11,0,0,0
+Python,Matafight/0011/senWord.py,senWord.py,33,28,1,4,11
+Plain Text,xyjxyf/0004/0004.txt,0004.txt,4,2,0,2,0
+Plain Text,Matafight/0007/testDir/test.txt,test.txt,3,3,0,0,0
+Python,Matafight/0007/testDir/generate_200.py,generate_200.py,23,18,1,4,5
+Python,Matafight/0007/testDir/importantdiary.py,importantdiary.py,41,39,1,1,0
+Python,acwong00/0000/test.py,test.py,11,6,0,5,0
+Python,Matafight/0004/countWord.py,countWord.py,10,8,1,1,2
+Python,Matafight/0001/generate_200.py,generate_200.py,23,18,1,4,5
+Python,PyBeaner/__init__.py,__init__.py,1,1,0,0,0
+Plain Text,PyBeaner/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Huangyunbo1996/0002/ActivationCode_MySql.py,ActivationCode_MySql.py,42,40,1,1,2
+Python,Huangyunbo1996/0004/Word_Statistics.py,Word_Statistics.py,131,17,109,5,13
+Python,Yixiaohan/0000/avatar_add_number.py,avatar_add_number.py,38,22,8,8,1
+Python,Lyndon1994/0006.py,0006.py,36,26,6,4,13
+Python,PyBeaner/0012/filter.py,filter.py,9,6,0,3,2
+Python,PyBeaner/0001/coupon.py,coupon.py,30,23,0,7,6
+Python,PyBeaner/0008/text_in_html.py,text_in_html.py,21,15,1,5,3
+Python,PyBeaner/0002/save_to_mysql.py,save_to_mysql.py,26,21,0,5,3
+Python,PyBeaner/0009/link_in_html.py,link_in_html.py,22,16,1,5,4
+Python,Lyndon1994/0003.py,0003.py,30,24,2,4,2
+Python,Lyndon1994/0012.py,0012.py,20,12,6,2,8
+Python,PyBeaner/0007/code_lines.py,code_lines.py,43,34,1,8,11
+Plain Text,PyBeaner/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,hooting/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,hooting/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Markdown,jessun1990/README.MD,README.MD,4,2,0,2,0
+Python,hooting/0011/0011.py,0011.py,13,11,1,1,7
+Python,hooting/0012/0012.py,0012.py,12,10,1,1,7
+Python,Lyndon1994/0002.py,0002.py,32,25,2,5,2
+Python,PyBeaner/0004/wc.py,wc.py,11,8,0,3,6
+Python,PyBeaner/0011/filter.py,filter.py,9,7,0,2,2
+Python,Jaccorot/0018/0018.py,0018.py,47,41,5,1,0
+Python,Jaccorot/0004/0004.py,0004.py,18,10,5,3,1
+Python,burness/0012/filter_words_print.py,filter_words_print.py,29,19,5,5,3
+Python,pylyria/0012/0012.py,0012.py,18,14,2,2,8
+Python,pylyria/0013/0013.py,0013.py,23,18,2,3,0
+Python,Lyndon1994/0010.py,0010.py,37,20,11,6,6
+Python,Dineshkarthik/0001/activation_code.py,activation_code.py,17,11,3,3,2
+Python,Lyndon1994/0005.py,0005.py,21,14,5,2,6
+Python,Lyndon1994/0004.py,0004.py,20,13,2,5,6
+Python,pylyria/0006/0006.py,0006.py,65,59,5,1,0
+Python,Lyndon1994/0014.py,0014.py,24,19,5,0,0
+Python,Lyndon1994/0015.py,0015.py,21,16,5,0,0
+Python,Lyndon1994/0020.py,0020.py,52,35,8,9,8
+Python,pylyria/0001/0001_1.py,0001_1.py,17,13,3,1,0
+Python,pylyria/0000/0000.py,0000.py,15,10,3,2,1
+Python,Dineshkarthik/0006/0006.py,0006.py,35,29,3,3,6
+Python,Lyndon1994/0011.py,0011.py,31,12,18,1,6
+Python,burness/0013/get_photos.py,get_photos.py,53,40,4,9,9
+Python,Lyndon1994/0001.py,0001.py,20,13,4,3,2
+Python,Lyndon1994/0021.py,0021.py,23,14,4,5,5
+Python,pylyria/0009/0009.py,0009.py,43,34,2,7,19
+Python,Matafight/0006/importantdiary.py,importantdiary.py,41,39,1,1,0
+Plain Text,burness/0012/filter_word.txt,filter_word.txt,11,11,0,0,0
+Markdown,burness/README.md,README.md,167,112,0,55,0
+Python,renzongxian/0022/0022.py,0022.py,55,39,9,7,10
+Python,pylyria/0007/0007.py,0007.py,37,27,5,5,13
+Python,pylyria/0008/0008.py,0008.py,39,30,2,7,15
+Plain Text,Matafight/0006/diary3.txt,diary3.txt,2,2,0,0,0
+Python,pylyria/0001/0001_0.py,0001_0.py,21,17,3,1,0
+Plain Text,renzongxian/0014/student.txt,student.txt,5,5,0,0,0
+Python,renzongxian/0013/0013.py,0013.py,33,18,9,6,3
+Python,renzongxian/0012/0012.py,0012.py,33,14,12,7,8
+Plain Text,renzongxian/0015/city.txt,city.txt,5,5,0,0,0
+Python,renzongxian/0014/0014.py,0014.py,41,32,8,1,0
+Plain Text,Matafight/0006/diary2.txt,diary2.txt,2,2,0,0,0
+Python,Lyndon1994/0017.py,0017.py,42,36,6,0,0
+Plain Text,Dineshkarthik/0006/MyDairy/day2.txt,day2.txt,2,2,0,0,0
+Plain Text,Dineshkarthik/0006/MyDairy/day1.txt,day1.txt,9,7,0,2,0
+Plain Text,Dineshkarthik/0006/MyDairy/day3.txt,day3.txt,1,1,0,0,0
+Python,Lyndon1994/0008.py,0008.py,16,9,4,3,0
+Python,Lyndon1994/0007.py,0007.py,35,28,5,2,9
+Python,Lyndon1994/0013.py,0013.py,18,12,4,2,2
+Python,burness/0014/txt2xls.py,txt2xls.py,29,19,3,7,5
+Markdown,burness/0014/readme.md,readme.md,7,4,0,3,0
+Plain Text,burness/0014/student.txt,student.txt,5,5,0,0,0
+Python,Lyndon1994/0009.py,0009.py,16,8,6,2,2
+Python,Lyndon1994/0000.py,0000.py,17,11,2,4,1
+XML,Lyndon1994/source/0014/student.xml,student.xml,16,10,4,2,0
+Markdown,Lyndon1994/README.md,README.md,2,2,0,0,0
+Python,Lyndon1994/0023/flask-demo.py,flask-demo.py,82,58,4,20,5
+Plain Text,Lyndon1994/source/0014/student.txt,student.txt,5,5,0,0,0
+Python,Lyndon1994/0024/__init__.py,__init__.py,1,0,1,0,0
+Plain Text,Lyndon1994/source/0015/city.txt,city.txt,5,5,0,0,0
+Plain Text,Matafight/0004/test.txt,test.txt,2,2,0,0,0
+Plain Text,Lyndon1994/source/0004-text.txt,0004-text.txt,7,4,0,3,0
+Plain Text,Lyndon1994/source/0006/2.txt,2.txt,7,4,0,3,0
+HTML,burness/0014/readme.html,readme.html,1176,1014,0,162,0
+Plain Text,Lyndon1994/source/0006/3.txt,3.txt,6,4,0,2,0
+Plain Text,renzongxian/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+CSS,Lyndon1994/0023/static/style.css,style.css,18,17,0,1,0
+Markdown,renzongxian/0023/ReadMe.md,ReadMe.md,6,4,0,2,0
+Plain Text,Lyndon1994/source/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+SQL,Lyndon1994/0023/schema.sql,schema.sql,8,8,0,0,1
+Plain Text,Lyndon1994/source/0006/1.txt,1.txt,7,4,0,3,0
+Python,renzongxian/0023/mysite/manage.py,manage.py,10,6,1,3,1
+Markdown,renzongxian/0024/ReadMe.md,ReadMe.md,7,5,0,2,0
+Python,renzongxian/0023/mysite/mysite/__init__.py,__init__.py,0,0,0,0,0
+Python,renzongxian/0023/mysite/guestbook/models.py,models.py,7,5,0,2,0
+Python,renzongxian/0006/0006.py,0006.py,45,26,10,9,11
+Python,renzongxian/0023/mysite/mysite/settings.py,settings.py,84,38,21,25,0
+Python,renzongxian/0001/0001.py,0001.py,25,11,10,4,2
+Python,renzongxian/0008/0008.py,0008.py,29,13,9,7,3
+Python,Lyndon1994/0024/todo.py,todo.py,1,0,1,0,0
+HTML,Lyndon1994/0023/templates/layout.html,layout.html,17,17,0,0,0
+Python,renzongxian/0023/mysite/mysite/urls.py,urls.py,11,10,0,1,0
+Python,renzongxian/0023/mysite/mysite/wsgi.py,wsgi.py,14,4,8,2,0
+Python,renzongxian/0010/0010.py,0010.py,46,32,10,4,0
+Python,renzongxian/0009/0009.py,0009.py,23,9,9,5,1
+Python,renzongxian/0024/mysite/manage.py,manage.py,10,6,1,3,1
+Python,renzongxian/0015/0015.py,0015.py,39,30,8,1,0
+Python,renzongxian/0021/0021.py,0021.py,27,11,10,6,3
+Python,renzongxian/0023/mysite/guestbook/migrations/__init__.py,__init__.py,0,0,0,0,0
+XML,renzongxian/0017/student.xml,student.xml,7,6,1,0,0
+HTML,renzongxian/0023/mysite/guestbook/templates/index.html,index.html,74,69,0,5,0
+Python,renzongxian/0017/0017.py,0017.py,66,56,9,1,0
+Python,renzongxian/0016/0016.py,0016.py,39,14,17,8,5
+Plain Text,renzongxian/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Plain Text,renzongxian/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,renzongxian/0024/mysite/mysite/__init__.py,__init__.py,0,0,0,0,0
+Python,renzongxian/0002/0002.py,0002.py,57,43,10,4,2
+Python,renzongxian/0011/0011.py,0011.py,49,19,23,7,9
+Python,renzongxian/0024/mysite/mysite/settings.py,settings.py,84,38,21,25,0
+Python,renzongxian/0005/0005.py,0005.py,41,25,9,7,8
+Python,pylyria/0010/0010.py,0010.py,75,72,2,1,0
+Python,renzongxian/0023/mysite/guestbook/__init__.py,__init__.py,0,0,0,0,0
+Python,renzongxian/0000/0000.py,0000.py,35,20,9,6,4
+Python,renzongxian/0024/mysite/todolist/models.py,models.py,7,4,1,2,0
+Python,renzongxian/0007/0007.py,0007.py,50,31,11,8,9
+Python,renzongxian/0003/0003.py,0003.py,33,19,10,4,2
+HTML,Lyndon1994/0023/templates/index.html,index.html,26,24,0,2,0
+Python,pylyria/0011/0011.py,0011.py,17,13,2,2,7
+Python,renzongxian/0024/mysite/mysite/urls.py,urls.py,12,11,0,1,0
+Python,renzongxian/0024/mysite/mysite/wsgi.py,wsgi.py,14,4,8,2,0
+Python,renzongxian/0024/mysite/todolist/__init__.py,__init__.py,0,0,0,0,0
+Python,renzongxian/0004/0004.py,0004.py,36,19,9,8,6
+Python,renzongxian/0024/mysite/todolist/admin.py,admin.py,5,3,0,2,0
+Python,pylyria/0005/0005.py,0005.py,33,26,3,4,11
+Python,pylyria/0004/0004.py,0004.py,29,21,6,2,0
+Python,renzongxian/0023/mysite/guestbook/admin.py,admin.py,5,3,0,2,0
+Python,renzongxian/0023/mysite/guestbook/tests.py,tests.py,3,1,1,1,0
+Python,renzongxian/0023/mysite/guestbook/urls.py,urls.py,7,5,0,2,0
+Plain Text,burness/0015/city.txt,city.txt,5,5,0,0,0
+Python,renzongxian/0023/mysite/guestbook/views.py,views.py,12,10,0,2,1
+Python,burness/0015/txt2xls2.py,txt2xls2.py,29,19,4,6,3
+Plain Text,burness/0006/01.txt,01.txt,7,7,0,0,0
+Plain Text,burness/0006/02.txt,02.txt,9,9,0,0,0
+Python,burness/0001/generate_200_keys.py,generate_200_keys.py,42,16,18,8,2
+Plain Text,burness/0006/03.txt,03.txt,8,8,0,0,0
+Plain Text,burness/0006/04.txt,04.txt,8,8,0,0,0
+Plain Text,burness/0006/05.txt,05.txt,7,7,0,0,0
+Plain Text,burness/0001/keys.txt,keys.txt,200,200,0,0,0
+Python,burness/0009/html_extract_links.py,html_extract_links.py,32,21,7,4,6
+Python,burness/0006/extract_key_word_Shlomi_Babluki.py,extract_key_word_Shlomi_Babluki.py,119,90,16,13,9
+Python,burness/0008/html_extract_text.py,html_extract_text.py,58,45,5,8,3
+Markdown,burness/0006/Readme.md,Readme.md,10,6,0,4,0
+Markdown,burness/0009/readme.md,readme.md,23,18,0,5,0
+Python,Dineshkarthik/0003/0003.py,0003.py,17,10,3,4,3
+Plain Text,Dineshkarthik/0004/input.txt,input.txt,9,7,0,2,0
+Python,Dineshkarthik/0009/0009.py,0009.py,17,9,3,5,2
+Python,burness/0000/test.py,test.py,28,21,0,7,0
+Plain Text,burness/0008/result.txt,result.txt,328,166,0,162,0
+Python,Dineshkarthik/0008/0008.py,0008.py,15,7,3,5,0
+Python,burness/0004/word_stat.py,word_stat.py,11,8,2,1,4
+C,burness/0007/1.c,1.c,11,2,5,4,0
+Python,jhgdike/0004/solution.py,solution.py,14,9,1,4,1
+Markdown,burness/0003/Readme.md,Readme.md,1,1,0,0,0
+XML,burness/0018/citys.xml,citys.xml,1,1,0,0,0
+Python,crazyacking/0001/0001.py,0001.py,7,3,3,1,2
+Plain Text,burness/0004/test.txt,test.txt,4,4,0,0,0
+Python,burness/0005/change_DPI.py,change_DPI.py,48,40,2,6,9
+Python,burness/0011/filter_word.py,filter_word.py,30,15,10,5,5
+Python,MarzinZ/0000/add_num.py,add_num.py,18,13,1,4,1
+Python,burness/0019/xls2xml3.py,xls2xml3.py,28,19,2,7,3
+Python,burness/0002/save_to_mysql.py,save_to_mysql.py,62,50,3,9,3
+Python,Mr.Lin/0000/0000.py,0000.py,33,21,7,5,0
+Python,burness/0007/Program_lines_stat.py,Program_lines_stat.py,71,49,15,7,15
+Python,Forec/0001/0001.py,0001.py,18,16,1,1,1
+Python,Mr.Lin/0001/0001.py,0001.py,26,14,7,5,1
+Python,Rudy1224/0013/0013.py,0013.py,18,16,0,2,2
+Python,Forec/0012/0012.py,0012.py,14,13,1,0,8
+Plain Text,jhgdike/0004/test.txt,test.txt,1,1,0,0,0
+Python,Forec/0013/0013.py,0013.py,32,29,1,2,5
+Plain Text,Forec/0014/student.txt,student.txt,5,5,0,0,0
+Plain Text,Forec/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Forec/0014/0014.py,0014.py,16,14,1,1,4
+Python,Forec/0006/0006.py,0006.py,27,24,1,2,11
+Plain Text,Forec/0015/city.txt,city.txt,5,5,0,0,0
+Python,Mr.Lin/0006/0006.py,0006.py,31,18,6,7,6
+Python,A1014280203/25/25.py,25.py,95,91,1,3,2
+Python,burness/0007/01.py,01.py,7,1,3,3,0
+Python,renzongxian/0024/mysite/todolist/tests.py,tests.py,3,1,1,1,0
+Python,renzongxian/0024/mysite/todolist/urls.py,urls.py,7,5,0,2,0
+Python,burness/0016/txt2xls3.py,txt2xls3.py,24,19,2,3,5
+XML,burness/0019/numbers.xml,numbers.xml,1,1,0,0,0
+Python,renzongxian/0024/mysite/todolist/migrations/__init__.py,__init__.py,0,0,0,0,0
+Plain Text,burness/0011/filter_word.txt,filter_word.txt,11,11,0,0,0
+Python,renzongxian/0024/mysite/todolist/views.py,views.py,18,15,0,3,5
+Plain Text,burness/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Python,burness/0010/image_verification.py,image_verification.py,73,60,8,5,0
+Python,burness/0018/xls2xml2.py,xls2xml2.py,31,21,2,8,3
+HTML,renzongxian/0024/mysite/todolist/templates/index.html,index.html,78,74,0,4,0
+Python,Forec/0015/0015.py,0015.py,16,14,1,1,4
+Plain Text,Forec/0006/3.txt,3.txt,1,1,0,0,0
+Plain Text,Forec/0006/2.txt,2.txt,1,1,0,0,0
+Plain Text,Forec/0006/1.txt,1.txt,1,1,0,0,0
+Plain Text,Mr.Lin/0006/test.txt,test.txt,26,19,0,7,0
+Python,A1014280203/13/13.py,13.py,46,34,2,10,5
+Python,A1014280203/14/14.py,14.py,29,24,0,5,6
+Python,A1014280203/5/5.py,5.py,30,21,1,8,7
+Plain Text,A1014280203/14/student.txt,student.txt,5,5,0,0,0
+Python,Dineshkarthik/0004/0004.py,0004.py,27,17,5,5,7
+Python,A1014280203/3/3.py,3.py,23,21,0,2,0
+Plain Text,A1014280203/15/city.txt,city.txt,5,5,0,0,0
+Python,A1014280203/2/2.py,2.py,48,47,0,1,0
+Plain Text,A1014280203/4/subtitle.txt,subtitle.txt,62,62,0,0,0
+XML,burness/0017/students.xml,students.xml,2,2,0,0,0
+Plain Text,A1014280203/12/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,A1014280203/4/4.py,4.py,57,49,1,7,11
+Python,burness/0017/xls2xml.py,xls2xml.py,31,21,2,8,3
+Markdown,burness/0017/readme.md,readme.md,22,19,0,3,0
+Python,burness/0006/extract_key_word_me.py,extract_key_word_me.py,21,19,0,2,1
+Plain Text,burness/0002/keys_text.txt,keys_text.txt,200,200,0,0,0
+Plain Text,A1014280203/12/exercise.txt,exercise.txt,1,1,0,0,0
+Python,A1014280203/8/8.py,8.py,1,0,1,0,0
+Python,A1014280203/21/21.py,21.py,19,14,0,5,0
+Python,A1014280203/23/23.py,23.py,68,60,0,8,0
+Plain Text,A1014280203/3/coupon.txt,coupon.txt,400,400,0,0,0
+Python,A1014280203/12/12.py,12.py,34,33,0,1,0
+Plain Text,A1014280203/2/coupon.txt,coupon.txt,200,200,0,0,0
+Python,A1014280203/24/24.py,24.py,63,55,0,8,0
+Python,A1014280203/10/10.py,10.py,33,24,0,9,7
+Markdown,burness/0005/Readme.md,Readme.md,4,2,0,2,0
+Plain Text,A1014280203/1/coupon.txt,coupon.txt,400,400,0,0,0
+Python,A1014280203/15/15.py,15.py,28,24,0,4,6
+XML,A1014280203/17/students.xml,students.xml,7,6,1,0,0
+HTML,A1014280203/23/templates/index.html,index.html,38,37,0,1,0
+HTML,A1014280203/24/templates/index.html,index.html,38,37,0,1,0
+Plain Text,A1014280203/6/subtitle.txt,subtitle.txt,62,62,0,0,0
+Python,A1014280203/6/6.py,6.py,85,73,4,8,15
+Python,A1014280203/17/17.py,17.py,30,22,3,5,2
+Plain Text,A1014280203/16/numbers.txt,numbers.txt,5,5,0,0,0
+Python,A1014280203/9/9.py,9.py,14,13,0,1,3
+Python,A1014280203/0/0.py,0.py,8,7,0,1,0
+Python,A1014280203/11/11.py,11.py,30,29,0,1,0
+Python,A1014280203/7/7.py,7.py,51,43,0,8,11
+Python,Forec/0008/0008.py,0008.py,14,9,2,3,0
+CSS,A1014280203/23/static/main.css,main.css,5,1,4,0,0
+Python,Forec/0007/0007.py,0007.py,60,56,2,2,16
+Python,Forec/0002/0002.py,0002.py,46,41,2,3,5
+Plain Text,A1014280203/11/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Forec/0010/0010.py,0010.py,73,69,2,2,0
+Python,Forec/0009/0009.py,0009.py,15,10,2,3,2
+Plain Text,Forec/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Forec/0000/0000.py,0000.py,15,13,0,2,0
+Python,Forec/0011/0011.py,0011.py,15,13,1,1,5
+Python,Forec/0005/0005.py,0005.py,12,10,0,2,6
+CSS,A1014280203/24/static/main.css,main.css,5,1,4,0,0
+Plain Text,Forec/0004/input.txt,input.txt,1,1,0,0,0
+Python,Forec/0004/0004.py,0004.py,19,16,0,3,9
+Python,Mr.Lin/0002/0002.py,0002.py,43,33,7,3,1
+Python,Mr.Lin/0007/0007.py,0007.py,39,14,19,6,1
+Plain Text,Mr.Lin/0004/test.txt,test.txt,26,19,0,7,0
+Python,Mr.Lin/0007/0000.py,0000.py,33,21,7,5,0
+Python,Mr.Lin/0005/0005.py,0005.py,21,8,8,5,3
+Python,crazyacking/0002/0002.py,0002.py,88,79,4,5,0
+Python,Rudy1224/0012/filter.py,filter.py,16,13,0,3,4
+Plain Text,Rudy1224/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,crazyacking/0003/store_redis.py,store_redis.py,13,9,1,3,3
+Python,Rudy1224/0011/inspector.py,inspector.py,21,18,0,3,5
+Python,crazyacking/0000/add_num.py,add_num.py,33,21,7,5,0
+Plain Text,Rudy1224/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Markdown,woniuzhang/0007/readme.md,readme.md,8,7,0,1,0
+Python,crazyacking/0005/changeResolution.py,changeResolution.py,15,7,5,3,2
+Plain Text,crazyacking/0003/Activation_code.txt,Activation_code.txt,200,200,0,0,0
+Python,woniuzhang/0007/0007.py,0007.py,35,30,3,2,5
+Python,woniuzhang/0001/0001.py,0001.py,21,19,0,2,0
+Python,doubi_sdust/0002.py,0002.py,1,0,1,0,0
+Python,doubi_sdust/0006.py,0006.py,24,18,4,2,11
+Python,doubi_sdust/0003.py,0003.py,0,0,0,0,0
+Python,doubi_sdust/0009.py,0009.py,1,0,1,0,0
+Python,doubi_sdust/0007.py,0007.py,39,35,3,1,14
+Python,doubi_sdust/0008.py,0008.py,19,10,7,2,2
+Python,doubi_sdust/0000.py,0000.py,20,12,7,1,0
+Python,doubi_sdust/0010.py,0010.py,37,21,14,2,6
+Plain Text,friday/0001/readme.txt,readme.txt,1,1,0,0,0
+Python,friday/0001/0001.py,0001.py,16,15,0,1,2
+Plain Text,friday/0000/readme.txt,readme.txt,2,1,0,1,0
+Python,friday/0000/0000.py,0000.py,13,10,0,3,1
+Python,Mr.Lin/0004/0004.py,0004.py,25,14,8,3,3
+Python,Lupino/0013/crawl.py,crawl.py,27,16,0,11,4
+Python,Lupino/0000/image.py,image.py,31,20,3,8,0
+Python,horx/0002/run.py,run.py,6,4,1,1,2
+Python,horx/0009/run.py,run.py,10,6,1,3,2
+Python,mio4kon/0010/0010.py,0010.py,35,21,3,11,6
+Python,A1014280203/1/1.py,1.py,41,25,2,14,5
+Python,mio4kon/0000/0000.py,0000.py,28,23,0,5,1
+Python,bbos1994/0001/discount.py,discount.py,25,19,2,4,4
+Python,bbos1994/0004/countWord.py,countWord.py,31,22,5,4,10
+Python,bbos1994/0002/saveDiscountToDB.py,saveDiscountToDB.py,23,16,2,5,5
+Python,A1014280203/16/16.py,16.py,15,13,0,2,4
+Python,evan69/0004/0004.py,0004.py,18,18,0,0,2
+Python,evan69/0000/0000.py,0000.py,23,21,1,1,1
+Python,NKUCodingCat/0001/0001.py,0001.py,14,13,1,0,6
+Python,NKUCodingCat/0013/0013.py,0013.py,10,10,0,0,0
+Python,NKUCodingCat/0008/0008.py,0008.py,23,20,3,0,0
+Python,NKUCodingCat/0009/0009.py,0009.py,5,5,0,0,0
+Plain Text,NKUCodingCat/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,NKUCodingCat/0001/code.txt,code.txt,200,200,0,0,0
+Python,NKUCodingCat/0015/0015.py,0015.py,12,11,1,0,2
+Python,doubi_sdust/0004.py,0004.py,14,8,4,2,2
+Plain Text,NKUCodingCat/0006/list.txt,list.txt,887,887,0,0,0
+Python,doubi_sdust/0005.py,0005.py,15,11,3,1,3
+Python,doubi_sdust/0001.py,0001.py,35,30,5,0,2
+Python,patchlion/0000/DrawHeadImage.py,DrawHeadImage.py,28,17,1,10,1
+Python,NKUCodingCat/0007/0007.py,0007.py,46,42,1,3,18
+Python,NKUCodingCat/0023/makeweb.py,makeweb.py,34,33,0,1,0
+Python,NKUCodingCat/0023/main.py,main.py,60,59,1,0,0
+Python,NKUCodingCat/0000/img.py,img.py,13,12,1,0,0
+Plain Text,sandeepbvv11/0001/IDs.txt,IDs.txt,200,200,0,0,0
+Python,bbos1994/0002/discount.py,discount.py,25,19,2,4,4
+Python,NKUCodingCat/0021/encry.py,encry.py,15,14,1,0,2
+XML,NKUCodingCat/0019/numbers.xml,numbers.xml,4,4,0,0,0
+CSS,NKUCodingCat/0023/static/css.css,css.css,35,34,0,1,0
+Plain Text,NKUCodingCat/0015/city.txt,city.txt,5,5,0,0,0
+Plain Text,NKUCodingCat/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,NKUCodingCat/0010/0010.py,0010.py,19,18,1,0,12
+XML,NKUCodingCat/0017/student.xml,student.xml,4,4,0,0,0
+Plain Text,NKUCodingCat/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Python,NKUCodingCat/0017/0017.py,0017.py,18,17,1,0,2
+Plain Text,evan69/0004/in.txt,in.txt,32,21,0,11,0
+Python,NKUCodingCat/0016/0016.py,0016.py,10,9,1,0,4
+Python,NKUCodingCat/0011/0011.py,0011.py,27,27,0,0,2
+Python,NKUCodingCat/0022/0005-yes_I_can.py,0005-yes_I_can.py,22,20,1,1,3
+Python,wssywh/0001/0001.py,0001.py,19,11,3,5,2
+Python,sandeepbvv11/0001/0001.py,0001.py,13,13,0,0,2
+Python,NKUCodingCat/0020/0020.py,0020.py,12,11,1,0,2
+XML,NKUCodingCat/0018/city.xml,city.xml,4,4,0,0,0
+Python,LiamHuang/0001/solution.py,solution.py,50,28,17,5,1
+Plain Text,wssywh/0001/file_id.txt,file_id.txt,200,200,0,0,0
+Python,NKUCodingCat/0002/0002.py,0002.py,18,17,1,0,0
+Python,NKUCodingCat/0005/0005.py,0005.py,20,18,1,1,3
+Plain Text,NKUCodingCat/0014/student.txt,student.txt,5,5,0,0,0
+Python,NKUCodingCat/0004/0004.py,0004.py,19,17,2,0,4
+Python,evan69/0001/0001.py,0001.py,20,16,2,2,2
+Python,NKUCodingCat/0014/0014.py,0014.py,14,13,1,0,4
+Python,NKUCodingCat/0003/0003.py,0003.py,12,10,2,0,3
+Python,patchlion/0001/CreateSN.py,CreateSN.py,25,16,1,8,5
+Python,NKUCodingCat/0006/0006.py,0006.py,36,34,2,0,0
+Python,patchlion/0010/CreateIdentifyingCode.py,CreateIdentifyingCode.py,33,21,3,9,6
+Plain Text,NKUCodingCat/0003/code.txt,code.txt,200,200,0,0,0
+Plain Text,patchlion/0004/PrivacyPolicy.txt,PrivacyPolicy.txt,37,22,0,15,0
+Python,patchlion/0002/SaveSNsToMySQL.py,SaveSNsToMySQL.py,35,24,1,10,5
+Plain Text,NKUCodingCat/0002/code.txt,code.txt,200,200,0,0,0
+Python,wssywh/0002/0002.py,0002.py,24,20,2,2,6
+Python,wssywh/0000/0000.py,0000.py,18,12,2,4,1
+Plain Text,NKUCodingCat/0006/src/input.txt,input.txt,2907,1413,0,1494,0
+Python,LiamHuang/0000/solution.py,solution.py,27,11,10,6,0
+Python,evan69/0007/0007.py,0007.py,37,30,3,4,11
+Python,NKUCodingCat/0018/0018.py,0018.py,18,17,1,0,2
+Markdown,Tachone/README.md,README.md,8,5,0,3,0
+Python,NKUCodingCat/0019/0019.py,0019.py,18,17,1,0,2
+Plain Text,natezhang93/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Plain Text,bbos1994/0004/word.txt,word.txt,2,2,0,0,0
+Plain Text,patchlion/0001/sns.txt,sns.txt,200,200,0,0,0
+Python,NKUCodingCat/0012/0012.py,0012.py,19,19,0,0,2
+Python,Silocean/0014/Test.py,Test.py,21,14,0,7,4
+Python,Silocean/0012/Test.py,Test.py,20,15,0,5,5
+Plain Text,Silocean/0014/Student.txt,Student.txt,5,5,0,0,0
+Plain Text,Silocean/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,Silocean/0013/Test.py,Test.py,21,16,0,5,2
+Python,natezhang93/0012/censor.py,censor.py,44,35,6,3,0
+Plain Text,Silocean/0015/city.txt,city.txt,5,5,0,0,0
+Python,Silocean/0015/Test.py,Test.py,15,11,0,4,2
+Python,Silocean/0009/Test.py,Test.py,21,15,3,3,6
+Python,Silocean/0006/Test.py,Test.py,27,24,1,2,0
+Python,Silocean/0008/Test.py,Test.py,11,6,1,4,0
+Python,Silocean/0000/Test.py,Test.py,18,8,6,4,0
+Plain Text,Silocean/0001/keys.txt,keys.txt,200,200,0,0,0
+Plain Text,NKUCodingCat/0004/input.txt,input.txt,2907,1413,0,1494,0
+Plain Text,Silocean/0006/diaries/day01.txt,day01.txt,4,3,0,1,0
+Python,Silocean/0007/Test.py,Test.py,39,30,2,7,7
+Python,Silocean/0005/Test.py,Test.py,19,16,1,2,4
+Plain Text,Silocean/0004/text.txt,text.txt,1,1,0,0,0
+Python,Silocean/0011/Test.py,Test.py,22,17,0,5,6
+Python,Silocean/0018/Test.py,Test.py,24,16,1,7,2
+Python,natezhang93/0011/censor.py,censor.py,41,29,6,6,2
+Python,Silocean/0003/Test.py,Test.py,10,7,1,2,4
+Python,Silocean/0004/Test.py,Test.py,12,8,0,4,2
+Plain Text,lulujianjie/0004/test.txt,test.txt,13,12,0,1,0
+Python,lulujianjie/0001/0001.py,0001.py,8,7,0,1,4
+Markdown,sarikasama/README.md,README.md,2,2,0,0,0
+Python,lulujianjie/0000/0000.py,0000.py,17,9,1,7,0
+Python,Silocean/0002/Test.py,Test.py,19,13,1,5,2
+Python,Silocean/0016/Test.py,Test.py,15,11,0,4,4
+Plain Text,natezhang93/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,lulujianjie/0004/0004.py,0004.py,29,21,6,2,9
+HTML,Silocean/0008/Test.html,Test.html,17,13,0,4,0
+Python,LXFY/0001/main.py,main.py,8,7,0,1,4
+Python,sophie2805/0001/Practice_0001.py,Practice_0001.py,27,16,7,4,2
+Plain Text,problem 0001/coupondata.txt,coupondata.txt,200,200,0,0,0
+Python,defshine/0023/message-board/run.py,run.py,4,3,0,1,1
+Python,defshine/0024/awesome-flask-todo/config.py,config.py,2,2,0,0,0
+Python,defshine/0024/awesome-flask-todo/wsgi_gunicorn.py,wsgi_gunicorn.py,10,5,2,3,1
+Plain Text,Silocean/0006/diaries/day02.txt,day02.txt,2,2,0,0,0
+Python,sarikasama/0022/0022.py,0022.py,32,28,2,2,12
+Python,Silocean/0001/Test.py,Test.py,12,6,1,5,2
+Plain Text,defshine/0024/awesome-flask-todo/requirenments.txt,requirenments.txt,5,5,0,0,0
+Python,sarikasama/0013/0013.py,0013.py,26,20,2,4,3
+Markdown,defshine/0024/awesome-flask-todo/README.md,README.md,7,6,0,1,0
+Python,sarikasama/0012/0012.py,0012.py,19,16,2,1,1
+Python,Silocean/0010/Test.py,Test.py,29,20,0,9,6
+Python,NeilLi1992/0000/main.py,main.py,29,24,0,5,0
+Plain Text,Silocean/0006/diaries/day03.txt,day03.txt,9,9,0,0,0
+Plain Text,Silocean/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,sarikasama/0014/0014.py,0014.py,20,14,2,4,5
+Python,defshine/0024/awesome-flask-todo/run.py,run.py,4,3,0,1,1
+Python,patchlion/0004/CountChar.py,CountChar.py,21,15,1,5,2
+gitignore,defshine/0024/awesome-flask-todo/.gitignore,.gitignore,3,3,0,0,0
+Python,defshine/0024/awesome-flask-todo/manage.py,manage.py,22,14,1,7,1
+Python,sarikasama/0006/0006.py,0006.py,40,33,4,3,7
+Python,sarikasama/0015/0015.py,0015.py,18,12,2,4,3
+XML,Silocean/0017/student.xml,student.xml,29,25,4,0,0
+XML,Silocean/0019/numbers.xml,numbers.xml,25,22,3,0,0
+Python,sarikasama/0008/0008.py,0008.py,26,21,2,3,0
+Python,Silocean/0017/Test.py,Test.py,35,21,3,11,4
+Python,defshine/0024/awesome-flask-todo/app/models.py,models.py,11,8,0,3,0
+Python,sarikasama/0001/0001.py,0001.py,17,12,3,2,1
+Python,defshine/0024/awesome-flask-todo/app/__init__.py,__init__.py,9,6,0,3,0
+HTML,Silocean/0009/Test.html,Test.html,19,18,0,1,0
+Python,Silocean/0019/Test.py,Test.py,26,19,1,6,4
+Python,sarikasama/0009/0009.py,0009.py,18,13,2,3,3
+Python,sarikasama/0000/0000.py,0000.py,24,12,8,4,1
+Python,defshine/0024/awesome-flask-todo/app/views.py,views.py,50,40,0,10,1
+XML,Silocean/0018/city.xml,city.xml,13,10,3,0,0
+Python,sarikasama/0007/0007.py,0007.py,35,28,3,4,8
+Python,sarikasama/0021/0021.py,0021.py,18,13,1,4,5
+Python,problem 0001/0001.py,0001.py,22,22,0,0,0
+Python,sarikasama/0017/0017.py,0017.py,26,20,2,4,3
+XML,sarikasama/0019/numbers.xml,numbers.xml,21,19,2,0,0
+Python,sarikasama/0010/0010.py,0010.py,29,17,6,6,7
+XML,sarikasama/0017/student.xml,student.xml,10,7,3,0,0
+HTML,defshine/0024/awesome-flask-todo/app/templates/index.html,index.html,78,74,0,4,0
+Python,sarikasama/0019/0019.py,0019.py,23,17,2,4,3
+Plain Text,Silocean/0002/keys.txt,keys.txt,200,200,0,0,0
+Plain Text,Silocean/0016/numbers.txt,numbers.txt,5,5,0,0,0
+Python,sarikasama/0016/0016.py,0016.py,18,12,2,4,5
+Python,sarikasama/0011/0011.py,0011.py,19,16,2,1,1
+CSS,defshine/0024/awesome-flask-todo/app/static/index.css,index.css,32,22,5,5,0
+Python,defshine/0023/message-board/config.py,config.py,2,2,0,0,0
+Python,sarikasama/0005/0005.py,0005.py,18,14,2,2,7
+Plain Text,defshine/0023/message-board/requirenments.txt,requirenments.txt,3,3,0,0,0
+Markdown,defshine/0023/message-board/README.md,README.md,36,29,0,7,0
+Python,defshine/0023/message-board/manage.py,manage.py,18,14,1,3,1
+Python,sarikasama/0004/0004.py,0004.py,23,18,2,3,8
+Python,defshine/0023/message-board/app/models.py,models.py,15,12,0,3,0
+Python,zentst/0023/manage.py,manage.py,10,6,1,3,1
+Python,keysona/0006/0006.py,0006.py,15,6,6,3,0
+Plain Text,endersodium/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,endersodium/0001/0001.py,0001.py,38,28,6,4,0
+Python,defshine/0023/message-board/app/__init__.py,__init__.py,9,6,0,3,0
+Python,zentst/0023/mysite/__init__.py,__init__.py,0,0,0,0,0
+Python,zentst/0023/messageboard/models.py,models.py,12,7,1,4,0
+Python,endersodium/0005/modify.py,modify.py,36,24,7,5,5
+Python,keysona/0001/0001.py,0001.py,32,16,13,3,5
+Python,keysona/0008/0008.py,0008.py,26,6,9,11,0
+Python,zentst/0023/messageboard/__init__.py,__init__.py,0,0,0,0,0
+Python,zentst/0023/messageboard/admin.py,admin.py,13,9,0,4,0
+Python,zentst/0023/messageboard/tests.py,tests.py,16,14,2,0,0
+Python,zentst/0023/messageboard/urls.py,urls.py,10,8,0,2,0
+Python,zentst/0023/messageboard/views.py,views.py,28,24,1,3,3
+Python,zentst/0023/mysite/urls.py,urls.py,18,15,1,2,0
+Python,zentst/0023/mysite/wsgi.py,wsgi.py,32,24,7,1,2
+Python,zentst/0023/mysite/settings.py,settings.py,161,121,25,15,2
+Python,keysona/0009/0009.py,0009.py,23,7,9,7,3
+Python,keysona/0000/0000.py,0000.py,48,25,12,11,3
+Python,keysona/0002/0002.py,0002.py,37,22,12,3,5
+XML,sarikasama/0018/city.xml,city.xml,9,7,2,0,0
+HTML,zentst/0023/messageboard/templates/message/index.html,index.html,63,52,0,11,0
+Python,sarikasama/0018/0018.py,0018.py,26,20,2,4,3
+HTML,zentst/0023/messageboard/templates/message/detail.html,detail.html,6,5,0,1,0
+Python,LXFY/0000/main.py,main.py,10,9,0,1,0
+Plain Text,keysona/0004/test.txt,test.txt,1,1,0,0,0
+Markdown,AK-wang/README.md,README.md,199,129,0,70,0
+Python,keysona/0004/0004.py,0004.py,24,9,9,6,3
+Python,keysona/0005/0005.py,0005.py,31,18,9,4,9
+Python,defshine/0023/message-board/app/views.py,views.py,33,25,0,8,2
+Python,AK-wang/0001/key_gen.py,key_gen.py,37,26,4,7,2
+Plain Text,kamen/0014/student.txt,student.txt,5,5,0,0,0
+JSON,defshine/0023/message-board/app/static/js/package.json,package.json,17,17,0,0,0
+Python,effy/0001/0001.py,0001.py,56,41,14,1,0
+Python,kamen/0013/get_photo.py,get_photo.py,19,14,2,3,2
+Python,4disland/0000/add_num.py,add_num.py,14,12,0,2,1
+JavaScript,defshine/0023/message-board/app/static/js/components/Message.js,Message.js,17,15,0,2,0
+Python,AK-wang/0004/0004.py,0004.py,24,17,3,4,2
+Python,kamen/0012/filter_words_with_spark.py,filter_words_with_spark.py,25,18,3,4,0
+JavaScript,defshine/0023/message-board/app/static/js/components/MessageList.js,MessageList.js,18,16,0,2,0
+Plain Text,kamen/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+JavaScript,defshine/0023/message-board/app/static/js/components/MessageForm.js,MessageForm.js,30,26,0,4,0
+JavaScript,defshine/0023/message-board/app/static/js/components/MessageBoard.js,MessageBoard.js,61,59,0,2,2
+Plain Text,kamen/0001/keys.txt,keys.txt,200,200,0,0,0
+JavaScript,defshine/0023/message-board/app/static/js/components/Pager.js,Pager.js,44,40,0,4,2
+Python,greatbuger/0001/0001.py,0001.py,69,50,19,0,0
+HTML,defshine/0023/message-board/app/templates/index.html,index.html,50,41,0,9,0
+Markdown,kamen/README.md,README.md,169,114,0,55,0
+C,AK-wang/A0001/floor_step.C,floor_step.C,102,70,13,19,14
+C++,AK-wang/A0002/permu.cpp,permu.cpp,58,45,8,5,9
+Python,kamen/0014/write_to_excel.py,write_to_excel.py,0,0,0,0,0
+Python,kamen/0001/gene_200_keys.py,gene_200_keys.py,24,18,1,5,4
+Plain Text,AK-wang/0006/02.txt,02.txt,4,4,0,0,0
+Python,AK-wang/0011/filtered_words.py,filtered_words.py,30,17,4,9,5
+Python,kamen/0008/0008.py,0008.py,17,13,3,1,0
+Python,AK-wang/0006/key_word.py,key_word.py,32,23,3,6,2
+Python,AK-wang/0002/save_key.py,save_key.py,131,121,3,7,2
+Python,kamen/0009/0009.py,0009.py,13,10,1,2,2
+Plain Text,tongqi/0006/diaries/3.txt,3.txt,3,2,0,1,0
+Plain Text,tongqi/0006/diaries/2.txt,2.txt,3,2,0,1,0
+Python,tongqi/0006/0006.py,0006.py,22,17,0,5,8
+Plain Text,tongqi/0006/diaries/1.txt,1.txt,3,2,0,1,0
+Python,tongqi/0000/0000.py,0000.py,10,9,0,1,0
+Python,tongqi/0005/0005.py,0005.py,23,19,0,4,8
+Plain Text,AK-wang/0012/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,AK-wang/A0000/sushu_v0.1.py,sushu_v0.1.py,30,18,7,5,10
+Python,AK-wang/0001/key_gen_deco.py,key_gen_deco.py,41,30,4,7,2
+CSS,defshine/0024/awesome-flask-todo/app/static/bootstrap.css,bootstrap.css,6203,6190,8,5,0
+Plain Text,AK-wang/0004/test.txt,test.txt,4,3,0,1,0
+Python,endersodium/0011/censor.py,censor.py,33,22,7,4,5
+Python,AK-wang/0012/f_replace.py,f_replace.py,35,20,4,11,7
+Plain Text,AK-wang/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,AK-wang/A0000/sushu.py,sushu.py,30,17,10,3,5
+JavaScript,defshine/0023/message-board/app/static/js/index.js,index.js,5,3,0,2,0
+Plain Text,tongqi/0004/english.txt,english.txt,3,2,0,1,0
+JavaScript,defshine/0023/message-board/app/static/js/webpack.config.js,webpack.config.js,15,14,0,1,0
+Python,tongqi/0001/0001.py,0001.py,3,2,0,1,2
+Plain Text,greatbuger/0001/keys.txt,keys.txt,200,200,0,0,0
+Plain Text,greatbuger/0001/keys1.txt,keys1.txt,200,200,0,0,0
+Python,kamen/0000/0000.py,0000.py,10,9,0,1,0
+Plain Text,AK-wang/0006/00.txt,00.txt,5,5,0,0,0
+Plain Text,AK-wang/0006/01.txt,01.txt,8,8,0,0,0
+Python,AK-wang/0003/save_to_redis.py,save_to_redis.py,48,38,3,7,2
+Python,tongqi/0004/0004.py,0004.py,4,3,0,1,0
+Plain Text,kamen/0004/a.txt,a.txt,4,4,0,0,0
+C,AK-wang/A0001/prove.c,prove.c,43,35,3,5,2
+Python,kamen/0002/gene_200_keys.py,gene_200_keys.py,24,18,1,5,4
+Python,kamen/0002/gene_key_save_in_mysql.py,gene_key_save_in_mysql.py,83,82,0,1,0
+Python,kamen/0004/word_count.py,word_count.py,11,7,2,2,2
+Python,kamen/0011/filter_words.py,filter_words.py,17,16,0,1,0
+Python,effy/0000/pillow_chesnut.py,pillow_chesnut.py,23,18,5,0,0
+Python,effy/0003/0003_pymongo.py,0003_pymongo.py,28,7,14,7,2
+Plain Text,kamen/0011/filtered_words.txt,filtered_words.txt,11,11,0,0,0
+Python,effy/0002/ActivationCodeGen.py,ActivationCodeGen.py,16,13,1,2,2
+Plain Text,effy/0004/sampletext.txt,sampletext.txt,114,78,0,36,0
+Python,greatbuger/0000/0000.py,0000.py,92,79,13,0,0
+Python,effy/0002/0002.py,0002.py,118,86,30,2,0
+C,AK-wang/A0001/reproduction.C,reproduction.C,47,32,10,5,6
+Markdown,effy/0003/readme.md,readme.md,31,23,0,8,0
+CSS,defshine/0023/message-board/app/static/css/index.css,index.css,8,6,0,2,0
+Python,effy/0004/0004_bad.py,0004_bad.py,49,44,5,0,0
+CSS,defshine/0023/message-board/app/static/css/bootstrap.css,bootstrap.css,6358,6344,8,6,0

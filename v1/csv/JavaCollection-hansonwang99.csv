@@ -1,0 +1,5 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+YAML,docs/kubernetes/dashboard-user-role.yaml,dashboard-user-role.yaml,23,23,0,0,0
+Markdown,README.md,README.md,413,312,0,101,0
+YAML,docs/kubernetes/dashboard.yaml,dashboard.yaml,166,126,29,11,0
+YAML,docs/kubernetes/kube-flannel.yaml,kube-flannel.yaml,470,470,0,0,0

@@ -1,0 +1,69 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,CHANGELOG.md,CHANGELOG.md,411,281,0,130,0
+Vim Script,debugvimrc.vim,debugvimrc.vim,32,31,0,1,1
+Markdown,readme.md,readme.md,272,182,0,90,0
+License,COPYING,COPYING,165,128,0,37,0
+gitignore,.gitignore,.gitignore,19,19,0,0,0
+Vim Script,after/indent/pyrex.vim,pyrex.vim,1,1,0,0,0
+Vim Script,syntax/pyrex.vim,pyrex.vim,71,68,0,3,2
+Vim Script,after/indent/python.vim,python.vim,13,12,0,1,2
+YAML,.github/workflows/test_pymode.yml,test_pymode.yml,36,34,0,2,0
+Vim Script,ftplugin/python/pymode.vim,pymode.vim,258,197,0,61,69
+YAML,.github/FUNDING.yml,FUNDING.yml,3,1,1,1,0
+Vim Script,after/ftplugin/python.vim,python.vim,58,46,0,12,10
+YAML,.github/stale.yml,stale.yml,18,12,6,0,0
+Vim Script,after/ftplugin/pyrex.vim,pyrex.vim,1,1,0,0,0
+Vim Script,autoload/pymode/tools/signs.vim,signs.vim,57,45,0,12,6
+Python,pymode/libs/__init__.py,__init__.py,0,0,0,0,0
+Python,pymode/environment.py,environment.py,246,182,40,24,12
+Python,pymode/async.py,async.py,6,2,1,3,0
+Vim Script,plugin/pymode.vim,pymode.vim,316,237,0,79,41
+Vim Script,ftplugin/pyrex.vim,pyrex.vim,1,1,0,0,0
+Python,pymode/virtualenv.py,virtualenv.py,57,35,12,10,11
+Vim Script,autoload/pymode/doc.vim,doc.vim,40,34,0,6,3
+Python,pymode/utils.py,utils.py,48,31,6,11,1
+Plain Text,doc/pymode.txt,pymode.txt,882,655,0,227,0
+Python,pymode/lint.py,lint.py,93,62,9,22,18
+Vim Script,syntax/python.vim,python.vim,402,352,0,50,18
+Vim Script,autoload/pymode/debug.vim,debug.vim,67,65,0,2,6
+Vim Script,autoload/pymode/indent.vim,indent.vim,186,170,0,16,22
+Python,pymode/run.py,run.py,80,69,6,5,0
+Vim Script,autoload/pymode/virtualenv.vim,virtualenv.vim,17,13,0,4,3
+Vim Script,autoload/pymode.vim,pymode.vim,148,138,0,10,11
+Vim Script,autoload/pymode/lint.vim,lint.vim,104,77,0,27,11
+Vim Script,autoload/pymode/run.vim,run.vim,99,99,0,0,0
+Vim Script,autoload/pymode/rope.vim,rope.vim,196,158,0,38,27
+Python,pymode/rope.py,rope.py,937,905,16,16,13
+Vim Script,autoload/pymode/folding.vim,folding.vim,328,291,0,37,51
+Vim Script,autoload/pymode/motion.vim,motion.vim,105,92,0,13,25
+Shell,tests/test.sh,test.sh,59,38,11,10,3
+Vim Script,autoload/pymode/tools/loclist.vim,loclist.vim,99,78,0,21,10
+Python,tests/motion_decorator.py,motion_decorator.py,37,34,3,0,0
+Shell,tests/test_helpers_bash/test_prepare_once.sh,test_prepare_once.sh,12,7,3,2,0
+Shell,tests/test_bash/test_autocommands.sh,test_autocommands.sh,34,14,13,7,1
+Shell,tests/test_bash/test_autopep8.sh,test_autopep8.sh,10,5,3,2,0
+Python,tests/test_python_sample_code/from_autopep8.py,from_autopep8.py,21,19,1,1,0
+Python,tests/test_python_sample_code/folding1.py,folding1.py,20,7,8,5,1
+Vim Script,autoload/pymode/breakpoint.vim,breakpoint.vim,50,39,0,11,12
+Shell,tests/test_bash/test_folding.sh,test_folding.sh,36,22,10,4,1
+Python,tests/test_python_sample_code/pymoderun_sample.py,pymoderun_sample.py,4,3,1,0,2
+Shell,tests/test_bash/test_textobject.sh,test_textobject.sh,15,9,3,3,1
+Shell,tests/test_bash/test_pymodelint.sh,test_pymodelint.sh,14,3,8,3,0
+Vim Script,tests/test_procedures_vimscript/textobject.vim,textobject.vim,29,22,0,7,3
+Vim Script,tests/test_procedures_vimscript/pymodelint.vim,pymodelint.vim,28,23,0,5,2
+Shell,tests/test_helpers_bash/test_prepare_between_tests.sh,test_prepare_between_tests.sh,12,7,3,2,1
+Vim Script,tests/test_helpers_vimscript/inserting_text.vim,inserting_text.vim,98,79,0,19,5
+Python,tests/test_python_sample_code/folding2.py,folding2.py,56,21,19,16,1
+Vim Script,tests/test_helpers_vimscript/moving_around.vim,moving_around.vim,0,0,0,0,0
+Shell,tests/test_helpers_bash/test_variables.sh,test_variables.sh,11,4,4,3,0
+Vim Script,tests/test_procedures_vimscript/folding2.vim,folding2.vim,41,36,0,5,0
+Shell,tests/test_helpers_bash/test_createvimrc.sh,test_createvimrc.sh,26,18,4,4,0
+Vim Script,tests/test_procedures_vimscript/folding1.vim,folding1.vim,38,30,0,8,5
+Vim Script,tests/test_helpers_vimscript/md5sum.vim,md5sum.vim,14,14,0,0,0
+Vim Script,tests/test_procedures_vimscript/autopep8.vim,autopep8.vim,34,27,0,7,3
+Vim Script,tests/test_procedures_vimscript/pymoderun.vim,pymoderun.vim,34,26,0,8,1
+Vim Script,tests/test_procedures_vimscript/folding3.vim,folding3.vim,66,53,0,13,5
+Python,tests/test_python_sample_code/algorithms.py,algorithms.py,501,376,115,10,11
+Vim Script,tests/test_procedures_vimscript/pymodeversion.vim,pymodeversion.vim,17,13,0,4,1
+Vim Script,tests/test_procedures_vimscript/folding4.vim,folding4.vim,16,12,0,4,0
+Python,pymode/__init__.py,__init__.py,45,28,7,10,2

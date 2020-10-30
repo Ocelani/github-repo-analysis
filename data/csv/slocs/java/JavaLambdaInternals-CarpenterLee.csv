@@ -1,0 +1,16 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,1-Lambda and Anonymous Classes(I).md,1-Lambda and Anonymous Classes(I).md,135,106,0,29,0
+License,LICENSE,LICENSE,7,6,0,1,0
+Markdown,4-Streams API(I).md,4-Streams API(I).md,148,86,0,62,0
+Markdown,3-Lambda and Collections.md,3-Lambda and Collections.md,393,300,0,93,0
+Markdown,2-Lambda and Anonymous Classes(II).md,2-Lambda and Anonymous Classes(II).md,114,88,0,26,0
+gitignore,.gitignore,.gitignore,27,13,8,6,0
+Markdown,README.md,README.md,34,20,0,14,0
+Markdown,6-Stream Pipelines.md,6-Stream Pipelines.md,296,227,0,69,0
+Markdown,7-ParallelStream.md,7-ParallelStream.md,183,165,0,18,0
+Markdown,5-Streams API(II).md,5-Streams API(II).md,199,147,0,52,0
+Markdown,8-Stream Performance.md,8-Stream Performance.md,110,57,0,53,0
+Java,perf/StreamBenchmark/src/lee/IntTest.java,IntTest.java,89,73,7,9,9
+Java,perf/StreamBenchmark/src/lee/StringTest.java,StringTest.java,101,86,7,8,11
+Java,perf/StreamBenchmark/src/lee/TimeUtil.java,TimeUtil.java,19,17,0,2,0
+Java,perf/StreamBenchmark/src/lee/ReductionTest.java,ReductionTest.java,135,119,6,10,10

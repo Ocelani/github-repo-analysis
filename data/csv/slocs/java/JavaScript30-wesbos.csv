@@ -1,0 +1,85 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,PULL_REQUEST_TEMPLATE.md,PULL_REQUEST_TEMPLATE.md,14,9,0,5,0
+HTML,17 - Sort Without Articles/index-FINISHED.html,index-FINISHED.html,67,53,0,14,0
+HTML,08 - Fun with HTML5 Canvas/index-START.html,index-START.html,19,17,0,2,0
+HTML,"25 - Event Capture, Propagation, Bubbling and Once/index-START.html",index-START.html,48,39,0,9,0
+HTML,15 - LocalStorage/index-START.html,index-START.html,38,27,4,7,0
+HTML,14 - JavaScript References VS Copying/index-FINISHED.html,index-FINISHED.html,99,71,0,28,0
+HTML,28 - Video Speed Controller/index-START.html,index-START.html,20,18,0,2,0
+HTML,29 - Countdown Timer/index.html,index.html,29,28,0,1,0
+HTML,27 - Click and Drag/index-FINISHED.html,index-FINISHED.html,71,64,0,7,0
+HTML,30 - Whack A Mole/index-START.html,index-START.html,42,38,0,4,0
+HTML,28 - Video Speed Controller/index-FINISHED.html,index-FINISHED.html,39,34,0,5,0
+HTML,17 - Sort Without Articles/index-START.html,index-START.html,55,44,0,11,0
+HTML,04 - Array Cardio Day 1/index-START.html,index-START.html,65,52,0,13,0
+CSS,15 - LocalStorage/style.css,style.css,81,69,0,12,0
+HTML,15 - LocalStorage/index-FINISHED.html,index-FINISHED.html,77,60,4,13,0
+HTML,06 - Type Ahead/index-START.html,index-START.html,22,20,0,2,0
+Markdown,readme.md,readme.md,75,62,0,13,0
+HTML,04 - Array Cardio Day 1/index-FINISHED.html,index-FINISHED.html,112,94,0,18,0
+HTML,03 - CSS Variables/index-FINISHED.html,index-FINISHED.html,76,60,0,16,0
+HTML,08 - Fun with HTML5 Canvas/index-FINISHED.html,index-FINISHED.html,73,62,0,11,0
+HTML,19 - Webcam Fun/index.html,index.html,45,20,20,5,0
+gitignore,.gitignore,.gitignore,5,5,0,0,0
+CSS,06 - Type Ahead/style.css,style.css,74,63,1,10,0
+HTML,10 - Hold Shift and Check Checkboxes/index-START.html,index-START.html,101,87,6,8,0
+JavaScript,29 - Countdown Timer/scripts-FINISHED.js,scripts-FINISHED.js,55,45,3,7,1
+HTML,10 - Hold Shift and Check Checkboxes/index-FINISHED.html,index-FINISHED.html,130,110,6,14,0
+HTML,21 - Geolocation/index-START.html,index-START.html,64,57,0,7,0
+CSS,30 - Whack A Mole/style.css,style.css,69,60,0,9,0
+JavaScript,19 - Webcam Fun/scripts-FINISHED.js,scripts-FINISHED.js,110,77,15,18,9
+HTML,11 - Custom Video Player/index.html,index.html,27,24,0,3,0
+HTML,02 - JS and CSS Clock/index-START.html,index-START.html,74,62,0,12,0
+JavaScript,19 - Webcam Fun/scripts.js,scripts.js,5,5,0,0,0
+JavaScript,29 - Countdown Timer/scripts-START.js,scripts-START.js,0,0,0,0,0
+HTML,23 - Speech Synthesis/index-START.html,index-START.html,41,32,0,9,0
+HTML,01 - JavaScript Drum Kit/index-START.html,index-START.html,66,59,0,7,0
+SVG,30 - Whack A Mole/dirt.svg,dirt.svg,40,39,1,0,0
+HTML,12 - Key Sequence Detection/index-START.html,index-START.html,12,12,0,0,0
+HTML,18 - Adding Up Times with Reduce/index-START.html,index-START.html,187,187,0,0,0
+CSS,01 - JavaScript Drum Kit/style.css,style.css,51,45,0,6,0
+HTML,13 - Slide in on Scroll/index-START.html,index-START.html,123,91,0,32,0
+CSS,23 - Speech Synthesis/style.css,style.css,94,82,0,12,0
+HTML,"25 - Event Capture, Propagation, Bubbling and Once/index-FINISHED.html",index-FINISHED.html,67,55,0,12,0
+CSS,28 - Video Speed Controller/style.css,style.css,42,38,0,4,0
+HTML,12 - Key Sequence Detection/index-FINISHED.html,index-FINISHED.html,25,24,0,1,0
+HTML,18 - Adding Up Times with Reduce/index-FINISHED.html,index-FINISHED.html,207,201,0,6,0
+HTML,26 - Stripe Follow Along Nav/index-START.html,index-START.html,226,202,0,24,0
+HTML,01 - JavaScript Drum Kit/index-FINISHED.html,index-FINISHED.html,83,74,0,9,0
+HTML,23 - Speech Synthesis/index-FINISHED.html,index-FINISHED.html,75,60,0,15,0
+HTML,27 - Click and Drag/index-START.html,index-START.html,41,39,0,2,0
+CSS,22 - Follow Along Link Highlighter/style.css,style.css,61,54,0,7,0
+HTML,22 - Follow Along Link Highlighter/index-FINISHED.html,index-FINISHED.html,55,46,0,9,0
+HTML,14 - JavaScript References VS Copying/index-START.html,index-START.html,56,35,0,21,0
+HTML,03 - CSS Variables/index-START.html,index-START.html,51,40,0,11,0
+HTML,13 - Slide in on Scroll/index-FINISHED.html,index-FINISHED.html,143,108,0,35,0
+CSS,27 - Click and Drag/style.css,style.css,70,63,0,7,0
+HTML,26 - Stripe Follow Along Nav/index-FINISHED.html,index-FINISHED.html,258,228,0,30,0
+HTML,02 - JS and CSS Clock/index-FINISHED.html,index-FINISHED.html,99,83,0,16,0
+HTML,22 - Follow Along Link Highlighter/index-START.html,index-START.html,33,29,0,4,0
+JavaScript,11 - Custom Video Player/scripts.js,scripts.js,0,0,0,0,0
+JavaScript,11 - Custom Video Player/scripts-FINISHED.js,scripts-FINISHED.js,55,43,3,9,1
+HTML,07 - Array Cardio Day 2/index-START.html,index-START.html,41,35,0,6,0
+HTML,09 - Dev Tools Domination/index-START.html,index-START.html,46,30,0,16,0
+CSS,11 - Custom Video Player/style.css,style.css,162,137,2,23,0
+HTML,06 - Type Ahead/index-FINISHED.html,index-FINISHED.html,61,53,0,8,0
+CSS,24 - Sticky Nav/style-START.css,style-START.css,88,77,0,11,0
+HTML,07 - Array Cardio Day 2/index-FINISHED.html,index-FINISHED.html,68,54,0,14,0
+HTML,09 - Dev Tools Domination/index-FINISHED.html,index-FINISHED.html,89,69,0,20,0
+CSS,29 - Countdown Timer/style.css,style.css,82,70,0,12,0
+HTML,05 - Flex Panel Gallery/index-START.html,index-START.html,114,97,0,17,0
+HTML,20 - Speech Detection/index-START.html,index-START.html,61,50,0,11,0
+JSON,21 - Geolocation/package.json,package.json,14,14,0,0,0
+JSON,19 - Webcam Fun/package.json,package.json,14,14,0,0,0
+SVG,30 - Whack A Mole/mole.svg,mole.svg,56,55,1,0,0
+JSON,20 - Speech Detection/package.json,package.json,14,14,0,0,0
+HTML,20 - Speech Detection/index-FINISHED.html,index-FINISHED.html,87,70,0,17,0
+CSS,19 - Webcam Fun/style.css,style.css,60,46,4,10,0
+HTML,21 - Geolocation/index-FINISHED.html,index-FINISHED.html,74,66,0,8,0
+CSS,24 - Sticky Nav/style-FINISHED.css,style-FINISHED.css,101,87,0,14,0
+HTML,24 - Sticky Nav/index-START.html,index-START.html,61,45,0,16,0
+HTML,16 - Mouse Move Shadow/index-START.html,index-START.html,40,34,0,6,0
+HTML,16 - Mouse Move Shadow/index-FINISHED.html,index-FINISHED.html,66,54,0,12,0
+HTML,30 - Whack A Mole/index-FINISHED.html,index-FINISHED.html,87,77,0,10,0
+HTML,05 - Flex Panel Gallery/index-FINISHED.html,index-FINISHED.html,147,129,0,18,0
+HTML,24 - Sticky Nav/index-FINISHED.html,index-FINISHED.html,67,58,0,9,0

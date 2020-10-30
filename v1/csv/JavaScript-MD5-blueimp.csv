@@ -1,0 +1,17 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+HTML,index.html,index.html,78,63,15,0,0
+Markdown,README.md,README.md,134,97,0,37,0
+gitignore,.gitignore,.gitignore,1,1,0,0,0
+Plain Text,LICENSE.txt,LICENSE.txt,20,16,0,4,0
+YAML,.github/FUNDING.yml,FUNDING.yml,1,1,0,0,0
+JSON,package.json,package.json,73,73,0,0,0
+JSON,package-lock.json,package-lock.json,1893,1893,0,0,0
+YAML,.github/workflows/test.yml,test.yml,25,21,0,4,0
+HTML,test/index.html,index.html,38,23,15,0,0
+JavaScript,js/md5.min.js,md5.min.js,2,1,1,0,0
+CSS,css/demo.css,demo.css,120,107,10,3,0
+JavaScript,test/test.js,test.js,66,43,12,11,2
+JavaScript,js/md5.js,md5.js,402,203,176,23,16
+CSS,test/vendor/mocha.css,mocha.css,325,269,10,46,0
+JavaScript,test/vendor/chai.js,chai.js,10854,3426,6405,1023,629
+JavaScript,test/vendor/mocha.js,mocha.js,18397,11858,4417,2122,2034

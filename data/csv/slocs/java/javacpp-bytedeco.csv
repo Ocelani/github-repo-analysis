@@ -1,0 +1,217 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,README.md,README.md,426,331,0,95,0
+gitignore,.gitignore,.gitignore,14,8,3,3,0
+YAML,.travis.yml,.travis.yml,126,124,0,2,0
+Markdown,CHANGELOG.md,CHANGELOG.md,836,784,0,52,0
+Plain Text,LICENSE.txt,LICENSE.txt,572,473,0,99,0
+XML,src/main/assembly/src.xml,src.xml,27,25,1,1,0
+XML,pom.xml,pom.xml,569,538,16,15,0
+XML,platform/src/main/assembly/bin.xml,bin.xml,35,35,0,0,0
+Java,src/main/java9/module-info.java,module-info.java,7,7,0,0,0
+XML,platform/src/main/assembly/src.xml,src.xml,26,25,1,0,0
+XML,src/it/osgi/pom.xml,pom.xml,268,255,5,8,0
+Java,src/main/java/org/bytedeco/javacpp/ClassProperties.java,ClassProperties.java,341,290,35,16,150
+Java,src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,283,204,28,51,5
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/macosx-x86_64.properties,macosx-x86_64.properties,32,32,0,0,0
+XML,platform/pom.xml,pom.xml,1464,1395,4,65,0
+XML,src/main/assembly/bin.xml,bin.xml,35,35,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-arm-clang.properties,android-arm-clang.properties,37,37,0,0,0
+C Header,src/it/osgi/src/main/c/calc.h,calc.h,8,6,0,2,0
+Java,src/it/osgi/src/main/java/org/bytedeco/javacpp/test/osgi/JavaCPPOsgiTest.java,JavaCPPOsgiTest.java,16,11,0,5,0
+Java,src/test/java/org/bytedeco/javacpp/PointerTest.java,PointerTest.java,1049,891,35,123,124
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-x86_64.properties,linux-x86_64.properties,31,31,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/ios-x86_64.properties,ios-x86_64.properties,34,34,0,0,0
+C Header,src/test/resources/org/bytedeco/javacpp/AdapterTest.h,AdapterTest.h,110,86,1,23,0
+Java,src/test/java/org/bytedeco/javacpp/BufferTest.java,BufferTest.java,219,153,26,40,6
+Java,src/test/java/org/bytedeco/javacpp/EnumTest.java,EnumTest.java,117,69,27,21,0
+Java,src/test/java/org/bytedeco/javacpp/indexer/HyperslabIndexTest.java,HyperslabIndexTest.java,206,157,36,13,4
+C Header,src/test/resources/org/bytedeco/javacpp/BufferTest.h,BufferTest.h,53,40,0,13,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-armhf.properties,linux-armhf.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/ShortPointer.java,ShortPointer.java,160,72,79,9,7
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/macosx-x86.properties,macosx-x86.properties,32,32,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-x86.properties,android-x86.properties,35,35,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-x86.properties,linux-x86.properties,31,31,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-arm64-clang.properties,android-arm64-clang.properties,37,37,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-x86-clang.properties,android-x86-clang.properties,37,37,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/ios-arm64.properties,ios-arm64.properties,34,34,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64.properties,windows-x86_64.properties,27,27,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/macosx-x86-cuda.properties,macosx-x86-cuda.properties,32,32,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-x86-cuda.properties,linux-x86-cuda.properties,31,31,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-arm64.properties,android-arm64.properties,35,35,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,978,638,259,81,155
+Java,src/main/java/org/bytedeco/javacpp/presets/javacpp.java,javacpp.java,95,64,26,5,4
+C Header,src/test/resources/org/bytedeco/javacpp/EnumTest.h,EnumTest.h,35,27,0,8,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/IntBufferIndexer.java,IntBufferIndexer.java,133,90,31,12,6
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86.properties,windows-x86.properties,27,27,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/Bfloat16RawIndexer.java,Bfloat16RawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/FloatArrayIndexer.java,FloatArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/DoubleArrayIndexer.java,DoubleArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UByteIndexer.java,UByteIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/indexer/DoubleBufferIndexer.java,DoubleBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/DoubleIndexer.java,DoubleIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/indexer/Index.java,Index.java,111,43,52,16,0
+Java,src/test/java/org/bytedeco/javacpp/IndexerTest.java,IndexerTest.java,1342,1196,27,119,172
+Java,src/main/java/org/bytedeco/javacpp/annotation/ValueSetter.java,ValueSetter.java,31,10,19,2,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-x86_64-clang.properties,android-x86_64-clang.properties,37,37,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/CharRawIndexer.java,CharRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UIntBufferIndexer.java,UIntBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/DoublePointer.java,DoublePointer.java,160,72,79,9,7
+Java,src/main/java/org/bytedeco/javacpp/tools/UserClassLoader.java,UserClassLoader.java,88,60,25,3,11
+Java,src/main/java/org/bytedeco/javacpp/tools/AdapterInformation.java,AdapterInformation.java,34,7,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/MethodInformation.java,MethodInformation.java,47,19,25,3,0
+Java,src/main/java/org/bytedeco/javacpp/tools/ParserException.java,ParserException.java,33,6,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Type.java,Type.java,53,24,25,4,10
+Java,src/test/java/org/bytedeco/javacpp/BuilderTest.java,BuilderTest.java,116,76,26,14,4
+Java,src/main/java/org/bytedeco/javacpp/tools/IndexedSet.java,IndexedSet.java,44,15,25,4,2
+Java,src/main/java/org/bytedeco/javacpp/tools/BuildEnabled.java,BuildEnabled.java,42,7,32,3,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Allocator.java,Allocator.java,38,14,22,2,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64.properties,linux-ppc64.properties,31,31,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/ios-arm.properties,ios-arm.properties,34,34,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/ByVal.java,ByVal.java,25,13,10,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/ShortRawIndexer.java,ShortRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/annotation/Convention.java,Convention.java,23,14,7,2,0
+Java,src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,383,172,190,21,8
+Java,src/main/java/org/bytedeco/javacpp/indexer/Indexer.java,Indexer.java,187,93,69,25,17
+Java,src/main/java/org/bytedeco/javacpp/indexer/CharBufferIndexer.java,CharBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/annotation/ByRef.java,ByRef.java,25,13,10,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Index.java,Index.java,26,13,11,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/HalfIndexer.java,HalfIndexer.java,229,137,76,16,17
+Java,src/main/java/org/bytedeco/javacpp/indexer/ULongIndexer.java,ULongIndexer.java,183,101,68,14,4
+Java,src/main/java/org/bytedeco/javacpp/indexer/HalfRawIndexer.java,HalfRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UIntIndexer.java,UIntIndexer.java,169,89,68,12,3
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/macosx-x86_64-cuda.properties,macosx-x86_64-cuda.properties,32,32,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/UIntArrayIndexer.java,UIntArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ByteBufferIndexer.java,ByteBufferIndexer.java,189,139,31,19,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UByteBufferIndexer.java,UByteBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/DoubleRawIndexer.java,DoubleRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/Indexable.java,Indexable.java,47,4,41,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/FloatBufferIndexer.java,FloatBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/Bfloat16ArrayIndexer.java,Bfloat16ArrayIndexer.java,130,88,31,11,6
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/ios-x86.properties,ios-x86.properties,34,34,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/BooleanBufferIndexer.java,BooleanBufferIndexer.java,133,90,31,12,13
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-x86_64-cuda.properties,linux-x86_64-cuda.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/LongIndexer.java,LongIndexer.java,169,89,68,12,3
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/generic.properties,generic.properties,31,30,1,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-arm.properties,linux-arm.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/Bfloat16Indexer.java,Bfloat16Indexer.java,181,95,72,14,3
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64-mingw.properties,windows-x86_64-mingw.properties,30,30,0,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-arm.properties,android-arm.properties,36,36,0,0,0
+Java,src/it/osgi/src/main/java/org/bytedeco/javacpp/test/osgi/Calc.java,Calc.java,39,18,13,8,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86-cuda.properties,windows-x86-cuda.properties,27,27,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Builder.java,Builder.java,1475,1204,208,63,402
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/android-x86_64.properties,android-x86_64.properties,35,35,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/UShortIndexer.java,UShortIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/CharPointer.java,CharPointer.java,211,103,97,11,11
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-arm64.properties,linux-arm64.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/BooleanArrayIndexer.java,BooleanArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ByteIndexer.java,ByteIndexer.java,240,118,96,26,4
+Java,src/main/java/org/bytedeco/javacpp/indexer/Bfloat16BufferIndexer.java,Bfloat16BufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ULongBufferIndexer.java,ULongBufferIndexer.java,134,91,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/annotation/ByPtrRef.java,ByPtrRef.java,20,10,8,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/LongBufferIndexer.java,LongBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java,149,68,73,8,5
+Java,src/main/java/org/bytedeco/javacpp/indexer/UIntRawIndexer.java,UIntRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/HyperslabIndex.java,HyperslabIndex.java,103,47,46,10,2
+Java,src/main/java/org/bytedeco/javacpp/indexer/CharIndexer.java,CharIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/indexer/UByteRawIndexer.java,UByteRawIndexer.java,146,101,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UShortArrayIndexer.java,UShortArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ShortArrayIndexer.java,ShortArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/package-info.java,package-info.java,5,2,3,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/FloatRawIndexer.java,FloatRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/BooleanIndexer.java,BooleanIndexer.java,169,89,68,12,4
+Java,src/main/java/org/bytedeco/javacpp/indexer/UShortBufferIndexer.java,UShortBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/Raw.java,Raw.java,77,46,27,4,2
+Java,src/main/java/org/bytedeco/javacpp/indexer/IntIndexer.java,IntIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/indexer/StrideIndex.java,StrideIndex.java,94,38,45,11,3
+Java,src/main/java/org/bytedeco/javacpp/FunctionPointer.java,FunctionPointer.java,57,10,44,3,0
+Java,src/main/java/org/bytedeco/javacpp/LongPointer.java,LongPointer.java,160,72,79,9,7
+Java,src/main/java/org/bytedeco/javacpp/indexer/HalfBufferIndexer.java,HalfBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ByteRawIndexer.java,ByteRawIndexer.java,201,149,33,19,6
+Java,src/main/java/org/bytedeco/javacpp/IntPointer.java,IntPointer.java,215,107,97,11,12
+Java,src/main/java/org/bytedeco/javacpp/indexer/UByteArrayIndexer.java,UByteArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,374,156,207,11,27
+Java,src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java,1930,1452,398,80,540
+Java,src/main/java/org/bytedeco/javacpp/CLongPointer.java,CLongPointer.java,150,68,74,8,5
+Java,src/main/java/org/bytedeco/javacpp/indexer/CharArrayIndexer.java,CharArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ShortIndexer.java,ShortIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/PointerScope.java,PointerScope.java,152,89,47,16,18
+Java,src/main/java/org/bytedeco/javacpp/indexer/ULongRawIndexer.java,ULongRawIndexer.java,146,101,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/BooleanPointer.java,BooleanPointer.java,159,71,80,8,9
+Java,src/main/java/org/bytedeco/javacpp/indexer/ReverseUnsafeRaw.java,ReverseUnsafeRaw.java,55,27,26,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Declarator.java,Declarator.java,36,9,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/FloatIndexer.java,FloatIndexer.java,169,89,68,12,3
+Java,src/main/java/org/bytedeco/javacpp/LoadEnabled.java,LoadEnabled.java,41,7,32,2,0
+Java,src/main/java/org/bytedeco/javacpp/FloatPointer.java,FloatPointer.java,160,72,79,9,7
+Java,src/main/java/org/bytedeco/javacpp/BoolPointer.java,BoolPointer.java,107,50,50,7,3
+Java,src/main/java/org/bytedeco/javacpp/tools/ClassFilter.java,ClassFilter.java,32,4,26,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/ValueGetter.java,ValueGetter.java,31,10,19,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/BooleanRawIndexer.java,BooleanRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/tools/ParseMojo.java,ParseMojo.java,41,11,27,3,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/ByteArrayIndexer.java,ByteArrayIndexer.java,248,195,33,20,44
+Java,src/main/java/org/bytedeco/javacpp/tools/Info.java,Info.java,148,81,62,5,7
+Java,src/main/java/org/bytedeco/javacpp/annotation/Namespace.java,Namespace.java,29,12,15,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/NoException.java,NoException.java,24,10,12,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/IntArrayIndexer.java,IntArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ShortBufferIndexer.java,ShortBufferIndexer.java,133,90,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/tools/Slf4jLogger.java,Slf4jLogger.java,55,15,35,5,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Logger.java,Logger.java,65,24,36,5,5
+Java,src/main/java/org/bytedeco/javacpp/tools/Context.java,Context.java,139,103,29,7,29
+Java,src/main/java/org/bytedeco/javacpp/tools/CommandExecutor.java,CommandExecutor.java,97,52,38,7,18
+Java,src/main/java/org/bytedeco/javacpp/tools/DocTag.java,DocTag.java,72,31,35,6,1
+Java,src/main/java/org/bytedeco/javacpp/tools/InfoMapper.java,InfoMapper.java,45,7,35,3,0
+Java,src/main/java/org/bytedeco/javacpp/tools/DeclarationList.java,DeclarationList.java,193,152,33,8,125
+Java,src/main/java/org/bytedeco/javacpp/tools/CacheMojo.java,CacheMojo.java,141,99,31,11,13
+Java,src/main/java/org/bytedeco/javacpp/tools/Declaration.java,Declaration.java,35,8,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/TokenIndexer.java,TokenIndexer.java,313,252,50,11,111
+Java,src/main/java/org/bytedeco/javacpp/tools/EncodingFileWriter.java,EncodingFileWriter.java,55,24,25,6,4
+Java,src/main/java/org/bytedeco/javacpp/tools/PointerBufferPoolMXBean.java,PointerBufferPoolMXBean.java,59,48,0,11,2
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-mips64el.properties,linux-mips64el.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Parser.java,Parser.java,4058,3740,192,126,2172
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64le-cuda.properties,linux-ppc64le-cuda.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/tools/package-info.java,package-info.java,6,3,3,0,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Tokenizer.java,Tokenizer.java,345,306,28,11,198
+Java,src/main/java/org/bytedeco/javacpp/tools/Parameters.java,Parameters.java,33,6,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Opaque.java,Opaque.java,23,11,10,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/TemplateMap.java,TemplateMap.java,70,38,25,7,13
+Java,src/main/java/org/bytedeco/javacpp/tools/Attribute.java,Attribute.java,32,5,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Virtual.java,Virtual.java,23,12,9,2,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64-cuda.properties,windows-x86_64-cuda.properties,27,27,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/tools/ClassScanner.java,ClassScanner.java,155,119,25,11,44
+Java,src/main/java/org/bytedeco/javacpp/tools/InfoMap.java,InfoMap.java,323,271,29,23,58
+Java,src/main/java/org/bytedeco/javacpp/tools/BuildMojo.java,BuildMojo.java,426,295,75,56,53
+Java,src/main/java/org/bytedeco/javacpp/annotation/NoDeallocator.java,NoDeallocator.java,27,10,15,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/StdString.java,StdString.java,23,13,8,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Token.java,Token.java,154,116,25,13,35
+Java,src/main/java/org/bytedeco/javacpp/annotation/Platform.java,Platform.java,106,37,67,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/StdWString.java,StdWString.java,23,13,8,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/MemberSetter.java,MemberSetter.java,30,10,18,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Cast.java,Cast.java,28,12,14,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Properties.java,Properties.java,52,20,30,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/StdMove.java,StdMove.java,26,14,10,2,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/OneIndex.java,OneIndex.java,59,21,31,7,2
+Java,src/main/java/org/bytedeco/javacpp/indexer/LongRawIndexer.java,LongRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/ULongArrayIndexer.java,ULongArrayIndexer.java,132,89,31,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UShortRawIndexer.java,UShortRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/package-info.java,package-info.java,5,2,3,0,0
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/windows-x86-mingw.properties,windows-x86-mingw.properties,30,30,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/HalfArrayIndexer.java,HalfArrayIndexer.java,130,88,31,11,6
+Properties File,src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64le.properties,linux-ppc64le.properties,31,31,0,0,0
+Java,src/main/java/org/bytedeco/javacpp/indexer/LongArrayIndexer.java,LongArrayIndexer.java,130,88,31,11,6
+Java,src/main/java/org/bytedeco/javacpp/indexer/UnsafeRaw.java,UnsafeRaw.java,97,65,26,6,2
+Java,src/main/java/org/bytedeco/javacpp/indexer/IntRawIndexer.java,IntRawIndexer.java,145,100,33,12,6
+Java,src/main/java/org/bytedeco/javacpp/annotation/CriticalRegion.java,CriticalRegion.java,18,6,9,3,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Adapter.java,Adapter.java,42,15,25,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/UniquePtr.java,UniquePtr.java,28,14,12,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Raw.java,Raw.java,28,14,12,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/StdVector.java,StdVector.java,26,14,10,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/ArrayAllocator.java,ArrayAllocator.java,29,11,16,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Function.java,Function.java,26,10,14,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Name.java,Name.java,28,12,14,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/MemberGetter.java,MemberGetter.java,30,10,18,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/SharedPtr.java,SharedPtr.java,28,14,12,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/NoOffset.java,NoOffset.java,26,11,13,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/Const.java,Const.java,31,13,16,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/ByPtr.java,ByPtr.java,22,11,9,2,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/package-info.java,package-info.java,5,2,3,0,0
+Java,src/main/java/org/bytedeco/javacpp/annotation/ByPtrPtr.java,ByPtrPtr.java,22,11,9,2,0
+Java,src/main/java/org/bytedeco/javacpp/tools/Generator.java,Generator.java,4203,3987,105,111,1509

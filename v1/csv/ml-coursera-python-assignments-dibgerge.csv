@@ -1,0 +1,31 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+YAML,environment.yml,environment.yml,9,9,0,0,0
+Python,submission.py,submission.py,105,92,3,10,8
+Markdown,README.md,README.md,103,59,0,44,0
+gitignore,.gitignore,.gitignore,111,64,24,23,0
+Python,Exercise7/utils.py,utils.py,236,107,103,26,17
+Plain Text,Exercise6/Data/emailSample1.txt,emailSample1.txt,10,8,0,2,0
+Jupyter,Exercise7/exercise7.ipynb,exercise7.ipynb,1194,1194,0,0,0
+Python,Exercise3/utils.py,utils.py,104,75,10,19,9
+Plain Text,Exercise2/Data/ex2data2.txt,ex2data2.txt,118,118,0,0,0
+Plain Text,Exercise1/Data/ex1data2.txt,ex1data2.txt,47,47,0,0,0
+Jupyter,Exercise6/exercise6.ipynb,exercise6.ipynb,1029,1029,0,0,0
+Plain Text,Exercise2/Data/ex2data1.txt,ex2data1.txt,100,100,0,0,0
+Python,Exercise2/utils.py,utils.py,147,72,54,21,14
+Plain Text,Exercise6/Data/vocab.txt,vocab.txt,1899,1899,0,0,0
+Plain Text,Exercise8/Data/movie_ids.txt,movie_ids.txt,1682,1682,0,0,0
+Python,Exercise4/utils.py,utils.py,226,195,18,13,6
+Python,Exercise5/utils.py,utils.py,164,151,5,8,2
+Python,Exercise6/utils.py,utils.py,718,474,196,48,28
+Jupyter,Exercise3/exercise3.ipynb,exercise3.ipynb,923,923,0,0,0
+Plain Text,Exercise1/Data/ex1data1.txt,ex1data1.txt,97,97,0,0,0
+Python,Exercise1/utils.py,utils.py,48,41,1,6,3
+Jupyter,Exercise2/exercise2.ipynb,exercise2.ipynb,965,965,0,0,0
+Python,Exercise8/utils.py,utils.py,269,230,29,10,4
+Plain Text,Exercise6/Data/emailSample2.txt,emailSample2.txt,34,23,0,11,0
+Plain Text,Exercise6/Data/spamSample2.txt,spamSample2.txt,8,4,0,4,0
+Plain Text,Exercise6/Data/spamSample1.txt,spamSample1.txt,42,16,0,26,0
+Jupyter,Exercise5/exercise5.ipynb,exercise5.ipynb,915,915,0,0,0
+Jupyter,Exercise1/exercise1.ipynb,exercise1.ipynb,1307,1307,0,0,0
+Jupyter,Exercise8/exercise8.ipynb,exercise8.ipynb,1027,1027,0,0,0
+Jupyter,Exercise4/exercise4.ipynb,exercise4.ipynb,940,940,0,0,0

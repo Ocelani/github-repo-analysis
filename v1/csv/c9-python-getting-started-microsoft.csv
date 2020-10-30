@@ -1,0 +1,190 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,9,6,0,3,0
+License,LICENSE,LICENSE,21,17,0,4,0
+Markdown,SECURITY.md,SECURITY.md,41,24,0,17,0
+Markdown,README.md,README.md,54,31,0,23,0
+gitignore,.gitignore,.gitignore,142,76,38,28,0
+Markdown,even-more-python-for-beginners-data-tools/README.md,README.md,36,23,0,13,0
+Markdown,even-more-python-for-beginners-data-tools/03 - Intro to Pandas/README.md,README.md,14,8,0,6,0
+Markdown,python-for-beginners/README.md,README.md,36,24,0,12,0
+Jupyter,even-more-python-for-beginners-data-tools/15 - Visualizing data with Matplotlib/15 - Visualizing correlations.ipynb,15 - Visualizing correlations.ipynb,150,150,0,0,0
+Markdown,more-python-for-beginners/README.md,README.md,55,37,0,18,0
+Markdown,more-python-for-beginners/08 - Managing external resources/README.md,README.md,7,4,0,3,0
+Plain Text,more-python-for-beginners/requirements.txt,requirements.txt,2,2,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/15 - Visualizing data with Matplotlib/README.md,README.md,16,10,0,6,0
+Jupyter,even-more-python-for-beginners-data-tools/03 - Intro to Pandas/03 - Pandas Series and DataFrame.ipynb,03 - Pandas Series and DataFrame.ipynb,390,390,0,0,0
+Jupyter,even-more-python-for-beginners-data-tools/13 - Evaluating accuracy of a model using calculations/13 - Evaluate accuracy.ipynb,13 - Evaluate accuracy.ipynb,202,202,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/README.md,README.md,15,9,0,6,0
+CSV,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/airports.csv,airports.csv,8,8,0,0,0
+CSV,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/airportsNoHeaderRows.csv,airportsNoHeaderRows.csv,7,7,0,0,0
+Python,python-for-beginners/11 - Collections/dictionaries.py,dictionaries.py,4,4,0,0,0
+CSV,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/airportsInvalidRows.csv,airportsInvalidRows.csv,8,8,0,0,0
+Python,more-python-for-beginners/08 - Managing external resources/demo.py,demo.py,8,5,2,1,0
+Plain Text,more-python-for-beginners/08 - Managing external resources/output.txt,output.txt,1,1,0,0,0
+Markdown,python-for-beginners/10 - Complex conditon checks/readme.md,readme.md,31,23,0,8,0
+Jupyter,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/07 - Read write CSV files.ipynb,07 - Read write CSV files.ipynb,903,903,0,0,0
+Python,python-for-beginners/10 - Complex conditon checks/code_challenge.py,code_challenge.py,24,0,21,3,0
+Python,python-for-beginners/17 - JSON/read_json.py,read_json.py,60,25,19,16,2
+gitignore,more-python-for-beginners/.gitignore,.gitignore,134,72,37,25,0
+Python,python-for-beginners/17 - JSON/create_json_with_list.py,create_json_with_list.py,18,7,6,5,0
+CSV,even-more-python-for-beginners-data-tools/07 - Read and write CSV files from pandas DataFrames/airportsBlankValues.csv,airportsBlankValues.csv,8,8,0,0,0
+Python,python-for-beginners/17 - JSON/create_json_with_nested_dict.py,create_json_with_nested_dict.py,16,7,6,3,0
+Python,python-for-beginners/11 - Collections/arrays.py,arrays.py,5,5,0,0,0
+Python,python-for-beginners/14 - Function parameters/named_parameters_make_code_readable.py,named_parameters_make_code_readable.py,33,12,17,4,2
+Markdown,even-more-python-for-beginners-data-tools/13 - Evaluating accuracy of a model using calculations/README.md,README.md,23,13,0,10,0
+Python,python-for-beginners/11 - Collections/lists.py,lists.py,6,6,0,0,0
+Python,python-for-beginners/17 - JSON/create_json_from_dict.py,create_json_from_dict.py,12,5,4,3,0
+Python,python-for-beginners/11 - Collections/common-operations.py,common-operations.py,4,4,0,0,0
+Markdown,python-for-beginners/14 - Function parameters/readme.md,readme.md,33,24,0,9,0
+Markdown,python-for-beginners/11 - Collections/README.md,README.md,14,8,0,6,0
+Python,python-for-beginners/14 - Function parameters/code_challenge_solution.py,code_challenge_solution.py,25,9,13,3,1
+Python,python-for-beginners/14 - Function parameters/get_initials_default_values.py,get_initials_default_values.py,21,9,9,3,1
+Python,python-for-beginners/13 - Functions/print_time_function.py,print_time_function.py,16,10,4,2,2
+Python,python-for-beginners/11 - Collections/ranges.py,ranges.py,6,4,1,1,0
+Python,python-for-beginners/17 - JSON/read_subkey.py,read_subkey.py,49,18,20,11,0
+Python,python-for-beginners/10 - Complex conditon checks/boolean_variables.py,boolean_variables.py,15,8,5,2,3
+Python,python-for-beginners/13 - Functions/get_initails_function.py,get_initails_function.py,25,11,10,4,0
+Python,python-for-beginners/13 - Functions/print_time_with_message_parameter.py,print_time_with_message_parameter.py,20,10,7,3,2
+Markdown,python-for-beginners/13 - Functions/README.md,README.md,11,8,0,3,0
+Python,python-for-beginners/13 - Functions/code_challenge.py,code_challenge.py,17,0,16,1,0
+Python,python-for-beginners/13 - Functions/getting_clever_with_functions_harder_to_read.py,getting_clever_with_functions_harder_to_read.py,20,10,8,2,0
+Python,python-for-beginners/13 - Functions/get_initials.py,get_initials.py,13,8,1,4,0
+Python,python-for-beginners/13 - Functions/code_challenge_solution.py,code_challenge_solution.py,26,10,15,1,1
+Python,python-for-beginners/14 - Function parameters/get_initials_multiple_parameters.py,get_initials_multiple_parameters.py,21,9,9,3,1
+Python,python-for-beginners/10 - Complex conditon checks/using_and.py,using_and.py,9,5,2,2,2
+Python,python-for-beginners/17 - JSON/read_key_pair.py,read_key_pair.py,49,18,20,11,0
+Python,python-for-beginners/06 - Dates/get_current_date.py,get_current_date.py,9,3,4,2,0
+Python,python-for-beginners/14 - Function parameters/code_challenge.py,code_challenge.py,16,0,16,0,0
+Python,python-for-beginners/14 - Function parameters/get_initials_function.py,get_initials_function.py,17,6,8,3,0
+Python,python-for-beginners/13 - Functions/print_time_function_fix_import.py,print_time_function_fix_import.py,18,10,5,3,2
+Python,python-for-beginners/14 - Function parameters/get_initials_named_parameters.py,get_initials_named_parameters.py,22,10,9,3,1
+Python,python-for-beginners/05 - Numeric variables/doing_math.py,doing_math.py,16,12,3,1,0
+Python,python-for-beginners/17 - JSON/read_key_pair_list.py,read_key_pair_list.py,57,22,21,14,2
+Python,python-for-beginners/13 - Functions/print_time_repeated_code.py,print_time_repeated_code.py,14,10,2,2,2
+Markdown,python-for-beginners/17 - JSON/readme.md,readme.md,14,10,0,4,0
+Python,python-for-beginners/03 - Comments/comments_are_not_executed.py,comments_are_not_executed.py,4,0,4,0,0
+Jupyter,even-more-python-for-beginners-data-tools/10 - Splitting test and training data with scikit-learn/10 - Train Test split.ipynb,10 - Train Test split.ipynb,578,578,0,0,0
+Markdown,python-for-beginners/06 - Dates/README.md,README.md,18,11,0,7,0
+Python,python-for-beginners/06 - Dates/code_challenge.py,code_challenge.py,4,0,4,0,0
+Python,python-for-beginners/06 - Dates/date_functions.py,date_functions.py,15,9,3,3,0
+Markdown,python-for-beginners/03 - Comments/README.md,README.md,6,4,0,2,0
+Python,python-for-beginners/05 - Numeric variables/combining_strings_and_numbers.py,combining_strings_and_numbers.py,14,4,6,4,0
+Python,python-for-beginners/13 - Functions/print_time_function_different_messages.py,print_time_function_different_messages.py,14,10,2,2,2
+Python,python-for-beginners/06 - Dates/format_date.py,format_date.py,17,8,6,3,0
+Python,python-for-beginners/06 - Dates/code_challenge_solution.py,code_challenge_solution.py,19,11,4,4,0
+Python,python-for-beginners/06 - Dates/input_date.py,input_date.py,18,7,7,4,0
+Python,python-for-beginners/10 - Complex conditon checks/code_challenge_solution.py,code_challenge_solution.py,37,18,15,4,4
+Markdown,python-for-beginners/16 - Calling APIs/readme.md,readme.md,13,9,0,4,0
+Python,python-for-beginners/08 - Handling conditions/case_insensitive_comparisons.py,case_insensitive_comparisons.py,8,5,3,0,1
+Python,python-for-beginners/07 - Error handling/runtime.py,runtime.py,11,10,1,0,0
+Python,python-for-beginners/03 - Comments/string_in_double_quotes.py,string_in_double_quotes.py,3,1,2,0,0
+Python,python-for-beginners/05 - Numeric variables/numbers_treated_as_strings.py,numbers_treated_as_strings.py,10,3,5,2,0
+Python,python-for-beginners/15 - Packages/color_import_demo.py,color_import_demo.py,12,8,0,4,0
+Python,python-for-beginners/05 - Numeric variables/print_pi.py,print_pi.py,3,2,1,0,0
+Python,python-for-beginners/05 - Numeric variables/code_challenge_solution.py,code_challenge_solution.py,16,5,7,4,0
+Markdown,python-for-beginners/05 - Numeric variables/README.md,README.md,14,8,0,6,0
+Python,python-for-beginners/05 - Numeric variables/convert_strings_to_numbers_for_math.py,convert_strings_to_numbers_for_math.py,11,4,5,2,0
+Python,python-for-beginners/05 - Numeric variables/code_challenge.py,code_challenge.py,6,0,6,0,0
+Python,python-for-beginners/02 - Print/single_or_double_quotes.py,single_or_double_quotes.py,5,2,2,1,0
+Python,python-for-beginners/03 - Comments/comments_for_debugging.py,comments_for_debugging.py,2,2,0,0,0
+Python,python-for-beginners/08 - Handling conditions/add_else_different_indentation.py,add_else_different_indentation.py,8,6,2,0,1
+Python,python-for-beginners/03 - Comments/enable_pin.py,enable_pin.py,16,5,8,3,0
+Python,python-for-beginners/04 - String variables/combine_strings.py,combine_strings.py,8,4,3,1,0
+Markdown,python-for-beginners/08 - Handling conditions/README.md,README.md,21,16,0,5,0
+Python,python-for-beginners/04 - String variables/format_strings.py,format_strings.py,8,4,3,1,0
+Python,python-for-beginners/02 - Print/coding_challenge_solution.py,coding_challenge_solution.py,21,5,12,4,0
+Python,python-for-beginners/08 - Handling conditions/code_challenge.py,code_challenge.py,12,7,4,1,1
+Markdown,python-for-beginners/04 - String variables/README.md,README.md,14,8,0,6,0
+Python,python-for-beginners/08 - Handling conditions/comparing_strings.py,comparing_strings.py,7,5,2,0,1
+Python,python-for-beginners/02 - Print/hello_world.py,hello_world.py,2,1,1,0,0
+Markdown,even-more-python-for-beginners-data-tools/08 - Removing and splitting DataFrame columns/README.md,README.md,13,7,0,6,0
+Python,python-for-beginners/02 - Print/coding_challenge.py,coding_challenge.py,15,11,3,1,0
+Python,python-for-beginners/16 - Calling APIs/code_challenge.py,code_challenge.py,25,0,24,1,0
+Python,python-for-beginners/09 - Handling multiple conditions/use_elif.py,use_elif.py,9,9,0,0,1
+CSV,even-more-python-for-beginners-data-tools/08 - Removing and splitting DataFrame columns/flight_delays.csv,flight_delays.csv,100,100,0,0,0
+Python,python-for-beginners/09 - Handling multiple conditions/add_else_to_elif.py,add_else_to_elif.py,12,11,0,1,1
+Python,python-for-beginners/09 - Handling multiple conditions/use_in_statements.py,use_in_statements.py,11,9,2,0,1
+Python,python-for-beginners/09 - Handling multiple conditions/or_statements.py,or_statements.py,10,10,0,0,2
+Markdown,python-for-beginners/09 - Handling multiple conditions/README.md,README.md,28,21,0,7,0
+Python,python-for-beginners/09 - Handling multiple conditions/multiple_if_statements.py,multiple_if_statements.py,11,9,0,2,3
+Markdown,python-for-beginners/02 - Print/README.md,README.md,22,12,0,10,0
+Python,python-for-beginners/02 - Print/print_blank_line.py,print_blank_line.py,13,4,4,5,0
+Python,python-for-beginners/09 - Handling multiple conditions/code_challenge.py,code_challenge.py,14,0,14,0,0
+Python,python-for-beginners/02 - Print/ask_for_input.py,ask_for_input.py,5,2,2,1,0
+Python,python-for-beginners/07 - Error handling/logic.py,logic.py,4,4,0,0,1
+Plain Text,python-for-beginners/15 - Packages/requirements.txt,requirements.txt,1,1,0,0,0
+Python,python-for-beginners/12 - Loops/number.py,number.py,6,2,4,0,2
+Python,python-for-beginners/09 - Handling multiple conditions/nested_if.py,nested_if.py,14,13,0,1,2
+Python,python-for-beginners/16 - Calling APIs/call_api.py,call_api.py,47,15,21,11,0
+Markdown,python-for-beginners/12 - Loops/README.md,README.md,24,18,0,6,0
+Python,python-for-beginners/18 - Decorators/creating_decorators.py,creating_decorators.py,19,16,0,3,0
+Python,python-for-beginners/09 - Handling multiple conditions/code_challenge_solution.py,code_challenge_solution.py,31,14,15,2,3
+Python,python-for-beginners/12 - Loops/while.py,while.py,6,5,1,0,1
+Markdown,python-for-beginners/18 - Decorators/README.md,README.md,10,8,0,2,0
+Plain Text,more-python-for-beginners/07 - Reading and writing files/demo.txt,demo.txt,3,3,0,0,0
+Python,more-python-for-beginners/07 - Reading and writing files/write.py,write.py,16,10,2,4,0
+Markdown,more-python-for-beginners/09 - Asynchronous programming/README.md,README.md,7,4,0,3,0
+Markdown,more-python-for-beginners/01 - Formatting and linting/README.md,README.md,24,14,0,10,0
+Jupyter,even-more-python-for-beginners-data-tools/08 - Removing and splitting DataFrame columns/08 - Removing columns.ipynb,08 - Removing columns.ipynb,634,634,0,0,0
+Python,more-python-for-beginners/06 - Managing the file system/files.py,files.py,16,7,4,5,0
+Python,python-for-beginners/12 - Loops/for.py,for.py,2,2,0,0,2
+Python,more-python-for-beginners/07 - Reading and writing files/manage.py,manage.py,17,6,6,5,0
+Python,more-python-for-beginners/09 - Asynchronous programming/async_demo.py,async_demo.py,34,21,6,7,0
+Markdown,more-python-for-beginners/07 - Reading and writing files/README.md,README.md,7,4,0,3,0
+Plain Text,more-python-for-beginners/06 - Managing the file system/demo.txt,demo.txt,1,1,0,0,0
+Python,python-for-beginners/08 - Handling conditions/check_tax.py,check_tax.py,12,5,5,2,1
+Python,more-python-for-beginners/01 - Formatting and linting/good.py,good.py,10,2,8,0,0
+Python,more-python-for-beginners/09 - Asynchronous programming/sync_demo.py,sync_demo.py,21,15,0,6,0
+Python,more-python-for-beginners/01 - Formatting and linting/bad.py,bad.py,11,9,0,2,1
+Python,more-python-for-beginners/06 - Managing the file system/paths.py,paths.py,14,6,5,3,0
+Python,python-for-beginners/04 - String variables/code_challenge.py,code_challenge.py,6,0,6,0,0
+Python,python-for-beginners/04 - String variables/string_functions.py,string_functions.py,17,5,8,4,0
+Python,python-for-beginners/04 - String variables/strings_in_variables.py,strings_in_variables.py,5,2,2,1,0
+Python,python-for-beginners/04 - String variables/code_challenge_solution.py,code_challenge_solution.py,10,3,6,1,0
+JSON,more-python-for-beginners/01 - Formatting and linting/.vscode/settings.json,settings.json,8,8,0,0,0
+Markdown,more-python-for-beginners/05 - Mixins/README.md,README.md,12,7,0,5,0
+Python,more-python-for-beginners/05 - Mixins/demo.py,demo.py,27,27,0,0,0
+Markdown,more-python-for-beginners/04 - Inheritance/README.md,README.md,9,5,0,4,0
+Python,more-python-for-beginners/07 - Reading and writing files/read.py,read.py,6,5,1,0,0
+Python,more-python-for-beginners/04 - Inheritance/demo.py,demo.py,20,17,1,2,0
+Markdown,python-for-beginners/07 - Error handling/README.md,README.md,5,3,0,2,0
+Python,more-python-for-beginners/02 - Lambdas/lambda_sorter.py,lambda_sorter.py,14,10,2,2,0
+Python,more-python-for-beginners/06 - Managing the file system/directories.py,directories.py,17,9,4,4,3
+Python,more-python-for-beginners/02 - Lambdas/method_sorter.py,method_sorter.py,10,8,0,2,0
+Markdown,more-python-for-beginners/06 - Managing the file system/README.md,README.md,7,4,0,3,0
+Markdown,more-python-for-beginners/02 - Lambdas/README.md,README.md,9,5,0,4,0
+Markdown,even-more-python-for-beginners-data-tools/11 - Train a linear regression model with scikit-learn/README.md,README.md,14,8,0,6,0
+Python,more-python-for-beginners/02 - Lambdas/failed_sort.py,failed_sort.py,9,6,2,1,0
+Python,more-python-for-beginners/03 - Classes/properties_class.py,properties_class.py,18,14,2,2,0
+Markdown,python-for-beginners/15 - Packages/README.md,README.md,31,20,0,11,0
+Python,more-python-for-beginners/03 - Classes/basic_class.py,basic_class.py,11,8,2,1,0
+Jupyter,even-more-python-for-beginners-data-tools/05 - Query a pandas Dataframe/05 - Querying DataFrames.ipynb,05 - Querying DataFrames.ipynb,812,812,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/10 - Splitting test and training data with scikit-learn/README.md,README.md,13,7,0,6,0
+Python,python-for-beginners/08 - Handling conditions/add_else.py,add_else.py,15,8,4,3,1
+Markdown,even-more-python-for-beginners-data-tools/06 - CSV Files and Jupyter Notebooks/README.md,README.md,9,5,0,4,0
+Markdown,even-more-python-for-beginners-data-tools/05 - Query a pandas Dataframe/README.md,README.md,14,8,0,6,0
+Python,python-for-beginners/15 - Packages/import_module.py,import_module.py,11,6,3,2,0
+Markdown,more-python-for-beginners/03 - Classes/README.md,README.md,9,5,0,4,0
+Python,python-for-beginners/08 - Handling conditions/code_challenge_solution.py,code_challenge_solution.py,13,8,4,1,1
+CSV,even-more-python-for-beginners-data-tools/06 - CSV Files and Jupyter Notebooks/airports.csv,airports.csv,8,8,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/01 - Jupyter Notebooks/README.md,README.md,18,12,0,6,0
+Jupyter,even-more-python-for-beginners-data-tools/04 - Examining Pandas DataFrame contents/04 - Exploring pandas DataFrame contents.ipynb,04 - Exploring pandas DataFrame contents.ipynb,381,381,0,0,0
+Python,python-for-beginners/15 - Packages/helpers.py,helpers.py,4,4,0,0,1
+Python,python-for-beginners/07 - Error handling/syntax.py,syntax.py,4,4,0,0,1
+Jupyter,even-more-python-for-beginners-data-tools/12 - Testing a model/12 - Test a model.ipynb,12 - Test a model.ipynb,459,459,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/02 - Introduction to Anaconda and Conda/README.md,README.md,14,9,0,5,0
+Markdown,even-more-python-for-beginners-data-tools/04 - Examining Pandas DataFrame contents/README.md,README.md,10,7,0,3,0
+Jupyter,even-more-python-for-beginners-data-tools/09 - Handling duplicates and rows with missing values/09 - Removing rows.ipynb,09 - Removing rows.ipynb,618,618,0,0,0
+Jupyter,even-more-python-for-beginners-data-tools/11 - Train a linear regression model with scikit-learn/11 - Train a basic model.ipynb,11 - Train a basic model.ipynb,116,116,0,0,0
+CSV,even-more-python-for-beginners-data-tools/09 - Handling duplicates and rows with missing values/airportsDuplicateRows.csv,airportsDuplicateRows.csv,9,9,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/09 - Handling duplicates and rows with missing values/README.md,README.md,15,9,0,6,0
+Markdown,even-more-python-for-beginners-data-tools/12 - Testing a model/README.md,README.md,14,8,0,6,0
+Jupyter,even-more-python-for-beginners-data-tools/14 - NumPy vs Pandas/14 - Working with numpy and pandas.ipynb,14 - Working with numpy and pandas.ipynb,697,697,0,0,0
+Markdown,even-more-python-for-beginners-data-tools/14 - NumPy vs Pandas/README.md,README.md,28,15,0,13,0
+CSV,even-more-python-for-beginners-data-tools/14 - NumPy vs Pandas/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/11 - Train a linear regression model with scikit-learn/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/09 - Handling duplicates and rows with missing values/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/12 - Testing a model/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/13 - Evaluating accuracy of a model using calculations/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/10 - Splitting test and training data with scikit-learn/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0
+CSV,even-more-python-for-beginners-data-tools/15 - Visualizing data with Matplotlib/Lots_of_flight_data.csv,Lots_of_flight_data.csv,300001,300001,0,0,0

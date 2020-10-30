@@ -1,0 +1,311 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,README.md,README.md,33,17,0,16,0
+Markdown,README_ZH.md,README_ZH.md,34,17,0,17,0
+YAML,_config.yml,_config.yml,1,1,0,0,0
+Markdown,ServletAjax/readme.md,readme.md,41,26,0,15,0
+Markdown,woss/readme.md,readme.md,23,16,0,7,0
+Markdown,tomcatServer3.0/readme.md,readme.md,18,11,0,7,0
+HTML,tomcatServer3.0/src/source/login.html,login.html,14,14,0,0,0
+HTML,tomcatServer3.0/src/source/post.html,post.html,14,14,0,0,0
+Properties File,tomcatServer3.0/src/source/property.properties,property.properties,2,2,0,0,0
+HTML,tomcatServer3.0/src/source/success.html,success.html,10,10,0,0,0
+XML,estore/src/mybatis-config.xml,mybatis-config.xml,49,34,12,3,0
+HTML,tomcatServer3.0/src/source/error.html,error.html,10,10,0,0,0
+XML,estore/build/classes/mybatis-config.xml,mybatis-config.xml,49,34,12,3,0
+XML,Kaptcha/.settings/org.eclipse.wst.common.project.facet.core.xml,org.eclipse.wst.common.project.facet.core.xml,10,10,0,0,0
+JavaServer Pages,Kaptcha/WebContent/check.jsp,check.jsp,22,19,1,2,1
+Properties File,estore/src/log4j.properties,log4j.properties,10,9,1,0,0
+XML,estore/.settings/org.eclipse.wst.common.project.facet.core.xml,org.eclipse.wst.common.project.facet.core.xml,10,10,0,0,0
+JavaServer Pages,estore/WebContent/login.jsp,login.jsp,108,101,0,7,0
+JavaServer Pages,estore/WebContent/shopcart.jsp,shopcart.jsp,116,113,0,3,1
+Java,tomcatServer3.0/src/com/hjy/GetPosyTest.java,GetPosyTest.java,107,79,24,4,5
+Java,woss/src/com/briup/main/ClientMain.java,ClientMain.java,25,18,4,3,0
+Java,woss/src/com/briup/main/ServerMain.java,ServerMain.java,18,11,4,3,0
+Java,woss/src/com/briup/client/imp/ClientImp.java,ClientImp.java,67,60,0,7,1
+Java,tomcatServer3.0/src/com/hjy/serverThread/ServerThread.java,ServerThread.java,23,19,0,4,0
+Java,tomcatServer3.0/src/com/hjy/util/GetParm.java,GetParm.java,22,17,1,4,1
+Java,tomcatServer3.0/src/com/hjy/request/Request.java,Request.java,102,83,7,12,5
+Java,tomcatServer3.0/src/com/hjy/server/Server.java,Server.java,67,54,8,5,0
+SQL,woss/src/com/briup/data/boss.sql,boss.sql,438,341,0,97,0
+Java,woss/src/com/briup/model/BIDR.java,BIDR.java,82,54,22,6,0
+JavaScript,estore/WebContent/js/main.js,main.js,105,99,0,6,54
+XML,woss/src/config.xml,config.xml,32,31,0,1,0
+Java,woss/src/com/briup/server/DBStore.java,DBStore.java,19,7,10,2,0
+Java,estore/src/com/briup/dao/IOrderDao.java,IOrderDao.java,22,13,5,4,0
+Java,tomcatServer3.0/src/com/hjy/response/Response.java,Response.java,86,70,8,8,11
+Java,estore/src/com/briup/dao/ICustomerDao.java,ICustomerDao.java,12,7,3,2,0
+Java,estore/src/com/briup/dao/impl/CustomerDaoImpl.java,CustomerDaoImpl.java,32,26,0,6,0
+Java,estore/src/com/briup/dao/impl/OrderDaoImpl.java,OrderDaoImpl.java,63,52,0,11,1
+Java,estore/src/com/briup/bean/OrderLineMapper.java,OrderLineMapper.java,5,4,0,1,0
+XML,estore/WebContent/WEB-INF/web.xml,web.xml,88,88,0,0,0
+Java,estore/src/com/briup/bean/OrderLine.java,OrderLine.java,38,32,2,4,0
+Java,estore/src/com/briup/web/filter/EncodeFilter.java,EncodeFilter.java,24,19,0,5,0
+Java,estore/src/com/briup/bean/OrderformMapper.java,OrderformMapper.java,5,4,0,1,0
+Java,woss/src/com/briup/common/DBUtils.java,DBUtils.java,42,31,10,1,3
+Properties File,woss/src/log4j.properties,log4j.properties,40,26,7,7,0
+Java,woss/src/com/briup/client/Client.java,Client.java,21,7,12,2,0
+HTML,estore/WebContent/order.html,order.html,103,91,3,9,0
+Java,woss/src/com/briup/client/Gather.java,Gather.java,20,7,11,2,0
+Java,woss/src/com/briup/client/imp/GatherImp.java,GatherImp.java,152,123,21,8,8
+Properties File,estore/build/classes/log4j.properties,log4j.properties,10,9,1,0,0
+JavaServer Pages,estore/WebContent/index.jsp,index.jsp,154,144,0,10,0
+Java,ServletAjax/src/com/hjy/SearchServlet.java,SearchServlet.java,53,39,9,5,2
+Java,estore/src/com/briup/web/listener/SessionListener.java,SessionListener.java,18,15,0,3,0
+Java,estore/src/com/briup/web/listener/ContextListener.java,ContextListener.java,35,28,0,7,0
+Java,woss/src/com/briup/server/Server.java,Server.java,23,6,15,2,0
+Java,woss/src/com/briup/server/imp/DBStoreImp.java,DBStoreImp.java,118,110,2,6,8
+Java,woss/src/com/briup/server/imp/ServerThread.java,ServerThread.java,42,38,0,4,0
+Java,woss/src/com/briup/server/imp/ServerImp.java,ServerImp.java,63,54,0,9,1
+Java,estore/src/com/briup/web/servlet/AddOrderLineServlet.java,AddOrderLineServlet.java,38,32,0,6,0
+Java,estore/src/com/briup/web/servlet/ModifiCartServlet.java,ModifiCartServlet.java,28,23,0,5,0
+XML,estore/src/com/briup/bean/OrderformMapper.xml,OrderformMapper.xml,12,11,0,1,0
+XML,estore/build/classes/com/briup/bean/OrderformMapper.xml,OrderformMapper.xml,12,11,0,1,0
+XML,estore/build/classes/com/briup/bean/BookMapper.xml,BookMapper.xml,8,8,0,0,0
+HTML,estore/WebContent/productDetail.html,productDetail.html,132,122,3,7,0
+XML,estore/build/classes/com/briup/bean/OrderLineMapper.xml,OrderLineMapper.xml,11,11,0,0,0
+XML,estore/build/classes/com/briup/bean/CustomerMapper.xml,CustomerMapper.xml,15,15,0,0,0
+XML,estore/src/com/briup/bean/BookMapper.xml,BookMapper.xml,8,8,0,0,0
+Java,estore/src/com/briup/bean/Customer.java,Customer.java,67,62,0,5,0
+Java,estore/src/com/briup/bean/CustomerMapper.java,CustomerMapper.java,6,5,0,1,0
+XML,estore/src/com/briup/bean/CustomerMapper.xml,CustomerMapper.xml,15,15,0,0,0
+Java,estore/src/com/briup/bean/ShoppingCart.java,ShoppingCart.java,48,45,0,3,2
+Java,estore/src/com/briup/bean/Book.java,Book.java,39,34,0,5,0
+Java,woss/src/com/briup/common/ConfigurationAWare.java,ConfigurationAWare.java,13,4,9,0,0
+Java,estore/src/com/briup/common/MybatisSessionFactory.java,MybatisSessionFactory.java,106,51,42,13,7
+XML,estore/src/com/briup/bean/OrderLineMapper.xml,OrderLineMapper.xml,11,11,0,0,0
+Java,estore/src/com/briup/web/servlet/RegisterServlet.java,RegisterServlet.java,50,44,0,6,0
+Java,estore/src/com/briup/bean/BookMapper.java,BookMapper.java,7,5,0,2,0
+XML,woss/bin/config.xml,config.xml,32,31,0,1,0
+Java,estore/src/com/briup/bean/Orderform.java,Orderform.java,48,44,0,4,0
+Properties File,woss/bin/log4j.properties,log4j.properties,40,26,7,7,0
+HTML,tomcatServer3.0/bin/source/post.html,post.html,14,14,0,0,0
+HTML,tomcatServer3.0/bin/source/login.html,login.html,14,14,0,0,0
+Properties File,tomcatServer3.0/bin/source/property.properties,property.properties,2,2,0,0,0
+HTML,tomcatServer3.0/bin/source/success.html,success.html,10,10,0,0,0
+Java,estore/src/com/briup/web/filter/AuthFilter.java,AuthFilter.java,56,30,18,8,0
+HTML,tomcatServer3.0/bin/source/error.html,error.html,10,10,0,0,0
+JavaServer Pages,ServletAjax/WebRoot/search.jsp,search.jsp,189,137,42,10,9
+XML,ServletAjax/WebRoot/WEB-INF/web.xml,web.xml,18,18,0,0,0
+HTML,estore/WebContent/index.html,index.html,154,136,3,15,0
+SQL,woss/bin/com/briup/data/boss.sql,boss.sql,438,341,0,97,0
+XML,seckill/pom.xml,pom.xml,152,116,26,10,0
+Markdown,seckill/readme.md,readme.md,61,49,0,12,0
+Java,IMOOCSpider/src/main/Main.java,Main.java,22,15,3,4,1
+SQL,seckill/src/main/sql/schema.sql,schema.sql,51,33,9,9,0
+Java,seckill/src/test/java/org/seckill/service/SeckillServiceTest.java,SeckillServiceTest.java,87,54,20,13,1
+Java,seckill/src/test/java/org/seckill/dao/SuccessKilledDaoTest.java,SuccessKilledDaoTest.java,53,28,17,8,0
+Markdown,IMOOCSpider/readme.md,readme.md,37,27,0,10,0
+Java,seckill/src/test/java/org/seckill/dao/SeckillDaoTest.java,SeckillDaoTest.java,63,35,18,10,1
+JavaServer Pages,Kaptcha/WebContent/index.jsp,index.jsp,16,16,0,0,0
+Java,seckill/src/main/java/org/seckill/service/SeckillService.java,SeckillService.java,53,15,29,9,0
+XML,Kaptcha/WebContent/WEB-INF/web.xml,web.xml,17,17,0,0,0
+Java,seckill/src/main/java/org/seckill/exception/SeckillCloseException.java,SeckillCloseException.java,16,9,4,3,0
+Java,seckill/src/main/java/org/seckill/exception/SeckillException.java,SeckillException.java,16,9,4,3,0
+HTML,estore/WebContent/footer.html,footer.html,14,14,0,0,0
+Java,seckill/src/main/java/org/seckill/dao/SuccessKilledDao.java,SuccessKilledDao.java,25,7,14,4,0
+Java,seckill/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java,SeckillServiceImpl.java,119,85,22,12,10
+Java,seckill/src/main/java/org/seckill/dao/SeckillDao.java,SeckillDao.java,36,10,20,6,0
+Java,estore/src/com/briup/service/ICustomerService.java,ICustomerService.java,13,8,3,2,0
+HTML,estore/WebContent/shopcart.html,shopcart.html,113,103,3,7,0
+JavaServer Pages,estore/WebContent/register.jsp,register.jsp,242,205,0,37,0
+HTML,estore/WebContent/register.html,register.html,237,194,2,41,0
+HTML,estore/WebContent/user/userinfo.html,userinfo.html,238,195,3,40,0
+Java,seckill/src/main/java/org/seckill/exception/RepeatKillException.java,RepeatKillException.java,16,9,4,3,0
+HTML,estore/WebContent/user/orderinfo.html,orderinfo.html,152,139,3,10,0
+JavaServer Pages,estore/WebContent/user/confirmOrder.jsp,confirmOrder.jsp,168,153,0,15,0
+HTML,estore/WebContent/login.html,login.html,95,90,3,2,0
+CSS,estore/WebContent/css/main.css,main.css,49,45,3,1,0
+HTML,estore/WebContent/user/confirmOrder.html,confirmOrder.html,162,145,3,14,0
+JavaServer Pages,estore/WebContent/user/order.jsp,order.jsp,105,96,0,9,0
+Java,estore/src/com/briup/service/IOrderService.java,IOrderService.java,22,14,5,3,0
+Java,seckill/src/main/java/org/seckill/enums/SeckillStatEnum.java,SeckillStatEnum.java,40,28,4,8,3
+Java,woss/src/com/briup/common/WossModule.java,WossModule.java,18,5,12,1,0
+Java,estore/src/com/briup/service/impl/OrderServiceImpl.java,OrderServiceImpl.java,69,58,0,11,1
+Java,seckill/src/main/java/org/seckill/web/SeckillController.java,SeckillController.java,111,89,7,15,6
+Java,woss/src/com/briup/common/Configuration.java,Configuration.java,43,13,26,4,0
+Java,seckill/src/main/java/org/seckill/dto/ExposerRsp.java,ExposerRsp.java,106,72,11,23,0
+Java,estore/src/com/briup/service/impl/CustomerServiceImpl.java,CustomerServiceImpl.java,69,60,1,8,3
+Java,seckill/src/main/java/org/seckill/entity/Seckill.java,Seckill.java,81,57,3,21,0
+Java,estore/src/com/briup/common/BeanFactory.java,BeanFactory.java,63,56,0,7,12
+Java,seckill/src/main/java/org/seckill/entity/SuccessKilled.java,SuccessKilled.java,70,48,4,18,0
+Java,woss/src/com/briup/common/Log.java,Log.java,24,9,8,7,0
+JavaServer Pages,seckill/src/main/webapp/index.jsp,index.jsp,5,5,0,0,0
+Java,seckill/src/main/java/org/seckill/dto/SeckillResult.java,SeckillResult.java,48,32,4,12,0
+Java,estore/src/com/briup/web/servlet/RemoveProductServlet.java,RemoveProductServlet.java,27,21,0,6,0
+XML,seckill/src/main/resources/mybatis-config.xml,mybatis-config.xml,15,11,4,0,0
+XML,seckill/src/main/resources/logback.xml,logback.xml,15,11,2,2,0
+Properties File,seckill/src/main/resources/jdbc.properties,jdbc.properties,4,4,0,0,0
+Java,estore/src/com/briup/web/servlet/LoginServlet.java,LoginServlet.java,40,36,0,4,0
+XML,seckill/src/main/webapp/WEB-INF/web.xml,web.xml,26,19,7,0,0
+Java,estore/src/com/briup/web/servlet/SaveOrderServlet.java,SaveOrderServlet.java,55,50,0,5,1
+XML,seckill/src/main/resources/spring/spring-service.xml,spring-service.xml,23,17,4,2,0
+HTML,estore/WebContent/header.html,header.html,49,48,0,1,0
+XML,seckill/src/main/resources/spring/spring-dao.xml,spring-dao.xml,53,29,19,5,0
+HTML,estore/WebContent/user/header.html,header.html,50,46,0,4,0
+Java,seckill/src/main/java/org/seckill/dto/SeckillExecutionRsp.java,SeckillExecutionRsp.java,77,53,7,17,0
+XML,seckill/.idea/misc.xml,misc.xml,54,54,0,0,0
+XML,seckill/.idea/compiler.xml,compiler.xml,16,16,0,0,0
+JavaServer Pages,seckill/target/seckill/index.jsp,index.jsp,5,5,0,0,0
+XML,seckill/target/classes/mybatis-config.xml,mybatis-config.xml,15,11,4,0,0
+Java,IMOOCSpider/src/spider/Spider.java,Spider.java,80,47,21,12,1
+XML,seckill/target/classes/logback.xml,logback.xml,15,11,2,2,0
+Properties File,seckill/target/classes/jdbc.properties,jdbc.properties,4,4,0,0,0
+JavaScript,seckill/src/main/webapp/resources/script/seckill.js,seckill.js,138,101,31,6,21
+Java,woss/src/com/briup/common/imp/LogImp.java,LogImp.java,57,44,2,11,0
+Java,woss/src/com/briup/common/imp/ConfigurationImp.java,ConfigurationImp.java,99,76,10,13,4
+XML,seckill/.idea/kotlinc.xml,kotlinc.xml,7,7,0,0,0
+XML,seckill/.idea/dataSources.xml,dataSources.xml,19,19,0,0,0
+XML,seckill/target/classes/mapper/SuccesskilledDao.xml,SuccesskilledDao.xml,31,26,4,1,0
+XML,seckill/.idea/sqldialects.xml,sqldialects.xml,6,6,0,0,0
+XML,seckill/target/classes/mapper/SeckillDao.xml,SeckillDao.xml,34,28,1,5,0
+Java,woss/src/com/briup/common/Backup.java,Backup.java,36,9,21,6,0
+XML,seckill/.idea/dataSources.local.xml,dataSources.local.xml,15,15,0,0,0
+XML,seckill/target/classes/spring/spring-service.xml,spring-service.xml,23,17,4,2,0
+Java,IMOOCSpider/src/bean/Imooc.java,Imooc.java,82,58,12,12,3
+XML,seckill/target/classes/spring/spring-web.xml,spring-web.xml,37,19,14,4,0
+XML,seckill/target/seckill/WEB-INF/web.xml,web.xml,26,19,7,0,0
+XML,seckill/target/classes/spring/spring-dao.xml,spring-dao.xml,53,29,19,5,0
+XML,seckill/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml,Maven__c3p0_c3p0_0_9_1_2.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml,Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml,Maven__javax_servlet_javax_servlet_api_3_1_0.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml,Maven__org_slf4j_slf4j_api_1_7_12.xml,13,13,0,0,0
+XML,seckill/target/seckill/WEB-INF/classes/mybatis-config.xml,mybatis-config.xml,15,11,4,0,0
+JavaServer Pages,seckill/target/seckill/WEB-INF/jsp/detail.jsp,detail.jsp,80,74,1,5,1
+XML,seckill/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml,Maven__ch_qos_logback_logback_classic_1_1_1.xml,13,13,0,0,0
+XML,seckill/target/seckill/WEB-INF/classes/logback.xml,logback.xml,15,11,2,2,0
+JavaServer Pages,seckill/target/seckill/WEB-INF/jsp/list.jsp,list.jsp,59,57,0,2,1
+XML,seckill/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml,Maven__org_hamcrest_hamcrest_core_1_3.xml,13,13,0,0,0
+XML,seckill/.idea/artifacts/seckill_war_exploded.xml,seckill_war_exploded.xml,43,43,0,0,0
+JavaServer Pages,seckill/target/seckill/WEB-INF/jsp/common/head.jsp,head.jsp,14,12,0,2,2
+JavaScript,seckill/target/seckill/resources/script/seckill.js,seckill.js,138,101,31,6,21
+JavaServer Pages,seckill/target/seckill/WEB-INF/jsp/common/tag.jsp,tag.jsp,2,2,0,0,0
+HTML,estore/WebContent/user/footer.html,footer.html,15,14,0,1,0
+XML,seckill/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml,Maven__org_mybatis_mybatis_3_3_0.xml,13,13,0,0,0
+XML,seckill/src/main/resources/spring/spring-web.xml,spring-web.xml,37,19,14,4,0
+XML,seckill/.idea/workspace.xml,workspace.xml,1933,1933,0,0,0
+XML,seckill/.idea/dataSources/b4b375ab-fd9c-41ee-8e2e-ed911b5676d2.xml,b4b375ab-fd9c-41ee-8e2e-ed911b5676d2.xml,112,112,0,0,0
+Java,woss/src/com/briup/common/imp/BackupImp.java,BackupImp.java,59,50,1,8,3
+XML,seckill/.idea/modules.xml,modules.xml,8,8,0,0,0
+XML,seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml,Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml,13,13,0,0,0
+XML,seckill/src/main/resources/mapper/SeckillDao.xml,SeckillDao.xml,34,28,1,5,0
+JavaScript,seckill/target/seckill/WEB-INF/jsp/js/bootstrap.min.js,bootstrap.min.js,6,1,5,0,2
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml,Maven__org_springframework_spring_test_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml,Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/src/main/resources/mapper/SuccesskilledDao.xml,SuccesskilledDao.xml,31,26,4,1,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml,Maven__org_springframework_spring_context_4_1_7_RELEASE.xml,13,13,0,0,0
+Markdown,checkcode/README.md,README.md,15,9,0,6,0
+JavaServer Pages,seckill/src/main/webapp/WEB-INF/jsp/detail.jsp,detail.jsp,80,74,1,5,1
+JavaServer Pages,seckill/src/main/webapp/WEB-INF/jsp/list.jsp,list.jsp,59,57,0,2,1
+Batch,springboot-shiro/mvnw.cmd,mvnw.cmd,161,129,0,32,22
+Properties File,seckill/target/seckill/WEB-INF/classes/jdbc.properties,jdbc.properties,4,4,0,0,0
+XML,seckill/.idea/artifacts/seckill_war.xml,seckill_war.xml,8,8,0,0,0
+XML,springboot-shiro/pom.xml,pom.xml,105,94,5,6,0
+Markdown,springboot-shiro/readme.md,readme.md,24,18,0,6,0
+Java,estore/src/com/briup/common/exception/CustomerServiceException.java,CustomerServiceException.java,24,14,4,6,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml,Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml,13,13,0,0,0
+JavaServer Pages,seckill/src/main/webapp/WEB-INF/jsp/common/head.jsp,head.jsp,14,12,0,2,2
+JavaServer Pages,seckill/src/main/webapp/WEB-INF/jsp/common/tag.jsp,tag.jsp,2,2,0,0,0
+XML,seckill/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml,Maven__org_mybatis_mybatis_spring_1_2_3.xml,13,13,0,0,0
+gitignore,springboot-shiro/.gitignore,.gitignore,26,19,3,4,0
+HTML,estore/WebContent/user/order.html,order.html,103,91,3,9,0
+XML,seckill/target/seckill/WEB-INF/classes/mapper/SeckillDao.xml,SeckillDao.xml,34,28,1,5,0
+XML,seckill/target/seckill/WEB-INF/classes/mapper/SuccesskilledDao.xml,SuccesskilledDao.xml,31,26,4,1,0
+JavaServer Pages,JspChat/WebContent/left.jsp,left.jsp,65,58,4,3,5
+JavaServer Pages,JspChat/WebContent/forgetPassword.jsp,forgetPassword.jsp,69,65,1,3,1
+JavaServer Pages,JspChat/WebContent/Exit.jsp,Exit.jsp,32,25,3,4,1
+JavaServer Pages,JspChat/WebContent/resetPassword.jsp,resetPassword.jsp,59,53,1,5,0
+JavaServer Pages,JspChat/WebContent/NewFile.jsp,NewFile.jsp,68,64,0,4,0
+JavaServer Pages,JspChat/WebContent/documentList.jsp,documentList.jsp,31,30,0,1,3
+HTML,JspChat/WebContent/register.html,register.html,85,79,0,6,0
+CSS,seckill/target/seckill/WEB-INF/jsp/css/bootstrap.min.css,bootstrap.min.css,7,1,5,1,0
+JavaServer Pages,JspChat/WebContent/doUpload.jsp,doUpload.jsp,107,78,28,1,1
+HTML,JspChat/WebContent/resetPassword.html,resetPassword.html,79,70,1,8,0
+HTML,JspChat/WebContent/forgetPassword.html,forgetPassword.html,58,57,0,1,0
+Java,JspChat/src/hjy/Hjy.java,Hjy.java,61,39,15,7,1
+JavaServer Pages,JspChat/WebContent/right.jsp,right.jsp,61,52,0,9,6
+Shell,springboot-shiro/mvnw,mvnw,286,205,55,26,34
+Java,springboot-shiro/src/main/java/com/springboot/demo/DemoApplication.java,DemoApplication.java,13,9,0,4,0
+JavaServer Pages,JspChat/WebContent/document.jsp,document.jsp,69,67,0,2,6
+JavaServer Pages,JspChat/WebContent/login.jsp,login.jsp,79,78,0,1,0
+JavaServer Pages,JspChat/WebContent/main.jsp,main.jsp,163,149,0,14,2
+JavaServer Pages,JspChat/WebContent/register.jsp,register.jsp,58,54,1,3,0
+JavaServer Pages,JspChat/WebContent/bottom.jsp,bottom.jsp,118,104,0,14,3
+XML,seckill/target/seckill/WEB-INF/classes/spring/spring-service.xml,spring-service.xml,23,17,4,2,0
+HTML,springboot-shiro/src/main/resources/templates/login.html,login.html,41,40,0,1,0
+JavaServer Pages,JspChat/WebContent/Qqlogin.jsp,Qqlogin.jsp,61,58,2,1,1
+XML,seckill/target/seckill/WEB-INF/classes/spring/spring-web.xml,spring-web.xml,37,19,14,4,0
+XML,seckill/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml,Maven__mysql_mysql_connector_java_5_1_35.xml,13,13,0,0,0
+SQL,springboot-shiro/src/main/resources/db/schema-mysql.sql,schema-mysql.sql,56,46,0,10,0
+Java,checkcode/src/com/servlet/ImageCodeServlet.java,ImageCodeServlet.java,55,37,10,8,1
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml,Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/target/seckill/WEB-INF/classes/spring/spring-dao.xml,spring-dao.xml,53,29,19,5,0
+XML,seckill/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml,Maven__aopalliance_aopalliance_1_0.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__junit_junit_4_11.xml,Maven__junit_junit_4_11.xml,13,13,0,0,0
+Java,checkcode/src/com/servlet/LoginServlet.java,LoginServlet.java,31,25,0,6,1
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml,Maven__org_springframework_spring_web_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml,Maven__org_springframework_spring_core_4_1_7_RELEASE.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__jstl_jstl_1_2.xml,Maven__jstl_jstl_1_2.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml,Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml,13,13,0,0,0
+Java,springboot-shiro/.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader.java,114,69,34,11,5
+XML,seckill/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml,Maven__ch_qos_logback_logback_core_1_1_1.xml,13,13,0,0,0
+Properties File,springboot-shiro/.mvn/wrapper/maven-wrapper.properties,maven-wrapper.properties,1,1,0,0,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml,Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml,13,13,0,0,0
+CSS,seckill/src/main/webapp/WEB-INF/jsp/css/bootstrap.min.css,bootstrap.min.css,7,1,5,1,0
+XML,seckill/.idea/libraries/Maven__taglibs_standard_1_1_2.xml,Maven__taglibs_standard_1_1_2.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml,Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml,13,13,0,0,0
+YAML,springboot-shiro/src/main/resources/application.yml,application.yml,45,28,10,7,0
+XML,seckill/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml,Maven__commons_logging_commons_logging_1_2.xml,13,13,0,0,0
+XML,seckill/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml,Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml,13,13,0,0,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/SysRoleService.java,SysRoleService.java,19,7,8,4,0
+Java,springboot-shiro/src/test/java/com/springboot/demo/DemoApplicationTests.java,DemoApplicationTests.java,16,12,0,4,0
+XML,JspChat/.settings/org.eclipse.wst.common.project.facet.core.xml,org.eclipse.wst.common.project.facet.core.xml,10,10,0,0,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/SysUserService.java,SysUserService.java,22,10,8,4,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/SysRoleMenuService.java,SysRoleMenuService.java,16,5,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SysRoleMenuController.java,SysRoleMenuController.java,21,7,8,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/SysMenuService.java,SysMenuService.java,19,7,8,4,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/mapper/SysRoleMenuMapper.java,SysRoleMenuMapper.java,17,6,8,3,0
+JavaScript,seckill/src/main/webapp/WEB-INF/jsp/js/bootstrap.min.js,bootstrap.min.js,6,1,5,0,2
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/mapper/SysMenuMapper.java,SysMenuMapper.java,20,8,8,4,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/SysUserRoleService.java,SysUserRoleService.java,16,5,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SysUserRoleController.java,SysUserRoleController.java,21,7,8,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/mapper/SysRoleMapper.java,SysRoleMapper.java,21,9,8,4,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SysUserController.java,SysUserController.java,58,40,8,10,1
+Java,estore/src/com/briup/common/exception/OrderServiceException.java,OrderServiceException.java,24,14,4,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/impl/SysRoleMenuServiceImpl.java,SysRoleMenuServiceImpl.java,20,9,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/impl/SysUserRoleServiceImpl.java,SysUserRoleServiceImpl.java,20,9,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/impl/SysRoleServiceImpl.java,SysRoleServiceImpl.java,31,18,8,5,0
+Java,JspChat/src/com/hjy/web/servlet/LoginServlet.java,LoginServlet.java,26,20,0,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/impl/SysUserServiceImpl.java,SysUserServiceImpl.java,36,23,8,5,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/entity/SysUserRole.java,SysUserRole.java,44,28,8,8,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/entity/SysRole.java,SysRole.java,57,38,8,11,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/service/impl/SysMenuServiceImpl.java,SysMenuServiceImpl.java,31,18,8,5,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/entity/SysRoleMenu.java,SysRoleMenu.java,44,28,8,8,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/entity/SysMenu.java,SysMenu.java,77,53,8,16,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/entity/SysUser.java,SysUser.java,64,41,8,15,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SessionController.java,SessionController.java,41,35,0,6,0
+XML,checkcode/.settings/org.eclipse.wst.common.project.facet.core.xml,org.eclipse.wst.common.project.facet.core.xml,10,10,0,0,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SysMenuController.java,SysMenuController.java,21,7,8,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/SysRoleController.java,SysRoleController.java,37,20,8,9,0
+XML,springboot-shiro/src/main/resources/mapper/SysRoleMenuMapper.xml,SysRoleMenuMapper.xml,7,4,0,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/controller/LoginController.java,LoginController.java,59,45,8,6,0
+XML,springboot-shiro/src/main/resources/mapper/SysUserMapper.xml,SysUserMapper.xml,7,4,0,3,0
+XML,springboot-shiro/src/main/resources/mapper/SysRoleMapper.xml,SysRoleMapper.xml,11,10,0,1,0
+XML,springboot-shiro/src/main/resources/mapper/SysMenuMapper.xml,SysMenuMapper.xml,14,12,0,2,0
+XML,springboot-shiro/src/main/resources/mapper/SysUserRoleMapper.xml,SysUserRoleMapper.xml,6,4,0,2,0
+JavaServer Pages,checkcode/WebContent/index.jsp,index.jsp,25,23,0,2,0
+HTML,springboot-shiro/src/main/resources/templates/index.html,index.html,20,20,0,0,0
+CSS,springboot-shiro/src/main/resources/static/css/login.css,login.css,97,97,0,0,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/mapper/SysUserMapper.java,SysUserMapper.java,17,6,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/sys/mapper/SysUserRoleMapper.java,SysUserRoleMapper.java,17,6,8,3,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/util/MD5Utils.java,MD5Utils.java,28,20,0,8,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/domain/ResponseBo.java,ResponseBo.java,50,40,0,10,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/domain/QueryRequest.java,QueryRequest.java,19,13,0,6,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/auth/ShiroRealm.java,ShiroRealm.java,84,57,19,8,4
+SQL,springboot-shiro/src/main/resources/db/data-mysql.sql,data-mysql.sql,208,189,12,7,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/auth/ShiroConfig.java,ShiroConfig.java,210,117,73,20,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/config/MybatisPlusConfig.java,MybatisPlusConfig.java,26,14,9,3,0
+JavaScript,springboot-shiro/src/main/resources/static/js/jquery-1.11.1.min.js,jquery-1.11.1.min.js,2,1,1,0,14
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/config/Swagger2.java,Swagger2.java,47,39,1,7,1
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/config/generatir/App.java,App.java,13,6,6,1,0
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/config/generatir/CodeGenerator.java,CodeGenerator.java,120,61,45,14,2
+Java,springboot-shiro/src/main/java/com/springboot/demo/common/config/generatir/GeneratorUtils.java,GeneratorUtils.java,114,68,34,12,0

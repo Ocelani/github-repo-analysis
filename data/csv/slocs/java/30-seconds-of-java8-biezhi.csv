@@ -1,0 +1,8 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+XML,pom.xml,pom.xml,50,45,0,5,0
+License,LICENSE,LICENSE,116,96,0,20,0
+Markdown,README.md,README.md,1423,1018,0,405,0
+YAML,.travis.yml,.travis.yml,12,8,0,4,0
+gitignore,.gitignore,.gitignore,117,59,31,27,0
+Java,src/main/java/snippets/Snippets.java,Snippets.java,760,503,162,95,43
+Java,src/test/java/snippets/SnippetsTests.java,SnippetsTests.java,721,593,8,120,0

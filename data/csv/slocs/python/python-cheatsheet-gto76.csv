@@ -1,0 +1,37 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+JavaScript,parse.js,parse.js,577,495,9,73,5
+Markdown,README.md,README.md,3518,2988,0,530,0
+Python,pdf/create_index.py,create_index.py,51,34,7,10,7
+Markdown,pdf/HOW_TO_CREATE_PDF.md,HOW_TO_CREATE_PDF.md,55,46,0,9,0
+HTML,pdf/index_for_pdf_print.html,index_for_pdf_print.html,147,145,0,2,0
+HTML,pdf/index_for_pdf.html,index_for_pdf.html,147,145,0,2,0
+XML,pdf/Acrobat/bottom_line.xml,bottom_line.xml,1,1,0,0,0
+XML,pdf/Acrobat/chapter_2.xml,chapter_2.xml,1,1,0,0,0
+XML,pdf/Acrobat/chapter_4.xml,chapter_4.xml,1,1,0,0,0
+Python,web/update_plots.py,update_plots.py,121,92,7,22,7
+XML,pdf/Acrobat/chapter_5.xml,chapter_5.xml,1,1,0,0,0
+XML,pdf/Acrobat/even_pages.xml,even_pages.xml,1,1,0,0,0
+XML,pdf/Acrobat/chapter_7.xml,chapter_7.xml,1,1,0,0,0
+XML,pdf/Acrobat/chapter_6.xml,chapter_6.xml,1,1,0,0,0
+XML,pdf/Acrobat/odd_pages.xml,odd_pages.xml,1,1,0,0,0
+XML,pdf/Acrobat/chapter_3.xml,chapter_3.xml,1,1,0,0,0
+XML,pdf/Acrobat/Chapter_1.xml,Chapter_1.xml,1,1,0,0,0
+CSS,web/style.css,style.css,263,213,1,49,0
+Python,web/convert_table.py,convert_table.py,39,35,1,3,7
+JavaScript,web/covid_cases.js,covid_cases.js,2853,2851,0,2,2
+CSS,web/default.min.css,default.min.css,1,1,0,0,0
+HTML,web/template.html,template.html,235,198,0,37,0
+JavaScript,web/covid_deaths.js,covid_deaths.js,3658,3656,0,2,2
+JavaScript,web/showdown.min.js,showdown.min.js,3,1,2,0,1
+HTML,index.html,index.html,3004,2768,0,236,0
+Plain Text,web/OnlineWebFonts_COM_cb7eb796ae7de7195a34c485cacebad1/License.txt,License.txt,37,22,0,15,0
+JavaScript,web/script_2.js,script_2.js,86,74,2,10,12
+JavaScript,web/jquery-3.4.0.slim.min.js,jquery-3.4.0.slim.min.js,2,1,1,0,15
+HTML,web/faq.html,faq.html,57,44,0,13,0
+HTML,web/OnlineWebFonts_COM_cb7eb796ae7de7195a34c485cacebad1/@font-face/Demo.html,Demo.html,95,92,0,3,0
+JavaScript,web/highlight.min.js,highlight.min.js,3,2,1,0,0
+JavaScript,web/jquery-3.4.0.min.js,jquery-3.4.0.min.js,2,1,1,0,16
+Python,web/empty_script.py,empty_script.py,14530,6,14521,3,4
+SVG,web/OnlineWebFonts_COM_cb7eb796ae7de7195a34c485cacebad1/Menlo Regular/Menlo Regular.svg,Menlo Regular.svg,7947,7947,0,0,0
+SVG,web/OnlineWebFonts_COM_cb7eb796ae7de7195a34c485cacebad1/@font-face/9f94dc20bb2a09c15241d3a880b7ad01.svg,9f94dc20bb2a09c15241d3a880b7ad01.svg,7947,7947,0,0,0
+JavaScript,web/plotly.min.js,plotly.min.js,61,15,46,0,219

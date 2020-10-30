@@ -1,0 +1,6 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,pattern.md,pattern.md,64,31,0,33,0
+YAML,.github/FUNDING.yml,FUNDING.yml,12,10,1,1,0
+gitignore,.gitignore,.gitignore,1,1,0,0,0
+BASH,gh-md-toc,gh-md-toc,189,101,65,23,17
+Markdown,Readme.md,Readme.md,1898,1321,0,577,0

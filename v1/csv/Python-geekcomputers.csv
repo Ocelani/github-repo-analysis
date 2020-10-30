@@ -1,0 +1,359 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Python,Decimal_To_Binary.py,Decimal_To_Binary.py,25,13,10,2,1
+Python,recyclebin.py,recyclebin.py,53,31,7,15,8
+Python,Shivaansh.py,Shivaansh.py,5,4,0,1,2
+Python,invisible_clock.py,invisible_clock.py,62,31,7,24,6
+Markdown,CODE_OF_CONDUCT.md,CODE_OF_CONDUCT.md,76,57,0,19,0
+Python,tf_idf_generator.py,tf_idf_generator.py,139,97,38,4,2
+Python,diction.py,diction.py,61,47,1,13,6
+Python,Guess_the_number_game.py,Guess_the_number_game.py,41,29,1,11,1
+Python,binod.py,binod.py,38,32,2,4,7
+Markdown,LICENSE.md,LICENSE.md,21,17,0,4,0
+Python,spotlight.py,spotlight.py,75,65,3,7,5
+Python,diceV2_dynamic.py,diceV2_dynamic.py,91,63,9,19,9
+Python,script_count.py,script_count.py,76,49,10,17,12
+Python,Web_Scraper.py,Web_Scraper.py,41,20,12,9,3
+Markdown,lanzhiwang_index.md,lanzhiwang_index.md,217,215,0,2,0
+Python,alexa_news_headlines.py,alexa_news_headlines.py,52,38,0,14,5
+Python,move_files_over_x_days.py,move_files_over_x_days.py,40,26,7,7,7
+Python,get_crypto_price.py,get_crypto_price.py,28,22,2,4,2
+Python,dice_rolling_simulator.py,dice_rolling_simulator.py,94,46,16,32,2
+Python,Mp3_media_player.py,Mp3_media_player.py,116,91,3,22,3
+Python,translation_of_sizes_of_underwear_RU.py,translation_of_sizes_of_underwear_RU.py,23,18,1,4,3
+Python,rook.py,rook.py,49,48,0,1,35
+Python,get_info_remoute_srv.py,get_info_remoute_srv.py,31,18,7,6,8
+Python,Merge_linked_list.py,Merge_linked_list.py,107,51,29,27,7
+Python,site_health.py,site_health.py,108,82,15,11,9
+Python,diamond.py,diamond.py,17,14,0,3,3
+Python,osinfo.py,osinfo.py,47,29,9,9,3
+Python,xkcd_downloader.py,xkcd_downloader.py,52,21,18,13,3
+Python,selectionSort.py,selectionSort.py,29,17,3,9,8
+Python,get_youtube_view.py,get_youtube_view.py,35,16,13,6,3
+Python,text_cleaning_comparisson.py,text_cleaning_comparisson.py,77,64,6,7,4
+Python,text_file_replace.py,text_file_replace.py,34,17,12,5,2
+Python,Binary_search.py,Binary_search.py,40,20,11,9,6
+Python,WeatherGUI.py,WeatherGUI.py,48,38,0,10,0
+Python,Cricket_score.py,Cricket_score.py,22,15,0,7,4
+Python,factors.py,factors.py,10,9,0,1,2
+Python,wiki_random.py,wiki_random.py,51,37,14,0,0
+Python,scalg.py,scalg.py,89,36,50,3,6
+Jupyter,Untitled.ipynb,Untitled.ipynb,76,76,0,0,0
+Python,tweeter.py,tweeter.py,82,80,2,0,0
+Python,work_connect.py,work_connect.py,43,29,7,7,10
+Python,patterns.py,patterns.py,37,28,6,3,6
+Python,blackJackGUI.py,blackJackGUI.py,158,156,0,2,0
+Python,youtube.py,youtube.py,45,35,8,2,1
+Python,create_dir_if_not_there.py,create_dir_if_not_there.py,24,12,9,3,2
+Python,chicks_n_rabs.py,chicks_n_rabs.py,25,12,8,5,4
+Python,List.py,List.py,23,13,10,0,0
+Python,balance_parenthesis.py,balance_parenthesis.py,53,43,0,10,13
+Python,write_excel_file.py,write_excel_file.py,40,28,4,8,0
+Python,multiplication_table.py,multiplication_table.py,20,13,0,7,6
+Python,chaos.py,chaos.py,23,16,1,6,6
+Python,password_cracker.py,password_cracker.py,48,30,9,9,10
+Python,Print_List_of_Odd_Numbers.py,Print_List_of_Odd_Numbers.py,20,12,3,5,6
+Python,testlines.py,testlines.py,18,5,7,6,1
+Python,gcd.py,gcd.py,14,8,4,2,3
+Python,sqlite_check.py,sqlite_check.py,52,34,7,11,5
+Python,Merge-sort.py,Merge-sort.py,51,38,4,9,12
+Python,tik_tak.py,tik_tak.py,116,109,3,4,1
+Python,thread_signal.py,thread_signal.py,40,28,0,12,1
+Python,get_likes_on_FB.py,get_likes_on_FB.py,34,26,0,8,6
+Python,kmp_str_search.py,kmp_str_search.py,51,29,15,7,9
+Markdown,README2.md,README2.md,3,2,0,1,0
+Python,merge.py,merge.py,44,19,11,14,8
+Python,jee_result.py,jee_result.py,50,31,9,10,4
+Python,StringToBinary.py,StringToBinary.py,12,11,0,1,2
+Python,recursive-fibonacci.py,recursive-fibonacci.py,5,5,0,0,1
+Python,internet_connection_py3.py,internet_connection_py3.py,28,23,0,5,1
+Python,polygon.py,polygon.py,21,16,1,4,4
+Python,changemac.py,changemac.py,81,51,11,19,1
+Python,Palindrome_Checker.py,Palindrome_Checker.py,50,41,6,3,3
+Python,totaldigits.py,totaldigits.py,6,3,1,2,0
+Python,EncryptionTool.py,EncryptionTool.py,114,96,5,13,4
+Python,Guessing_Game.py,Guessing_Game.py,30,26,0,4,3
+Python,ex20.py,ex20.py,37,21,1,15,0
+Python,triangles.py,triangles.py,20,12,0,8,2
+Python,dec_to_hex.py,dec_to_hex.py,2,2,0,0,0
+Python,insertion_sort.py,insertion_sort.py,64,29,26,9,10
+Python,twitter_post_scraper.py,twitter_post_scraper.py,35,30,0,5,4
+Python,nmap_scan.py,nmap_scan.py,41,22,7,12,4
+Python,four_digit_num_combination.py,four_digit_num_combination.py,18,9,5,4,4
+Python,sha1.py,sha1.py,124,76,35,13,10
+Python,portscanner.py,portscanner.py,66,54,7,5,0
+Python,binary_search_tree.py,binary_search_tree.py,371,274,68,29,91
+Python,coronacases.py,coronacases.py,95,89,0,6,0
+Python,Job_scheduling.py,Job_scheduling.py,125,76,31,18,14
+Python,batch_file_rename.py,batch_file_rename.py,74,36,24,14,8
+Python,GroupSms_Way2.py,GroupSms_Way2.py,54,38,4,12,2
+Python,BruteForce.py,BruteForce.py,85,78,1,6,4
+Python,longest_increasing_subsequence_length.py,longest_increasing_subsequence_length.py,22,10,7,5,6
+Python,Quick_Sort.py,Quick_Sort.py,52,20,19,13,6
+Python,powerup_checks.py,powerup_checks.py,105,87,8,10,13
+Python,Print_List_of_Even_Numbers.py,Print_List_of_Even_Numbers.py,17,13,2,2,7
+Python,tar.py,tar.py,69,66,0,3,2
+Python,Binary Coefficients.py,Binary Coefficients.py,20,18,0,2,2
+Python,Letter_Counter.py,Letter_Counter.py,26,20,4,2,0
+Python,WikipediaModule.py,WikipediaModule.py,88,72,11,5,2
+Python,Classification_human_or_horse.py,Classification_human_or_horse.py,47,41,0,6,1
+Python,find_cube_root.py,find_cube_root.py,32,21,4,7,7
+Python,backup_automater_services.py,backup_automater_services.py,32,17,9,6,3
+Python,pscheck.py,pscheck.py,49,27,9,13,3
+Python,meme_maker.py,meme_maker.py,53,37,4,12,14
+Python,news_articles__scraper.py,news_articles__scraper.py,215,182,22,11,4
+Python,two_num.py,two_num.py,26,11,13,2,4
+Python,psunotify.py,psunotify.py,43,38,2,3,1
+Python,TTS.py,TTS.py,29,24,1,4,2
+Python,check_for_sqlite_files.py,check_for_sqlite_files.py,43,26,7,10,9
+Python,CountMillionCharacters-2.0.py,CountMillionCharacters-2.0.py,26,15,5,6,1
+Python,Tic-Tac-Toe_human_vs_human.py,Tic-Tac-Toe_human_vs_human.py,99,95,4,0,21
+Python,power_of_two.py,power_of_two.py,11,5,6,0,1
+Python,google.py,google.py,37,19,10,8,4
+Python,Streaming Tweets from Twitter to Database.py,Streaming Tweets from Twitter to Database.py,48,28,3,17,0
+Python,snake.py,snake.py,102,75,11,16,25
+Python,passwordGenerator.py,passwordGenerator.py,30,21,2,7,1
+Python,QuadraticCalc.py,QuadraticCalc.py,43,33,4,6,10
+Python,gambler.py,gambler.py,22,19,0,3,6
+Python,dice.py,dice.py,45,20,15,10,2
+Python,Hangman.py,Hangman.py,100,91,4,5,0
+Python,youtube-downloader fast.py,youtube-downloader fast.py,18,11,5,2,0
+Python,ftp_send_receive.py,ftp_send_receive.py,38,12,17,9,0
+Python,MobiusFunction.py,MobiusFunction.py,40,26,10,4,8
+Python,spiralmatrix.py,spiralmatrix.py,37,37,0,0,13
+Python,numpy.py,numpy.py,30,21,4,5,1
+Python,puttylogs.py,puttylogs.py,27,14,8,5,3
+Python,date-timeclient.py,date-timeclient.py,6,6,0,0,0
+Python,sendemail.py,sendemail.py,147,105,15,27,11
+Markdown,README.md,README.md,109,64,0,45,0
+Python,rotate_string.py,rotate_string.py,21,18,0,3,2
+Python,prison_break_scrapper.py,prison_break_scrapper.py,42,30,4,8,11
+Python,webcam.py,webcam.py,44,17,14,13,3
+Python,fetch_news.py,fetch_news.py,15,8,2,5,3
+Python,password_manager.py,password_manager.py,145,127,1,17,11
+Python,SimpleCalculator.py,SimpleCalculator.py,42,32,1,9,1
+Python,sierpinski_triangle.py,sierpinski_triangle.py,66,33,23,10,2
+Python,Snake-Water-Gun-Game.py,Snake-Water-Gun-Game.py,83,62,7,14,10
+Plain Text,about.txt,about.txt,3,3,0,0,0
+Python,linear_search.py,linear_search.py,17,14,0,3,7
+Python,Infix_to_Postfix.py,Infix_to_Postfix.py,94,56,23,15,17
+Plain Text,binod.txt,binod.txt,1,1,0,0,0
+Python,script_listing.py,script_listing.py,26,10,9,7,4
+Python,convert_time.py,convert_time.py,27,13,7,7,4
+Python,factorial_perm_comp.py,factorial_perm_comp.py,77,50,7,20,6
+gitignore,.gitignore,.gitignore,17,17,0,0,0
+Python,check_input.py,check_input.py,45,32,11,2,4
+Python,recursive-quick-sort.py,recursive-quick-sort.py,6,6,0,0,7
+Python,calculator.py,calculator.py,119,83,31,5,0
+Python,blackjack.py,blackjack.py,103,78,2,23,24
+Python,tic_tak_toe.py,tic_tak_toe.py,116,80,16,20,34
+Markdown,CONTRIBUTING.md,CONTRIBUTING.md,92,69,0,23,0
+Python,stack.py,stack.py,56,33,14,9,4
+Python,spotifyAccount.py,spotifyAccount.py,104,101,0,3,1
+Python,slack_message.py,slack_message.py,17,7,7,3,0
+Python,SimpleStopWatch.py,SimpleStopWatch.py,19,15,2,2,2
+Python,CountMillionCharacter.py,CountMillionCharacter.py,312,302,9,1,0
+Python,check_internet_con.py,check_internet_con.py,26,19,2,5,4
+Python,rock_paper_scissor_game.py,rock_paper_scissor_game.py,49,34,4,11,5
+Python,MySQL_Databses.py,MySQL_Databses.py,19,16,1,2,0
+Python,Memory_game.py,Memory_game.py,66,53,0,13,13
+Python,Email-Automation.py,Email-Automation.py,26,20,0,6,0
+Python,string_rotation.py,string_rotation.py,25,20,4,1,5
+Python,helloworld.py,helloworld.py,31,20,7,4,0
+Python,PONG_GAME.py,PONG_GAME.py,128,97,1,30,18
+Python,Polyline.py,Polyline.py,30,18,1,11,3
+Python,movie_details.py,movie_details.py,50,30,7,13,4
+Python,daily_checks.py,daily_checks.py,79,38,23,18,5
+Python,date-timeserver.py,date-timeserver.py,14,11,0,3,1
+Python,passwordGen.py,passwordGen.py,29,27,0,2,0
+Python,cricket_live_score.py,cricket_live_score.py,19,14,0,5,2
+Python,RandomNumberGame.py,RandomNumberGame.py,57,42,7,8,12
+Java,binarySTree isTrue_YashV1729.Java,binarySTree isTrue_YashV1729.Java,67,40,17,10,6
+Python,live_sketch.py,live_sketch.py,21,15,0,6,2
+JSON,news_intent_schema.json,news_intent_schema.json,51,51,0,0,0
+Python,env_check.py,env_check.py,26,13,7,6,3
+Python,replacetext.py,replacetext.py,12,7,3,2,0
+Python,Secret message generator GUI by tkinter.py,Secret message generator GUI by tkinter.py,47,46,0,1,0
+Python,gui_calculator.py,gui_calculator.py,173,137,9,27,1
+Python,Counting-sort.py,Counting-sort.py,44,18,16,10,6
+Python,factorial.py,factorial.py,29,10,16,3,1
+Python,pan.py,pan.py,214,131,24,59,2
+Python,folder_size.py,folder_size.py,36,22,7,7,9
+Python,nDigitNumberCombinations.py,nDigitNumberCombinations.py,17,10,6,1,2
+Python,ReadFromCSV.py,ReadFromCSV.py,18,13,2,3,0
+Python,timymodule.py,timymodule.py,48,46,2,0,0
+Python,find_prime.py,find_prime.py,46,32,13,1,2
+Python,sudoku.py,sudoku.py,83,65,3,15,28
+Python,Chrome Dino Automater.py,Chrome Dino Automater.py,54,19,21,14,7
+Python,classicIndianCardMatch.py,classicIndianCardMatch.py,104,80,6,18,18
+Python,logs.py,logs.py,24,11,10,3,3
+Python,ping_servers.py,ping_servers.py,70,54,8,8,20
+Python,pythonVideoDownloader.py,pythonVideoDownloader.py,64,24,20,20,9
+Python,powerdown_startup.py,powerdown_startup.py,49,29,9,11,8
+Python,start-server.py,start-server.py,13,9,0,4,0
+Python,stackF_Harsh2255.py,stackF_Harsh2255.py,39,22,9,8,2
+Python,memorygame.py,memorygame.py,73,61,0,12,11
+Python,check_file.py,check_file.py,65,33,15,17,10
+Python,sqlite_table_check.py,sqlite_table_check.py,45,28,7,10,4
+Python,wiki.py,wiki.py,60,42,3,15,0
+Python,TicTacToe.py,TicTacToe.py,192,135,22,35,65
+Python,ph_email.py,ph_email.py,59,44,10,5,0
+Python,bubble sort.py,bubble sort.py,51,15,28,8,8
+Python,whatsapp-monitor.py,whatsapp-monitor.py,54,31,11,12,2
+Python,ping_subnet.py,ping_subnet.py,41,29,7,5,12
+Python,factor.py,factor.py,9,7,0,2,1
+Python,pyhton_array.py,pyhton_array.py,8,5,0,3,2
+Python,random-sentences.py,random-sentences.py,43,40,3,0,0
+Python,love_turtle.py,love_turtle.py,20,16,0,4,0
+Python,mapit.py,mapit.py,9,8,0,1,1
+Python,new.py,new.py,136,122,14,0,0
+Python,magic8ball.py,magic8ball.py,75,48,17,10,4
+Python,daily_horoscope.py,daily_horoscope.py,101,88,5,8,39
+Python,rotatelist.py,rotatelist.py,21,10,4,7,4
+Python,facebook-autologin-bot.py,facebook-autologin-bot.py,61,55,4,2,5
+Python,levenshtein_distance.py,levenshtein_distance.py,52,29,10,13,7
+Python,fileinfo.py,fileinfo.py,82,57,16,9,8
+Python,scrap_file.py,scrap_file.py,35,20,4,11,1
+Python,Day_of_week.py,Day_of_week.py,23,13,5,5,0
+Python,random_file_move.py,random_file_move.py,51,35,6,10,5
+Python,Organise.py,Organise.py,65,47,3,15,10
+Python,next_number.py,next_number.py,20,20,0,0,13
+Python,nslookup_check.py,nslookup_check.py,14,3,7,4,2
+Python,Program to print table of given number.py,Program to print table of given number.py,19,3,15,1,2
+Python,days_from_date.py,days_from_date.py,31,24,3,4,0
+Python,fibonacci.py,fibonacci.py,58,31,11,16,3
+Python,Google_News.py,Google_News.py,37,23,5,9,3
+Python,tower_of_hanoi.py,tower_of_hanoi.py,41,33,8,0,0
+Python,read_excel_file.py,read_excel_file.py,26,14,7,5,4
+Python,cricket_news.py,cricket_news.py,30,22,0,8,3
+Python,RandomDice.py,RandomDice.py,19,10,7,2,0
+Python,dir_test.py,dir_test.py,33,18,7,8,2
+Python,PORT SCANNER.PY,PORT SCANNER.PY,122,111,5,6,8
+Python,Tweet Pre-Processing.py,Tweet Pre-Processing.py,140,38,28,74,10
+Python,python_sms.py,python_sms.py,77,48,11,18,3
+Python,SOUNDEX.py,SOUNDEX.py,59,32,16,11,23
+Python,wikipedia.py,wikipedia.py,24,17,1,6,0
+Python,Credit_Card_Validator.py,Credit_Card_Validator.py,81,59,5,17,9
+Python,new_script.py,new_script.py,66,56,7,3,0
+Plain Text,importerror.txt,importerror.txt,6,4,0,2,0
+Python,serial_scanner.py,serial_scanner.py,54,36,9,9,5
+Python,thired-party-haarcascade-mustache-on-face/utils.py,utils.py,82,52,19,11,7
+Python,randomloadingmessage.py,randomloadingmessage.py,167,162,2,3,81
+Python,game_of_life/game_o_life.py,game_o_life.py,130,118,7,5,4
+Markdown,flappyBird_pygame/README.md,README.md,1,1,0,0,0
+Markdown,Flappy Bird - created with tkinter/README.md,README.md,8,7,0,1,0
+gitignore,Flappy Bird - created with tkinter/.gitignore,.gitignore,1,1,0,0,0
+Python,Flappy Bird - created with tkinter/Settings.py,Settings.py,107,59,25,23,14
+Python,flappyBird_pygame/flappy_bird.py,flappy_bird.py,264,196,22,46,7
+Markdown,nodepad/README.md,README.md,26,15,0,11,0
+Plain Text,ImageDownloader/requirements.txt,requirements.txt,1,1,0,0,0
+Python,ImageDownloader/img_downloader.py,img_downloader.py,19,10,3,6,2
+Python,Flappy Bird - created with tkinter/Background.py,Background.py,145,78,53,14,2
+Python,communication/pipe.py,pipe.py,43,33,1,9,7
+Python,JARVIS/JARVIS.py,JARVIS.py,150,119,14,17,1
+Markdown,brickout-game/README.md,README.md,13,8,0,5,0
+Python,Flappy Bird - created with tkinter/Tubes.py,Tubes.py,282,124,87,71,44
+TCL,nodepad/src/notepad.tcl,notepad.tcl,305,273,18,14,16
+Python,Compression_Analysis/PSNR.py,PSNR.py,40,22,4,14,1
+Python,notepad/notepad_support.py,notepad_support.py,165,142,8,15,0
+Python,UI-Apps/clock.py,clock.py,24,13,5,6,0
+Markdown,UI-Apps/README.md,README.md,9,6,0,3,0
+Python,Google_Image_Downloader/image_grapper.py,image_grapper.py,172,135,12,25,17
+Python,nodepad/notepad.py,notepad.py,199,171,9,19,1
+Python,brickout-game/brickout-game.py,brickout-game.py,377,187,117,73,40
+Python,Google_Image_Downloader/create_dir.py,create_dir.py,66,41,22,3,1
+Python,XORcipher/XOR_cipher.py,XOR_cipher.py,203,174,24,5,0
+Python,communication/socket_conn.py,socket_conn.py,43,34,1,8,7
+Plain Text,email id dictionary/mbox-short.txt,mbox-short.txt,1909,1693,0,216,0
+Markdown,XORcipher/README.md,README.md,14,10,0,4,0
+Python,communication/file.py,file.py,41,32,2,7,8
+Python,floodfill/floodfill.py,floodfill.py,106,77,5,24,43
+Python,email id dictionary/dict1.py,dict1.py,23,21,1,1,11
+Markdown,email id dictionary/README.md,README.md,1,1,0,0,0
+Python,XORcipher/test_XOR_cipher.py,test_XOR_cipher.py,136,59,46,31,1
+Python,game_of_life/05_mixed_sorting.py,05_mixed_sorting.py,72,37,22,13,9
+Python,primelib/primelib.py,primelib.py,612,559,52,1,22
+YAML,.github/workflows/lint_python.yml,lint_python.yml,27,17,10,0,0
+Python,thired-party-haarcascade-mustache-on-face/mustache-add-on-face.py,mustache-add-on-face.py,49,32,1,16,11
+Python,Automated Scheduled Call Reminders/caller.py,caller.py,53,49,4,0,0
+Python,Automated Scheduled Call Reminders/schedular.py,schedular.py,13,5,2,6,0
+Python,bank_managment_system/backend.py,backend.py,229,152,20,57,19
+Jupyter,insta_image_saving/instagram_image_scrapping.ipynb,instagram_image_scrapping.ipynb,174,174,0,0,0
+Python,Colors/pixel_sort.py,pixel_sort.py,150,95,25,30,23
+Python,Password Generator/pass_gen.py,pass_gen.py,84,83,0,1,0
+Plain Text,insta_image_saving/instructions.txt,instructions.txt,7,6,0,1,0
+Markdown,JARVIS/README.md,README.md,18,17,0,1,0
+Python,Flappy Bird - created with tkinter/Flappy Bird.py,Flappy Bird.py,367,334,15,18,5
+Markdown,text-to-audio/README.md,README.md,26,14,0,12,0
+Plain Text,async_downloader/requirements.txt,requirements.txt,1,1,0,0,0
+Python,Colors/primary_colors.py,primary_colors.py,182,141,11,30,50
+Python,Flappy Bird - created with tkinter/Bird.py,Bird.py,231,105,69,57,28
+Python,Triplets with zero sum/find_Triplets_with_zero_sum.py,find_Triplets_with_zero_sum.py,84,69,13,2,0
+Plain Text,insta_image_saving/readme.txt,readme.txt,1,1,0,0,0
+Python,other_pepole/get_ip_gui,get_ip_gui,73,57,9,7,0
+Python,stone_paper_scissor/utils.py,utils.py,20,18,0,2,6
+Python,CountMillionCharacters-Variations/variation1.py,variation1.py,32,23,1,8,5
+Markdown,Triplets with zero sum/Readme.md,Readme.md,13,11,0,2,0
+Python,stone_paper_scissor/main.py,main.py,23,14,2,7,1
+Python,Face and eye Recognition/gesture_control.py,gesture_control.py,17,12,0,5,2
+Python,Face and eye Recognition/face_recofnation_first.py,face_recofnation_first.py,34,19,6,9,5
+Python,bank_managment_system/frontend.py,frontend.py,1128,871,20,237,53
+Python,Sorting Algorithims/quick_sort.py,quick_sort.py,41,24,9,8,5
+Python,Sorting Algorithims/merge_sort.py,merge_sort.py,60,29,19,12,6
+Python,Sorting Algorithims/pigeonhole_sort.py,pigeonhole_sort.py,37,16,7,14,5
+Python,Sorting Algorithims/insertion_sort.py,insertion_sort.py,19,11,6,2,4
+Python,Sorting Algorithims/Bubble_sort.py,Bubble_sort.py,17,11,4,2,4
+Python,Sorting Algorithims/stooge_sort.py,stooge_sort.py,39,16,7,16,3
+Markdown,linear-algebra-python/README.md,README.md,77,60,0,17,0
+Python,Sorting Algorithims/Tim_sort.py,Tim_sort.py,128,56,41,31,21
+Plain Text,PDF/requirements.txt,requirements.txt,2,2,0,0,0
+Python,async_downloader/async_downloader.py,async_downloader.py,124,109,12,3,1
+Python,Windows_Wallpaper_Script/wallpaper_extract.py,wallpaper_extract.py,117,111,3,3,0
+Python,Sorting Algorithims/selection_sort.py,selection_sort.py,18,10,6,2,5
+Python,PDF/basic.py,basic.py,34,25,5,4,0
+Python,Recursion Visulaizer/recursionVisualizer.py,recursionVisualizer.py,19,17,0,2,1
+Python,Sorting Algorithims/heap_sort.py,heap_sort.py,43,21,13,9,9
+Markdown,Windows_Wallpaper_Script/ReadMe.md,ReadMe.md,15,12,0,3,0
+Python,PDF/images.py,images.py,45,33,5,7,2
+Python,PDF/header_footer.py,header_footer.py,48,31,10,7,0
+Python,CRC/crc.py,crc.py,50,48,0,2,18
+Python,Youtube Downloader With GUI/main.py,main.py,92,63,4,25,1
+Python,Face_Mask_detection (haarcascade)/mask_detection.py,mask_detection.py,44,43,0,1,0
+Python,insta_monitering/con_file.py,con_file.py,7,7,0,0,0
+Python,Koch Curve/koch curve.py,koch curve.py,37,23,9,5,4
+Plain Text,insta_monitering/ipList.txt,ipList.txt,0,0,0,0,0
+Python,insta_monitering/insta_api.py,insta_api.py,145,138,1,6,2
+Python,BlackJack_game/blackjack_rr.py,blackjack_rr.py,233,223,0,10,7
+Python,BlackJack_game/blackjack.py,blackjack.py,120,90,6,24,24
+Plain Text,Koch Curve/README.txt,README.txt,38,28,0,10,0
+Python,Colors/print_colors.py,print_colors.py,18,15,0,3,0
+Python,insta_monitering/subpinsta.py,subpinsta.py,19,14,1,4,1
+Python,video-operations/timelapse.py,timelapse.py,21,13,3,5,2
+Python,rearrange-files/rearrange-files.py,rearrange-files.py,39,28,3,8,7
+Python,Turn your PDFs into audio books/audiobook_gen.py,audiobook_gen.py,16,12,0,4,2
+Python,insta_monitering/insta_datafetcher.py,insta_datafetcher.py,421,406,5,10,0
+Python,video-operations/slow-motion.py,slow-motion.py,20,13,3,4,2
+Python,text-to-audio/main.py,main.py,19,8,5,6,0
+Plain Text,Assembler/GUIDE.txt,GUIDE.txt,183,121,0,62,0
+XML,libs/haarcascade_eye.xml,haarcascade_eye.xml,12213,12170,43,0,0
+Markdown,Assembler/README.md,README.md,34,24,0,10,0
+Plain Text,Assembler/examples/code4.txt,code4.txt,14,12,0,2,0
+Plain Text,Assembler/examples/code.txt,code.txt,15,13,0,2,0
+Plain Text,Assembler/examples/code2.txt,code2.txt,8,7,0,1,0
+Plain Text,Assembler/examples/code3.txt,code3.txt,28,22,0,6,0
+Plain Text,Assembler/examples/test.txt,test.txt,10,8,0,2,0
+Python,Assembler/assembler.py,assembler.py,1673,1623,21,29,5
+Python,socket-programming/server.py,server.py,37,23,12,2,3
+Python,Digital Clock/digital_clock.py,digital_clock.py,66,29,18,19,0
+Markdown,socket-programming/README.md,README.md,11,6,0,5,0
+Python,socket-programming/client.py,client.py,24,12,9,3,1
+Python,Weather Scrapper/weather.py,weather.py,44,37,0,7,0
+CSV,Weather Scrapper/weather.csv,weather.csv,5,5,0,0,0
+Python,linear-algebra-python/src/Transformations2D.py,Transformations2D.py,43,30,2,11,0
+Python,linear-algebra-python/src/lib.py,lib.py,422,326,82,14,24
+Python,linear-algebra-python/src/tests.py,tests.py,171,99,45,27,1
+XML,libs/haarcascade_eye_tree_eyeglasses.xml,haarcascade_eye_tree_eyeglasses.xml,22619,22576,43,0,0
+XML,Face_Mask_detection (haarcascade)/Resources/haarcascade_frontalface_default.xml,haarcascade_frontalface_default.xml,33314,33271,43,0,0
+XML,libs/haarcascade_frontalface_default.xml,haarcascade_frontalface_default.xml,33314,33271,43,0,0
+XML,thired-party-haarcascade-mustache-on-face/face.xml,face.xml,54318,54275,43,0,0
+JSON,data.json,data.json,1,1,0,0,0
+XML,thired-party-haarcascade-mustache-on-face/Nose.xml,Nose.xml,69223,62391,6832,0,0

@@ -1,0 +1,264 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,AUTHORS.md,AUTHORS.md,51,47,0,4,0
+License,LICENSE,LICENSE,202,169,0,33,0
+Makefile,Makefile,Makefile,59,41,6,12,0
+Autoconf,MANIFEST.in,MANIFEST.in,5,5,0,0,0
+Python,setup.py,setup.py,65,49,2,14,0
+Plain Text,requirements-dev.txt,requirements-dev.txt,17,17,0,0,0
+Shell,build_integration.sh,build_integration.sh,73,65,5,3,14
+Python,example.py,example.py,82,55,4,23,14
+gitignore,.gitignore,.gitignore,17,17,0,0,0
+Shell,travis_java_install.sh,travis_java_install.sh,25,11,8,6,0
+ReStructuredText,README.rst,README.rst,161,126,0,35,0
+YAML,.travis.yml,.travis.yml,45,36,0,9,0
+Python,benchmarks/producer_performance.py,producer_performance.py,160,151,2,7,4
+Python,benchmarks/record_batch_read.py,record_batch_read.py,82,57,6,19,13
+ReStructuredText,docs/support.rst,support.rst,11,7,0,4,0
+ReStructuredText,docs/install.rst,install.rst,93,55,0,38,0
+Python,kafka/scram.py,scram.py,81,74,0,7,5
+Python,benchmarks/consumer_performance.py,consumer_performance.py,181,171,2,8,5
+Properties File,servers/0.8.1/resources/zookeeper.properties,zookeeper.properties,19,4,14,1,0
+Python,kafka/vendor/__init__.py,__init__.py,0,0,0,0,0
+Python,kafka/vendor/socketpair.py,socketpair.py,58,47,6,5,7
+Properties File,servers/0.8.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+ReStructuredText,docs/license.rst,license.rst,10,7,0,3,0
+ReStructuredText,docs/compatibility.rst,compatibility.rst,21,15,0,6,0
+Python,test/test_partition_movements.py,test_partition_movements.py,23,16,0,7,1
+Batch,docs/make.bat,make.bat,242,212,1,29,77
+ReStructuredText,docs/usage.rst,usage.rst,110,80,0,30,0
+Properties File,servers/0.8.1/resources/kafka.properties,kafka.properties,67,23,28,16,0
+Python,kafka/consumer/subscription_state.py,subscription_state.py,501,493,2,6,1
+Python,benchmarks/load_example.py,load_example.py,66,49,1,16,9
+Python,kafka/structs.py,structs.py,87,18,55,14,0
+Makefile,docs/Makefile,Makefile,177,143,6,28,3
+Python,kafka/util.py,util.py,66,50,9,7,2
+ReStructuredText,docs/changelog.rst,changelog.rst,1388,1159,0,229,0
+Markdown,benchmarks/README.md,README.md,4,4,0,0,0
+Markdown,CHANGES.md,CHANGES.md,1204,985,0,219,0
+Python,docs/conf.py,conf.py,270,39,160,71,2
+Python,kafka/__init__.py,__init__.py,34,26,1,7,0
+Python,kafka/consumer/group.py,group.py,1221,1188,23,10,54
+Properties File,servers/1.0.2/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/version.py,version.py,1,1,0,0,0
+Python,kafka/consumer/fetcher.py,fetcher.py,1015,720,180,115,158
+ReStructuredText,docs/tests.rst,tests.rst,86,52,0,34,0
+Python,kafka/admin/new_partitions.py,new_partitions.py,19,9,7,3,0
+Python,benchmarks/varint_speed.py,varint_speed.py,443,408,17,18,11
+Properties File,servers/1.0.2/resources/log4j.properties,log4j.properties,25,8,14,3,0
+ReStructuredText,docs/apidoc/KafkaConsumer.rst,KafkaConsumer.rst,5,4,0,1,0
+ReStructuredText,docs/apidoc/ClusterMetadata.rst,ClusterMetadata.rst,5,4,0,1,0
+ReStructuredText,docs/apidoc/KafkaAdminClient.rst,KafkaAdminClient.rst,5,4,0,1,0
+ReStructuredText,docs/apidoc/KafkaProducer.rst,KafkaProducer.rst,5,4,0,1,0
+ReStructuredText,docs/apidoc/KafkaClient.rst,KafkaClient.rst,5,4,0,1,0
+Python,kafka/protocol/abstract.py,abstract.py,19,13,0,6,0
+Python,test/test_admin.py,test_admin.py,78,68,0,10,0
+Python,kafka/partitioner/__init__.py,__init__.py,8,5,0,3,0
+Python,kafka/admin/config_resource.py,config_resource.py,36,20,9,7,2
+Python,kafka/client_async.py,client_async.py,1077,850,163,64,99
+Python,benchmarks/record_batch_compose.py,record_batch_compose.py,77,51,7,19,10
+Python,kafka/oauth/abstract.py,abstract.py,42,11,25,6,0
+Python,kafka/record/__init__.py,__init__.py,3,2,0,1,0
+Python,kafka/record/util.py,util.py,135,91,29,15,25
+Python,kafka/oauth/__init__.py,__init__.py,3,2,0,1,0
+Python,kafka/protocol/fetch.py,fetch.py,386,306,29,51,0
+Python,kafka/record/memory_records.py,memory_records.py,187,117,40,30,18
+Python,kafka/vendor/selectors34.py,selectors34.py,637,512,102,23,12
+Python,kafka/consumer/__init__.py,__init__.py,7,5,0,2,0
+Python,kafka/serializer/abstract.py,abstract.py,31,20,0,11,0
+Python,kafka/partitioner/default.py,default.py,102,59,29,14,8
+Python,kafka/vendor/enum34.py,enum34.py,841,808,22,11,5
+ReStructuredText,docs/index.rst,index.rst,154,118,0,36,0
+Python,kafka/serializer/__init__.py,__init__.py,3,2,0,1,0
+Python,kafka/admin/client.py,client.py,1342,1248,79,15,74
+Plain Text,docs/requirements.txt,requirements.txt,7,6,0,1,0
+Python,kafka/coordinator/protocol.py,protocol.py,33,25,0,8,4
+Python,kafka/errors.py,errors.py,538,498,10,30,2
+Python,kafka/vendor/six.py,six.py,897,716,65,116,40
+Python,kafka/coordinator/__init__.py,__init__.py,0,0,0,0,0
+Python,kafka/codec.py,codec.py,326,236,49,41,24
+Python,kafka/record/_crc32c.py,_crc32c.py,145,122,23,0,0
+Python,kafka/cluster.py,cluster.py,397,379,12,6,2
+Python,kafka/coordinator/heartbeat.py,heartbeat.py,68,52,1,15,7
+Python,kafka/future.py,future.py,83,68,0,15,21
+Python,kafka/record/legacy_records.py,legacy_records.py,548,382,78,88,49
+Python,kafka/protocol/produce.py,produce.py,232,158,32,42,1
+Properties File,servers/1.0.2/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,kafka/record/abc.py,abc.py,124,44,57,23,0
+Python,kafka/admin/__init__.py,__init__.py,14,12,0,2,0
+Python,kafka/producer/__init__.py,__init__.py,7,5,0,2,0
+Python,kafka/producer/sender.py,sender.py,517,459,32,26,25
+Python,test/service.py,service.py,133,109,0,24,30
+Python,kafka/record/default_records.py,default_records.py,630,438,96,96,54
+Python,kafka/coordinator/assignors/abstract.py,abstract.py,56,25,23,8,0
+Python,kafka/coordinator/consumer.py,consumer.py,833,626,130,77,95
+Python,kafka/protocol/metadata.py,metadata.py,200,169,4,27,0
+ReStructuredText,docs/apidoc/modules.rst,modules.rst,11,9,0,2,0
+Python,kafka/metrics/metrics.py,metrics.py,261,222,32,7,3
+Properties File,servers/trunk/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/producer/buffer.py,buffer.py,115,58,41,16,12
+Properties File,servers/trunk/resources/kafka.properties,kafka.properties,118,17,71,30,0
+ReStructuredText,docs/apidoc/BrokerConnection.rst,BrokerConnection.rst,5,4,0,1,0
+Python,test/conftest.py,conftest.py,175,117,19,39,22
+Python,kafka/protocol/types.py,types.py,198,161,0,37,12
+Python,kafka/protocol/offset.py,offset.py,194,154,12,28,0
+Python,kafka/protocol/parser.py,parser.py,183,157,20,6,8
+Python,kafka/protocol/api.py,api.py,97,66,8,23,7
+Python,kafka/protocol/frame.py,frame.py,30,24,0,6,2
+Python,kafka/producer/record_accumulator.py,record_accumulator.py,590,359,172,59,108
+Python,kafka/conn.py,conn.py,1533,1502,13,18,14
+Python,kafka/protocol/group.py,group.py,230,221,0,9,0
+Python,kafka/protocol/pickle.py,pickle.py,35,26,1,8,2
+Properties File,servers/2.2.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/protocol/struct.py,struct.py,72,60,3,9,8
+Properties File,servers/2.2.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/2.2.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.8.0/resources/zookeeper.properties,zookeeper.properties,19,4,14,1,0
+Properties File,servers/0.8.0/resources/kafka.properties,kafka.properties,67,26,23,18,0
+Python,kafka/protocol/commit.py,commit.py,255,204,4,47,0
+Properties File,servers/0.8.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.8.1.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/protocol/message.py,message.py,216,187,9,20,24
+Python,test/test_protocol.py,test_protocol.py,284,277,1,6,1
+Python,kafka/protocol/__init__.py,__init__.py,46,44,0,2,0
+Python,kafka/protocol/admin.py,admin.py,925,760,3,162,0
+Python,kafka/admin/new_topic.py,new_topic.py,34,18,12,4,5
+Python,test/test_object_conversion.py,test_object_conversion.py,236,203,0,33,0
+Python,kafka/coordinator/assignors/roundrobin.py,roundrobin.py,96,48,36,12,14
+Python,kafka/producer/future.py,future.py,71,51,5,15,12
+Properties File,servers/0.8.2.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/test_package.py,test_package.py,25,19,0,6,0
+Python,kafka/coordinator/assignors/range.py,range.py,77,48,17,12,13
+Properties File,servers/0.8.1.1/resources/kafka.properties,kafka.properties,124,20,73,31,0
+Properties File,servers/0.11.0.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.8.2.0/resources/kafka.properties,kafka.properties,124,20,73,31,0
+Properties File,servers/0.10.2.2/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/admin/acl_resource.py,acl_resource.py,244,185,36,23,6
+Python,test/test_producer.py,test_producer.py,137,132,0,5,4
+Properties File,servers/0.10.2.2/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.10.2.2/resources/kafka.properties,kafka.properties,144,30,77,37,0
+Properties File,servers/1.1.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,test/test_consumer_integration.py,test_consumer_integration.py,297,208,30,59,19
+Python,test/__init__.py,__init__.py,8,5,1,2,0
+Properties File,servers/0.11.0.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.8.2.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/test_partitioner.py,test_partitioner.py,38,24,4,10,2
+Properties File,servers/1.1.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/trunk/resources/log4j.properties,log4j.properties,24,7,14,3,0
+Python,test/test_sender.py,test_sender.py,53,40,1,12,0
+Python,test/test_subscription_state.py,test_subscription_state.py,25,21,1,3,0
+Python,kafka/producer/kafka.py,kafka.py,749,727,8,14,61
+Python,test/test_cluster.py,test_cluster.py,22,14,2,6,0
+Properties File,servers/0.11.0.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,test/test_sasl_integration.py,test_sasl_integration.py,80,65,0,15,14
+Properties File,servers/0.10.0.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/testutil.py,testutil.py,46,41,0,5,0
+Properties File,servers/1.1.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/2.5.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/2.1.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/test_admin_integration.py,test_admin_integration.py,314,265,18,31,6
+Python,test/test_codec.py,test_codec.py,124,112,0,12,4
+Python,test/test_client_async.py,test_client_async.py,409,279,31,99,30
+Properties File,servers/2.1.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.11.0.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.8.1.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.8.2.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.11.0.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.11.0.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.8.2.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/2.5.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.8.2.1/resources/kafka.properties,kafka.properties,124,20,73,31,0
+Python,kafka/coordinator/assignors/__init__.py,__init__.py,0,0,0,0,0
+Properties File,servers/2.5.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/test_assignors.py,test_assignors.py,880,868,1,11,8
+Python,test/test_api_object_implementation.py,test_api_object_implementation.py,18,14,0,4,6
+Python,test/test_coordinator.py,test_coordinator.py,638,621,3,14,4
+Properties File,servers/0.10.0.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/2.1.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/2.1.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.10.0.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/test_consumer_group.py,test_consumer_group.py,179,135,11,33,38
+Python,test/test_metrics.py,test_metrics.py,499,377,22,100,27
+Properties File,servers/2.1.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/1.1.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.10.0.0/resources/kafka.properties,kafka.properties,144,30,77,37,0
+Properties File,servers/1.1.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/2.1.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/1.1.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/2.0.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/coordinator/assignors/sticky/sorted_set.py,sorted_set.py,63,49,0,14,31
+Properties File,servers/0.10.1.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.10.0.1/resources/kafka.properties,kafka.properties,144,30,77,37,0
+Python,test/test_consumer.py,test_consumer.py,26,20,0,6,1
+Properties File,servers/2.0.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/2.0.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.10.1.1/resources/kafka.properties,kafka.properties,144,30,77,37,0
+Python,kafka/coordinator/assignors/sticky/__init__.py,__init__.py,0,0,0,0,0
+Python,kafka/coordinator/assignors/sticky/partition_movements.py,partition_movements.py,149,101,27,21,44
+Properties File,servers/0.10.1.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/test_acl_comparisons.py,test_acl_comparisons.py,92,82,0,10,0
+Properties File,servers/2.4.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/test_conn.py,test_conn.py,342,293,6,43,6
+Properties File,servers/2.4.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/2.4.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/1.0.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/2.0.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/coordinator/assignors/sticky/sticky_assignor.py,sticky_assignor.py,681,654,12,15,10
+Python,kafka/coordinator/base.py,base.py,1023,803,120,100,101
+Properties File,servers/0.9.0.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/test_fetcher.py,test_fetcher.py,553,471,20,62,31
+Properties File,servers/0.9.0.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.9.0.0/resources/kafka.properties,kafka.properties,141,29,77,35,0
+Python,test/record/test_legacy_records.py,test_legacy_records.py,197,150,11,36,26
+Properties File,servers/2.3.0/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,test/fixtures.py,fixtures.py,673,667,0,6,4
+Properties File,servers/2.3.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,kafka/metrics/compound_stat.py,compound_stat.py,34,17,8,9,0
+Properties File,servers/2.3.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,kafka/metrics/metric_config.py,metric_config.py,33,18,10,5,3
+Python,kafka/metrics/__init__.py,__init__.py,15,13,0,2,0
+Python,kafka/metrics/quota.py,quota.py,42,31,1,10,4
+Python,kafka/metrics/metrics_reporter.py,metrics_reporter.py,57,19,30,8,0
+Properties File,servers/0.10.2.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Python,kafka/metrics/metric_name.py,metric_name.py,106,85,10,11,4
+Properties File,servers/2.0.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/2.0.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,kafka/metrics/dict_reporter.py,dict_reporter.py,83,74,4,5,1
+Properties File,servers/1.0.0/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/record/test_records.py,test_records.py,232,220,7,5,1
+Properties File,servers/1.0.0/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/0.10.2.1/resources/kafka.properties,kafka.properties,144,30,77,37,0
+Properties File,servers/0.10.2.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,kafka/metrics/stat.py,stat.py,23,7,12,4,0
+Properties File,servers/0.8.2.2/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.11.0.2/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/0.9.0.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,test/record/test_util.py,test_util.py,96,84,2,10,0
+Python,test/record/test_default_records.py,test_default_records.py,208,162,13,33,6
+Properties File,servers/0.11.0.3/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,kafka/metrics/stats/percentile.py,percentile.py,15,11,0,4,0
+Properties File,servers/0.8.2.2/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.9.0.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.11.0.2/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.10.0.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Python,kafka/metrics/stats/__init__.py,__init__.py,17,15,0,2,0
+Properties File,servers/0.11.0.3/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0
+Properties File,servers/0.8.2.2/resources/kafka.properties,kafka.properties,124,20,73,31,0
+Python,kafka/metrics/stats/max_stat.py,max_stat.py,17,11,1,5,4
+Properties File,servers/0.9.0.1/resources/kafka.properties,kafka.properties,142,29,77,36,0
+Python,kafka/metrics/stats/rate.py,rate.py,117,69,29,19,7
+Properties File,servers/0.11.0.2/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,kafka/metrics/measurable_stat.py,measurable_stat.py,16,6,6,4,0
+Properties File,servers/0.11.0.3/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Python,kafka/metrics/stats/total.py,total.py,15,9,1,5,0
+Python,kafka/metrics/measurable.py,measurable.py,29,11,12,6,0
+Python,kafka/metrics/stats/sensor.py,sensor.py,134,122,7,5,3
+Python,kafka/metrics/kafka_metric.py,kafka_metric.py,36,27,1,8,5
+Python,kafka/metrics/stats/count.py,count.py,17,9,3,5,2
+Python,kafka/metrics/stats/sampled_stat.py,sampled_stat.py,101,66,17,18,12
+Python,kafka/metrics/stats/percentiles.py,percentiles.py,74,60,1,13,13
+Python,kafka/metrics/stats/histogram.py,histogram.py,95,79,0,16,12
+Python,kafka/metrics/stats/min_stat.py,min_stat.py,19,12,1,6,4
+Python,kafka/metrics/stats/avg.py,avg.py,24,16,3,5,4
+Properties File,servers/1.0.1/resources/log4j.properties,log4j.properties,25,8,14,3,0
+Properties File,servers/1.0.1/resources/kafka.properties,kafka.properties,147,32,77,38,0
+Properties File,servers/1.0.1/resources/zookeeper.properties,zookeeper.properties,21,4,17,0,0

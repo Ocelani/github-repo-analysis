@@ -1,0 +1,142 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,README.md,README.md,193,142,0,51,0
+CSV,discount.csv,discount.csv,117,117,0,0,0
+CSV,Trump/us_media.csv,us_media.csv,52,52,0,0,0
+Python,mongoTV/mongoTV_sentiment_analyisis/get_sentiments.py,get_sentiments.py,57,34,3,20,3
+Markdown,CaiXuKun/CaiXuKun/readme.md,readme.md,41,31,0,10,0
+Markdown,English_names/readme.md,readme.md,41,28,0,13,0
+Markdown,CaiXuKun/readme.md,readme.md,54,40,0,14,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/middlewares.py,middlewares.py,56,19,23,14,4
+Plain Text,Baidu_Robin/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Python,CaiXuKun/CaiXuKun/settings.py,settings.py,105,26,58,21,0
+Python,CaiXuKun/CaiXuKun/items.py,items.py,14,3,7,4,0
+Markdown,Airplane/readme.md,readme.md,1,1,0,0,0
+Python,Baidu_Robin/znss_comments.py,znss_comments.py,80,68,0,12,4
+Python,CaiXuKun/CaiXuKun/pipelines.py,pipelines.py,48,33,6,9,0
+Python,CaiXuKun/CaiXuKun/middlewares.py,middlewares.py,78,35,23,20,5
+Python,Liziqi/get_comments.py,get_comments.py,78,74,0,4,0
+Markdown,NY_Plans/readme.md,readme.md,1,1,0,0,0
+Markdown,Baidu_Robin/readme.md,readme.md,1,1,0,0,0
+Plain Text,TheWanderingEarth/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Jupyter,Baidu_Robin/Baidu_Robin.ipynb,Baidu_Robin.ipynb,2146,2146,0,0,0
+Plain Text,CaiXuKun/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Jupyter,shixiseng/数据挖掘、机器学习算法实习生需求分析.ipynb,数据挖掘、机器学习算法实习生需求分析.ipynb,4978,4978,0,0,0
+Markdown,shixiseng/readme.md,readme.md,5,4,0,1,0
+Plain Text,mongoTV/mongoTV_sentiment_analyisis/stop_words.txt,stop_words.txt,1473,1473,0,0,0
+Plain Text,mongoTV/readme.txt,readme.txt,3,3,0,0,0
+CSV,shixiseng/datamining.csv,datamining.csv,534,469,0,65,0
+Jupyter,CaiXuKun/CaiXuKun.ipynb,CaiXuKun.ipynb,7180,7180,0,0,0
+Python,CaiXuKun/CaiXuKun/__init__.py,__init__.py,1,0,0,1,0
+CSV,shixiseng/machinelearning.csv,machinelearning.csv,240,203,0,37,0
+Markdown,TheWanderingEarth/readme.md,readme.md,48,37,0,11,0
+CSV,mongoTV/mongoTV_sentiment_analyisis/data4.csv,data4.csv,2134,2130,0,4,0
+Jupyter,JayZhou/jay.ipynb,jay.ipynb,13002,13002,0,0,0
+Jupyter,TheWanderingEarth/TheWanderingEarth.ipynb,TheWanderingEarth.ipynb,6927,6927,0,0,0
+Python,TheWanderingEarth/comment_crawler.py,comment_crawler.py,80,48,23,9,5
+Markdown,Earthquake/readme.md,readme.md,2,2,0,0,0
+Python,CaiXuKun/CaiXuKun/spiders/caixukun.py,caixukun.py,29,23,1,5,7
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/settings.py,settings.py,97,13,65,19,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/main.py,main.py,2,2,0,0,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/items.py,items.py,15,3,7,5,0
+Jupyter,English_names/Babynames.ipynb,Babynames.ipynb,19880,19880,0,0,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/pipelines.py,pipelines.py,49,33,6,10,0
+Python,CaiXuKun/CaiXuKun/spiders/__init__.py,__init__.py,4,0,4,0,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/spiders/crawl_comments.py,crawl_comments.py,27,21,2,4,6
+Jupyter,mongoTV/mongoTV_sentiment_analyisis/《我是大侦探》到底怎么了？（下：情感分析篇）.ipynb,《我是大侦探》到底怎么了？（下：情感分析篇）.ipynb,1986,1986,0,0,0
+Python,shixiseng/font_decode.py,font_decode.py,152,119,14,19,10
+Plain Text,Trump/stop_words_en.txt,stop_words_en.txt,790,790,0,0,0
+Python,JayZhou/get_fans_data.py,get_fans_data.py,78,68,0,10,11
+Python,Roads/Country_Raod.py,Country_Raod.py,63,51,0,12,9
+Markdown,Fans_xz/readme.md,readme.md,1,1,0,0,0
+Jupyter,Earthquake/eq_final.ipynb,eq_final.ipynb,5398,5398,0,0,0
+Markdown,Liziqi/readme.md,readme.md,1,1,0,0,0
+Python,Liziqi/get_author_info.py,get_author_info.py,85,80,0,5,2
+Python,BSGS_Rent/house_data_crawler.py,house_data_crawler.py,143,114,19,10,16
+Markdown,BSGS_Rent/readme.md,readme.md,43,32,0,11,0
+Markdown,PUBG-juediqiusheng-data_analysis/readme.md,readme.md,46,34,0,12,0
+Python,mongoTV/mongotv_comments_crawler/mongotv_comments_crawler/spiders/__init__.py,__init__.py,4,0,4,0,0
+Python,BSGS_Rent/info.py,info.py,19,18,0,1,0
+CSV,mongoTV/mongoTV_sentiment_analyisis/data3.csv,data3.csv,3100,3098,0,2,0
+CSV,Lychee/lychee.csv,lychee.csv,1693,1693,0,0,0
+Markdown,Lychee/readme.md,readme.md,1,1,0,0,0
+CSV,Lychee/salary.csv,salary.csv,33,33,0,0,0
+Jupyter,Fireworks_and_Pm2.5/Fireworks and Pm2.5.ipynb,Fireworks and Pm2.5.ipynb,12051,12051,0,0,0
+Python,Lychee/utils.py,utils.py,36,34,0,2,0
+Python,Weibo_Comment_Pics/photo_clawler.py,photo_clawler.py,153,123,25,5,0
+Markdown,Fireworks_and_Pm2.5/readme.md,readme.md,38,28,0,10,0
+Python,Fireworks_and_Pm2.5/data_crawler.py,data_crawler.py,62,36,19,7,3
+Plain Text,Weibo_Comment_Pics/cookie.txt,cookie.txt,1,1,0,0,0
+Markdown,Weibo_Comment_Pics/readme.md,readme.md,31,20,0,11,0
+Jupyter,Liziqi/liziqi.ipynb,liziqi.ipynb,7493,7493,0,0,0
+Jupyter,BSGS_Rent/北上广深租房图鉴.ipynb,北上广深租房图鉴.ipynb,9742,9742,0,0,0
+Markdown,ICU996/readme.md,readme.md,78,62,0,16,0
+CSV,LuckinCoffee/city.csv,city.csv,372,372,0,0,0
+Markdown,ICU996/analysis/readme.md,readme.md,1,0,0,1,0
+Markdown,LuckinCoffee/readme.md,readme.md,1,1,0,0,0
+Python,ICU996/ICU996/ICU996/middlewares.py,middlewares.py,78,35,23,20,5
+Plain Text,KrisWu/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Python,ICU996/ICU996/ICU996/items.py,items.py,14,3,7,4,0
+Plain Text,LiveStreaming/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Python,ICU996/ICU996/ICU996/spiders/__init__.py,__init__.py,4,0,4,0,0
+Python,ICU996/ICU996/ICU996/pipelines.py,pipelines.py,46,33,5,8,0
+Python,ICU996/ICU996/ICU996/spiders/a996.py,a996.py,22,17,1,4,3
+Python,Lychee/lychee.py,lychee.py,68,60,0,8,10
+Python,shixiseng_packet_capture/sxs_app.py,sxs_app.py,45,33,4,8,14
+Jupyter,ICU996/analysis/996.ipynb,996.ipynb,5200,5200,0,0,0
+Jupyter,Lychee/lychee.ipynb,lychee.ipynb,5109,5109,0,0,0
+CSV,shixiseng_packet_capture/job_list.csv,job_list.csv,224,224,0,0,0
+Plain Text,ICU996/analysis/stopwords.txt,stopwords.txt,1473,1473,0,0,0
+Markdown,ChangAn/readme.md,readme.md,1,1,0,0,0
+Python,ChangAn/youku_comments.py,youku_comments.py,75,66,0,9,8
+Python,LuckinCoffee/get_poi_tencent.py,get_poi_tencent.py,46,44,0,2,0
+Markdown,shixiseng_packet_capture/readme.md,readme.md,31,22,0,9,0
+Python,LuckinCoffee/get_poi_gaode.py,get_poi_gaode.py,40,38,0,2,0
+Python,ESL/jobleadchina.py,jobleadchina.py,48,39,0,9,9
+Python,ESL/wechat_group_member.py,wechat_group_member.py,21,15,0,6,1
+Python,ESL/local_english_teacher.py,local_english_teacher.py,52,37,6,9,7
+CSV,shixiseng_packet_capture/job_detailed.csv,job_detailed.csv,438,393,0,45,0
+Markdown,KrisWu/readme.md,readme.md,57,40,0,17,0
+Plain Text,Wechat_article_collector/gzh.txt,gzh.txt,54,54,0,0,0
+Jupyter,KrisWu/KrisWu.ipynb,KrisWu.ipynb,4459,4459,0,0,0
+CSV,shixiseng_packet_capture/com_detailed.csv,com_detailed.csv,1201,1171,0,30,0
+Python,ICU996/ICU996/ICU996/settings.py,settings.py,102,18,65,19,0
+CSV,LuckinCoffee/city_tencent.csv,city_tencent.csv,491,491,0,0,0
+CSV,LaborDay/city_data.csv,city_data.csv,669,669,0,0,0
+Jupyter,LaborDay/laborday.ipynb,laborday.ipynb,4994,4994,0,0,0
+Python,LaborDay/get_data.py,get_data.py,43,36,0,7,12
+Markdown,LaborDay/readme.md,readme.md,38,28,0,10,0
+Jupyter,ESL/数据分析.ipynb,数据分析.ipynb,6796,6796,0,0,0
+Python,Wechat_article_collector/add_hyperlinks.py,add_hyperlinks.py,36,19,7,10,1
+Markdown,LiveStreaming/readme.md,readme.md,22,16,0,6,0
+CSV,ESL/幼儿园.csv,幼儿园.csv,190,190,0,0,0
+Markdown,Wechat_article_collector/readme.md,readme.md,34,24,0,10,0
+Python,Wechat_article_collector/article_collector.py,article_collector.py,74,53,7,14,27
+CSV,ESL/data_gm.csv,data_gm.csv,507,507,0,0,0
+Jupyter,ChangAn/长安十二时辰.ipynb,长安十二时辰.ipynb,8303,8303,0,0,0
+CSV,mongoTV/mongoTV_sentiment_analyisis/data2.csv,data2.csv,4352,4341,0,11,0
+CSV,ESL/中小学.csv,中小学.csv,5179,5179,0,0,0
+CSV,ESL/jobleadchina.csv,jobleadchina.csv,955,955,0,0,0
+CSV,ESL/外语培训.csv,外语培训.csv,393,393,0,0,0
+CSV,BSGS_Rent/data_sample.csv,data_sample.csv,12001,12001,0,0,0
+Markdown,ESL/readme.md,readme.md,26,19,0,7,0
+CSV,ESL/职业院校.csv,职业院校.csv,29,29,0,0,0
+CSV,mongoTV/mongoTV_sentiment_analyisis/data1.csv,data1.csv,10428,10422,0,6,0
+CSV,shixiseng/mlalgorithm.csv,mlalgorithm.csv,1317,1178,0,139,0
+CSV,Fireworks_and_Pm2.5/AQI_Data.csv,AQI_Data.csv,71826,71826,0,0,0
+CSV,Lychee/city_data.csv,city_data.csv,669,669,0,0,0
+Jupyter,Trump/donald_trump_twitters.ipynb,donald_trump_twitters.ipynb,9192,9192,0,0,0
+Python,JayZhou/get_detail_jay.py,get_detail_jay.py,91,80,1,10,12
+Markdown,JayZhou/readme.md,readme.md,1,1,0,0,0
+CSV,Lychee/watermelon.csv,watermelon.csv,17766,17766,0,0,0
+Jupyter,LiveStreaming/xigua.ipynb,xigua.ipynb,58334,58334,0,0,0
+Python,Paediatrician/dingxiang_job.py,dingxiang_job.py,158,153,0,5,0
+Markdown,Trump/readme.md,readme.md,1,1,0,0,0
+Markdown,Paediatrician/readme.md,readme.md,49,35,0,14,0
+Jupyter,Roads/Country_Road.ipynb,Country_Road.ipynb,4909,4909,0,0,0
+Jupyter,Paediatrician/儿科医生.ipynb,儿科医生.ipynb,15090,15090,0,0,0
+Markdown,Roads/readme.md,readme.md,1,1,0,0,0
+CSV,Baidu_Robin/data.csv,data.csv,27304,27304,0,0,0
+CSV,Trump/donald_trump_twitter.csv,donald_trump_twitter.csv,48057,47164,0,893,0
+Jupyter,PUBG-juediqiusheng-data_analysis/20G 绝地求生比赛数据集分析.ipynb,20G 绝地求生比赛数据集分析.ipynb,2684,2684,0,0,0
+CSV,Paediatrician/all_data.csv,all_data.csv,127086,114468,0,12618,0
+CSV,TheWanderingEarth/data.csv,data.csv,115537,114231,0,1306,0

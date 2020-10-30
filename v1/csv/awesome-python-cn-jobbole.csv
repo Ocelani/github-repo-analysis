@@ -1,0 +1,6 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+YAML,mkdocs.yml,mkdocs.yml,16,16,0,0,0
+License,LICENSE,LICENSE,3,2,0,1,0
+Makefile,Makefile,Makefile,12,9,0,3,0
+gitignore,.gitignore,.gitignore,9,4,3,2,0
+Markdown,README.md,README.md,1102,857,0,245,0

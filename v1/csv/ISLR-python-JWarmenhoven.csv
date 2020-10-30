@@ -1,0 +1,34 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+Markdown,LICENSE.md,LICENSE.md,21,17,0,4,0
+Markdown,README.md,README.md,45,37,0,8,0
+Jupyter,Notebooks/Python module versions.ipynb,Python module versions.ipynb,82,82,0,0,0
+CSV,Notebooks/Data/Boston.csv,Boston.csv,507,507,0,0,0
+Jupyter,Notebooks/Chapter 5.ipynb,Chapter 5.ipynb,269,269,0,0,0
+Jupyter,Notebooks/Chapter 6.ipynb,Chapter 6.ipynb,2363,2363,0,0,0
+CSV,Notebooks/Data/Khan_ytrain.csv,Khan_ytrain.csv,64,64,0,0,0
+CSV,Notebooks/Data/Wage.csv,Wage.csv,3001,3001,0,0,0
+Jupyter,Notebooks/Chapter 4.ipynb,Chapter 4.ipynb,1539,1539,0,0,0
+Jupyter,Notebooks/Chapter 9.ipynb,Chapter 9.ipynb,1357,1357,0,0,0
+CSV,Notebooks/Data/Credit.csv,Credit.csv,401,401,0,0,0
+CSV,Notebooks/Data/Hitters_y_train.csv,Hitters_y_train.csv,132,132,0,0,0
+CSV,Notebooks/Data/Hitters_X_test.csv,Hitters_X_test.csv,133,133,0,0,0
+CSV,Notebooks/Data/Smarket.csv,Smarket.csv,1251,1251,0,0,0
+CSV,Notebooks/Data/Hitters_y_test.csv,Hitters_y_test.csv,133,133,0,0,0
+CSV,Notebooks/Data/Carseats.csv,Carseats.csv,401,401,0,0,0
+Jupyter,Notebooks/Simulate.expected.misclassification.rate.ipynb,Simulate.expected.misclassification.rate.ipynb,229,229,0,0,0
+CSV,Notebooks/Data/Hitters.csv,Hitters.csv,323,323,0,0,0
+CSV,Notebooks/Data/Advertising.csv,Advertising.csv,201,201,0,0,0
+CSV,Notebooks/Data/Auto.csv,Auto.csv,398,398,0,0,0
+Jupyter,Notebooks/Chapter 7.ipynb,Chapter 7.ipynb,1170,1170,0,0,0
+CSV,Notebooks/Data/Khan_ytest.csv,Khan_ytest.csv,21,21,0,0,0
+CSV,Notebooks/Data/Hitters_X_train.csv,Hitters_X_train.csv,132,132,0,0,0
+CSV,Notebooks/Data/NCI60_y.csv,NCI60_y.csv,65,65,0,0,0
+CSV,Notebooks/Data/Heart.csv,Heart.csv,304,304,0,0,0
+CSV,Notebooks/Data/USArrests.csv,USArrests.csv,51,51,0,0,0
+Jupyter,Notebooks/Chapter 10.ipynb,Chapter 10.ipynb,1638,1638,0,0,0
+Jupyter,Notebooks/Chapter 8.ipynb,Chapter 8.ipynb,1374,1374,0,0,0
+Jupyter,Notebooks/Chapter 3.ipynb,Chapter 3.ipynb,1674,1674,0,0,0
+CSV,Notebooks/Data/Khan_xtest.csv,Khan_xtest.csv,21,21,0,0,0
+CSV,Notebooks/Data/Caravan.csv,Caravan.csv,5823,5823,0,0,0
+CSV,Notebooks/Data/Khan_xtrain.csv,Khan_xtrain.csv,64,64,0,0,0
+CSV,Notebooks/Data/NCI60_X.csv,NCI60_X.csv,65,65,0,0,0

@@ -1,0 +1,1898 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+JSON,renovate.json,renovate.json,17,17,0,0,0
+License,LICENSE,LICENSE,201,169,0,32,0
+Markdown,MAC_SETUP.md,MAC_SETUP.md,184,137,0,47,0
+Markdown,AUTHORING_GUIDE.md,AUTHORING_GUIDE.md,644,489,0,155,0
+Python,noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Markdown,ISSUE_TEMPLATE.md,ISSUE_TEMPLATE.md,12,7,0,5,0
+Markdown,README.md,README.md,33,23,0,10,0
+Markdown,CONTRIBUTING.md,CONTRIBUTING.md,42,29,0,13,0
+Python,noxfile-template.py,noxfile-template.py,237,169,43,25,6
+gitignore,.gitignore,.gitignore,29,29,0,0,0
+YAML,.travis.yml,.travis.yml,35,32,3,0,0
+Markdown,notebooks/README.md,README.md,82,59,0,23,0
+Markdown,run/README.md,README.md,114,81,0,33,0
+Plain Text,notebooks/requirements.txt,requirements.txt,4,4,0,0,0
+ReStructuredText,datacatalog/cloud-client/README.rst,README.rst,3,2,0,1,0
+Markdown,billing/README.md,README.md,9,5,0,4,0
+Plain Text,notebooks/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,monitoring/api/v3/uptime-check-client/README.md,README.md,3,2,0,1,0
+Python,jobs/v3/api_client/base_job_sample_test.py,base_job_sample_test.py,30,12,13,5,0
+Markdown,billing/cap-billing-walkthrough.md,cap-billing-walkthrough.md,156,107,0,49,0
+Python,jobs/v3/api_client/histogram_sample_test.py,histogram_sample_test.py,37,17,13,7,0
+Python,jobs/v3/api_client/commute_search_sample_test.py,commute_search_sample_test.py,38,17,13,8,0
+Markdown,monitoring/api/v3/cloud-client/README.md,README.md,3,2,0,1,0
+Python,jobs/v3/api_client/quickstart_test.py,quickstart_test.py,26,8,13,5,1
+Autoconf,logging/cloud-client/README.rst.in,README.rst.in,28,22,1,5,0
+Plain Text,logging/cloud-client/requirements.txt,requirements.txt,1,1,0,0,0
+Shell,.kokoro/trampoline_v2.sh,trampoline_v2.sh,480,314,109,57,54
+Python,jobs/v3/api_client/featured_job_search_sample_test.py,featured_job_search_sample_test.py,37,17,13,7,0
+Python,logging/cloud-client/handler.py,handler.py,49,11,27,11,1
+Python,jobs/v3/api_client/auto_complete_sample.py,auto_complete_sample.py,87,47,21,19,5
+Markdown,dataproc/README.md,README.md,3,2,0,1,0
+Shell,.kokoro/trampoline.sh,trampoline.sh,28,8,16,4,0
+Python,jobs/v3/api_client/base_job_sample.py,base_job_sample.py,157,133,18,6,6
+Python,billing/main.py,main.py,63,44,10,9,3
+ReStructuredText,dns/api/README.rst,README.rst,97,54,0,43,0
+Python,jobs/v3/api_client/location_search_sample_test.py,location_search_sample_test.py,47,27,13,7,0
+Plain Text,dns/api/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,logging/cloud-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Markdown,monitoring/api/v3/alerts-client/README.md,README.md,3,2,0,1,0
+Jupyter,notebooks/tutorials/cloud-ml-engine/Training and prediction with scikit-learn.ipynb,Training and prediction with scikit-learn.ipynb,570,570,0,0,0
+gitignore,monitoring/api/v3/alerts-client/.gitignore,.gitignore,1,1,0,0,0
+Autoconf,monitoring/api/v3/api-client/README.rst.in,README.rst.in,27,22,1,4,0
+Python,run/hello-broken/e2e_test.py,e2e_test.py,111,75,21,15,1
+Plain Text,run/image-processing/requirements.txt,requirements.txt,7,7,0,0,0
+YAML,run/image-processing/e2e_test_setup.yaml,e2e_test_setup.yaml,40,23,13,4,0
+YAML,run/pubsub/e2e_test_setup.yaml,e2e_test_setup.yaml,39,22,13,4,0
+YAML,run/hello-broken/e2e_test_setup.yaml,e2e_test_setup.yaml,39,22,13,4,0
+Python,run/pubsub/e2e_test.py,e2e_test.py,153,98,29,26,6
+Plain Text,dns/api/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Autoconf,dns/api/README.rst.in,README.rst.in,24,18,1,5,2
+Python,run/image-processing/e2e_test.py,e2e_test.py,161,97,31,33,3
+Python,monitoring/api/v3/api-client/list_resources.py,list_resources.py,120,52,46,22,1
+Python,dns/api/main.py,main.py,164,92,30,42,13
+ReStructuredText,monitoring/api/v3/api-client/README.rst,README.rst,137,73,0,64,0
+Python,jobs/v3/api_client/featured_job_search_sample.py,featured_job_search_sample.py,109,85,18,6,1
+Python,monitoring/api/v3/api-client/custom_metric.py,custom_metric.py,207,120,56,31,3
+Python,dns/api/main_test.py,main_test.py,110,65,13,32,4
+Shell,.kokoro/tests/run_tests_diff_head.sh,run_tests_diff_head.sh,16,2,14,0,0
+Shell,.kokoro/tests/run_tests_orig.sh,run_tests_orig.sh,208,119,63,26,28
+ReStructuredText,jobs/v3/api_client/README.rst,README.rst,254,120,0,134,0
+Shell,.kokoro/tests/run_tests_diff_master.sh,run_tests_diff_master.sh,16,2,14,0,0
+Plain Text,run/image-processing/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,run/image-processing/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Plain Text,run/pubsub/requirements.txt,requirements.txt,4,4,0,0,0
+Shell,.kokoro/tests/run_tests.sh,run_tests.sh,184,109,46,29,23
+Dockerfile,run/image-processing/Dockerfile,Dockerfile,48,12,29,7,0
+Python,jobs/v3/api_client/custom_attribute_sample.py,custom_attribute_sample.py,168,143,18,7,1
+Python,jobs/v3/api_client/custom_attribute_sample_test.py,custom_attribute_sample_test.py,39,19,13,7,0
+Shell,.kokoro/tests/run_single_test.sh,run_single_test.sh,94,53,28,13,14
+Python,jobs/v3/api_client/base_company_sample_test.py,base_company_sample_test.py,29,12,13,4,0
+Python,jobs/v3/api_client/auto_complete_sample_test.py,auto_complete_sample_test.py,45,24,13,8,0
+Python,monitoring/api/v3/api-client/custom_metric_test.py,custom_metric_test.py,114,59,33,22,4
+Python,jobs/v3/api_client/batch_operation_sample_test.py,batch_operation_sample_test.py,28,11,13,4,0
+Autoconf,jobs/v3/api_client/README.rst.in,README.rst.in,48,41,1,6,0
+Python,jobs/v3/api_client/quickstart.py,quickstart.py,46,25,15,6,5
+Markdown,run/image-processing/README.md,README.md,58,36,0,22,0
+Plain Text,jobs/v3/api_client/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,jobs/v3/api_client/histogram_sample.py,histogram_sample.py,89,53,19,17,3
+Plain Text,jobs/v3/api_client/requirements.txt,requirements.txt,3,3,0,0,0
+Python,monitoring/api/v3/api-client/list_resources_test.py,list_resources_test.py,69,36,20,13,3
+Python,jobs/v3/api_client/email_alert_search_sample.py,email_alert_search_sample.py,80,44,19,17,3
+Plain Text,monitoring/api/v3/api-client/requirements.txt,requirements.txt,3,3,0,0,0
+Python,jobs/v3/api_client/commute_search_sample.py,commute_search_sample.py,92,57,19,16,3
+Python,jobs/v3/api_client/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Python,jobs/v3/api_client/batch_operation_sample.py,batch_operation_sample.py,136,85,23,28,12
+YAML,.kokoro/docker/cloudbuild.yaml,cloudbuild.yaml,24,9,13,2,0
+Docker ignore,run/image-processing/.dockerignore,.dockerignore,4,4,0,0,0
+Shell,.kokoro/docker/fetch_gpg_keys.sh,fetch_gpg_keys.sh,49,24,19,6,3
+Python,jobs/v3/api_client/general_search_sample.py,general_search_sample.py,255,188,31,36,15
+Dockerfile,run/pubsub/Dockerfile,Dockerfile,42,8,26,8,0
+Python,jobs/v3/api_client/base_company_sample.py,base_company_sample.py,152,126,18,8,5
+Python,run/image-processing/main_test.py,main_test.py,68,46,15,7,0
+Python,run/image-processing/image_test.py,image_test.py,110,74,13,23,7
+Dockerfile,.kokoro/docker/Dockerfile,Dockerfile,177,109,46,22,39
+Python,run/markdown-preview/e2e_test.py,e2e_test.py,107,73,19,15,1
+Python,jobs/v3/api_client/general_search_sample_test.py,general_search_sample_test.py,45,24,13,8,0
+Python,run/system-package/e2e_test.py,e2e_test.py,102,67,20,15,1
+Python,jobs/v3/api_client/email_alert_search_sample_test.py,email_alert_search_sample_test.py,44,20,14,10,0
+Plain Text,run/hello-broken/requirements.txt,requirements.txt,4,4,0,0,0
+Python,run/helloworld/e2e_test.py,e2e_test.py,97,64,19,14,0
+Plain Text,run/pubsub/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,run/pubsub/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Python,run/logging-manual/e2e_test.py,e2e_test.py,139,97,24,18,4
+Markdown,run/pubsub/README.md,README.md,43,28,0,15,0
+Python,run/image-processing/main.py,main.py,79,50,16,13,14
+Python,logging/cloud-client/export.py,export.py,145,106,28,11,7
+Docker ignore,run/pubsub/.dockerignore,.dockerignore,4,4,0,0,0
+gitignore,run/pubsub/.gitignore,.gitignore,2,2,0,0,0
+Plain Text,monitoring/api/v3/api-client/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Dockerfile,run/hello-broken/Dockerfile,Dockerfile,42,8,26,8,0
+Python,logging/cloud-client/quickstart_test.py,quickstart_test.py,22,5,13,4,1
+YAML,run/logging-manual/e2e_test_setup.yaml,e2e_test_setup.yaml,41,24,13,4,0
+Python,run/image-processing/image.py,image.py,91,39,29,23,3
+Plain Text,run/hello-broken/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,run/logging-manual/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,run/helloworld/requirements.txt,requirements.txt,2,2,0,0,0
+Python,run/hello-broken/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Python,jobs/v3/api_client/location_search_sample.py,location_search_sample.py,195,140,27,28,11
+YAML,run/helloworld/e2e_test_setup.yaml,e2e_test_setup.yaml,37,20,13,4,0
+Python,run/pubsub/main_test.py,main_test.py,63,40,15,8,0
+Markdown,run/hello-broken/README.md,README.md,47,30,0,17,0
+Dockerfile,run/logging-manual/Dockerfile,Dockerfile,38,8,24,6,0
+YAML,run/markdown-preview/e2e_test_setup.yaml,e2e_test_setup.yaml,73,51,13,9,0
+Python,run/pubsub/main.py,main.py,57,30,16,11,10
+Python,logging/cloud-client/export_test.py,export_test.py,95,75,13,7,0
+Plain Text,run/markdown-preview/requirements.txt,requirements.txt,0,0,0,0,0
+Plain Text,run/markdown-preview/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Markdown,run/markdown-preview/README.md,README.md,6,3,0,3,0
+Python,run/hello-broken/main.py,main.py,67,27,23,17,7
+Python,run/markdown-preview/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+ReStructuredText,jobs/v4beta1/README.rst,README.rst,3,2,0,1,0
+Python,logging/cloud-client/quickstart.py,quickstart.py,42,10,22,10,1
+Python,logging/cloud-client/snippets_test.py,snippets_test.py,56,29,13,14,2
+Python,logging/cloud-client/snippets.py,snippets.py,103,44,36,23,4
+ReStructuredText,logging/cloud-client/README.rst,README.rst,168,97,0,71,0
+Plain Text,run/markdown-preview/editor/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,run/markdown-preview/editor/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,run/markdown-preview/editor/render.py,render.py,45,16,20,9,2
+Dockerfile,run/markdown-preview/editor/Dockerfile,Dockerfile,38,8,24,6,0
+Jupyter,notebooks/tutorials/storage/Cloud Storage client library.ipynb,Cloud Storage client library.ipynb,312,312,0,0,0
+Jupyter,notebooks/tutorials/storage/Storage command-line tool.ipynb,Storage command-line tool.ipynb,328,328,0,0,0
+Plain Text,run/markdown-preview/renderer/requirements.txt,requirements.txt,4,4,0,0,0
+Python,run/markdown-preview/editor/main.py,main.py,50,19,18,13,5
+Python,run/markdown-preview/editor/main_test.py,main_test.py,54,28,13,13,4
+Dockerfile,run/markdown-preview/renderer/Dockerfile,Dockerfile,38,8,24,6,0
+Plain Text,run/markdown-preview/renderer/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,run/logging-manual/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,notebooks/tutorials/storage/resources/us-states.txt,us-states.txt,51,51,0,0,0
+Plain Text,notebooks/tutorials/storage/resources/downloaded-us-states.txt,downloaded-us-states.txt,51,51,0,0,0
+Markdown,run/markdown-preview/editor/templates/markdown.md,markdown.md,19,12,0,7,0
+Python,run/markdown-preview/renderer/main_test.py,main_test.py,39,18,13,8,1
+Python,run/markdown-preview/editor/noxfile.py,noxfile.py,237,169,43,25,6
+HTML,run/markdown-preview/editor/templates/index.html,index.html,106,84,12,10,0
+Python,run/logging-manual/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Python,run/hello-broken/main_test.py,main_test.py,56,30,13,13,1
+Jupyter,notebooks/tutorials/bigquery/BigQuery query magic.ipynb,BigQuery query magic.ipynb,180,180,0,0,0
+Markdown,run/logging-manual/README.md,README.md,47,31,0,16,0
+Docker ignore,run/logging-manual/.dockerignore,.dockerignore,4,4,0,0,0
+Jupyter,notebooks/tutorials/bigquery/Getting started with BigQuery ML.ipynb,Getting started with BigQuery ML.ipynb,384,384,0,0,0
+Python,run/logging-manual/main_test.py,main_test.py,44,18,15,11,3
+Python,run/logging-manual/main.py,main.py,62,22,24,16,5
+Python,run/markdown-preview/renderer/main.py,main.py,43,15,18,10,3
+Jupyter,notebooks/tutorials/bigquery/BigQuery command-line tool.ipynb,BigQuery command-line tool.ipynb,209,209,0,0,0
+YAML,run/system-package/e2e_test_setup.yaml,e2e_test_setup.yaml,40,22,13,5,0
+Jupyter,notebooks/tutorials/bigquery/Visualizing BigQuery public data.ipynb,Visualizing BigQuery public data.ipynb,271,271,0,0,0
+Plain Text,notebooks/samples/requirements.txt,requirements.txt,1,1,0,0,0
+Markdown,notebooks/rendered/getting-started-with-bigquery-ml.md,getting-started-with-bigquery-ml.md,239,178,0,61,0
+Markdown,notebooks/samples/README.md,README.md,39,27,0,12,0
+Python,run/markdown-preview/renderer/noxfile.py,noxfile.py,237,169,43,25,6
+Plain Text,notebooks/samples/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Jupyter,notebooks/tutorials/bigquery/BigQuery basics.ipynb,BigQuery basics.ipynb,361,361,0,0,0
+Python,run/system-package/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Plain Text,run/system-package/requirements.txt,requirements.txt,3,3,0,0,0
+Dockerfile,run/system-package/Dockerfile,Dockerfile,44,11,26,7,2
+CSV,notebooks/tutorials/bigquery/resources/us-states.csv,us-states.csv,51,51,0,0,0
+Plain Text,media-translation/cloud-client/requirements.txt,requirements.txt,3,3,0,0,0
+Docker ignore,run/system-package/.dockerignore,.dockerignore,4,4,0,0,0
+Python,media-translation/cloud-client/translate_from_mic.py,translate_from_mic.py,177,127,32,18,6
+Plain Text,media-translation/cloud-client/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,notebooks/rendered/visualizing-bigquery-public-data.md,visualizing-bigquery-public-data.md,146,105,0,41,0
+Python,media-translation/cloud-client/translate_from_file_test.py,translate_from_file_test.py,28,9,13,6,0
+Python,run/system-package/main.py,main.py,82,36,25,21,9
+ReStructuredText,media-translation/cloud-client/README.rst,README.rst,113,59,0,54,0
+Autoconf,functions/README.rst.in,README.rst.in,18,13,1,4,0
+Python,profiler/quickstart/main.py,main.py,65,26,25,14,8
+Python,media-translation/cloud-client/translate_from_file.py,translate_from_file.py,73,32,27,14,6
+Autoconf,media-translation/cloud-client/README.rst.in,README.rst.in,25,19,1,5,0
+ReStructuredText,functions/README.rst,README.rst,84,52,0,32,0
+Plain Text,run/system-package/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,cloud-sql/mysql/sqlalchemy/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,cloud-sql/mysql/sqlalchemy/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,cloud-sql/mysql/sqlalchemy/Dockerfile,Dockerfile,37,9,23,5,0
+YAML,cloud-sql/sql-server/sqlalchemy/app.yaml,app.yaml,27,9,15,3,0
+Python,logging/cloud-client/handler_test.py,handler_test.py,22,5,13,4,1
+Markdown,run/system-package/README.md,README.md,44,28,0,16,0
+Python,run/system-package/main_test.py,main_test.py,45,18,15,12,0
+YAML,profiler/appengine/flexible/app.yaml,app.yaml,19,11,6,2,0
+Plain Text,functions/imagemagick/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,cloud-sql/postgres/sqlalchemy/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,functions/billing/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,profiler/appengine/flexible/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,profiler/appengine/flexible/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,cloud-sql/postgres/sqlalchemy/Dockerfile,Dockerfile,37,9,23,5,0
+Plain Text,functions/billing/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,functions/imagemagick/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,cloud-sql/postgres/sqlalchemy/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,cloud-sql/mysql/sqlalchemy/app.flexible.yaml,app.flexible.yaml,41,13,22,6,0
+Dockerfile,run/helloworld/Dockerfile,Dockerfile,38,7,24,7,0
+Python,profiler/appengine/flexible/main_test.py,main_test.py,24,7,13,4,1
+Jupyter,notebooks/tutorials/bigquery/Getting started with BigQuery ML Feature Engineering.ipynb,Getting started with BigQuery ML Feature Engineering.ipynb,1715,1715,0,0,0
+Python,functions/billing/main_test.py,main_test.py,163,134,12,17,0
+Plain Text,functions/imagemagick/requirements-dev.txt,requirements-dev.txt,5,5,0,0,0
+Python,profiler/appengine/flexible/main.py,main.py,45,12,24,9,1
+Plain Text,run/helloworld/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,functions/imagemagick/main_test.py,main_test.py,110,74,13,23,7
+Python,run/helloworld/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Plain Text,profiler/quickstart/requirements.txt,requirements.txt,1,1,0,0,0
+Markdown,run/helloworld/README.md,README.md,45,29,0,16,0
+Docker ignore,run/helloworld/.dockerignore,.dockerignore,7,7,0,0,0
+Python,functions/imagemagick/main.py,main.py,91,39,29,23,3
+Python,functions/billing/main.py,main.py,237,160,53,24,4
+YAML,cloud-sql/postgres/sqlalchemy/app.flexible.yaml,app.flexible.yaml,41,13,22,6,0
+Plain Text,functions/log/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,functions/log/README.md,README.md,11,8,0,3,0
+Plain Text,functions/slack/requirements.txt,requirements.txt,3,3,0,0,0
+Python,functions/log/main_test.py,main_test.py,48,25,13,10,4
+Plain Text,cloud-sql/sql-server/sqlalchemy/requirements.txt,requirements.txt,4,3,0,1,0
+Python,functions/log/main.py,main.py,41,10,24,7,0
+Plain Text,functions/spanner/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,profiler/quickstart/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+JSON,functions/slack/config.json,config.json,4,4,0,0,0
+Markdown,functions/slack/README.md,README.md,11,7,0,4,0
+Plain Text,functions/slack/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,functions/pubsub/main_test.py,main_test.py,51,22,13,16,2
+Python,functions/pubsub/main.py,main.py,65,27,23,15,4
+Markdown,notebooks/rendered/bigquery-query-magic.md,bigquery-query-magic.md,91,62,0,29,0
+Plain Text,functions/spanner/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,functions/spanner/README.md,README.md,11,7,0,4,0
+Python,functions/slack/main_test.py,main_test.py,116,89,13,14,4
+Plain Text,functions/pubsub/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,functions/slack/main.py,main.py,99,59,22,18,13
+Python,functions/spanner/main_test.py,main_test.py,31,11,13,7,3
+Docker ignore,cloud-sql/postgres/sqlalchemy/.dockerignore,.dockerignore,4,4,0,0,0
+gitignore,cloud-sql/postgres/sqlalchemy/.gitignore,.gitignore,2,2,0,0,0
+Markdown,cloud-sql/postgres/sqlalchemy/README.md,README.md,180,137,0,43,0
+Python,functions/spanner/main.py,main.py,38,15,15,8,2
+Plain Text,functions/tips/requirements.txt,requirements.txt,5,5,0,0,0
+Plain Text,functions/tips/requirements-test.txt,requirements-test.txt,4,4,0,0,0
+YAML,cloud-sql/postgres/sqlalchemy/app.standard.yaml,app.standard.yaml,24,6,16,2,0
+Plain Text,functions/concepts/requirements.txt,requirements.txt,0,0,0,0,0
+Markdown,functions/imagemagick/README.md,README.md,55,31,0,24,0
+Plain Text,functions/http/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,functions/http/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,cloud-sql/postgres/sqlalchemy/main.py,main.py,230,123,73,34,6
+HTML,cloud-sql/postgres/sqlalchemy/templates/index.html,index.html,100,84,15,1,0
+Markdown,functions/concepts/README.md,README.md,11,7,0,4,0
+Plain Text,functions/concepts/requirements-test.txt,requirements-test.txt,5,5,0,0,0
+Python,functions/http/main_test.py,main_test.py,81,49,14,18,0
+Plain Text,functions/firebase/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,functions/firebase/requirements.txt,requirements.txt,1,1,0,0,0
+Python,functions/concepts/main_test.py,main_test.py,63,34,14,15,1
+Python,functions/http/main.py,main.py,148,117,22,9,0
+Plain Text,functions/env_vars/requirements.txt,requirements.txt,0,0,0,0,0
+Plain Text,functions/env_vars/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,functions/pubsub/requirements.txt,requirements.txt,1,1,0,0,0
+Python,functions/firebase/main.py,main.py,148,55,63,30,7
+Markdown,functions/env_vars/README.md,README.md,9,7,0,2,0
+Python,functions/firebase/main_test.py,main_test.py,204,138,13,53,20
+Python,functions/env_vars/main_test.py,main_test.py,33,12,14,7,0
+Python,functions/env_vars/main.py,main.py,22,3,15,4,0
+Dockerfile,cloud-sql/sql-server/sqlalchemy/Dockerfile,Dockerfile,42,11,24,7,4
+Markdown,functions/ocr/README.md,README.md,11,7,0,4,0
+Plain Text,cloud-sql/sql-server/sqlalchemy/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+gitignore,cloud-sql/sql-server/sqlalchemy/.gitignore,.gitignore,2,2,0,0,0
+Markdown,cloud-sql/sql-server/sqlalchemy/README.md,README.md,104,77,0,27,0
+Markdown,functions/tips/README.md,README.md,13,8,0,5,0
+Python,functions/tips/main_test.py,main_test.py,96,57,14,25,2
+Python,cloud-sql/sql-server/sqlalchemy/main.py,main.py,194,96,74,24,7
+Plain Text,functions/memorystore/redis/requirements.txt,requirements.txt,1,1,0,0,0
+Python,functions/tips/main.py,main.py,234,66,113,55,5
+Markdown,notebooks/rendered/bigquery-basics.md,bigquery-basics.md,232,163,0,69,0
+Plain Text,functions/ocr/app/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,functions/memorystore/redis/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,functions/memorystore/redis/main.py,main.py,30,8,15,7,0
+Plain Text,functions/ocr/app/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,functions/ocr/app/noxfile_config.py,noxfile_config.py,47,11,29,7,0
+YAML,functions/ci_cd/cloudbuild.yaml,cloudbuild.yaml,12,8,4,0,0
+Plain Text,functions/security/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,functions/bigtable/requirements.txt,requirements.txt,1,1,0,0,0
+Python,functions/ocr/app/main_test.py,main_test.py,89,67,12,10,0
+HTML,cloud-sql/sql-server/sqlalchemy/templates/index.html,index.html,100,84,15,1,0
+Python,functions/ocr/app/main.py,main.py,172,149,15,8,7
+Markdown,notebooks/rendered/storage-command-line-tool.md,storage-command-line-tool.md,155,96,0,59,0
+Plain Text,functions/helloworld/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,functions/helloworld/requirements-test.txt,requirements-test.txt,4,4,0,0,0
+Markdown,notebooks/rendered/cloud-storage-client-library.md,cloud-storage-client-library.md,158,95,0,63,0
+Markdown,notebooks/rendered/bigquery-command-line-tool.md,bigquery-command-line-tool.md,101,64,0,37,0
+Python,functions/security/main.py,main.py,42,15,20,7,0
+Python,functions/concepts/main.py,main.py,123,32,66,25,3
+Python,functions/helloworld/sample_storage_test_integration.py,sample_storage_test_integration.py,74,42,18,14,1
+Python,functions/helloworld/sample_storage_test.py,sample_storage_test.py,39,17,16,6,1
+Python,functions/helloworld/sample_pubsub_test_integration.py,sample_pubsub_test_integration.py,68,36,18,14,1
+Markdown,functions/helloworld/README.md,README.md,11,7,0,4,0
+Python,functions/helloworld/sample_storage_test_system.py,sample_storage_test_system.py,70,41,15,14,3
+Python,functions/helloworld/sample_http_test.py,sample_http_test.py,36,11,17,8,0
+Python,functions/helloworld/sample_http_test_integration.py,sample_http_test_integration.py,59,31,18,10,0
+Plain Text,functions/bigtable/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,functions/security/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,functions/bigtable/main_test.py,main_test.py,67,37,13,17,1
+Python,functions/helloworld/main_test.py,main_test.py,94,66,14,14,4
+YAML,profiler/appengine/standard_python37/app.yaml,app.yaml,1,1,0,0,0
+Markdown,dlp/README.md,README.md,3,2,0,1,0
+Python,functions/security/main_test.py,main_test.py,37,20,13,4,0
+gitignore,texttospeech/cloud-client/.gitignore,.gitignore,1,1,0,0,0
+ReStructuredText,pubsub/cloud-client/README.rst,README.rst,3,2,0,1,0
+Plain Text,profiler/appengine/standard_python37/requirements.txt,requirements.txt,2,2,0,0,0
+Python,functions/bigtable/main.py,main.py,44,20,15,9,2
+Python,functions/helloworld/sample_pubsub_test_system.py,sample_pubsub_test_system.py,62,33,18,11,3
+Plain Text,pubsub/streaming-analytics/requirements.txt,requirements.txt,1,1,0,0,0
+Docker ignore,cloud-sql/mysql/sqlalchemy/.dockerignore,.dockerignore,4,4,0,0,0
+ReStructuredText,texttospeech/cloud-client/README.rst,README.rst,3,2,0,1,0
+Markdown,cloud-sql/mysql/sqlalchemy/README.md,README.md,183,139,0,44,0
+YAML,.github/snippet-bot.yml,snippet-bot.yml,0,0,0,0,0
+Markdown,datalabeling/README.md,README.md,3,2,0,1,0
+Markdown,.github/PULL_REQUEST_TEMPLATE.md,PULL_REQUEST_TEMPLATE.md,15,12,0,3,0
+Python,functions/helloworld/main.py,main.py,200,140,49,11,6
+YAML,.github/blunderbuss.yml,blunderbuss.yml,133,130,0,3,0
+gitignore,cloud-sql/mysql/sqlalchemy/.gitignore,.gitignore,2,2,0,0,0
+YAML,cloud-sql/mysql/sqlalchemy/app.standard.yaml,app.standard.yaml,24,6,16,2,0
+YAML,.github/sync-repo-settings.yaml,sync-repo-settings.yaml,48,25,20,3,0
+Python,cloud-sql/mysql/sqlalchemy/main.py,main.py,216,112,72,32,6
+Plain Text,eventarc/audit-storage/requirements.txt,requirements.txt,2,2,0,0,0
+Dockerfile,eventarc/generic/Dockerfile,Dockerfile,41,8,26,7,0
+Plain Text,eventarc/generic/requirements.txt,requirements.txt,2,2,0,0,0
+Python,profiler/appengine/standard_python37/main.py,main.py,48,12,27,9,1
+Python,functions/helloworld/sample_pubsub_test.py,sample_pubsub_test.py,45,17,17,11,2
+HTML,cloud-sql/mysql/sqlalchemy/templates/index.html,index.html,100,84,15,1,0
+Plain Text,eventarc/generic/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,eventarc/audit-storage/Dockerfile,Dockerfile,41,8,26,7,0
+Plain Text,eventarc/audit-storage/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Docker ignore,eventarc/generic/.dockerignore,.dockerignore,6,6,0,0,0
+Autoconf,cdn/README.rst.in,README.rst.in,16,12,1,3,0
+Plain Text,cdn/requirements.txt,requirements.txt,1,1,0,0,0
+Python,eventarc/noxfile.py,noxfile.py,237,169,43,25,6
+Markdown,eventarc/audit-storage/anthos.md,anthos.md,99,74,0,25,0
+Python,eventarc/generic/main_test.py,main_test.py,51,21,16,14,4
+Markdown,eventarc/audit-storage/README.md,README.md,68,50,0,18,0
+Plain Text,cdn/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,eventarc/generic/main.py,main.py,50,20,19,11,1
+Python,run/helloworld/main.py,main.py,31,9,15,7,1
+Markdown,eventarc/README.md,README.md,141,99,0,42,0
+Markdown,pubsub/streaming-analytics/README.md,README.md,211,150,0,61,0
+Markdown,compute/README.md,README.md,29,16,0,13,0
+Python,functions/helloworld/sample_http_test_system.py,sample_http_test_system.py,40,17,15,8,2
+Python,pubsub/streaming-analytics/PubSubToGCS_test.py,PubSubToGCS_test.py,66,43,15,8,0
+Autoconf,servicedirectory/README.rst.in,README.rst.in,28,20,1,7,1
+Plain Text,pubsub/streaming-analytics/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,profiler/appengine/standard_python37/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+JSON,scripts/resources/docs-links.json,docs-links.json,377,377,0,0,0
+Python,run/helloworld/main_test.py,main_test.py,40,16,13,11,0
+Plain Text,eventarc/pubsub/requirements.txt,requirements.txt,2,2,0,0,0
+Python,profiler/appengine/standard_python37/main_test.py,main_test.py,24,7,13,4,1
+Markdown,scripts/README.md,README.md,6,4,0,2,0
+Shell,scripts/run_tests_local.sh,run_tests_local.sh,73,37,25,11,5
+Python,pubsub/streaming-analytics/noxfile.py,noxfile.py,171,142,19,10,6
+Python,scripts/readme-gen/readme_gen.py,readme_gen.py,66,30,16,20,1
+Shell,scripts/prepare-testing-project.sh,prepare-testing-project.sh,53,28,14,11,1
+Shell,scripts/travis.sh,travis.sh,14,10,3,1,2
+Shell,scripts/encrypt-secrets.sh,encrypt-secrets.sh,36,13,16,7,1
+Plain Text,servicedirectory/requirements.txt,requirements.txt,1,1,0,0,0
+Python,pubsub/streaming-analytics/PubSubToGCS.py,PubSubToGCS.py,132,76,35,21,3
+Python,scripts/auto_link_to_docs.py,auto_link_to_docs.py,146,114,25,7,0
+Plain Text,servicedirectory/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,servicedirectory/quickstart_test.py,quickstart_test.py,54,25,14,15,1
+Python,eventarc/audit-storage/main_test.py,main_test.py,45,21,13,11,1
+Plain Text,compute/metadata/requirements.txt,requirements.txt,1,1,0,0,0
+Markdown,third_party/apache-airflow/README.md,README.md,22,16,0,6,0
+Dockerfile,eventarc/pubsub/Dockerfile,Dockerfile,41,8,26,7,0
+License,third_party/apache-airflow/LICENSE,LICENSE,263,217,0,46,0
+Python,servicedirectory/snippets_test.py,snippets_test.py,91,49,14,28,7
+Python,cdn/snippets_test.py,snippets_test.py,110,79,16,15,0
+ReStructuredText,scripts/readme-gen/templates/auth.tmpl.rst,auth.tmpl.rst,9,7,0,2,0
+Python,eventarc/audit-storage/main.py,main.py,40,10,21,9,1
+Plain Text,eventarc/pubsub/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,compute/metadata/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Shell,scripts/decrypt-secrets.sh,decrypt-secrets.sh,44,21,17,6,4
+Python,compute/autoscaler/demo/frontend.py,frontend.py,112,97,14,1,0
+ReStructuredText,cdn/README.rst,README.rst,55,27,0,28,0
+Markdown,compute/metadata/README.md,README.md,15,9,0,6,0
+Python,servicedirectory/snippets.py,snippets.py,151,68,35,48,2
+Python,compute/metadata/detect_legacy_usage.py,detect_legacy_usage.py,79,45,19,15,9
+ReStructuredText,servicedirectory/README.rst,README.rst,89,45,0,44,0
+Python,compute/metadata/main_test.py,main_test.py,51,28,15,8,0
+Python,cdn/snippets.py,snippets.py,219,129,61,29,6
+Python,compute/metadata/main.py,main.py,78,34,24,20,6
+ReStructuredText,scripts/readme-gen/templates/auth_api_key.tmpl.rst,auth_api_key.tmpl.rst,14,11,0,3,0
+Markdown,eventarc/pubsub/anthos.md,anthos.md,81,59,0,22,0
+Plain Text,compute/api/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,compute/api/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,compute/autoscaler/demo/frontend_test.py,frontend_test.py,72,33,24,15,0
+Python,compute/api/create_instance_test.py,create_instance_test.py,40,20,12,8,4
+Plain Text,compute/auth/requirements.txt,requirements.txt,4,4,0,0,0
+Python,compute/auth/application_default.py,application_default.py,60,18,27,15,1
+Python,compute/auth/access_token.py,access_token.py,78,34,22,22,1
+Plain Text,compute/auth/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,compute/auth/access_token_test.py,access_token_test.py,39,18,12,9,0
+Markdown,compute/api/README.md,README.md,21,11,0,10,0
+Shell,compute/api/startup-script.sh,startup-script.sh,40,11,22,7,0
+Python,compute/metadata/detect_legacy_usage_test.py,detect_legacy_usage_test.py,92,62,8,22,0
+Python,compute/api/create_instance.py,create_instance.py,194,124,42,28,9
+Python,eventarc/pubsub/main_test.py,main_test.py,71,49,13,9,0
+Python,compute/oslogin/service_account_ssh.py,service_account_ssh.py,171,132,28,11,9
+Python,eventarc/pubsub/main.py,main.py,56,24,19,13,11
+Plain Text,compute/oslogin/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+ReStructuredText,scripts/readme-gen/templates/README.tmpl.rst,README.tmpl.rst,94,63,0,31,0
+Python,compute/auth/application_default_test.py,application_default_test.py,22,5,12,5,0
+Python,third_party/apache-airflow/plugins/__init__.py,__init__.py,30,8,17,5,0
+Plain Text,compute/encryption/requirements.txt,requirements.txt,5,5,0,0,0
+Plain Text,compute/encryption/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Docker ignore,eventarc/pubsub/.dockerignore,.dockerignore,6,6,0,0,0
+Python,third_party/apache-airflow/plugins/gcs_plugin/__init__.py,__init__.py,0,0,0,0,0
+Python,compute/encryption/generate_wrapped_rsa_key.py,generate_wrapped_rsa_key.py,93,45,26,22,3
+Python,compute/encryption/generate_wrapped_rsa_key_test.py,generate_wrapped_rsa_key_test.py,54,29,15,10,0
+Python,compute/oslogin/service_account_ssh_test.py,service_account_ssh_test.py,261,185,41,35,4
+Python,iap/make_iap_request.py,make_iap_request.py,63,36,23,4,1
+Plain Text,compute/managed-instances/demo/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,compute/oslogin/requirements.txt,requirements.txt,4,4,0,0,0
+Python,compute/xmpp_wikibot/wikibot.py,wikibot.py,153,97,40,16,7
+Plain Text,compute/xmpp_wikibot/requirements.txt,requirements.txt,4,4,0,0,0
+Python,third_party/apache-airflow/plugins/gcs_plugin/hooks/__init__.py,__init__.py,0,0,0,0,0
+gitignore,testing/.gitignore,.gitignore,3,3,0,0,0
+Plain Text,compute/xmpp_wikibot/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Shell,testing/test-env.tmpl.sh,test-env.tmpl.sh,72,49,8,15,0
+Markdown,compute/xmpp_wikibot/README.md,README.md,80,55,0,25,0
+ReStructuredText,scripts/readme-gen/templates/install_portaudio.tmpl.rst,install_portaudio.tmpl.rst,35,24,0,11,0
+ReStructuredText,scripts/readme-gen/templates/install_deps.tmpl.rst,install_deps.tmpl.rst,29,17,0,12,0
+Python,third_party/apache-airflow/plugins/gcs_plugin/operators/__init__.py,__init__.py,0,0,0,0,0
+Autoconf,datastore/cloud-client/README.rst.in,README.rst.in,35,27,1,7,1
+Markdown,eventarc/pubsub/README.md,README.md,47,34,0,13,0
+Python,iam/api-client/service_accounts.py,service_accounts.py,224,168,38,18,2
+Python,iam/api-client/access_test.py,access_test.py,97,57,18,22,7
+Python,iap/example_gce_backend.py,example_gce_backend.py,43,21,13,9,3
+Python,servicedirectory/quickstart.py,quickstart.py,34,9,17,8,2
+Plain Text,datastore/cloud-client/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,datastore/schedule-export/requirements.txt,requirements.txt,1,1,0,0,0
+Python,third_party/apache-airflow/plugins/gcs_plugin/hooks/gcs_hook.py,gcs_hook.py,539,391,119,29,41
+Plain Text,datastore/cloud-ndb/requirements.txt,requirements.txt,4,4,0,0,0
+Python,datastore/cloud-client/tasks.py,tasks.py,139,72,26,41,6
+Markdown,blog/README.md,README.md,10,7,0,3,0
+Python,datastore/cloud-ndb/django_middleware.py,django_middleware.py,29,7,17,5,0
+Plain Text,datastore/schedule-export/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,third_party/apache-airflow/plugins/gcs_plugin/operators/gcs_to_gcs.py,gcs_to_gcs.py,177,128,38,11,15
+Markdown,iot/api-client/README.md,README.md,42,29,0,13,0
+Plain Text,datastore/cloud-ndb/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,datastore/cloud-client/admin.py,admin.py,86,30,37,19,2
+Python,datastore/cloud-client/tasks_test.py,tasks_test.py,92,55,13,24,8
+Python,datastore/cloud-client/quickstart_test.py,quickstart_test.py,21,5,13,3,1
+Python,compute/managed-instances/demo/app.py,app.py,200,182,18,0,0
+Python,datastore/schedule-export/main.py,main.py,57,41,7,9,0
+Shell,iot/api-client/generate_keys.sh,generate_keys.sh,20,4,14,2,0
+YAML,datastore/cloud-client/index.yaml,index.yaml,29,29,0,0,0
+ReStructuredText,datastore/cloud-client/README.rst,README.rst,152,80,0,72,0
+Python,datastore/cloud-ndb/django_middleware_test.py,django_middleware_test.py,29,8,15,6,0
+Python,datastore/cloud-client/quickstart.py,quickstart.py,45,12,23,10,1
+Plain Text,iam/api-client/requirements.txt,requirements.txt,3,3,0,0,0
+Python,datastore/cloud-ndb/quickstart_test.py,quickstart_test.py,44,19,17,8,1
+Markdown,datastore/schedule-export/README.md,README.md,5,3,0,2,0
+Autoconf,iot/api-client/scripts/README.rst.in,README.rst.in,24,18,1,5,1
+HTML,compute/managed-instances/demo/templates/index.html,index.html,61,59,0,2,0
+Python,datastore/cloud-client/admin_test.py,admin_test.py,48,24,12,12,2
+Python,datastore/cloud-client/snippets_test.py,snippets_test.py,282,209,13,60,7
+Markdown,iot/api-client/manager/README.md,README.md,3,2,0,1,0
+Python,datastore/schedule-export/schedule_export_test.py,schedule_export_test.py,74,37,23,14,0
+Plain Text,datastore/cloud-client/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Plain Text,blog/introduction_to_data_models_in_cloud_datastore/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,blog/introduction_to_data_models_in_cloud_datastore/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,blog/introduction_to_data_models_in_cloud_datastore/wiki_test.py,wiki_test.py,25,7,12,6,0
+Markdown,blog/introduction_to_data_models_in_cloud_datastore/README.md,README.md,29,16,0,13,0
+Autoconf,iot/api-client/gcs_file_to_device/README.rst.in,README.rst.in,28,22,1,5,0
+Python,iot/api-client/gcs_file_to_device/gcs_example_mqtt_device_test.py,gcs_example_mqtt_device_test.py,50,22,17,11,1
+Plain Text,iot/api-client/gcs_file_to_device/requirements.txt,requirements.txt,9,9,0,0,0
+Python,datastore/cloud-client/snippets.py,snippets.py,903,506,154,243,27
+HTML,compute/managed-instances/demo/templates/health.html,health.html,7,7,0,0,0
+Python,blog/introduction_to_data_models_in_cloud_datastore/blog.py,blog.py,129,75,20,34,15
+Python,iot/api-client/gcs_file_to_device/gcs_example_mqtt_device.py,gcs_example_mqtt_device.py,252,240,12,0,0
+Python,iot/api-client/codelabs/thermostat.py,thermostat.py,97,81,13,3,0
+Python,iam/api-client/service_accounts_test.py,service_accounts_test.py,48,26,15,7,5
+Plain Text,compute/managed-instances/demo/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,iot/api-client/scripts/requirements.txt,requirements.txt,1,1,0,0,0
+Python,blog/introduction_to_data_models_in_cloud_datastore/wiki.py,wiki.py,107,58,20,29,13
+Plain Text,iap/requirements.txt,requirements.txt,6,6,0,0,0
+Python,iot/api-client/manager/manager.py,manager.py,617,497,34,86,18
+Python,iap/validate_jwt.py,validate_jwt.py,48,12,32,4,0
+Plain Text,iot/api-client/end_to_end_example/requirements.txt,requirements.txt,7,7,0,0,0
+Autoconf,iot/api-client/end_to_end_example/README.rst.in,README.rst.in,28,22,1,5,0
+ReStructuredText,iot/api-client/http_example/README.rst,README.rst,119,78,0,41,0
+Plain Text,iot/api-client/end_to_end_example/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,iot/api-client/codelabs/colors.py,colors.py,68,48,13,7,0
+Python,iot/api-client/end_to_end_example/cloudiot_pubsub_example_server_test.py,cloudiot_pubsub_example_server_test.py,65,39,13,13,6
+Python,iot/api-client/end_to_end_example/cloudiot_pubsub_example_mqtt_device.py,cloudiot_pubsub_example_mqtt_device.py,259,247,12,0,0
+ReStructuredText,iot/api-client/end_to_end_example/README.rst,README.rst,158,102,0,56,0
+YAML,iap/app_engine_app/app.yaml,app.yaml,7,6,0,1,0
+Plain Text,iap/app_engine_app/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,iot/api-client/codelabs/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,iot/api-client/end_to_end_example/cloudiot_pubsub_example_server.py,cloudiot_pubsub_example_server.py,224,212,12,0,0
+Plain Text,iap/app_engine_app/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+BASH,iot/api-client/codelabs/run-light-sensor,run-light-sensor,17,1,14,2,0
+Python,iap/app_engine_app/appengine_config.py,appengine_config.py,18,2,14,2,0
+BASH,iot/api-client/codelabs/run-gateway,run-gateway,26,10,14,2,0
+ReStructuredText,speech/README.rst,README.rst,3,2,0,1,0
+Python,iap/iap_test.py,iap_test.py,70,26,32,12,2
+Shell,iot/api-client/codelabs/generate_keys.sh,generate_keys.sh,18,2,14,2,0
+Plain Text,iot/api-client/mqtt_example/requirements.txt,requirements.txt,9,9,0,0,0
+Python,iot/api-client/scripts/iam.py,iam.py,58,22,22,14,1
+Plain Text,iot/api-client/mqtt_example/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,iot/api-client/mqtt_example/cloudiot_mqtt_image_test.py,cloudiot_mqtt_image_test.py,72,42,16,14,2
+Python,iot/api-client/mqtt_example/gateway_demo.py,gateway_demo.py,167,108,30,29,8
+Autoconf,storage/signed_urls/README.rst.in,README.rst.in,22,16,1,5,0
+Python,iot/api-client/mqtt_example/cloudiot_mqtt_image.py,cloudiot_mqtt_image.py,164,116,22,26,4
+Markdown,iot/api-client/http_example/resources/README.md,README.md,4,3,0,1,0
+Plain Text,iap/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+ReStructuredText,iot/api-client/mqtt_example/README.rst,README.rst,194,139,0,55,0
+Python,iot/api-client/mqtt_example/cloudiot_mqtt_example_test.py,cloudiot_mqtt_example_test.py,213,142,23,48,14
+Markdown,iap/README.md,README.md,86,67,0,19,0
+BASH,iot/api-client/codelabs/run-led-light,run-led-light,17,1,14,2,0
+Shell,iap/example_startup_script.sh,example_startup_script.sh,12,12,0,0,0
+BASH,iot/api-client/codelabs/run-thermostat,run-thermostat,17,1,14,2,0
+Python,iot/api-client/codelabs/ledlight.py,ledlight.py,89,73,13,3,1
+Python,iap/app_engine_app/iap_demo.py,iap_demo.py,46,16,28,2,0
+Python,iot/api-client/mqtt_example/cloudiot_mqtt_example.py,cloudiot_mqtt_example.py,513,459,43,11,10
+Python,datastore/cloud-ndb/flask_app.py,flask_app.py,44,16,15,13,2
+Python,datastore/cloud-ndb/flask_app_test.py,flask_app_test.py,60,27,19,14,1
+Plain Text,iot/api-client/scripts/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,datastore/cloud-ndb/quickstart.py,quickstart.py,39,11,19,9,3
+Python,iot/api-client/mqtt_example/fixtures.py,fixtures.py,218,153,25,40,0
+Plain Text,iot/api-client/http_example/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Autoconf,iot/api-client/http_example/README.rst.in,README.rst.in,34,26,1,7,0
+Markdown,iot/api-client/mqtt_example/resources/README.md,README.md,4,3,0,1,0
+ReStructuredText,iot/api-client/scripts/README.rst,README.rst,111,62,0,49,0
+Plain Text,iot/api-client/http_example/requirements.txt,requirements.txt,8,8,0,0,0
+Autoconf,iot/api-client/mqtt_example/README.rst.in,README.rst.in,40,31,1,8,0
+Python,iot/api-client/codelabs/codelab_test.py,codelab_test.py,70,47,16,7,7
+Plain Text,iot/api-client/codelabs/requirements.txt,requirements.txt,3,3,0,0,0
+Python,iot/api-client/http_example/cloudiot_http_example.py,cloudiot_http_example.py,222,145,39,38,11
+Python,iot/api-client/http_example/cloudiot_http_example_test.py,cloudiot_http_example_test.py,161,106,14,41,7
+Python,iot/api-client/codelabs/lightsensor.py,lightsensor.py,193,176,14,3,3
+Python,storage/api/customer_supplied_keys_test.py,customer_supplied_keys_test.py,30,11,12,7,1
+Python,iot/api-client/codelabs/gateway.py,gateway.py,348,296,29,23,0
+Autoconf,storage/api/README.rst.in,README.rst.in,29,24,1,4,0
+Plain Text,storage/api/requirements.txt,requirements.txt,3,3,0,0,0
+Python,storage/api/compose_objects_test.py,compose_objects_test.py,28,11,12,5,0
+Plain Text,storage/api/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/api/crud_object_test.py,crud_object_test.py,43,18,12,13,1
+Python,storage/api/list_objects_test.py,list_objects_test.py,22,5,12,5,0
+Plain Text,storage/signed_urls/requirements.txt,requirements.txt,3,3,0,0,0
+Python,storage/s3-sdk/list_gcs_buckets_test.py,list_gcs_buckets_test.py,29,11,13,5,1
+Plain Text,iot/api-client/gcs_file_to_device/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,iam/api-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,iam/api-client/service_account_keys.py,service_account_keys.py,120,54,35,31,4
+Python,ml_engine/online_prediction/predict_test.py,predict_test.py,60,30,19,11,1
+Python,storage/transfer_service/aws_request.py,aws_request.py,111,71,28,12,1
+Autoconf,storage/transfer_service/README.rst.in,README.rst.in,30,24,1,5,0
+Python,storage/api/crud_object.py,crud_object.py,139,71,37,31,9
+Python,iam/api-client/noxfile_config.py,noxfile_config.py,42,6,29,7,0
+Markdown,iam/api-client/README.md,README.md,7,4,0,3,0
+Plain Text,ml_engine/online_prediction/requirements.txt,requirements.txt,5,5,0,0,0
+Plain Text,ml_engine/online_prediction/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,iam/api-client/grantable_roles.py,grantable_roles.py,53,27,16,10,7
+Plain Text,storage/transfer_service/requirements.txt,requirements.txt,3,3,0,0,0
+Python,iam/api-client/grantable_roles_test.py,grantable_roles_test.py,25,8,13,4,1
+Python,iam/api-client/custom_roles_test.py,custom_roles_test.py,133,90,18,25,10
+Python,ml_engine/online_prediction/predict.py,predict.py,107,92,14,1,0
+Python,iam/api-client/access.py,access.py,212,122,42,48,12
+Plain Text,storage/signed_urls/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,storage/api/compose_objects.py,compose_objects.py,97,70,25,2,0
+Python,iam/api-client/quickstart_test.py,quickstart_test.py,100,55,20,25,3
+Python,ml_engine/online_prediction/scikit-xg-predict.py,scikit-xg-predict.py,53,38,13,2,2
+Python,ml_engine/online_prediction/noxfile.py,noxfile.py,171,142,19,10,6
+Plain Text,storage/transfer_service/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,storage/signed_urls/generate_signed_urls_test.py,generate_signed_urls_test.py,42,20,14,8,0
+Python,storage/transfer_service/create_client.py,create_client.py,20,3,14,3,0
+Python,storage/transfer_service/transfer_check.py,transfer_check.py,61,22,26,13,1
+Plain Text,storage/api/resources/file2.txt,file2.txt,1,1,0,0,0
+ReStructuredText,iot/api-client/gcs_file_to_device/README.rst,README.rst,168,112,0,56,0
+ReStructuredText,storage/transfer_service/README.rst,README.rst,186,105,0,81,0
+Python,storage/transfer_service/nearline_request.py,nearline_request.py,100,61,27,12,1
+Plain Text,storage/api/resources/file1.txt,file1.txt,1,1,0,0,0
+JSON,ml_engine/online_prediction/resources/census_test_data.json,census_test_data.json,1,1,0,0,0
+Python,ml_engine/custom-prediction-routines/preprocess.py,preprocess.py,43,17,18,8,0
+ReStructuredText,automl/README.rst,README.rst,3,2,0,1,0
+Markdown,ml_engine/custom-prediction-routines/README.md,README.md,28,21,0,7,0
+Python,ml_engine/custom-prediction-routines/setup.py,setup.py,20,5,10,5,0
+Markdown,vision/cloud-client/README.md,README.md,3,2,0,1,0
+Python,ml_engine/custom-prediction-routines/predictor-interface.py,predictor-interface.py,50,6,37,7,0
+Python,ml_engine/custom-prediction-routines/tensorflow-predictor.py,tensorflow-predictor.py,73,21,40,12,0
+ReStructuredText,bigquery/cloud-client/README.rst,README.rst,3,2,0,1,0
+Python,ml_engine/custom-prediction-routines/scikit-predictor.py,scikit-predictor.py,73,21,40,12,0
+Markdown,ml_engine/online_prediction/README.md,README.md,6,4,0,2,0
+Plain Text,bigquery/bqml/requirements.txt,requirements.txt,6,6,0,0,0
+Plain Text,bigquery/bqml/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Plain Text,bigquery/datalab-migration/requirements.txt,requirements.txt,7,7,0,0,0
+Python,bigquery/bqml/data_scientist_tutorial_test.py,data_scientist_tutorial_test.py,141,109,23,9,0
+Plain Text,bigquery/datalab-migration/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,bigquery/bqml/ncaa_tutorial_test.py,ncaa_tutorial_test.py,141,105,26,10,2
+Markdown,bigquery/datalab-migration/README.md,README.md,4,3,0,1,0
+Plain Text,bigquery/pandas-gbq-migration/requirements.txt,requirements.txt,6,6,0,0,0
+Plain Text,bigquery/pandas-gbq-migration/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,iot/api-client/gcs_file_to_device/gcs_send_to_device_test.py,gcs_send_to_device_test.py,181,118,24,39,4
+Python,iam/api-client/quickstart.py,quickstart.py,124,63,30,31,18
+Markdown,bigquery/pandas-gbq-migration/README.md,README.md,4,3,0,1,0
+Python,bigquery/datalab-migration/samples_test.py,samples_test.py,414,382,16,16,8
+Python,iot/api-client/gcs_file_to_device/gcs_send_to_device.py,gcs_send_to_device.py,273,261,12,0,0
+Python,storage/api/list_objects.py,list_objects.py,83,30,35,18,2
+Python,blog/introduction_to_data_models_in_cloud_datastore/blog_test.py,blog_test.py,25,7,12,6,0
+Plain Text,vision/automl/requirements.txt,requirements.txt,1,1,0,0,0
+Python,vision/automl/model_test.py,model_test.py,43,20,16,7,0
+Plain Text,vision/automl/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,language/README.md,README.md,3,2,0,1,0
+Python,bigquery/pandas-gbq-migration/samples_test.py,samples_test.py,271,249,14,8,0
+Markdown,scheduler/README.md,README.md,3,2,0,1,0
+Markdown,secretmanager/README.md,README.md,3,2,0,1,0
+Python,iam/api-client/custom_roles.py,custom_roles.py,241,131,60,50,8
+Python,storage/cloud-client/storage_disable_requester_pays.py,storage_disable_requester_pays.py,40,20,15,5,0
+Python,vision/automl/automl_vision_model.py,automl_vision_model.py,93,43,32,18,4
+Dockerfile,vision/automl/edge_container_predict/Dockerfile,Dockerfile,29,13,13,3,0
+Python,storage/signed_urls/generate_signed_urls.py,generate_signed_urls.py,149,116,22,11,2
+Python,vision/automl/edge_container_predict/automl_vision_edge_container_predict.py,automl_vision_edge_container_predict.py,80,64,14,2,0
+Python,document/cloud-client/batch_parse_form_beta_test.py,batch_parse_form_beta_test.py,45,20,14,11,1
+Python,document/cloud-client/parse_table_beta.py,parse_table_beta.py,105,65,29,11,0
+ReStructuredText,storage/signed_urls/README.rst,README.rst,97,54,0,43,0
+ReStructuredText,storage/api/README.rst,README.rst,217,116,0,101,0
+Python,document/cloud-client/quickstart_beta_test.py,quickstart_beta_test.py,28,9,13,6,2
+Plain Text,document/cloud-client/requirements.txt,requirements.txt,2,2,0,0,0
+Python,document/cloud-client/parse_form_beta.py,parse_form_beta.py,82,42,29,11,0
+Python,document/cloud-client/set_endpoint_beta.py,set_endpoint_beta.py,44,14,21,9,0
+Python,document/cloud-client/batch_parse_table_beta.py,batch_parse_table_beta.py,115,64,32,19,2
+Python,vision/automl/edge_container_predict/automl_vision_edge_container_predict_test.py,automl_vision_edge_container_predict_test.py,108,45,48,15,3
+Python,storage/s3-sdk/list_gcs_objects_test.py,list_gcs_objects_test.py,31,13,13,5,1
+Python,storage/api/customer_supplied_keys.py,customer_supplied_keys.py,158,76,52,30,4
+Plain Text,document/cloud-client/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,vision/automl/edge_container_predict/cloudbuild.yaml,cloudbuild.yaml,26,11,13,2,0
+YAML,appengine/standard_python3/warmup/app.yaml,app.yaml,4,3,0,1,0
+Python,document/cloud-client/batch_parse_form_beta.py,batch_parse_form_beta.py,97,46,31,20,2
+Plain Text,storage/s3-sdk/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,appengine/standard_python3/warmup/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,storage/s3-sdk/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Autoconf,storage/s3-sdk/README.rst.in,README.rst.in,26,19,1,6,1
+Plain Text,appengine/standard_python3/warmup/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,vision/automl/edge_container_predict/README.md,README.md,78,61,0,17,0
+Python,appengine/standard_python3/warmup/main_test.py,main_test.py,32,12,13,7,1
+Plain Text,appengine/standard_python3/migration/urlfetch/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,appengine/standard_python3/migration/urlfetch/app.yaml,app.yaml,15,1,13,1,0
+Python,appengine/standard/conftest.py,conftest.py,40,20,15,5,6
+Markdown,appengine/standard_python3/migration/urlfetch/README.md,README.md,16,13,0,3,0
+Python,appengine/standard_python3/migration/urlfetch/main_test.py,main_test.py,24,7,13,4,1
+SQL,bigquery/bqml/resources/feature_input_query.sql,feature_input_query.sql,479,479,0,0,1
+Python,appengine/standard/appengine_helper.py,appengine_helper.py,156,102,33,21,8
+Python,appengine/standard_python3/migration/urlfetch/main.py,main.py,41,19,13,9,0
+Plain Text,appengine/standard_python3/migration/urlfetch/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/standard/README.md,README.md,47,26,0,21,0
+Python,document/cloud-client/parse_with_model_beta.py,parse_with_model_beta.py,59,20,27,12,2
+SQL,bigquery/bqml/resources/training_data_query.sql,training_data_query.sql,784,784,0,0,1
+Python,appengine/standard_python3/warmup/main.py,main.py,38,16,15,7,0
+ReStructuredText,storage/s3-sdk/README.rst,README.rst,114,61,0,53,0
+Python,document/cloud-client/quickstart_beta.py,quickstart_beta.py,62,29,22,11,0
+Python,storage/s3-sdk/list_gcs_buckets.py,list_gcs_buckets.py,65,29,23,13,3
+Python,document/cloud-client/parse_with_model_beta_test.py,parse_with_model_beta_test.py,34,13,13,8,4
+Python,document/cloud-client/parse_table_beta_test.py,parse_table_beta_test.py,28,9,13,6,2
+Python,appengine/standard/noxfile-template.py,noxfile-template.py,247,176,47,24,6
+Python,document/cloud-client/parse_form_beta_test.py,parse_form_beta_test.py,28,9,13,6,2
+Python,document/cloud-client/set_endpoint_beta_test.py,set_endpoint_beta_test.py,27,8,13,6,1
+Python,storage/s3-sdk/list_gcs_objects.py,list_gcs_objects.py,68,31,23,14,3
+Python,document/cloud-client/batch_parse_table_beta_test.py,batch_parse_table_beta_test.py,45,20,14,11,1
+YAML,appengine/standard_python3/django/app.yaml,app.yaml,15,6,7,2,0
+Python,appengine/standard/download-appengine-sdk.py,download-appengine-sdk.py,162,90,27,45,26
+YAML,appengine/standard_python3/pubsub/app.yaml,app.yaml,9,4,4,1,0
+Plain Text,appengine/standard_python3/pubsub/requirements.txt,requirements.txt,4,4,0,0,0
+JSON,appengine/standard_python3/pubsub/sample_message.json,sample_message.json,5,5,0,0,0
+Plain Text,appengine/standard_python3/django/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard_python3/pubsub/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/standard_python3/pubsub/README.md,README.md,96,62,0,34,0
+Plain Text,appengine/standard_python3/django/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+YAML,appengine/standard_python3/pubsub/app27.yaml,app27.yaml,20,17,0,3,0
+Python,appengine/standard_python3/pubsub/main_test.py,main_test.py,123,77,18,28,1
+YAML,appengine/standard_python3/cloudsql/app.yaml,app.yaml,9,6,2,1,0
+Python,appengine/standard_python3/pubsub/appengine_config.py,appengine_config.py,10,5,3,2,0
+Python,appengine/standard_python3/pubsub/main.py,main.py,113,68,30,15,2
+YAML,appengine/standard/analytics/app.yaml,app.yaml,10,8,0,2,0
+HTML,appengine/standard_python3/migration/urlfetch/templates/index.html,index.html,21,18,0,3,0
+Python,appengine/standard_python3/django/noxfile_config.py,noxfile_config.py,39,7,26,6,0
+Plain Text,appengine/standard/analytics/requirements.txt,requirements.txt,3,3,0,0,0
+Python,storage/cloud-client/storage_download_file_requester_pays.py,storage_download_file_requester_pays.py,53,21,21,11,1
+Markdown,appengine/standard_python3/django/README.md,README.md,15,10,0,5,0
+YAML,appengine/standard_python3/spanner/app.yaml,app.yaml,5,4,0,1,0
+YAML,appengine/standard_python3/building-an-app/building-an-app-1/app.yaml,app.yaml,13,6,5,2,0
+Python,appengine/standard_python3/cloudsql/main_mysql_pooling.py,main_mysql_pooling.py,65,27,27,11,2
+Plain Text,appengine/standard_python3/cloudsql/requirements.txt,requirements.txt,5,5,0,0,0
+Python,appengine/standard_python3/django/manage.py,manage.py,15,13,1,1,1
+Plain Text,appengine/standard_python3/spanner/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-1/requirements.txt,requirements.txt,1,1,0,0,0
+Python,storage/cloud-client/storage_rotate_encryption_key.py,storage_rotate_encryption_key.py,66,31,22,13,3
+Plain Text,appengine/standard/analytics/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard_python3/django/main.py,main.py,10,2,7,1,0
+Plain Text,appengine/standard_python3/spanner/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard_python3/cloudsql/main_postgres_pooling.py,main_postgres_pooling.py,66,32,22,12,2
+HTML,appengine/standard_python3/pubsub/templates/index.html,index.html,48,46,2,0,0
+Python,appengine/standard/analytics/main_test.py,main_test.py,47,23,13,11,3
+Plain Text,appengine/standard_python3/cloudsql/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-1/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard_python3/spanner/main_test.py,main_test.py,26,8,13,5,1
+Python,appengine/standard_python3/django/mysite/__init__.py,__init__.py,0,0,0,0,0
+Python,storage/cloud-client/bucket_lock_test.py,bucket_lock_test.py,172,122,15,35,14
+Python,appengine/standard_python3/django/mysite/urls.py,urls.py,22,15,7,0,0
+Python,appengine/standard_python3/django/mysite/wsgi.py,wsgi.py,16,4,8,4,0
+Python,appengine/standard_python3/django/polls/__init__.py,__init__.py,0,0,0,0,0
+Python,appengine/standard_python3/django/polls/models.py,models.py,24,16,0,8,0
+Python,appengine/standard_python3/django/polls/apps.py,apps.py,5,3,0,2,0
+Python,appengine/standard_python3/django/mysite/settings.py,settings.py,167,112,30,25,3
+Python,appengine/standard_python3/django/polls/test_polls.py,test_polls.py,58,36,13,9,5
+Python,appengine/standard_python3/django/polls/admin.py,admin.py,6,4,0,2,0
+YAML,appengine/standard_python3/building-an-app/building-an-app-2/app.yaml,app.yaml,13,6,5,2,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-2/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/standard/analytics/main.py,main.py,77,41,23,13,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-2/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard_python3/building-an-app/building-an-app-2/main_test.py,main_test.py,23,6,13,4,0
+Python,appengine/standard_python3/building-an-app/building-an-app-2/main.py,main.py,71,24,28,19,1
+Python,storage/cloud-client/storage_define_bucket_website_configuration.py,storage_define_bucket_website_configuration.py,50,19,20,11,1
+Python,appengine/standard_python3/building-an-app/building-an-app-1/main.py,main.py,44,12,24,8,1
+Python,storage/cloud-client/storage_list_buckets.py,storage_list_buckets.py,35,8,17,10,3
+Python,appengine/standard_python3/cloudsql/main_mysql.py,main_mysql.py,58,26,22,10,2
+Python,storage/cloud-client/storage_set_temporary_hold.py,storage_set_temporary_hold.py,42,11,19,12,1
+Python,appengine/standard_python3/building-an-app/building-an-app-1/main_test.py,main_test.py,23,6,13,4,0
+Python,storage/cloud-client/storage_get_requester_pays_status.py,storage_get_requester_pays_status.py,40,20,15,5,0
+Python,storage/cloud-client/storage_change_default_storage_class.py,storage_change_default_storage_class.py,41,12,18,11,1
+Python,storage/cloud-client/storage_get_metadata.py,storage_get_metadata.py,68,48,15,5,0
+Python,storage/cloud-client/storage_get_hmac_key.py,storage_get_hmac_key.py,51,19,21,11,1
+Python,storage/cloud-client/storage_list_file_archived_generations.py,storage_list_file_archived_generations.py,39,9,18,12,3
+HTML,appengine/standard_python3/building-an-app/building-an-app-2/templates/index.html,index.html,18,15,2,1,0
+HTML,appengine/standard_python3/building-an-app/building-an-app-1/templates/index.html,index.html,18,15,0,3,0
+Python,storage/cloud-client/iam_test.py,iam_test.py,149,110,16,23,25
+Python,storage/cloud-client/storage_add_bucket_label.py,storage_add_bucket_label.py,46,14,20,12,1
+Python,storage/cloud-client/storage_get_service_account.py,storage_get_service_account.py,37,11,17,9,1
+Python,storage/cloud-client/storage_print_file_acl_for_user.py,storage_print_file_acl_for_user.py,45,25,15,5,1
+Python,storage/cloud-client/storage_remove_bucket_iam_member.py,storage_remove_bucket_iam_member.py,49,16,20,13,5
+Python,storage/cloud-client/storage_upload_file.py,storage_upload_file.py,49,18,20,11,1
+Plain Text,storage/cloud-client/requirements.txt,requirements.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_enable_requester_pays.py,storage_enable_requester_pays.py,39,19,15,5,0
+Python,storage/cloud-client/storage_get_retention_policy.py,storage_get_retention_policy.py,46,16,18,12,3
+Python,storage/cloud-client/storage_object_csek_to_cmek.py,storage_object_csek_to_cmek.py,59,39,15,5,0
+Python,appengine/standard_python3/cloudsql/main_test.py,main_test.py,78,43,13,22,4
+Python,appengine/standard_python3/spanner/main.py,main.py,36,14,15,7,0
+Python,storage/cloud-client/storage_disable_uniform_bucket_level_access.py,storage_disable_uniform_bucket_level_access.py,41,12,18,11,1
+Python,appengine/standard_python3/django/polls/urls.py,urls.py,11,9,0,2,0
+Python,storage/cloud-client/storage_delete_file_archived_generation.py,storage_delete_file_archived_generation.py,48,17,20,11,1
+Plain Text,memorystore/redis/requirements.txt,requirements.txt,17,17,0,0,0
+YAML,appengine/standard_python3/building-an-app/building-an-app-4/app.yaml,app.yaml,13,6,5,2,0
+Python,storage/cloud-client/storage_delete_hmac_key.py,storage_delete_hmac_key.py,47,14,22,11,1
+Plain Text,memorystore/redis/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard_python3/django/polls/views.py,views.py,46,31,5,10,0
+JavaScript,appengine/standard_python3/building-an-app/building-an-app-1/static/script.js,script.js,24,4,16,4,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-4/requirements.txt,requirements.txt,4,4,0,0,0
+YAML,appengine/standard_python3/building-an-app/building-an-app-3/app.yaml,app.yaml,13,6,5,2,0
+YAML,appengine/standard/logging/writing_logs/app.yaml,app.yaml,7,6,0,1,0
+Python,appengine/standard_python3/cloudsql/main_postgres.py,main_postgres.py,57,25,22,10,2
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-4/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-3/requirements.txt,requirements.txt,4,4,0,0,0
+Python,appengine/standard_python3/building-an-app/building-an-app-4/main_test.py,main_test.py,23,6,13,4,0
+Python,memorystore/redis/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+YAML,appengine/standard_python3/building-an-app/building-an-app-4/index.yaml,index.yaml,7,6,0,1,0
+Python,appengine/standard_python3/building-an-app/building-an-app-4/main.py,main.py,94,39,34,21,2
+Python,appengine/standard/logging/writing_logs/main_test.py,main_test.py,24,7,13,4,1
+Python,appengine/standard/logging/writing_logs/main.py,main.py,47,17,20,10,0
+Plain Text,appengine/standard_python3/building-an-app/building-an-app-3/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+HTML,appengine/standard_python3/django/polls/templates/polls/index.html,index.html,9,9,0,0,0
+Markdown,memorystore/redis/README.md,README.md,15,9,0,6,0
+Python,appengine/standard_python3/building-an-app/building-an-app-3/main_test.py,main_test.py,23,6,13,4,0
+Python,storage/cloud-client/storage_remove_bucket_conditional_iam_binding.py,storage_remove_bucket_conditional_iam_binding.py,67,47,15,5,0
+HTML,appengine/standard_python3/django/polls/templates/polls/results.html,results.html,9,7,0,2,0
+Python,memorystore/redis/main.py,main.py,47,27,13,7,0
+HTML,appengine/standard_python3/building-an-app/building-an-app-4/templates/index.html,index.html,54,37,11,6,0
+JavaScript,appengine/standard_python3/building-an-app/building-an-app-4/static/script.js,script.js,73,33,35,5,2
+Python,appengine/standard/analytics/appengine_config.py,appengine_config.py,18,2,14,2,0
+HTML,appengine/standard_python3/building-an-app/building-an-app-3/templates/index.html,index.html,54,37,11,6,0
+Python,appengine/standard_python3/building-an-app/building-an-app-3/main.py,main.py,93,38,35,20,2
+Shell,memorystore/redis/gce_deployment/teardown.sh,teardown.sh,20,2,16,2,0
+Shell,memorystore/redis/gce_deployment/startup-script.sh,startup-script.sh,65,33,23,9,1
+Python,memorystore/redis/cloud_run_deployment/e2e_test.py,e2e_test.py,185,136,25,24,1
+CSS,appengine/standard_python3/building-an-app/building-an-app-2/static/style.css,style.css,4,4,0,0,0
+Python,appengine/standard/modules/backend.py,backend.py,29,7,16,6,0
+Markdown,appengine/standard/modules/README.md,README.md,10,5,0,5,0
+Python,appengine/standard/modules/backend_test.py,backend_test.py,29,10,13,6,1
+YAML,memorystore/redis/gae_flex_deployment/app.yaml,app.yaml,29,10,16,3,0
+YAML,appengine/standard/modules/backend.yaml,backend.yaml,8,7,0,1,0
+Python,appengine/standard/urlfetch/snippets/main.py,main.py,100,50,31,19,1
+Python,appengine/standard/modules/main_test.py,main_test.py,46,24,13,9,0
+Python,appengine/standard/modules/main.py,main.py,53,22,23,8,0
+Dockerfile,memorystore/redis/gke_deployment/Dockerfile,Dockerfile,30,10,13,7,0
+CSS,appengine/standard_python3/building-an-app/building-an-app-1/static/style.css,style.css,4,4,0,0,0
+YAML,appengine/standard/i18n/app.yaml,app.yaml,23,19,0,4,0
+YAML,appengine/standard/django/app.yaml,app.yaml,31,18,10,3,0
+Plain Text,appengine/standard/django/requirements-vendor.txt,requirements-vendor.txt,1,1,0,0,0
+YAML,memorystore/redis/gke_deployment/visit-counter.yaml,visit-counter.yaml,39,38,0,1,0
+Python,memorystore/redis/gae_standard_py2_deployment/appengine_config.py,appengine_config.py,17,2,14,1,0
+gitignore,appengine/standard/urlfetch/requests/.gitignore,.gitignore,1,1,0,0,0
+HTML,appengine/standard_python3/django/polls/templates/polls/detail.html,detail.html,12,10,0,2,0
+YAML,memorystore/redis/gae_standard_deployment/app.yaml,app.yaml,25,7,16,2,0
+Python,appengine/standard/urlfetch/async/rpc.py,rpc.py,83,42,25,16,5
+Dockerfile,memorystore/redis/cloud_run_deployment/Dockerfile,Dockerfile,17,6,8,3,0
+Shell,memorystore/redis/gce_deployment/deploy.sh,deploy.sh,58,32,19,7,4
+Python,appengine/standard/urlfetch/async/rpc_test.py,rpc_test.py,78,50,13,15,3
+YAML,appengine/standard/cloudsql/app.yaml,app.yaml,18,13,2,3,0
+Python,appengine/standard/urlfetch/requests/main_test.py,main_test.py,24,6,15,3,1
+YAML,appengine/standard/pubsub/app.yaml,app.yaml,23,15,4,4,0
+YAML,appengine/standard/mailgun/app.yaml,app.yaml,7,6,0,1,0
+JavaScript,appengine/standard_python3/building-an-app/building-an-app-3/static/script.js,script.js,73,33,35,5,2
+Markdown,appengine/standard/i18n/README.md,README.md,133,94,0,39,0
+CSS,appengine/standard_python3/building-an-app/building-an-app-4/static/style.css,style.css,4,4,0,0,0
+Python,storage/cloud-client/storage_print_bucket_acl_for_user.py,storage_print_bucket_acl_for_user.py,41,21,15,5,1
+Plain Text,storage/cloud-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_create_bucket_class_location.py,storage_create_bucket_class_location.py,44,15,18,11,1
+Plain Text,appengine/standard/mailgun/requirements.txt,requirements.txt,1,1,0,0,0
+YAML,appengine/standard/migration/urlfetch/requests/app.yaml,app.yaml,7,6,0,1,0
+Python,storage/cloud-client/storage_create_hmac_key.py,storage_create_hmac_key.py,53,21,21,11,1
+Python,appengine/standard/urlfetch/requests/main.py,main.py,49,20,20,9,0
+CSS,appengine/standard_python3/building-an-app/building-an-app-3/static/style.css,style.css,4,4,0,0,0
+Markdown,appengine/standard/urlfetch/README.md,README.md,12,7,0,5,0
+Plain Text,appengine/standard/urlfetch/requests/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,memorystore/redis/gae_standard_py2_deployment/app.yaml,app.yaml,38,16,18,4,0
+JavaScript,appengine/standard_python3/building-an-app/building-an-app-2/static/script.js,script.js,24,4,16,4,0
+YAML,appengine/standard/urlfetch/snippets/app.yaml,app.yaml,7,6,0,1,0
+Plain Text,appengine/standard/urlfetch/requests/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,appengine/standard/urlfetch/async/app.yaml,app.yaml,7,6,0,1,0
+Python,appengine/standard/urlfetch/requests/appengine_config.py,appengine_config.py,18,2,14,2,0
+YAML,appengine/standard/urlfetch/requests/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard/migration/urlfetch/async/app.yaml,app.yaml,7,6,0,1,0
+Plain Text,memorystore/redis/gae_standard_py2_deployment/requirements_py2.txt,requirements_py2.txt,15,15,0,0,0
+YAML,appengine/standard/modules/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard/migration/urlfetch/requests/app3.yaml,app3.yaml,1,1,0,0,0
+Python,appengine/standard/urlfetch/snippets/main_test.py,main_test.py,43,20,13,10,3
+Plain Text,appengine/standard/migration/urlfetch/requests/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/standard/migration/urlfetch/requests/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/standard/migration/urlfetch/requests/README.md,README.md,23,16,0,7,0
+Plain Text,appengine/standard/django/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/standard/migration/urlfetch/requests/main_test.py,main_test.py,27,10,13,4,1
+Python,appengine/standard/migration/urlfetch/requests/main.py,main.py,49,23,18,8,0
+Plain Text,appengine/standard/django/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard/migration/urlfetch/requests/appengine_config.py,appengine_config.py,24,4,16,4,0
+Plain Text,appengine/standard/mailgun/requirements-test.txt,requirements-test.txt,4,4,0,0,0
+YAML,appengine/standard/migration/urlfetch/async/app3.yaml,app3.yaml,1,1,0,0,0
+Plain Text,appengine/standard/pubsub/requirements.txt,requirements.txt,2,2,0,0,0
+Markdown,appengine/standard/cloudsql/README.md,README.md,16,9,0,7,0
+Python,storage/cloud-client/encryption_test.py,encryption_test.py,125,81,19,25,0
+Markdown,appengine/standard/mailgun/README.md,README.md,17,10,0,7,0
+Python,appengine/standard/django/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Python,storage/cloud-client/storage_generate_signed_url_v4.py,storage_generate_signed_url_v4.py,61,21,28,12,1
+YAML,appengine/standard/migration/incoming/app.yaml,app.yaml,25,9,13,3,0
+Plain Text,appengine/standard/migration/incoming/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard/migration/incoming/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Markdown,appengine/standard/migration/incoming/README.md,README.md,16,12,0,4,0
+Python,appengine/standard/migration/incoming/main_test.py,main_test.py,27,9,13,5,1
+Python,appengine/standard/migration/incoming/appengine_config.py,appengine_config.py,20,2,16,2,0
+Python,appengine/standard/migration/incoming/main.py,main.py,84,41,27,16,9
+Plain Text,appengine/standard/migration/urlfetch/async/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/standard/pubsub/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/standard/django/README.md,README.md,15,10,0,5,0
+Markdown,appengine/standard/migration/urlfetch/async/README.md,README.md,23,16,0,7,0
+JSON,appengine/standard/pubsub/sample_message.json,sample_message.json,5,5,0,0,0
+Python,appengine/standard/migration/urlfetch/async/appengine_config.py,appengine_config.py,24,4,16,4,0
+Python,appengine/standard/migration/urlfetch/async/main_test.py,main_test.py,34,16,13,5,5
+Python,appengine/standard/migration/urlfetch/async/main.py,main.py,99,67,19,13,0
+Plain Text,appengine/standard/migration/urlfetch/async/requirements.txt,requirements.txt,4,4,0,0,0
+Markdown,appengine/standard/pubsub/README.md,README.md,77,47,0,30,0
+YAML,appengine/standard/migration/storage/app.yaml,app.yaml,15,12,0,3,0
+Python,appengine/standard/pubsub/main_test.py,main_test.py,70,37,16,17,1
+YAML,appengine/standard/migration/storage/app3.yaml,app3.yaml,5,4,0,1,0
+Python,appengine/standard/cloudsql/main_test.py,main_test.py,40,23,13,4,1
+Python,appengine/standard/django/appengine_config.py,appengine_config.py,19,2,15,2,0
+Python,appengine/standard/pubsub/main.py,main.py,94,59,21,14,2
+Plain Text,appengine/standard/migration/storage/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard/migration/storage/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard/django/mysite/__init__.py,__init__.py,0,0,0,0,0
+Markdown,appengine/standard/migration/storage/README.md,README.md,16,11,0,5,0
+Python,appengine/standard/django/polls/test_polls.py,test_polls.py,22,6,13,3,1
+Python,appengine/standard/django/polls/__init__.py,__init__.py,0,0,0,0,0
+Python,appengine/standard/django/polls/models.py,models.py,26,8,13,5,0
+Python,appengine/standard/django/polls/admin.py,admin.py,19,3,13,3,0
+Python,appengine/standard/django/mysite/urls.py,urls.py,23,7,13,3,0
+Python,appengine/standard/django/mysite/wsgi.py,wsgi.py,29,4,21,4,0
+Python,appengine/standard/django/mysite/settings.py,settings.py,164,122,29,13,1
+Python,appengine/standard/django/manage.py,manage.py,24,6,14,4,1
+YAML,appengine/standard/migration/memorystore/app.yaml,app.yaml,20,16,0,4,0
+Python,storage/cloud-client/notification_polling_test.py,notification_polling_test.py,55,35,13,7,0
+Python,appengine/standard/migration/storage/main_test.py,main_test.py,30,12,13,5,3
+Python,storage/cloud-client/storage_add_file_owner.py,storage_add_file_owner.py,54,18,24,12,1
+Python,appengine/standard/mailgun/appengine_config.py,appengine_config.py,18,2,14,2,0
+HTML,appengine/standard/pubsub/templates/index.html,index.html,38,36,2,0,0
+YAML,appengine/standard/migration/memorystore/app3.yaml,app3.yaml,8,6,0,2,0
+Plain Text,appengine/standard/migration/memorystore/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,storage/cloud-client/storage_enable_default_event_based_hold.py,storage_enable_default_event_based_hold.py,40,10,18,12,1
+Python,storage/cloud-client/storage_list_files_with_prefix.py,storage_list_files_with_prefix.py,71,49,17,5,0
+Markdown,appengine/standard/migration/memorystore/README.md,README.md,35,25,0,10,0
+Plain Text,appengine/standard/migration/memorystore/requirements.txt,requirements.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_set_bucket_public_iam.py,storage_set_bucket_public_iam.py,45,13,20,12,1
+Python,appengine/standard/django/polls/views.py,views.py,19,3,13,3,0
+Python,appengine/standard/migration/storage/main.py,main.py,60,39,13,8,2
+Python,storage/cloud-client/storage_download_file.py,storage_download_file.py,49,18,20,11,1
+Python,storage/cloud-client/storage_get_uniform_bucket_level_access.py,storage_get_uniform_bucket_level_access.py,53,25,18,10,2
+Python,appengine/standard/migration/storage/appengine_config.py,appengine_config.py,4,2,1,1,0
+Python,appengine/standard/migration/memorystore/main_test.py,main_test.py,67,42,13,12,2
+gitignore,appengine/standard/mailgun/.gitignore,.gitignore,1,1,0,0,0
+Python,storage/cloud-client/storage_remove_bucket_label.py,storage_remove_bucket_label.py,49,15,20,14,3
+Python,storage/cloud-client/storage_create_bucket.py,storage_create_bucket.py,37,8,18,11,1
+YAML,appengine/standard/users/app.yaml,app.yaml,7,6,0,1,0
+Python,storage/cloud-client/storage_print_bucket_acl.py,storage_print_bucket_acl.py,36,16,15,5,0
+Python,appengine/standard/mailgun/main_test.py,main_test.py,67,44,13,10,0
+YAML,appengine/standard/xmpp/app.yaml,app.yaml,15,11,2,2,0
+Python,appengine/standard/xmpp/xmpp_test.py,xmpp_test.py,66,36,13,17,0
+Python,appengine/standard/xmpp/xmpp.py,xmpp.py,103,46,38,19,3
+Markdown,appengine/standard/xmpp/README.md,README.md,15,9,0,6,0
+Python,appengine/standard/cloudsql/main.py,main.py,79,38,31,10,4
+YAML,appengine/standard/endpoints-frameworks-v2/quickstart/app.yaml,app.yaml,28,21,3,4,0
+Python,appengine/standard/mailgun/main.py,main.py,111,67,26,18,2
+Python,appengine/standard/i18n/main.py,main.py,49,10,30,9,0
+Python,appengine/standard/users/main_test.py,main_test.py,44,20,13,11,6
+Python,appengine/standard/i18n/i18n_utils.py,i18n_utils.py,212,172,32,8,2
+Python,storage/cloud-client/storage_generate_upload_signed_url_v4.py,storage_generate_upload_signed_url_v4.py,66,25,28,13,1
+Python,storage/cloud-client/storage_copy_file_archived_generation.py,storage_copy_file_archived_generation.py,63,29,22,12,1
+YAML,appengine/standard/migration/ndb/overview/app.yaml,app.yaml,22,11,8,3,0
+Python,storage/cloud-client/storage_enable_uniform_bucket_level_access.py,storage_enable_uniform_bucket_level_access.py,41,12,18,11,1
+Python,storage/cloud-client/storage_cors_configuration.py,storage_cors_configuration.py,48,28,15,5,0
+Python,storage/cloud-client/storage_disable_versioning.py,storage_disable_versioning.py,40,11,18,11,1
+YAML,appengine/standard/endpoints-frameworks-v2/iata/app.yaml,app.yaml,30,23,3,4,0
+Plain Text,appengine/standard/endpoints-frameworks-v2/iata/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard/endpoints-frameworks-v2/iata/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,storage/cloud-client/README.md,README.md,10,6,0,4,0
+Python,storage/cloud-client/storage_get_bucket_metadata.py,storage_get_bucket_metadata.py,63,40,17,6,0
+Python,storage/cloud-client/noxfile_config.py,noxfile_config.py,84,34,38,12,6
+YAML,appengine/standard/endpoints-frameworks-v2/echo/app.yaml,app.yaml,34,23,7,4,0
+Plain Text,appengine/standard/endpoints-frameworks-v2/echo/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_add_bucket_default_owner.py,storage_add_bucket_default_owner.py,51,31,15,5,0
+Plain Text,appengine/standard/endpoints-frameworks-v2/echo/requirements.txt,requirements.txt,4,4,0,0,0
+Markdown,appengine/standard/endpoints-frameworks-v2/iata/README.md,README.md,36,19,0,17,0
+Python,storage/cloud-client/storage_copy_file.py,storage_copy_file.py,60,27,21,12,1
+Python,storage/cloud-client/acl_test.py,acl_test.py,163,101,20,42,13
+Python,storage/cloud-client/storage_disable_default_event_based_hold.py,storage_disable_default_event_based_hold.py,40,10,18,12,1
+Plain Text,appengine/standard/endpoints-frameworks-v2/quickstart/requirements.txt,requirements.txt,4,4,0,0,0
+Python,storage/cloud-client/storage_enable_bucket_lifecycle_management.py,storage_enable_bucket_lifecycle_management.py,45,14,18,13,1
+YAML,appengine/standard/migration/ndb/overview/app3.yaml,app3.yaml,1,1,0,0,0
+Python,appengine/standard/endpoints-frameworks-v2/iata/main.py,main.py,119,78,23,18,13
+Python,appengine/standard/i18n/appengine_config.py,appengine_config.py,35,4,25,6,0
+Markdown,appengine/standard/endpoints-frameworks-v2/echo/README.md,README.md,38,20,0,18,0
+Python,appengine/standard/users/main.py,main.py,61,29,22,10,3
+Python,appengine/standard/endpoints-frameworks-v2/iata/appengine_config.py,appengine_config.py,18,2,14,2,0
+Python,appengine/standard/migration/memorystore/main.py,main.py,131,52,52,27,9
+Python,storage/cloud-client/quickstart_test.py,quickstart_test.py,28,7,15,6,0
+Python,storage/cloud-client/storage_enable_versioning.py,storage_enable_versioning.py,40,11,18,11,1
+Python,storage/cloud-client/storage_lock_retention_policy.py,storage_lock_retention_policy.py,48,14,22,12,1
+Plain Text,appengine/standard/endpoints-frameworks-v2/quickstart/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_object_get_kms_key.py,storage_object_get_kms_key.py,42,11,19,12,1
+Plain Text,appengine/standard/migration/ndb/overview/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/standard/migration/ndb/overview/README.md,README.md,21,14,0,7,0
+Plain Text,appengine/standard/migration/ndb/overview/requirements.txt,requirements.txt,5,5,0,0,0
+Python,storage/cloud-client/storage_release_temporary_hold.py,storage_release_temporary_hold.py,43,11,19,13,1
+Python,appengine/standard/migration/ndb/overview/main_test.py,main_test.py,28,10,13,5,0
+Python,appengine/standard/migration/ndb/overview/main.py,main.py,82,55,19,8,0
+Python,appengine/standard/migration/ndb/overview/appengine_config.py,appengine_config.py,9,5,3,1,0
+YAML,appengine/standard/migration/ndb/overview/index.yaml,index.yaml,17,6,8,3,0
+Python,appengine/standard/migration/memorystore/appengine_config.py,appengine_config.py,9,5,3,1,0
+Python,storage/cloud-client/storage_add_bucket_conditional_iam_binding.py,storage_add_bucket_conditional_iam_binding.py,78,58,15,5,0
+Python,appengine/standard/endpoints-frameworks-v2/quickstart/main_test.py,main_test.py,54,29,13,12,0
+Python,appengine/standard/endpoints-frameworks-v2/echo/main_test.py,main_test.py,41,20,13,8,0
+Python,appengine/standard/endpoints-frameworks-v2/iata/data.py,data.py,207,193,13,1,0
+YAML,appengine/standard/migration/ndb/redis_cache/app.yaml,app.yaml,28,15,8,5,0
+HTML,appengine/standard/migration/ndb/overview/templates/index.html,index.html,30,26,0,4,0
+YAML,appengine/standard/migration/ndb/redis_cache/app3.yaml,app3.yaml,7,5,0,2,0
+Python,storage/cloud-client/storage_upload_with_kms_key.py,storage_upload_with_kms_key.py,52,21,21,10,1
+Python,appengine/standard/endpoints-frameworks-v2/quickstart/main.py,main.py,149,74,53,22,2
+JavaScript,appengine/standard/i18n/static/js/main.js,main.js,9,5,0,4,0
+Plain Text,appengine/standard/migration/ndb/redis_cache/requirements.txt,requirements.txt,5,5,0,0,0
+Python,appengine/standard/endpoints-frameworks-v2/echo/appengine_config.py,appengine_config.py,4,2,1,1,0
+Python,appengine/standard/migration/ndb/redis_cache/main.py,main.py,89,61,19,9,0
+Python,appengine/standard/migration/ndb/redis_cache/appengine_config.py,appengine_config.py,9,5,3,1,0
+YAML,appengine/standard/migration/ndb/redis_cache/index.yaml,index.yaml,17,6,8,3,0
+HTML,appengine/standard/migration/memorystore/templates/index.html,index.html,22,19,0,3,0
+HTML,appengine/standard/migration/memorystore/templates/showdata.html,showdata.html,33,29,0,4,0
+YAML,appengine/standard/multitenancy/app.yaml,app.yaml,12,10,0,2,0
+HTML,appengine/standard/migration/ndb/redis_cache/templates/index.html,index.html,30,26,0,4,0
+Python,appengine/standard/multitenancy/datastore_test.py,datastore_test.py,35,15,13,7,5
+Markdown,appengine/standard/multitenancy/README.md,README.md,17,10,0,7,0
+Python,appengine/standard/multitenancy/taskqueue.py,taskqueue.py,92,55,23,14,3
+Python,appengine/standard/multitenancy/memcache.py,memcache.py,53,28,21,4,0
+Python,appengine/standard/multitenancy/datastore.py,datastore.py,70,38,22,10,1
+Python,appengine/standard/multitenancy/taskqueue_test.py,taskqueue_test.py,41,18,13,10,4
+Python,appengine/standard/multitenancy/memcache_test.py,memcache_test.py,35,15,13,7,5
+Markdown,appengine/standard/firebase/firenotes/README.md,README.md,64,43,0,21,0
+YAML,appengine/standard/firebase/firetactoe/app.yaml,app.yaml,11,9,0,2,0
+Jinja,appengine/standard/i18n/templates/javascript_tag.jinja2,javascript_tag.jinja2,3,3,0,0,0
+Plain Text,appengine/standard/firebase/firetactoe/requirements.txt,requirements.txt,5,5,0,0,0
+YAML,appengine/standard/firebase/firenotes/frontend/app.yaml,app.yaml,15,11,1,3,0
+Jinja,appengine/standard/i18n/templates/i18n_js.jinja2,i18n_js.jinja2,38,33,0,5,1
+HTML,appengine/standard/firebase/firenotes/frontend/index.html,index.html,43,36,5,2,0
+CSS,appengine/standard/firebase/firenotes/frontend/style.css,style.css,44,25,14,5,0
+Python,appengine/standard/endpoints-frameworks-v2/echo/main.py,main.py,109,55,38,16,2
+YAML,appengine/standard/firebase/firenotes/backend/app.yaml,app.yaml,11,9,0,2,0
+Plain Text,appengine/standard/firebase/firenotes/backend/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,appengine/standard/firebase/firenotes/backend/requirements.txt,requirements.txt,6,6,0,0,0
+JavaScript,appengine/standard/firebase/firenotes/frontend/main.js,main.js,155,86,44,25,2
+gitignore,appengine/standard/firebase/firenotes/backend/.gitignore,.gitignore,1,1,0,0,0
+Python,appengine/standard/migration/ndb/redis_cache/main_test.py,main_test.py,28,10,13,5,0
+Plain Text,appengine/standard/migration/ndb/redis_cache/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Jinja,appengine/standard/i18n/templates/null_i18n_js.jinja2,null_i18n_js.jinja2,15,15,0,0,0
+Python,storage/cloud-client/storage_delete_file.py,storage_delete_file.py,40,10,19,11,1
+Jinja,appengine/standard/i18n/templates/index.jinja2,index.jinja2,13,11,0,2,0
+Python,appengine/standard/firebase/firenotes/backend/main_test.py,main_test.py,96,56,15,25,0
+Python,appengine/standard/firebase/firenotes/backend/main.py,main.py,126,96,23,7,0
+Markdown,appengine/standard/migration/ndb/redis_cache/README.md,README.md,33,24,0,9,0
+Python,appengine/standard/firebase/firenotes/backend/appengine_config.py,appengine_config.py,18,2,14,2,0
+YAML,appengine/standard/iap/app.yaml,app.yaml,9,8,0,1,0
+Plain Text,appengine/standard/iap/requirements.txt,requirements.txt,1,1,0,0,0
+YAML,appengine/standard/firebase/firenotes/backend/index.yaml,index.yaml,22,10,8,4,0
+Python,storage/cloud-client/storage_delete_bucket.py,storage_delete_bucket.py,38,9,18,11,1
+Plain Text,appengine/standard/iap/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Markdown,appengine/standard/iap/README.md,README.md,27,16,0,11,0
+Markdown,appengine/standard/memcache/best_practices/README.md,README.md,10,5,0,5,0
+YAML,appengine/standard/memcache/guestbook/app.yaml,app.yaml,21,9,8,4,0
+Python,appengine/standard/search/snippets/snippets_test.py,snippets_test.py,140,75,13,52,3
+Python,appengine/standard/endpoints-frameworks-v2/quickstart/appengine_config.py,appengine_config.py,4,2,1,1,0
+YAML,appengine/standard/memcache/best_practices/migration_step2/app.yaml,app.yaml,7,6,0,1,0
+Python,appengine/standard/memcache/snippets/snippets_test.py,snippets_test.py,50,27,13,10,2
+Python,storage/cloud-client/storage_activate_hmac_key.py,storage_activate_hmac_key.py,53,21,21,11,1
+Python,appengine/standard/memcache/best_practices/migration_step2/migration2_test.py,migration2_test.py,22,5,13,4,0
+Python,appengine/standard/memcache/best_practices/migration_step2/migration2.py,migration2.py,50,23,16,11,1
+Python,appengine/standard/search/snippets/snippets.py,snippets.py,287,230,25,32,11
+YAML,appengine/standard/memcache/best_practices/batch/app.yaml,app.yaml,7,6,0,1,0
+Python,appengine/standard/firebase/firetactoe/firetactoe.py,firetactoe.py,270,228,24,18,1
+Plain Text,appengine/standard/firebase/firetactoe/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,storage/cloud-client/storage_view_bucket_iam_members.py,storage_view_bucket_iam_members.py,40,10,18,12,3
+Python,storage/cloud-client/requester_pays_test.py,requester_pays_test.py,65,34,15,16,3
+Python,storage/cloud-client/storage_release_event_based_hold.py,storage_release_event_based_hold.py,43,11,19,13,1
+YAML,appengine/standard/memcache/best_practices/failure/app.yaml,app.yaml,7,6,0,1,0
+Python,storage/cloud-client/storage_download_public_file.py,storage_download_public_file.py,49,18,20,11,1
+Python,appengine/standard/memcache/guestbook/main_test.py,main_test.py,23,6,13,4,0
+Python,storage/cloud-client/notification_polling.py,notification_polling.py,141,97,36,8,10
+Markdown,appengine/standard/memcache/guestbook/README.md,README.md,18,11,0,7,0
+Python,storage/cloud-client/storage_generate_signed_url_v2.py,storage_generate_signed_url_v2.py,54,15,28,11,1
+YAML,appengine/standard/memcache/guestbook/index.yaml,index.yaml,17,6,8,3,0
+Python,storage/cloud-client/storage_download_encrypted_file.py,storage_download_encrypted_file.py,69,26,30,13,1
+Python,appengine/standard/iap/main_test.py,main_test.py,35,14,13,8,4
+gitignore,appengine/standard/iap/.gitignore,.gitignore,1,1,0,0,0
+Python,storage/cloud-client/storage_add_bucket_iam_member.py,storage_add_bucket_iam_member.py,45,11,20,14,1
+Python,storage/cloud-client/hmac_samples_test.py,hmac_samples_test.py,121,67,33,21,9
+Python,appengine/standard/memcache/guestbook/main.py,main.py,151,116,21,14,1
+Python,appengine/standard/requests/main.py,main.py,66,36,29,1,2
+Python,appengine/standard/memcache/best_practices/migration_step1/migration1_test.py,migration1_test.py,22,5,13,4,0
+Python,appengine/standard/iap/main.py,main.py,53,26,18,9,1
+Python,appengine/standard/memcache/snippets/snippets.py,snippets.py,57,22,25,10,2
+Python,storage/cloud-client/storage_generate_encryption_key.py,storage_generate_encryption_key.py,39,8,23,8,1
+Python,appengine/standard/angular/main.py,main.py,75,38,14,23,2
+Python,storage/cloud-client/storage_bucket_delete_default_kms_key.py,storage_bucket_delete_default_kms_key.py,40,11,18,11,1
+HTML,appengine/standard/iap/templates/index.html,index.html,13,13,0,0,0
+Python,appengine/standard/memcache/best_practices/migration_step1/migration1.py,migration1.py,49,22,16,11,1
+Python,storage/cloud-client/storage_set_event_based_hold.py,storage_set_event_based_hold.py,42,11,19,12,1
+Python,appengine/standard/storage/api-client/appengine_config.py,appengine_config.py,4,2,1,1,0
+YAML,appengine/standard/storage/appengine-client/app.yaml,app.yaml,12,9,0,3,0
+Plain Text,appengine/standard/storage/appengine-client/requirements.txt,requirements.txt,1,1,0,0,0
+Python,storage/cloud-client/storage_change_file_storage_class.py,storage_change_file_storage_class.py,47,18,19,10,1
+HTML,appengine/standard/firebase/firetactoe/templates/fire_index.html,fire_index.html,43,43,0,0,0
+Plain Text,appengine/standard/storage/appengine-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard/storage/appengine-client/__init__.py,__init__.py,0,0,0,0,0
+Python,appengine/standard/iap/appengine_config.py,appengine_config.py,18,2,14,2,0
+YAML,appengine/standard/requests/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard/memcache/best_practices/migration_step1/app.yaml,app.yaml,7,6,0,1,0
+Markdown,appengine/standard/firebase/firetactoe/README.md,README.md,49,34,0,15,0
+Python,appengine/standard/memcache/best_practices/batch/batch.py,batch.py,36,13,16,7,2
+Markdown,appengine/standard/requests/README.md,README.md,15,9,0,6,0
+Python,storage/cloud-client/snippets_test.py,snippets_test.py,484,347,20,117,42
+Python,storage/cloud-client/storage_remove_bucket_default_owner.py,storage_remove_bucket_default_owner.py,54,34,15,5,0
+Python,appengine/standard/firebase/firetactoe/appengine_config.py,appengine_config.py,10,4,3,3,0
+Python,appengine/standard/requests/main_test.py,main_test.py,45,22,13,10,1
+Python,appengine/standard/memcache/best_practices/batch/batch_test.py,batch_test.py,28,9,13,6,1
+Python,storage/cloud-client/storage_remove_bucket_owner.py,storage_remove_bucket_owner.py,47,13,22,12,1
+Python,storage/cloud-client/storage_upload_encrypted_file.py,storage_upload_encrypted_file.py,68,28,27,13,1
+HTML,appengine/standard/firebase/firetactoe/templates/_firebase_config.html,_firebase_config.html,3,2,0,1,0
+YAML,appengine/standard/angular/app.yaml,app.yaml,15,12,0,3,0
+HTML,appengine/standard/angular/app/index.html,index.html,14,14,0,0,0
+Python,appengine/standard/storage/appengine-client/main_test.py,main_test.py,31,10,13,8,1
+CSS,appengine/standard/firebase/firetactoe/static/main.css,main.css,82,67,0,15,0
+Python,appengine/standard/firebase/firetactoe/firetactoe_test.py,firetactoe_test.py,196,130,18,48,5
+HTML,appengine/standard/angular/app/partials/insert.html,insert.html,12,12,0,0,0
+Python,appengine/standard/storage/appengine-client/appengine_config.py,appengine_config.py,4,2,1,1,0
+Shell,appengine/standard/angular/scripts/run.sh,run.sh,9,6,2,1,0
+JavaScript,appengine/standard/angular/app/js/app.js,app.js,123,106,0,17,10
+gitignore,appengine/standard/storage/.gitignore,.gitignore,1,1,0,0,0
+Python,storage/cloud-client/storage_make_public.py,storage_make_public.py,44,14,19,11,1
+JavaScript,appengine/standard/firebase/firetactoe/static/main.js,main.js,178,87,68,23,21
+Python,appengine/standard/storage/appengine-client/main.py,main.py,167,95,37,35,16
+Python,appengine/standard/angular/model.py,model.py,41,17,13,11,0
+Python,appengine/standard/memcache/best_practices/failure/failure.py,failure.py,73,34,25,14,3
+Markdown,appengine/standard/angular/README.md,README.md,10,6,0,4,0
+Python,appengine/standard/firebase/firetactoe/rest_api.py,rest_api.py,112,59,41,12,0
+YAML,appengine/standard/storage/api-client/app.yaml,app.yaml,7,6,0,1,0
+CSS,appengine/standard/angular/app/css/app.css,app.css,5,5,0,0,0
+YAML,appengine/standard/remote_api/app.yaml,app.yaml,6,5,0,1,0
+Python,storage/cloud-client/storage_compose_file.py,storage_compose_file.py,48,18,20,10,1
+Markdown,appengine/standard/storage/api-client/README.md,README.md,20,11,0,9,0
+Python,appengine/standard/storage/api-client/main_test.py,main_test.py,34,13,13,8,0
+Python,appengine/standard/memcache/best_practices/sharing/sharing.py,sharing.py,38,13,16,9,0
+Python,storage/cloud-client/storage_remove_cors_configuration.py,storage_remove_cors_configuration.py,39,19,15,5,0
+Python,storage/cloud-client/storage_list_files.py,storage_list_files.py,40,9,19,12,3
+YAML,appengine/standard/memcache/best_practices/sharing/app.yaml,app.yaml,7,6,0,1,0
+Python,storage/cloud-client/storage_remove_retention_policy.py,storage_remove_retention_policy.py,47,16,18,13,2
+Python,storage/cloud-client/storage_list_hmac_keys.py,storage_list_hmac_keys.py,43,14,20,9,3
+Python,appengine/standard/memcache/best_practices/failure/failure_test.py,failure_test.py,35,12,13,10,0
+Python,storage/cloud-client/storage_disable_bucket_lifecycle_management.py,storage_disable_bucket_lifecycle_management.py,41,12,18,11,1
+Python,appengine/standard/memcache/best_practices/sharing/sharing_test.py,sharing_test.py,23,6,13,4,1
+Python,appengine/standard/remote_api/client.py,client.py,54,23,18,13,3
+Shell,appengine/standard/angular/scripts/deploy.sh,deploy.sh,72,58,2,12,10
+Python,appengine/standard/storage/api-client/main.py,main.py,71,34,22,15,0
+Python,storage/cloud-client/storage_remove_file_owner.py,storage_remove_file_owner.py,53,19,23,11,1
+JavaScript,appengine/standard/iap/js/poll.js,poll.js,69,46,17,6,11
+Python,appengine/standard/localtesting/runner.py,runner.py,102,43,41,18,4
+Plain Text,appengine/standard/storage/api-client/requirements.txt,requirements.txt,3,3,0,0,0
+Python,storage/cloud-client/storage_deactivate_hmac_key.py,storage_deactivate_hmac_key.py,54,22,21,11,1
+Python,storage/cloud-client/storage_move_file.py,storage_move_file.py,43,12,20,11,1
+Plain Text,appengine/standard/storage/api-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/cloud-client/storage_set_metadata.py,storage_set_metadata.py,40,20,15,5,0
+Python,appengine/standard/localtesting/task_queue_test.py,task_queue_test.py,90,46,26,18,1
+Python,appengine/standard/localtesting/datastore_test.py,datastore_test.py,165,77,56,32,5
+Python,appengine/standard/localtesting/login_test.py,login_test.py,48,24,15,9,3
+Python,storage/cloud-client/storage_get_bucket_labels.py,storage_get_bucket_labels.py,41,18,17,6,0
+Markdown,appengine/standard/localtesting/README.md,README.md,15,9,0,6,0
+Python,storage/cloud-client/storage_set_bucket_default_kms_key.py,storage_set_bucket_default_kms_key.py,43,23,15,5,0
+YAML,appengine/standard/resources/app.yaml,app.yaml,11,8,1,2,0
+Plain Text,appengine/standard/mailjet/requirements.txt,requirements.txt,4,4,0,0,0
+YAML,appengine/standard/mailjet/app.yaml,app.yaml,14,10,2,2,0
+Plain Text,appengine/standard/mailjet/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,storage/cloud-client/uniform_bucket_level_access_test.py,uniform_bucket_level_access_test.py,78,50,17,11,5
+Python,appengine/standard/localtesting/mail_test.py,mail_test.py,45,21,15,9,1
+YAML,appengine/standard/localtesting/queue.yaml,queue.yaml,7,7,0,0,0
+HTML,appengine/standard/angular/app/partials/update.html,update.html,16,16,0,0,0
+YAML,appengine/standard/blobstore/api/app.yaml,app.yaml,8,7,0,1,0
+Python,storage/cloud-client/storage_print_file_acl.py,storage_print_file_acl.py,37,17,15,5,0
+Markdown,appengine/standard/blobstore/api/README.md,README.md,16,11,0,5,0
+YAML,appengine/standard/blobstore/gcs/app.yaml,app.yaml,8,7,0,1,0
+HTML,appengine/standard/angular/app/partials/main.html,main.html,7,7,0,0,0
+gitignore,appengine/standard/mailjet/.gitignore,.gitignore,1,1,0,0,0
+Markdown,appengine/standard/mailjet/README.md,README.md,16,9,0,7,0
+Markdown,appengine/standard/ndb/entities/README.md,README.md,20,14,0,6,0
+Plain Text,appengine/standard/blobstore/gcs/requirements.txt,requirements.txt,1,1,0,0,0
+Python,appengine/standard/localtesting/env_vars_test.py,env_vars_test.py,41,18,15,8,1
+Python,appengine/standard/blobstore/api/main_test.py,main_test.py,26,7,13,6,1
+Python,storage/cloud-client/quickstart.py,quickstart.py,37,8,20,9,1
+YAML,appengine/standard/localtesting/resources/queue.yaml,queue.yaml,7,7,0,0,0
+YAML,appengine/standard/ndb/overview/app.yaml,app.yaml,21,9,8,4,0
+Markdown,appengine/standard/ndb/property_subclasses/README.md,README.md,16,10,0,6,0
+Plain Text,appengine/standard/blobstore/gcs/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard/ndb/property_subclasses/snippets.py,snippets.py,57,28,18,11,0
+Python,appengine/standard/blobstore/gcs/main_test.py,main_test.py,34,11,13,10,2
+Python,appengine/standard/ndb/property_subclasses/snippets_test.py,snippets_test.py,98,60,15,23,0
+Python,appengine/standard/ndb/property_subclasses/my_models.py,my_models.py,106,60,20,26,8
+Python,appengine/standard/ndb/entities/snippets_test.py,snippets_test.py,226,143,13,70,4
+Python,appengine/standard/blobstore/gcs/appengine_config.py,appengine_config.py,18,2,14,2,0
+Python,appengine/standard/blobstore/gcs/main.py,main.py,76,30,28,18,0
+Python,appengine/standard/blobstore/api/main.py,main.py,81,50,25,6,0
+Python,storage/cloud-client/storage_generate_signed_post_policy_v4.py,storage_generate_signed_post_policy_v4.py,65,26,23,16,3
+Markdown,appengine/standard/ndb/projection_queries/README.md,README.md,16,10,0,6,0
+Markdown,appengine/standard/ndb/properties/README.md,README.md,16,10,0,6,0
+Python,appengine/standard/ndb/projection_queries/snippets_test.py,snippets_test.py,46,20,13,13,4
+YAML,appengine/standard/ndb/transactions/app.yaml,app.yaml,17,6,8,3,0
+Plain Text,appengine/standard/ndb/transactions/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,appengine/standard/ndb/transactions/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard/ndb/entities/snippets.py,snippets.py,294,164,31,99,2
+Markdown,appengine/standard/ndb/transactions/README.md,README.md,19,11,0,8,0
+Python,appengine/standard/ndb/transactions/appengine_config.py,appengine_config.py,11,2,7,2,0
+Python,appengine/standard/ndb/transactions/main_test.py,main_test.py,50,27,13,10,2
+Python,storage/cloud-client/storage_set_retention_policy.py,storage_set_retention_policy.py,45,14,19,12,1
+Python,storage/cloud-client/storage_get_default_event_based_hold.py,storage_get_default_event_based_hold.py,45,15,18,12,2
+Python,appengine/standard/ndb/transactions/main.py,main.py,193,166,16,11,1
+Markdown,appengine/standard/ndb/overview/README.md,README.md,17,10,0,7,0
+Python,storage/cloud-client/storage_add_bucket_owner.py,storage_add_bucket_owner.py,52,15,24,13,1
+Python,appengine/standard/ndb/projection_queries/snippets.py,snippets.py,61,30,14,17,2
+Markdown,appengine/standard/ndb/queries/README.md,README.md,16,10,0,6,0
+Markdown,appengine/standard/ndb/cache/README.md,README.md,16,10,0,6,0
+Python,appengine/standard/ndb/queries/snippets_models.py,snippets_models.py,65,31,13,21,0
+Python,appengine/standard/ndb/cache/snippets.py,snippets.py,45,19,13,13,0
+Python,appengine/standard/ndb/cache/snippets_test.py,snippets_test.py,60,29,13,18,0
+Python,appengine/standard/ndb/async/app_sync.py,app_sync.py,35,12,14,9,0
+Python,appengine/standard/ndb/queries/guestbook.py,guestbook.py,75,40,15,20,7
+Markdown,appengine/standard/ndb/async/README.md,README.md,16,10,0,6,0
+Python,appengine/standard/ndb/async/app_sync_test.py,app_sync_test.py,36,13,14,9,0
+YAML,appengine/standard/blobstore/blobreader/app.yaml,app.yaml,8,7,0,1,0
+Plain Text,appengine/standard/blobstore/blobreader/requirements.txt,requirements.txt,1,1,0,0,0
+Python,appengine/standard/ndb/async/shopping_cart_test.py,shopping_cart_test.py,144,84,13,47,18
+Python,appengine/standard/ndb/queries/snippets.py,snippets.py,236,136,27,73,4
+Plain Text,appengine/standard/blobstore/blobreader/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard/ndb/async/shopping_cart.py,shopping_cart.py,137,82,21,34,20
+Python,appengine/standard/ndb/async/guestbook.py,guestbook.py,101,75,14,12,4
+Python,appengine/standard/blobstore/blobreader/main_test.py,main_test.py,25,6,13,6,1
+Python,appengine/standard/ndb/queries/snippets_test.py,snippets_test.py,389,318,13,58,6
+Python,appengine/standard/blobstore/blobreader/main.py,main.py,69,69,0,0,0
+HTML,appengine/standard/mailjet/templates/index.html,index.html,29,27,2,0,0
+Python,appengine/standard/hello_world/main_test.py,main_test.py,26,7,13,6,0
+Python,appengine/standard/mailjet/main.py,main.py,83,45,20,18,0
+Python,appengine/standard/ndb/queries/guestbook_test.py,guestbook_test.py,67,34,16,17,15
+Python,appengine/standard/hello_world/main.py,main.py,26,8,13,5,0
+Python,appengine/standard/ndb/properties/snippets.py,snippets.py,151,93,15,43,0
+Python,appengine/standard/ndb/async/app_toplevel/app_toplevel.py,app_toplevel.py,39,13,17,9,0
+Python,appengine/standard/appstats/main.py,main.py,35,10,19,6,0
+Plain Text,appengine/standard/sendgrid/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Markdown,appengine/standard/sendgrid/README.md,README.md,18,11,0,7,0
+Python,appengine/standard/appstats/appengine_config.py,appengine_config.py,20,4,14,2,0
+Python,appengine/standard/sendgrid/appengine_config.py,appengine_config.py,18,2,14,2,0
+Python,appengine/standard/sendgrid/main_test.py,main_test.py,46,23,13,10,1
+YAML,appengine/standard/images/guestbook/app.yaml,app.yaml,8,6,0,2,0
+Python,appengine/standard/sendgrid/main.py,main.py,70,40,21,9,0
+Python,appengine/standard/appstats/main_test.py,main_test.py,22,5,13,4,0
+YAML,appengine/standard/ndb/overview/index.yaml,index.yaml,17,6,8,3,0
+Python,appengine/standard/mailjet/appengine_config.py,appengine_config.py,18,2,14,2,0
+YAML,appengine/standard/mail/app.yaml,app.yaml,45,35,8,2,0
+Python,appengine/standard/ndb/overview/main.py,main.py,104,67,26,11,3
+Python,appengine/standard/blobstore/blobreader/appengine_config.py,appengine_config.py,18,2,14,2,0
+Plain Text,appengine/standard/sendgrid/requirements.txt,requirements.txt,1,1,0,0,0
+Python,appengine/standard/mailjet/main_test.py,main_test.py,53,27,13,13,2
+Python,appengine/standard/ndb/properties/snippets_test.py,snippets_test.py,106,70,13,23,0
+YAML,appengine/standard/hello_world/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard/images/api/app.yaml,app.yaml,8,6,0,2,0
+YAML,appengine/standard/app_identity/incoming/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard/endpoints/backend/app.yaml,app.yaml,16,11,3,2,0
+YAML,appengine/standard/endpoints/multiapi/app.yaml,app.yaml,16,11,3,2,0
+Python,appengine/standard/taskqueue/counter/worker.py,worker.py,46,17,17,12,0
+YAML,appengine/standard/taskqueue/counter/app.yaml,app.yaml,8,7,0,1,0
+Python,appengine/standard/taskqueue/counter/application_test.py,application_test.py,32,12,13,7,2
+YAML,appengine/standard/taskqueue/counter/worker.yaml,worker.yaml,9,8,0,1,0
+Python,appengine/standard/mail/send_mail_test.py,send_mail_test.py,26,9,13,4,1
+Python,appengine/standard/app_identity/incoming/main_test.py,main_test.py,28,9,13,6,0
+Markdown,appengine/standard/images/api/README.md,README.md,18,11,0,7,0
+YAML,appengine/standard/flask/hello_world/app.yaml,app.yaml,11,9,0,2,0
+Python,appengine/standard/endpoints/backend/main_test.py,main_test.py,54,29,13,12,0
+Python,appengine/standard/endpoints/multiapi/main_test.py,main_test.py,27,9,13,5,0
+Markdown,appengine/standard/taskqueue/counter/README.md,README.md,23,14,0,9,0
+Python,appengine/standard/ndb/overview/main_test.py,main_test.py,23,6,13,4,0
+Python,appengine/standard/mail/handle_bounced_email_test.py,handle_bounced_email_test.py,24,7,13,4,0
+Python,appengine/standard/images/api/blobstore_test.py,blobstore_test.py,67,30,17,20,0
+Python,appengine/standard/mail/header.py,header.py,56,39,14,3,0
+Python,appengine/standard/images/api/main_test.py,main_test.py,50,23,15,12,0
+Python,appengine/standard/mail/send_mail.py,send_mail.py,48,31,14,3,0
+Python,appengine/standard/images/api/main.py,main.py,56,20,24,12,2
+YAML,appengine/standard/taskqueue/counter/queue.yaml,queue.yaml,4,3,1,0,0
+Python,appengine/standard/app_identity/incoming/main.py,main.py,46,15,21,10,3
+Markdown,appengine/standard/images/guestbook/README.md,README.md,18,11,0,7,0
+Python,appengine/standard/images/api/blobstore.py,blobstore.py,73,30,28,15,4
+Python,appengine/standard/mail/send_message.py,send_message.py,51,33,14,4,0
+Python,appengine/standard/images/guestbook/main_test.py,main_test.py,78,40,16,22,0
+Python,appengine/standard/mail/send_message_test.py,send_message_test.py,26,9,13,4,1
+YAML,appengine/standard/appstats/app.yaml,app.yaml,10,8,0,2,0
+HTML,appengine/standard/mail/index.html,index.html,29,14,15,0,0
+Python,appengine/standard/images/guestbook/main.py,main.py,138,96,28,14,4
+Python,appengine/standard/endpoints/multiapi/main.py,main.py,59,22,20,17,0
+YAML,appengine/standard/app_identity/asserting/app.yaml,app.yaml,7,6,0,1,0
+Python,appengine/standard/app_identity/asserting/main_test.py,main_test.py,32,13,13,6,0
+YAML,appengine/standard/app_identity/signing/app.yaml,app.yaml,11,9,0,2,0
+YAML,appengine/standard/background/app.yaml,app.yaml,10,8,0,2,0
+YAML,appengine/standard/taskqueue/pull-counter/app.yaml,app.yaml,11,9,0,2,0
+Python,appengine/standard/taskqueue/counter/application.py,application.py,82,61,13,8,2
+YAML,appengine/standard/flask/tutorial/app.yaml,app.yaml,15,11,2,2,0
+Python,appengine/standard/app_identity/asserting/main.py,main.py,62,30,21,11,1
+Python,appengine/standard/endpoints/backend/main.py,main.py,149,74,53,22,2
+Markdown,appengine/standard/background/README.md,README.md,14,9,0,5,0
+Plain Text,appengine/standard/flask/tutorial/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,appengine/standard_python3/bigquery/app.yaml,app.yaml,1,1,0,0,0
+Plain Text,appengine/standard/flask/tutorial/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/standard/taskqueue/pull-counter/pullcounter_test.py,pullcounter_test.py,43,18,14,11,0
+Python,appengine/standard/app_identity/signing/main_test.py,main_test.py,24,7,13,4,1
+Plain Text,appengine/standard_python3/bigquery/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/standard/background/main_test.py,main_test.py,57,32,15,10,0
+Python,appengine/standard/ndb/async/app_async.py,app_async.py,36,13,14,9,0
+Python,appengine/standard/background/main.py,main.py,85,56,21,8,0
+Plain Text,appengine/standard_python3/bigquery/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard_python3/bigquery/main_test.py,main_test.py,73,53,13,7,1
+YAML,appengine/standard/taskqueue/pull-counter/worker.yaml,worker.yaml,15,13,0,2,0
+Python,appengine/standard_python3/bigquery/main.py,main.py,78,55,17,6,0
+Markdown,appengine/standard/flask/tutorial/README.md,README.md,16,10,0,6,0
+Python,appengine/standard/app_identity/signing/main.py,main.py,84,52,25,7,0
+gitignore,appengine/standard/flask/tutorial/.gitignore,.gitignore,1,1,0,0,0
+Markdown,appengine/standard/taskqueue/pull-counter/README.md,README.md,13,8,0,5,0
+YAML,appengine/standard_python3/cloud_debugger/app.yaml,app.yaml,1,1,0,0,0
+Plain Text,appengine/standard_python3/cloud_debugger/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,appengine/standard_python3/cloud_debugger/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+HTML,appengine/standard_python3/bigquery/templates/query_result.html,query_result.html,31,27,0,4,0
+Python,appengine/standard_python3/cloud_debugger/main.py,main.py,94,67,19,8,1
+HTML,appengine/standard_python3/bigquery/templates/timeout.html,timeout.html,20,16,0,4,0
+YAML,appengine/standard/sendgrid/app.yaml,app.yaml,7,6,0,1,0
+YAML,appengine/standard_python3/redis/app.yaml,app.yaml,6,5,0,1,0
+Python,appengine/standard/ndb/async/app_async_test.py,app_async_test.py,36,13,14,9,0
+Python,appengine/standard_python3/custom-server/main.py,main.py,26,7,13,6,1
+Python,appengine/standard_python3/hello_world/main_test.py,main_test.py,24,7,13,4,1
+Python,appengine/standard/ndb/async/app_toplevel/app_toplevel_test.py,app_toplevel_test.py,36,13,14,9,0
+Python,appengine/standard_python3/hello_world/main.py,main.py,35,7,21,7,1
+HTML,appengine/standard/ndb/async/app_toplevel/index.html,index.html,0,0,0,0,0
+Markdown,appengine/standard/ndb/async/app_toplevel/README.md,README.md,7,5,0,2,0
+Python,appengine/standard/ndb/async/guestbook_test.py,guestbook_test.py,74,38,15,21,14
+YAML,appengine/standard/taskqueue/pull-counter/queue.yaml,queue.yaml,3,3,0,0,0
+Plain Text,appengine/standard_python3/redis/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/standard_python3/redis/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/standard_python3/redis/main_test.py,main_test.py,35,15,13,7,2
+Python,appengine/standard/taskqueue/pull-counter/main.py,main.py,91,65,16,10,1
+Python,appengine/standard_python3/redis/main.py,main.py,45,15,20,10,1
+YAML,appengine/standard_python3/hello_world/app.yaml,app.yaml,1,1,0,0,0
+Autoconf,composer/rest/README.rst.in,README.rst.in,26,20,1,5,1
+Markdown,appengine/standard/flask/hello_world/README.md,README.md,11,7,0,4,0
+Plain Text,composer/rest/requirements.txt,requirements.txt,3,3,0,0,0
+Python,composer/rest/get_dag_prefix.py,get_dag_prefix.py,63,26,26,11,1
+Plain Text,composer/rest/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/standard_python3/hello_world/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,composer/rest/get_client_id.py,get_client_id.py,70,33,25,12,1
+Python,composer/rest/get_dag_prefix_test.py,get_dag_prefix_test.py,28,9,13,6,1
+Python,composer/rest/__init__.py,__init__.py,0,0,0,0,0
+ReStructuredText,composer/rest/README.rst,README.rst,98,53,0,45,0
+Python,codelabs/functions/python_powered/app.py,app.py,25,6,13,6,0
+Plain Text,appengine/standard_python3/hello_world/requirements.txt,requirements.txt,1,1,0,0,0
+Python,composer/data/python2_script.py,python2_script.py,15,1,13,1,0
+Python,composer/rest/get_client_id_test.py,get_client_id_test.py,28,9,13,6,1
+HTML,appengine/standard/flask/tutorial/templates/submitted_form.html,submitted_form.html,23,23,0,0,0
+Python,appengine/standard/flask/hello_world/main.py,main.py,34,10,16,8,0
+Plain Text,codelabs/flex_and_vision/requirements.txt,requirements.txt,6,6,0,0,0
+HTML,appengine/standard/taskqueue/pull-counter/counter.html,counter.html,15,15,0,0,0
+gitignore,appengine/standard/flask/hello_world/.gitignore,.gitignore,1,1,0,0,0
+Plain Text,codelabs/flex_and_vision/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,appengine/standard/images/guestbook/index.yaml,index.yaml,17,6,8,3,0
+Markdown,codelabs/flex_and_vision/README.md,README.md,111,65,0,46,0
+Python,appengine/standard/flask/hello_world/main_test.py,main_test.py,27,9,13,5,0
+Python,codelabs/flex_and_vision/main_test.py,main_test.py,51,26,13,12,0
+HTML,codelabs/flex_and_vision/templates/homepage.html,homepage.html,20,17,0,3,0
+CSS,appengine/standard/flask/tutorial/static/style.css,style.css,3,3,0,0,0
+Python,codelabs/flex_and_vision/main.py,main.py,136,67,38,31,1
+Autoconf,healthcare/api-client/v1/fhir/README.rst.in,README.rst.in,38,27,1,10,1
+Plain Text,healthcare/api-client/v1/fhir/requirements.txt,requirements.txt,5,5,0,0,0
+Autoconf,healthcare/api-client/v1/hl7v2/README.rst.in,README.rst.in,38,27,1,10,1
+Python,codelabs/functions/python_powered/main.py,main.py,62,17,36,9,3
+Autoconf,healthcare/api-client/v1/datasets/README.rst.in,README.rst.in,31,21,1,9,1
+Python,healthcare/api-client/v1/fhir/fhir_resources_test.py,fhir_resources_test.py,276,186,37,53,15
+Python,codelabs/functions/python_powered/test_main.py,test_main.py,39,14,16,9,0
+Plain Text,healthcare/api-client/v1/datasets/requirements.txt,requirements.txt,4,4,0,0,0
+Plain Text,healthcare/api-client/v1/datasets/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,healthcare/api-client/v1/datasets/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Plain Text,composer/functions/requirements.txt,requirements.txt,2,2,0,0,0
+ReStructuredText,healthcare/api-client/v1/datasets/README.rst,README.rst,160,107,0,53,0
+Plain Text,composer/functions/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,healthcare/api-client/v1/datasets/datasets_test.py,datasets_test.py,204,138,25,41,17
+Plain Text,healthcare/api-client/v1/fhir/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+YAML,codelabs/flex_and_vision/app.yaml,app.yaml,9,7,0,2,0
+Python,healthcare/api-client/v1/datasets/datasets.py,datasets.py,382,294,49,39,4
+Plain Text,appengine/standard_python3/custom-server/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/standard/flask/tutorial/main.py,main.py,58,22,26,10,0
+HTML,appengine/standard/flask/tutorial/templates/form.html,form.html,26,26,0,0,0
+Python,healthcare/api-client/v1/fhir/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Markdown,composer/functions/README.md,README.md,3,2,0,1,0
+Autoconf,healthcare/api-client/v1beta1/fhir/README.rst.in,README.rst.in,38,27,1,10,1
+Plain Text,healthcare/api-client/v1beta1/fhir/requirements.txt,requirements.txt,6,6,0,0,0
+Python,composer/functions/composer_storage_trigger.py,composer_storage_trigger.py,103,51,40,12,1
+Plain Text,healthcare/api-client/v1beta1/fhir/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Markdown,appengine/flexible/README.md,README.md,73,45,0,28,0
+Python,healthcare/api-client/v1beta1/fhir/fhir_stores_test.py,fhir_stores_test.py,72,38,15,19,2
+Python,composer/functions/composer_storage_trigger_test.py,composer_storage_trigger_test.py,37,15,13,9,0
+Autoconf,healthcare/api-client/v1/dicom/README.rst.in,README.rst.in,39,28,1,10,1
+Python,healthcare/api-client/v1beta1/fhir/fhir_stores.py,fhir_stores.py,241,208,19,14,2
+Python,healthcare/api-client/v1beta1/fhir/fhir_resources_test.py,fhir_resources_test.py,322,218,43,61,5
+Python,composer/workflows/dataflowtemplateoperator_create_dataset_and_table_test.py,dataflowtemplateoperator_create_dataset_and_table_test.py,53,24,16,13,0
+Python,healthcare/api-client/v1/fhir/fhir_stores_test.py,fhir_stores_test.py,262,169,37,56,22
+Python,healthcare/api-client/v1/hl7v2/hl7v2_stores.py,hl7v2_stores.py,346,257,41,48,4
+Python,composer/workflows/dataproc_workflow_template_instantiate_operator_tutorial_test.py,dataproc_workflow_template_instantiate_operator_tutorial_test.py,30,6,19,5,0
+Python,appengine/standard/flask/tutorial/main_test.py,main_test.py,38,18,13,7,1
+Python,composer/workflows/bq_notify.py,bq_notify.py,189,126,52,11,0
+Python,appengine/standard/flask/tutorial/appengine_config.py,appengine_config.py,20,2,16,2,0
+YAML,appengine/standard_python3/custom-server/app.yaml,app.yaml,4,2,2,0,0
+Plain Text,appengine/standard_python3/custom-server/requirements.txt,requirements.txt,2,2,0,0,0
+CSV,composer/workflows/bq_copy_eu_to_us_sample.csv,bq_copy_eu_to_us_sample.csv,3,3,0,0,0
+Python,composer/workflows/dataflowtemplateoperator_tutorial.py,dataflowtemplateoperator_tutorial.py,90,53,34,3,1
+gitignore,appengine/flexible/.gitignore,.gitignore,54,35,11,8,0
+Python,composer/tools/__init__.py,__init__.py,0,0,0,0,0
+Autoconf,composer/workflows/README.rst.in,README.rst.in,15,11,1,3,0
+Plain Text,healthcare/api-client/v1/hl7v2/requirements.txt,requirements.txt,4,4,0,0,0
+Python,composer/workflows/conftest.py,conftest.py,22,5,13,4,0
+YAML,appengine/flexible/twilio/app.yaml,app.yaml,13,9,2,2,0
+Python,healthcare/api-client/v1/fhir/fhir_stores.py,fhir_stores.py,463,331,61,71,2
+Python,appengine/standard/mail/header_test.py,header_test.py,27,10,13,4,1
+ReStructuredText,healthcare/api-client/v1/fhir/README.rst,README.rst,260,194,0,66,0
+JSON,healthcare/api-client/v1/fhir/resources/Patient.json,Patient.json,2,2,0,0,0
+ReStructuredText,healthcare/api-client/v1beta1/fhir/README.rst,README.rst,214,148,0,66,0
+Python,healthcare/api-client/v1/hl7v2/hl7v2_messages.py,hl7v2_messages.py,361,242,45,74,6
+Plain Text,appengine/flexible/twilio/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/flexible/twilio/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Markdown,appengine/flexible/twilio/README.md,README.md,34,21,0,13,0
+Python,healthcare/api-client/v1/dicom/dicomweb.py,dicomweb.py,430,263,57,110,2
+Python,appengine/flexible/twilio/main_test.py,main_test.py,77,51,13,13,2
+Python,appengine/flexible/twilio/main.py,main.py,87,48,22,17,2
+Plain Text,healthcare/api-client/v1/dicom/requirements.txt,requirements.txt,5,5,0,0,0
+Python,composer/workflows/dataflowtemplateoperator_tutorial_test.py,dataflowtemplateoperator_tutorial_test.py,33,9,19,5,0
+Plain Text,healthcare/api-client/v1/dicom/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,composer/workflows/pythonvirtualenvoperator_python2_test.py,pythonvirtualenvoperator_python2_test.py,26,4,19,3,0
+Python,composer/workflows/trigger_response_dag.py,trigger_response_dag.py,45,23,17,5,0
+JSON,healthcare/api-client/v1/fhir/resources/execute_bundle.json,execute_bundle.json,44,44,0,0,0
+JSON,healthcare/api-client/v1beta1/fhir/resources/Patient.json,Patient.json,2,2,0,0,0
+Plain Text,composer/workflows/requirements.txt,requirements.txt,6,6,0,0,0
+Python,healthcare/api-client/v1/dicom/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Python,healthcare/api-client/v1/fhir/fhir_resources.py,fhir_resources.py,831,608,92,131,1
+YAML,appengine/flexible/analytics/app.yaml,app.yaml,11,7,2,2,0
+Python,healthcare/api-client/v1/hl7v2/hl7v2_stores_test.py,hl7v2_stores_test.py,195,128,27,40,17
+Python,healthcare/api-client/v1/dicom/dicom_stores_test.py,dicom_stores_test.py,243,157,35,51,18
+Python,healthcare/api-client/v1beta1/fhir/fhir_resources.py,fhir_resources.py,533,334,79,120,3
+Python,appengine/standard/mail/attachment_test.py,attachment_test.py,27,10,13,4,1
+Python,appengine/standard/mail/handle_incoming_email_test.py,handle_incoming_email_test.py,28,11,13,4,0
+Python,healthcare/api-client/v1/dicom/dicom_stores.py,dicom_stores.py,455,337,54,64,2
+YAML,appengine/flexible/mailgun/app.yaml,app.yaml,12,8,2,2,0
+Plain Text,appengine/flexible/mailgun/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/flexible/mailgun/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Dockerfile,appengine/flexible/extending_runtime/Dockerfile,Dockerfile,20,9,6,5,1
+Python,appengine/standard/mail/handle_incoming_email.py,handle_incoming_email.py,42,15,20,7,4
+YAML,appengine/flexible/scipy/app.yaml,app.yaml,6,5,0,1,0
+Docker ignore,appengine/flexible/extending_runtime/.dockerignore,.dockerignore,8,8,0,0,0
+Plain Text,appengine/flexible/extending_runtime/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/flexible/mailgun/README.md,README.md,29,17,0,12,0
+Plain Text,appengine/flexible/scipy/requirements.txt,requirements.txt,6,6,0,0,0
+JSON,healthcare/api-client/v1/hl7v2/resources/hl7-sample-ingest.json,hl7-sample-ingest.json,5,5,0,0,0
+Plain Text,appengine/flexible/mailgun/example-attachment.txt,example-attachment.txt,1,1,0,0,0
+Python,appengine/flexible/extending_runtime/main_test.py,main_test.py,31,12,13,6,1
+Python,appengine/flexible/metadata/main.py,main.py,68,42,18,8,1
+Python,healthcare/api-client/v1/dicom/dicomweb_test.py,dicomweb_test.py,258,162,42,54,12
+Plain Text,appengine/flexible/analytics/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,healthcare/api-client/v1/hl7v2/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/standard/mail/user_signup.py,user_signup.py,106,85,15,6,2
+Markdown,appengine/flexible/analytics/README.md,README.md,25,14,0,11,0
+Plain Text,appengine/flexible/scipy/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+JSON,healthcare/api-client/v1beta1/fhir/resources/execute_bundle.json,execute_bundle.json,39,39,0,0,0
+Markdown,appengine/standard/mail/README.md,README.md,22,15,0,7,0
+YAML,appengine/flexible/metadata/app.yaml,app.yaml,6,5,0,1,0
+Python,healthcare/api-client/v1/hl7v2/noxfile_config.py,noxfile_config.py,37,5,26,6,0
+Plain Text,appengine/flexible/metadata/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,appengine/flexible/extending_runtime/app.yaml,app.yaml,2,2,0,0,0
+ReStructuredText,healthcare/api-client/v1/dicom/README.rst,README.rst,244,178,0,66,0
+Python,appengine/standard/mail/attachment.py,attachment.py,50,33,14,3,0
+Python,appengine/flexible/extending_runtime/main.py,main.py,46,22,16,8,0
+Plain Text,appengine/flexible/metadata/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/analytics/main_test.py,main_test.py,47,23,13,11,3
+Python,appengine/standard/mail/user_signup_test.py,user_signup_test.py,39,19,13,7,2
+Plain Text,appengine/flexible/extending_runtime/requirements.txt,requirements.txt,2,2,0,0,0
+YAML,appengine/flexible/disk/app.yaml,app.yaml,6,5,0,1,0
+Python,appengine/standard/mail/handle_bounced_email.py,handle_bounced_email.py,30,9,15,6,0
+YAML,appengine/flexible/cloudsql/app.yaml,app.yaml,21,10,8,3,0
+Plain Text,appengine/flexible/cloudsql/requirements.txt,requirements.txt,4,4,0,0,0
+Python,appengine/flexible/analytics/main.py,main.py,75,41,20,14,0
+YAML,appengine/flexible/pubsub/app.yaml,app.yaml,14,8,4,2,0
+ReStructuredText,healthcare/api-client/v1/hl7v2/README.rst,README.rst,222,156,0,66,0
+Python,healthcare/api-client/v1/hl7v2/hl7v2_messages_test.py,hl7v2_messages_test.py,229,157,27,45,13
+Plain Text,appengine/flexible/pubsub/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/flexible/cloudsql/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/flexible/scipy/README.md,README.md,9,5,0,4,0
+Python,composer/workflows/unit_testing_test.py,unit_testing_test.py,46,16,19,11,0
+Plain Text,appengine/flexible/pubsub/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/cloudsql/create_tables.py,create_tables.py,22,5,14,3,1
+gitignore,appengine/flexible/scipy/.gitignore,.gitignore,1,1,0,0,0
+YAML,appengine/flexible/static_files/app.yaml,app.yaml,6,5,0,1,0
+Markdown,composer/tools/README.md,README.md,3,2,0,1,0
+Plain Text,appengine/flexible/disk/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/flexible/mailgun/main_test.py,main_test.py,80,54,13,13,0
+Plain Text,appengine/flexible/analytics/requirements.txt,requirements.txt,3,3,0,0,0
+Python,appengine/flexible/mailgun/main.py,main.py,91,56,17,18,1
+Plain Text,appengine/flexible/disk/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,composer/workflows/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/disk/main_test.py,main_test.py,24,7,13,4,1
+Python,composer/workflows/bq_notify_test.py,bq_notify_test.py,32,9,19,4,0
+Plain Text,appengine/flexible/static_files/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/flexible/static_files/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/flexible/disk/main.py,main.py,74,45,16,13,1
+Python,composer/workflows/connections.py,connections.py,58,24,27,7,0
+Python,composer/workflows/kubernetes_pod_operator.py,kubernetes_pod_operator.py,236,87,139,10,0
+Markdown,appengine/flexible/static_files/README.md,README.md,12,7,0,5,0
+HTML,appengine/flexible/mailgun/templates/index.html,index.html,30,28,2,0,0
+Python,composer/workflows/use_local_deps_test.py,use_local_deps_test.py,43,13,23,7,0
+YAML,appengine/flexible/memcache/app.yaml,app.yaml,16,7,7,2,0
+Plain Text,appengine/flexible/memcache/requirements.txt,requirements.txt,3,3,0,0,0
+Markdown,appengine/flexible/cloudsql/README.md,README.md,57,34,0,23,0
+Plain Text,appengine/flexible/datastore/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,appengine/flexible/datastore/app.yaml,app.yaml,6,5,0,1,0
+Plain Text,appengine/flexible/memcache/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/flexible/datastore/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/flexible/datastore/README.md,README.md,24,13,0,11,0
+Python,appengine/flexible/datastore/main_test.py,main_test.py,24,7,13,4,1
+Python,appengine/flexible/static_files/main_test.py,main_test.py,26,8,13,5,0
+Python,appengine/flexible/static_files/main.py,main.py,42,20,14,8,0
+Python,appengine/flexible/datastore/main.py,main.py,82,48,17,17,3
+Markdown,appengine/flexible/memcache/README.md,README.md,49,28,0,21,0
+Python,composer/workflows/__init__.py,__init__.py,0,0,0,0,0
+Plain Text,appengine/flexible/storage/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+ReStructuredText,composer/workflows/README.rst,README.rst,63,34,0,29,0
+Python,composer/workflows/kubernetes_pod_operator_test.py,kubernetes_pod_operator_test.py,25,4,19,2,0
+Markdown,appengine/flexible/storage/README.md,README.md,37,20,0,17,0
+Python,appengine/flexible/cloudsql/main.py,main.py,97,56,18,23,3
+Python,appengine/flexible/storage/main_test.py,main_test.py,50,23,16,11,0
+Python,composer/workflows/unit_testing_variables.py,unit_testing_variables.py,39,18,14,7,0
+Python,composer/workflows/hadoop_tutorial.py,hadoop_tutorial.py,106,45,49,12,0
+HTML,appengine/flexible/static_files/templates/index.html,index.html,29,25,4,0,0
+CSS,appengine/flexible/static_files/static/main.css,main.css,21,4,17,0,0
+Plain Text,appengine/flexible/storage/requirements.txt,requirements.txt,4,4,0,0,0
+Python,appengine/flexible/memcache/noxfile.py,noxfile.py,171,142,19,10,6
+Python,appengine/flexible/storage/main.py,main.py,77,56,15,6,0
+Python,composer/workflows/simple.py,simple.py,70,22,38,10,0
+Python,composer/workflows/quickstart.py,quickstart.py,43,25,14,4,0
+Python,composer/workflows/hadoop_tutorial_test.py,hadoop_tutorial_test.py,31,8,19,4,0
+YAML,appengine/flexible/numpy/app.yaml,app.yaml,6,5,0,1,0
+Markdown,appengine/flexible/multiple_services/README.md,README.md,67,46,0,21,0
+Python,appengine/flexible/memcache/main_test.py,main_test.py,41,21,13,7,3
+YAML,appengine/flexible/websockets/app.yaml,app.yaml,22,7,9,6,0
+Python,composer/workflows/bashoperator_python2_test.py,bashoperator_python2_test.py,26,4,19,3,0
+Python,appengine/flexible/cloudsql/main_test.py,main_test.py,26,8,13,5,1
+Python,composer/workflows/bq_copy_across_locations.py,bq_copy_across_locations.py,181,136,37,8,0
+Python,composer/workflows/quickstart_test.py,quickstart_test.py,31,8,19,4,0
+Plain Text,appengine/flexible/websockets/requirements.txt,requirements.txt,4,4,0,0,0
+Python,appengine/flexible/memcache/main.py,main.py,60,30,17,13,2
+YAML,appengine/flexible/mailjet/app.yaml,app.yaml,13,9,2,2,0
+Plain Text,appengine/flexible/numpy/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,appengine/flexible/sendgrid/app.yaml,app.yaml,12,8,2,2,0
+Plain Text,appengine/flexible/mailjet/requirements.txt,requirements.txt,4,4,0,0,0
+Python,appengine/flexible/scipy/main_test.py,main_test.py,30,12,13,5,0
+Plain Text,appengine/flexible/websockets/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,appengine/flexible/scipy/main.py,main.py,52,29,15,8,0
+Plain Text,appengine/flexible/mailjet/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,appengine/flexible/sendgrid/requirements.txt,requirements.txt,3,3,0,0,0
+Python,composer/workflows/use_local_deps.py,use_local_deps.py,39,17,16,6,0
+Plain Text,appengine/flexible/sendgrid/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,composer/workflows/unit_testing_cycle.py,unit_testing_cycle.py,35,14,14,7,0
+Python,composer/workflows/dataproc_workflow_template_instantiate_operator_tutorial.py,dataproc_workflow_template_instantiate_operator_tutorial.py,61,20,31,10,0
+Python,composer/workflows/pythonvirtualenvoperator_python2.py,pythonvirtualenvoperator_python2.py,63,28,23,12,0
+Plain Text,appengine/flexible/numpy/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,appengine/flexible/sendgrid/README.md,README.md,29,17,0,12,0
+Python,appengine/flexible/numpy/main_test.py,main_test.py,24,7,13,4,1
+Python,appengine/flexible/sendgrid/main_test.py,main_test.py,49,25,13,11,1
+Python,appengine/flexible/sendgrid/main.py,main.py,69,40,15,14,3
+Markdown,appengine/flexible/mailjet/README.md,README.md,28,17,0,11,0
+Python,appengine/flexible/numpy/main.py,main.py,48,30,13,5,0
+Python,appengine/flexible/mailjet/main_test.py,main_test.py,53,27,13,13,2
+Python,appengine/flexible/mailjet/main.py,main.py,82,48,17,17,0
+Plain Text,composer/workflows/requirements-composer.txt,requirements-composer.txt,1,1,0,0,0
+Markdown,appengine/flexible/websockets/README.md,README.md,11,6,0,5,0
+YAML,appengine/flexible/redis/app.yaml,app.yaml,13,9,2,2,0
+HTML,appengine/flexible/sendgrid/templates/index.html,index.html,29,27,2,0,0
+Plain Text,appengine/flexible/cloudsql_postgresql/requirements.txt,requirements.txt,5,5,0,0,0
+YAML,appengine/flexible/cloudsql_postgresql/app.yaml,app.yaml,21,10,8,3,0
+YAML,composer/workflows/cloud-build.yaml,cloud-build.yaml,5,4,1,0,0
+Plain Text,appengine/flexible/cloudsql_postgresql/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/cloudsql_postgresql/create_tables.py,create_tables.py,22,5,14,3,1
+Python,appengine/flexible/cloudsql_postgresql/main_test.py,main_test.py,26,8,13,5,1
+Python,composer/workflows/unit_testing.py,unit_testing.py,33,9,17,7,4
+Python,composer/workflows/bq_copy_across_locations_test.py,bq_copy_across_locations_test.py,54,28,19,7,0
+Python,composer/workflows/dataflowtemplateoperator_create_dataset_and_table_helper.py,dataflowtemplateoperator_create_dataset_and_table_helper.py,79,26,33,20,1
+Plain Text,appengine/flexible/redis/requirements.txt,requirements.txt,3,3,0,0,0
+YAML,appengine/flexible/multiple_services/static-service/app.yaml,app.yaml,10,8,0,2,0
+Plain Text,appengine/flexible/redis/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+YAML,appengine/flexible/storage/app.yaml,app.yaml,11,7,2,2,0
+Python,composer/workflows/simple_test.py,simple_test.py,26,4,19,3,0
+Python,composer/workflows/connections_test.py,connections_test.py,26,4,19,3,0
+Python,appengine/flexible/cloudsql_postgresql/main.py,main.py,104,56,24,24,3
+YAML,appengine/flexible/multiple_services/gateway-service/app.yaml,app.yaml,10,8,0,2,0
+Plain Text,appengine/flexible/multiple_services/static-service/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/flexible/multiple_services/gateway-service/requirements.txt,requirements.txt,3,3,0,0,0
+Python,appengine/flexible/redis/main_test.py,main_test.py,35,15,13,7,2
+Python,composer/workflows/bashoperator_python2.py,bashoperator_python2.py,44,17,19,8,0
+Plain Text,appengine/flexible/multiple_services/static-service/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/websockets/main_test.py,main_test.py,82,40,24,18,1
+Python,composer/workflows/trigger_response_dag_test.py,trigger_response_dag_test.py,26,4,19,3,0
+HTML,appengine/flexible/mailjet/templates/index.html,index.html,29,27,2,0,0
+YAML,appengine/flexible/hello_world/app.yaml,app.yaml,17,11,4,2,0
+JSON,appengine/flexible/pubsub/sample_message.json,sample_message.json,5,5,0,0,0
+Python,appengine/flexible/redis/main.py,main.py,52,27,15,10,0
+Plain Text,appengine/flexible/multiple_services/gateway-service/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,appengine/flexible/multiple_services/static-service/main.py,main.py,46,22,16,8,0
+Markdown,appengine/flexible/pubsub/README.md,README.md,76,46,0,30,0
+Plain Text,appengine/flexible/hello_world/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/flexible/hello_world/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/flexible/multiple_services/gateway-service/main.py,main.py,58,25,21,12,2
+Python,appengine/flexible/hello_world/main_test.py,main_test.py,24,7,13,4,1
+Python,appengine/flexible/pubsub/main_test.py,main_test.py,69,36,16,17,1
+Python,appengine/flexible/hello_world/main.py,main.py,43,20,15,8,0
+Python,appengine/flexible/multiple_services/gateway-service/services_config.py,services_config.py,57,27,20,10,8
+Python,appengine/flexible/pubsub/main.py,main.py,91,52,23,16,2
+YAML,appengine/flexible/tasks/app.yaml,app.yaml,15,1,13,1,0
+Python,composer/workflows/dependencies/__init__.py,__init__.py,0,0,0,0,0
+YAML,appengine/flexible/django_cloudsql/app.yaml,app.yaml,11,7,2,2,0
+Python,appengine/flexible/websockets/main.py,main.py,53,25,18,10,6
+HTML,appengine/flexible/pubsub/templates/index.html,index.html,36,36,0,0,0
+HTML,appengine/flexible/multiple_services/static-service/static/index.html,index.html,32,17,15,0,0
+Plain Text,appengine/flexible/django_cloudsql/requirements.txt,requirements.txt,7,7,0,0,0
+YAML,appengine/flexible/hello_world_django/app.yaml,app.yaml,6,5,0,1,0
+JavaScript,appengine/flexible/multiple_services/static-service/static/index.js,index.js,36,20,13,3,1
+Plain Text,appengine/flexible/tasks/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,appengine/flexible/hello_world_django/requirements.txt,requirements.txt,5,5,0,0,0
+Plain Text,appengine/flexible/hello_world_django/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,appengine/flexible/tasks/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,appengine/flexible/tasks/Dockerfile,Dockerfile,17,6,8,3,0
+gitignore,appengine/flexible/hello_world_django/.gitignore,.gitignore,1,1,0,0,0
+Markdown,appengine/flexible/hello_world_django/README.md,README.md,63,45,0,18,0
+YAML,appengine/flexible/tasks/app.flexible.yaml,app.flexible.yaml,20,5,13,2,0
+Python,appengine/flexible/hello_world_django/manage.py,manage.py,10,6,1,3,1
+Plain Text,auth/cloud-client/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,auth/cloud-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,auth/cloud-client/snippets_test.py,snippets_test.py,43,18,13,12,0
+Python,appengine/flexible/tasks/create_app_engine_queue_task.py,create_app_engine_queue_task.py,105,53,29,23,5
+CSS,appengine/flexible/multiple_services/static-service/static/style.css,style.css,3,3,0,0,0
+Python,appengine/flexible/hello_world_django/project_name/__init__.py,__init__.py,0,0,0,0,0
+Python,appengine/flexible/hello_world_django/project_name/urls.py,urls.py,39,18,20,1,0
+Python,auth/cloud-client/snippets.py,snippets.py,87,36,31,20,2
+Python,appengine/flexible/hello_world_django/project_name/wsgi.py,wsgi.py,16,4,8,4,0
+Python,appengine/flexible/hello_world_django/project_name/settings.py,settings.py,116,69,24,23,0
+Python,appengine/flexible/hello_world_django/helloworld/views.py,views.py,22,4,14,4,0
+Plain Text,appengine/flexible/django_cloudsql/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,auth/api-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/flexible/django_cloudsql/noxfile_config.py,noxfile_config.py,39,7,26,6,0
+Markdown,appengine/flexible/django_cloudsql/README.md,README.md,25,14,0,11,0
+Python,auth/api-client/snippets_test.py,snippets_test.py,52,24,13,15,0
+Plain Text,auth/end-user/web/requirements.txt,requirements.txt,6,6,0,0,0
+Python,appengine/flexible/django_cloudsql/manage.py,manage.py,24,6,14,4,1
+Plain Text,auth/end-user/web/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,auth/api-client/snippets.py,snippets.py,116,52,38,26,2
+Python,auth/end-user/web/main_test.py,main_test.py,38,14,15,9,0
+Python,composer/workflows/dependencies/coin_module.py,coin_module.py,32,11,17,4,0
+Python,auth/service-to-service/auth.py,auth.py,46,10,27,9,0
+Python,appengine/flexible/tasks/create_app_engine_queue_task_test.py,create_app_engine_queue_task_test.py,27,9,13,5,1
+Python,appengine/flexible/hello_world_django/helloworld/__init__.py,__init__.py,0,0,0,0,0
+ReStructuredText,translate/cloud-client/README.rst,README.rst,3,2,0,1,0
+Plain Text,auth/api-client/requirements.txt,requirements.txt,3,3,0,0,0
+HTML,appengine/flexible/websockets/templates/index.html,index.html,96,82,2,12,0
+Python,appengine/flexible/django_cloudsql/polls/models.py,models.py,28,8,14,6,0
+Python,appengine/flexible/django_cloudsql/polls/__init__.py,__init__.py,0,0,0,0,0
+Python,appengine/flexible/django_cloudsql/polls/apps.py,apps.py,19,3,13,3,0
+ReStructuredText,translate/automl/README.rst,README.rst,3,2,0,1,0
+Python,appengine/flexible/django_cloudsql/polls/admin.py,admin.py,19,3,13,3,0
+Markdown,appengine/flexible/tasks/README.md,README.md,115,79,0,36,0
+Plain Text,firestore/cloud-async-client/requirements.txt,requirements.txt,1,1,0,0,0
+Python,appengine/flexible/django_cloudsql/polls/urls.py,urls.py,21,5,13,3,0
+Python,auth/end-user/web/main.py,main.py,119,67,42,10,2
+Python,appengine/flexible/django_cloudsql/mysite/__init__.py,__init__.py,0,0,0,0,0
+Python,auth/service-to-service/auth_test.py,auth_test.py,114,77,20,17,1
+Plain Text,firestore/cloud-client/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,firestore/cloud-async-client/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Python,appengine/flexible/django_cloudsql/polls/views.py,views.py,19,3,13,3,0
+Python,appengine/flexible/tasks/snippets_test.py,snippets_test.py,127,87,13,27,12
+Plain Text,firestore/cloud-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,appengine/flexible/tasks/main_test.py,main_test.py,45,20,13,12,2
+Python,appengine/flexible/django_cloudsql/mysite/settings.py,settings.py,151,68,54,29,2
+Python,appengine/flexible/django_cloudsql/mysite/urls.py,urls.py,28,8,16,4,1
+Python,appengine/flexible/tasks/snippets.py,snippets.py,303,164,79,60,4
+Python,firestore/cloud-async-client/snippets_test.py,snippets_test.py,308,167,13,128,13
+Python,firestore/cloud-client/snippets_test.py,snippets_test.py,326,179,13,134,19
+Python,firestore/cloud-client/distributed_counters.py,distributed_counters.py,77,25,38,14,4
+Python,firestore/cloud-async-client/distributed_counters.py,distributed_counters.py,81,25,38,18,4
+Markdown,endpoints/README.md,README.md,8,5,0,3,0
+Autoconf,dialogflow/cloud-client/README.rst.in,README.rst.in,55,50,1,4,0
+YAML,endpoints/getting-started-grpc/deployment.yaml,deployment.yaml,54,40,13,1,0
+Plain Text,endpoints/getting-started-grpc/requirements.txt,requirements.txt,2,2,0,0,0
+Python,appengine/flexible/tasks/main.py,main.py,41,12,20,9,2
+Python,endpoints/getting-started-grpc/greeter_client.py,greeter_client.py,63,26,29,8,2
+Plain Text,endpoints/getting-started-grpc/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,endpoints/getting-started-grpc/Dockerfile,Dockerfile,21,9,7,5,0
+Python,endpoints/getting-started-grpc/helloworld_pb2_grpc.py,helloworld_pb2_grpc.py,63,39,14,10,0
+Python,dialogflow/cloud-client/detect_intent_audio.py,detect_intent_audio.py,99,51,32,16,1
+Python,dialogflow/cloud-client/detect_intent_audio_test.py,detect_intent_audio_test.py,36,17,12,7,3
+Python,appengine/flexible/django_cloudsql/mysite/wsgi.py,wsgi.py,22,4,13,5,0
+YAML,endpoints/kubernetes/k8s-grpc-bookstore.yaml,k8s-grpc-bookstore.yaml,74,49,23,2,0
+Python,endpoints/getting-started-grpc/greeter_server.py,greeter_server.py,69,24,31,14,2
+YAML,endpoints/kubernetes/grpc-bookstore.yaml,grpc-bookstore.yaml,59,40,17,2,0
+Markdown,endpoints/kubernetes/README.md,README.md,7,4,0,3,0
+YAML,endpoints/kubernetes/grpc-bookstore-server.yaml,grpc-bookstore-server.yaml,43,29,13,1,0
+Python,firestore/cloud-client/distributed_counters_test.py,distributed_counters_test.py,61,31,14,16,9
+Python,firestore/cloud-async-client/distributed_counters_test.py,distributed_counters_test.py,62,32,14,16,9
+Markdown,endpoints/getting-started-grpc/README.md,README.md,172,120,0,52,0
+YAML,endpoints/getting-started-grpc/api_config.yaml,api_config.yaml,36,6,26,4,0
+YAML,endpoints/getting-started/app.yaml,app.yaml,14,8,4,2,0
+Python,endpoints/getting-started-grpc/helloworld_pb2.py,helloworld_pb2.py,141,128,3,10,2
+Plain Text,endpoints/getting-started/requirements.txt,requirements.txt,8,8,0,0,0
+YAML,endpoints/getting-started/deployment.yaml,deployment.yaml,56,40,15,1,0
+Plain Text,endpoints/bookstore-grpc-transcoding/requirements.txt,requirements.txt,4,4,0,0,0
+Python,endpoints/bookstore-grpc/jwt_token_gen.py,jwt_token_gen.py,71,36,22,13,1
+Python,firestore/cloud-client/snippets.py,snippets.py,975,588,180,207,38
+Plain Text,endpoints/getting-started/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,firestore/cloud-async-client/snippets.py,snippets.py,774,434,154,186,37
+Plain Text,endpoints/bookstore-grpc/requirements.txt,requirements.txt,4,4,0,0,0
+Python,endpoints/bookstore-grpc-transcoding/bookstore.py,bookstore.py,76,46,15,15,4
+Python,endpoints/bookstore-grpc/bookstore.py,bookstore.py,76,46,15,15,4
+Protocol Buffers,endpoints/getting-started-grpc/protos/helloworld.proto,helloworld.proto,50,12,33,5,0
+Dockerfile,endpoints/bookstore-grpc-transcoding/Dockerfile,Dockerfile,22,9,7,6,0
+Plain Text,endpoints/bookstore-grpc/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Dockerfile,endpoints/bookstore-grpc/Dockerfile,Dockerfile,20,8,7,5,0
+Plain Text,endpoints/bookstore-grpc-transcoding/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,endpoints/getting-started/README.md,README.md,170,119,0,51,0
+Python,endpoints/getting-started/main_test.py,main_test.py,82,52,13,17,2
+Markdown,endpoints/bookstore-grpc-transcoding/README.md,README.md,68,43,0,25,0
+Plain Text,dialogflow/cloud-client/requirements.txt,requirements.txt,1,1,0,0,0
+YAML,endpoints/bookstore-grpc/api_config_http.yaml,api_config_http.yaml,119,23,92,4,0
+Python,dialogflow/cloud-client/detect_intent_with_texttospeech_response_test.py,detect_intent_with_texttospeech_response_test.py,36,17,12,7,2
+Plain Text,dialogflow/cloud-client/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,dialogflow/cloud-client/detect_intent_knowledge_test.py,detect_intent_knowledge_test.py,33,13,13,7,1
+Python,dialogflow/cloud-client/detect_intent_knowledge.py,detect_intent_knowledge.py,107,85,20,2,0
+Python,dialogflow/cloud-client/detect_intent_with_sentiment_analysis.py,detect_intent_with_sentiment_analysis.py,105,83,20,2,0
+YAML,endpoints/bookstore-grpc-transcoding/api_config.yaml,api_config.yaml,45,10,30,5,0
+Python,dialogflow/cloud-client/detect_intent_stream_test.py,detect_intent_stream_test.py,33,14,12,7,2
+Protocol Buffers,endpoints/bookstore-grpc-transcoding/bookstore.proto,bookstore.proto,166,78,71,17,0
+Python,dialogflow/cloud-client/detect_intent_stream.py,detect_intent_stream.py,120,63,38,19,6
+Python,endpoints/bookstore-grpc-transcoding/bookstore_server.py,bookstore_server.py,131,84,17,30,2
+Python,dialogflow/cloud-client/document_management.py,document_management.py,115,63,39,13,3
+Python,endpoints/bookstore-grpc-transcoding/bookstore_client.py,bookstore_client.py,56,31,15,10,3
+YAML,endpoints/getting-started/openapi.yaml,openapi.yaml,159,126,32,1,0
+Markdown,endpoints/bookstore-grpc/README.md,README.md,65,40,0,25,0
+YAML,kubernetes_engine/django_tutorial/polls.yaml,polls.yaml,117,69,42,6,0
+Shell,trace/cloud-trace-demo-app-opentelemetry/setup.sh,setup.sh,53,41,4,8,14
+Plain Text,kubernetes_engine/django_tutorial/requirements.txt,requirements.txt,11,11,0,0,0
+Python,endpoints/getting-started/main.py,main.py,98,67,20,11,2
+Python,endpoints/bookstore-grpc-transcoding/bookstore_pb2.py,bookstore_pb2.py,597,584,3,10,2
+YAML,endpoints/getting-started/openapi-appengine.yaml,openapi-appengine.yaml,157,126,30,1,0
+Python,endpoints/bookstore-grpc-transcoding/status.py,status.py,28,10,14,4,0
+Dockerfile,kubernetes_engine/django_tutorial/Dockerfile,Dockerfile,32,7,20,5,1
+YAML,endpoints/bookstore-grpc-transcoding/api_config_auth.yaml,api_config_auth.yaml,59,19,34,6,0
+Markdown,trace/cloud-trace-demo-app-opentelemetry/README.md,README.md,74,48,0,26,0
+YAML,endpoints/bookstore-grpc/api_config.yaml,api_config.yaml,45,10,30,5,0
+YAML,endpoints/getting-started/k8s/esp_echo_http.yaml,esp_echo_http.yaml,70,49,20,1,0
+Python,dialogflow/cloud-client/create_knowledge_base_test.py,create_knowledge_base_test.py,48,23,14,11,2
+Makefile,kubernetes_engine/django_tutorial/Makefile,Makefile,39,30,0,9,0
+Python,dialogflow/cloud-client/detect_intent_texts.py,detect_intent_texts.py,90,68,20,2,0
+YAML,trace/cloud-trace-demo-app-opentelemetry/app/deployment.yaml,deployment.yaml,25,22,3,0,0
+Autoconf,trace/trace-python-sample-opentelemetry/README.rst.in,README.rst.in,21,15,1,5,0
+Protocol Buffers,endpoints/bookstore-grpc/bookstore.proto,bookstore.proto,126,55,54,17,0
+Python,endpoints/getting-started/clients/google-jwt-client.py,google-jwt-client.py,99,50,30,19,1
+YAML,endpoints/bookstore-grpc/api_config_anthos.yaml,api_config_anthos.yaml,40,18,16,6,0
+Plain Text,trace/cloud-trace-demo-app-opentelemetry/app/requirements.txt,requirements.txt,15,14,0,1,0
+Python,endpoints/bookstore-grpc-transcoding/bookstore_pb2_grpc.py,bookstore_pb2_grpc.py,170,124,30,16,0
+Python,trace/cloud-trace-demo-app-opentelemetry/app/app_test.py,app_test.py,27,8,16,3,0
+Dockerfile,trace/cloud-trace-demo-app-opentelemetry/app/Dockerfile,Dockerfile,13,8,3,2,0
+YAML,endpoints/bookstore-grpc/api_config_auth.yaml,api_config_auth.yaml,59,19,34,6,0
+Plain Text,trace/cloud-trace-demo-app-opentelemetry/app/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Python,endpoints/bookstore-grpc/bookstore_server.py,bookstore_server.py,144,94,17,33,6
+Python,endpoints/bookstore-grpc/bookstore_client.py,bookstore_client.py,64,39,15,10,4
+YAML,trace/cloud-trace-demo-app-opentelemetry/app/service.yaml,service.yaml,14,11,3,0,0
+Protocol Buffers,endpoints/bookstore-grpc/http_bookstore.proto,http_bookstore.proto,166,78,71,17,0
+Python,endpoints/bookstore-grpc/status.py,status.py,28,10,14,4,0
+Python,trace/cloud-trace-demo-app-opentelemetry/app/app.py,app.py,57,23,19,15,1
+Python,dialogflow/cloud-client/detect_intent_texts_test.py,detect_intent_texts_test.py,31,12,12,7,1
+Markdown,kubernetes_engine/django_tutorial/README.md,README.md,26,15,0,11,0
+Python,dialogflow/cloud-client/detect_intent_with_texttospeech_response.py,detect_intent_with_texttospeech_response.py,98,77,19,2,0
+Python,dialogflow/cloud-client/knowledge_base_management.py,knowledge_base_management.py,70,30,28,12,1
+Python,endpoints/bookstore-grpc/bookstore_pb2.py,bookstore_pb2.py,596,583,3,10,2
+Python,kubernetes_engine/django_tutorial/__init__.py,__init__.py,0,0,0,0,0
+Docker ignore,kubernetes_engine/django_tutorial/.dockerignore,.dockerignore,19,19,0,0,0
+gitignore,kubernetes_engine/django_tutorial/.gitignore,.gitignore,1,1,0,0,0
+Python,dialogflow/cloud-client/intent_management_test.py,intent_management_test.py,69,37,13,19,8
+Python,dialogflow/cloud-client/detect_intent_with_sentiment_analysis_test.py,detect_intent_with_sentiment_analysis_test.py,33,14,12,7,1
+Plain Text,kubernetes_engine/django_tutorial/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,kubernetes_engine/django_tutorial/manage.py,manage.py,24,6,14,4,1
+Python,dialogflow/cloud-client/create_document_test.py,create_document_test.py,56,30,15,11,1
+Python,endpoints/getting-started/clients/google-id-token-client.py,google-id-token-client.py,80,38,22,20,1
+Python,kubernetes_engine/django_tutorial/polls/models.py,models.py,28,8,14,6,0
+Python,kubernetes_engine/django_tutorial/polls/__init__.py,__init__.py,0,0,0,0,0
+Python,endpoints/getting-started/clients/echo-client.py,echo-client.py,60,30,16,14,1
+Python,endpoints/bookstore-grpc/bookstore_pb2_grpc.py,bookstore_pb2_grpc.py,170,124,30,16,0
+Python,kubernetes_engine/django_tutorial/polls/apps.py,apps.py,19,3,13,3,0
+Python,kubernetes_engine/django_tutorial/mysite/__init__.py,__init__.py,0,0,0,0,0
+ReStructuredText,dialogflow/cloud-client/README.rst,README.rst,632,401,0,231,0
+Python,dialogflow/cloud-client/intent_management.py,intent_management.py,169,147,20,2,0
+Plain Text,trace/trace-python-sample/requirements.txt,requirements.txt,4,4,0,0,0
+Python,kubernetes_engine/django_tutorial/polls/admin.py,admin.py,19,3,13,3,0
+Autoconf,trace/trace-python-sample/README.rst.in,README.rst.in,21,15,1,5,0
+Plain Text,trace/trace-python-sample/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,kubernetes_engine/django_tutorial/mysite/settings.py,settings.py,115,57,35,23,0
+Plain Text,trace/trace-python-sample-opentelemetry/requirements.txt,requirements.txt,11,11,0,0,0
+Python,trace/trace-python-sample/main_test.py,main_test.py,39,18,13,8,2
+ReStructuredText,trace/trace-python-sample/README.rst,README.rst,97,54,0,43,0
+Python,kubernetes_engine/django_tutorial/mysite/urls.py,urls.py,29,13,13,3,0
+Python,appengine/flexible/django_cloudsql/polls/test_polls.py,test_polls.py,22,6,13,3,1
+Dockerfile,trace/cloud-trace-demo-app/app/Dockerfile,Dockerfile,19,13,0,6,2
+Plain Text,trace/cloud-trace-demo-app/app/requirements-test.txt,requirements-test.txt,2,2,0,0,0
+Plain Text,auth/service-to-service/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,auth/service-to-service/noxfile_config.py,noxfile_config.py,39,5,27,7,0
+Python,auth/service-to-service/main.py,main.py,31,10,15,6,0
+Python,data-science-onramp/data-ingestion/setup_test.py,setup_test.py,220,207,7,6,3
+Markdown,data-science-onramp/feature-engineering/README.md,README.md,27,22,0,5,0
+Python,trace/cloud-trace-demo-app/app/app.py,app.py,84,51,25,8,3
+Markdown,container_registry/container_analysis/README.md,README.md,1,1,0,0,0
+Markdown,trace/cloud-trace-demo-app/README.md,README.md,50,39,0,11,0
+Plain Text,data-science-onramp/data-cleaning/requirements.txt,requirements.txt,2,2,0,0,0
+Plain Text,data-science-onramp/data-cleaning/requirements-test.txt,requirements-test.txt,4,4,0,0,0
+Markdown,data-science-onramp/data-cleaning/README.md,README.md,8,6,0,2,0
+Plain Text,trace/trace-python-sample-opentelemetry/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,data-science-onramp/data-cleaning/clean.py,clean.py,246,230,4,12,9
+Python,trace/trace-python-sample-opentelemetry/main_test.py,main_test.py,39,18,13,8,2
+ReStructuredText,trace/trace-python-sample-opentelemetry/README.rst,README.rst,103,57,0,46,0
+Python,kubernetes_engine/django_tutorial/polls/views.py,views.py,19,3,13,3,0
+YAML,trace/cloud-trace-demo-app/app/demo-service-a.yaml,demo-service-a.yaml,40,40,0,0,0
+Python,trace/trace-python-sample-opentelemetry/main.py,main.py,80,42,18,20,1
+ReStructuredText,asset/README.rst,README.rst,3,2,0,1,0
+Plain Text,trace/cloud-trace-demo-app/app/requirements.txt,requirements.txt,9,9,0,0,0
+Python,trace/trace-python-sample/main.py,main.py,75,38,18,19,1
+Python,kubernetes_engine/django_tutorial/polls/tests.py,tests.py,13,0,13,0,0
+Shell,trace/cloud-trace-demo-app/setup.sh,setup.sh,53,41,4,8,14
+Python,trace/cloud-trace-demo-app/app/app_test.py,app_test.py,57,37,16,4,0
+YAML,endpoints/getting-started/clients/service_to_service_google_id_token/app.yaml,app.yaml,7,6,0,1,0
+Python,kubernetes_engine/django_tutorial/polls/urls.py,urls.py,21,5,13,3,0
+Markdown,tasks/README.md,README.md,3,2,0,1,0
+Plain Text,auth/service-to-service/requirements.txt,requirements.txt,2,2,0,0,0
+Python,endpoints/getting-started/clients/service_to_service_google_id_token/main.py,main.py,97,56,23,18,0
+YAML,endpoints/getting-started/clients/service_to_service_gae_default/app.yaml,app.yaml,7,6,0,1,0
+Markdown,error_reporting/README.md,README.md,3,2,0,1,0
+ReStructuredText,tables/README.rst,README.rst,3,2,0,1,0
+Python,kubernetes_engine/django_tutorial/mysite/wsgi.py,wsgi.py,22,4,13,5,0
+ReStructuredText,kms/README.rst,README.rst,3,2,0,1,0
+CSV,data-science-onramp/feature-engineering/testing_data/gasprices.csv,gasprices.csv,658,658,0,0,0
+ReStructuredText,bigquery_storage/to_dataframe/README.rst,README.rst,3,2,0,1,0
+Plain Text,opencensus/requirements.txt,requirements.txt,3,3,0,0,0
+Autoconf,video/cloud-client/shotchange/README.rst.in,README.rst.in,22,16,1,5,0
+Markdown,dataflow/README.md,README.md,90,66,0,24,0
+Plain Text,endpoints/getting-started/clients/service_to_service_non_default/requirements.txt,requirements.txt,3,3,0,0,0
+Python,video/cloud-client/analyze/analyze_test.py,analyze_test.py,102,62,18,22,9
+YAML,endpoints/getting-started/clients/service_to_service_non_default/app.yaml,app.yaml,7,6,0,1,0
+Shell,data-science-onramp/data-ingestion/setup.sh,setup.sh,9,5,3,1,0
+Autoconf,kubernetes_engine/api-client/README.rst.in,README.rst.in,20,15,1,4,0
+Python,video/cloud-client/quickstart/quickstart.py,quickstart.py,62,28,24,10,7
+Plain Text,data-science-onramp/data-ingestion/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,dataflow/encryption-keys/requirements.txt,requirements.txt,1,1,0,0,0
+Python,opencensus/metrics_quickstart_test.py,metrics_quickstart_test.py,22,5,14,3,1
+Plain Text,dataflow/encryption-keys/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Markdown,dataflow/encryption-keys/README.md,README.md,202,150,0,52,0
+Plain Text,dataflow/run_template/requirements.txt,requirements.txt,1,1,0,0,0
+Python,dataflow/encryption-keys/bigquery_kms_key.py,bigquery_kms_key.py,88,57,26,5,1
+ReStructuredText,video/cloud-client/quickstart/README.rst,README.rst,97,54,0,43,0
+Python,dataflow/encryption-keys/noxfile.py,noxfile.py,171,142,19,10,6
+Plain Text,endpoints/getting-started/clients/service_to_service_non_default/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,dataflow/run_template/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Autoconf,video/cloud-client/quickstart/README.rst.in,README.rst.in,21,15,1,5,0
+Markdown,dataflow/run_template/README.md,README.md,123,91,0,32,0
+Plain Text,data-science-onramp/data-ingestion/requirements.txt,requirements.txt,6,6,0,0,0
+Plain Text,opencensus/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,video/cloud-client/quickstart/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,kubernetes_engine/api-client/requirements.txt,requirements.txt,3,3,0,0,0
+Plain Text,video/cloud-client/quickstart/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,endpoints/getting-started/clients/service_to_service_non_default/main.py,main.py,93,55,21,17,0
+Python,kubernetes_engine/api-client/snippets_test.py,snippets_test.py,22,5,13,4,0
+Markdown,opencensus/README.md,README.md,35,25,0,10,0
+Plain Text,kubernetes_engine/api-client/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,data-science-onramp/data-ingestion/setup.py,setup.py,211,208,3,0,0
+Python,video/cloud-client/quickstart/quickstart_test.py,quickstart_test.py,26,7,14,5,1
+Python,endpoints/getting-started/clients/service_to_service_non_default/appengine_config.py,appengine_config.py,3,2,0,1,0
+Python,opencensus/metrics_quickstart.py,metrics_quickstart.py,80,33,29,18,3
+Python,kubernetes_engine/api-client/snippets.py,snippets.py,62,36,14,12,6
+ReStructuredText,kubernetes_engine/api-client/README.rst,README.rst,93,50,0,43,0
+Python,video/cloud-client/labels/labels_test.py,labels_test.py,26,7,14,5,1
+Autoconf,video/cloud-client/labels/README.rst.in,README.rst.in,22,16,1,5,0
+Python,dataflow/run_template/main.py,main.py,112,51,45,16,6
+Plain Text,video/cloud-client/labels/requirements.txt,requirements.txt,1,1,0,0,0
+Plain Text,video/cloud-client/shotchange/requirements.txt,requirements.txt,1,1,0,0,0
+Python,video/cloud-client/labels/labels.py,labels.py,84,33,39,12,7
+Python,dataflow/run_template/main_test.py,main_test.py,171,108,29,34,9
+Plain Text,video/cloud-client/shotchange/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Plain Text,video/cloud-client/labels/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,video/cloud-client/shotchange/shotchange.py,shotchange.py,71,22,38,11,3
+Plain Text,dataflow/flex-templates/streaming_beam/requirements.txt,requirements.txt,1,1,0,0,0
+ReStructuredText,video/cloud-client/labels/README.rst,README.rst,117,66,0,51,0
+ReStructuredText,video/cloud-client/shotchange/README.rst,README.rst,116,65,0,51,0
+Dockerfile,dataflow/flex-templates/streaming_beam/Dockerfile,Dockerfile,32,10,16,6,2
+Python,video/cloud-client/shotchange/shotchange_test.py,shotchange_test.py,27,8,14,5,1
+Python,data-science-onramp/data-cleaning/clean_test.py,clean_test.py,182,172,4,6,0
+Plain Text,dataflow/flex-templates/streaming_beam/requirements-test.txt,requirements-test.txt,1,1,0,0,0
+Python,dataflow/flex-templates/streaming_beam/noxfile.py,noxfile.py,171,142,19,10,6
+Markdown,dataflow/flex-templates/streaming_beam/README.md,README.md,289,217,0,72,0
+CSV,data-science-onramp/data-cleaning/testing_data/raw_data.csv,raw_data.csv,101,101,0,0,0
+Python,endpoints/getting-started/clients/service_to_service_gae_default/main.py,main.py,84,45,23,16,0
+Python,dataflow/flex-templates/streaming_beam/streaming_beam.py,streaming_beam.py,105,78,21,6,4
+JSON,dataflow/flex-templates/streaming_beam/metadata.json,metadata.json,23,23,0,0,0
+Autoconf,video/cloud-client/analyze/README.rst.in,README.rst.in,25,19,1,5,0
+Python,video/cloud-client/analyze/video_detect_person_gcs_beta_test.py,video_detect_person_gcs_beta_test.py,35,13,13,9,4
+Python,dataflow/flex-templates/streaming_beam/streaming_beam_test.py,streaming_beam_test.py,165,116,27,22,3
+Jupyter,data-science-onramp/feature-engineering/feature_engineering.ipynb,feature_engineering.ipynb,4795,4795,0,0,0
+Plain Text,video/cloud-client/analyze/requirements-test.txt,requirements-test.txt,3,3,0,0,0
+Plain Text,video/cloud-client/analyze/requirements.txt,requirements.txt,2,2,0,0,0
+Python,video/cloud-client/analyze/video_detect_logo_gcs_test.py,video_detect_logo_gcs_test.py,36,13,14,9,4
+Python,video/cloud-client/analyze/video_detect_person_beta.py,video_detect_person_beta.py,99,56,26,17,8
+Python,video/cloud-client/analyze/video_detect_logo_test.py,video_detect_logo_test.py,36,13,14,9,4
+Python,video/cloud-client/analyze/video_detect_person_gcs_beta.py,video_detect_person_gcs_beta.py,94,53,26,15,8
+Markdown,video/cloud-client/analyze/resources/README.md,README.md,17,11,0,6,0
+ReStructuredText,video/cloud-client/analyze/README.rst,README.rst,160,95,0,65,0
+Python,video/cloud-client/analyze/video_detect_faces_beta_test.py,video_detect_faces_beta_test.py,32,10,13,9,1
+Python,video/cloud-client/analyze/video_detect_logo.py,video_detect_logo.py,104,54,29,21,12
+Python,video/cloud-client/analyze/video_detect_logo_gcs.py,video_detect_logo_gcs.py,99,51,28,20,12
+Python,video/cloud-client/analyze/video_detect_faces_beta.py,video_detect_faces_beta.py,83,44,23,16,6
+CSV,data-science-onramp/feature-engineering/testing_data/usholidays.csv,usholidays.csv,486,486,0,0,0
+Python,video/cloud-client/analyze/video_detect_faces_gcs_beta_test.py,video_detect_faces_gcs_beta_test.py,32,10,13,9,1
+Python,video/cloud-client/analyze/video_detect_faces_gcs_beta.py,video_detect_faces_gcs_beta.py,78,41,23,14,6
+Python,video/cloud-client/analyze/video_detect_person_beta_test.py,video_detect_person_beta_test.py,35,13,13,9,4
+Python,video/cloud-client/analyze/beta_snippets_test.py,beta_snippets_test.py,171,108,21,42,14
+Python,video/cloud-client/analyze/beta_snippets.py,beta_snippets.py,847,509,174,164,79
+Python,video/cloud-client/analyze/analyze.py,analyze.py,574,388,86,100,64

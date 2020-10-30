@@ -1,0 +1,128 @@
+Language,Location,Filename,Lines,Code,Comments,Blanks,Complexity
+License,LICENSE,LICENSE,21,17,0,4,0
+Markdown,SUMMARY.md,SUMMARY.md,5,3,0,2,0
+YAML,_config.yml,_config.yml,1,1,0,0,0
+Markdown,README.md,README.md,88,68,0,20,0
+Markdown,test.md,test.md,0,0,0,0,0
+HTML,08 - Fun with HTML5 Canvas/index-START.html,index-START.html,19,17,0,2,0
+HTML,25 - Event Related/index-start.html,index-start.html,90,73,0,17,0
+HTML,12 - Key Sequence Detection/index-START.html,index-START.html,12,12,0,0,0
+HTML,22 - Follow Along Link Highlighter/index-start.html,index-start.html,33,29,0,4,0
+HTML,17 - Sort Without Articles/index-finished-Dashrun-es6.html,index-finished-Dashrun-es6.html,66,54,0,12,0
+HTML,27 - Click and Drag/index-finished-Dashrun.html,index-finished-Dashrun.html,68,62,0,6,0
+HTML,13 - Slide in on Scroll/index-START.html,index-START.html,120,91,0,29,0
+Markdown,27 - Click and Drag/README.md,README.md,66,56,0,10,0
+HTML,22 - Follow Along Link Highlighter/index-finished-Dashrun.html,index-finished-Dashrun.html,62,54,0,8,0
+Markdown,.github/issue_template.md,issue_template.md,12,9,0,3,0
+Markdown,21 - Geolocation/README.md,README.md,52,40,0,12,0
+CSS,27 - Click and Drag/style.css,style.css,75,67,0,8,0
+HTML,23 - Speech Synthesis/index-finished-Dashrun.html,index-finished-Dashrun.html,82,66,0,16,0
+HTML,21 - Geolocation/index-start.html,index-start.html,63,57,0,6,0
+HTML,13 - Slide in on Scroll/index-FINISHED.html,index-FINISHED.html,140,108,0,32,0
+HTML,14 - JavaScript References VS Copying/index-SOYAINE.html,index-SOYAINE.html,115,86,0,29,0
+HTML,14 - JavaScript References VS Copying/index-START.html,index-START.html,52,31,0,21,0
+HTML,29 - Countdown Timer/index-start.html,index-start.html,29,28,0,1,0
+Markdown,14 - JavaScript References VS Copying/README.md,README.md,146,106,0,40,0
+HTML,14 - JavaScript References VS Copying/index-FINISHED.html,index-FINISHED.html,99,71,0,28,0
+HTML,21 - Geolocation/index-finished-Dashrun.html,index-finished-Dashrun.html,100,87,0,13,0
+HTML,12 - Key Sequence Detection/index-FINISHED.html,index-FINISHED.html,25,23,1,1,0
+HTML,23 - Speech Synthesis/index-start.html,index-start.html,40,31,0,9,0
+Markdown,25 - Event Related/README.md,README.md,60,46,0,14,0
+HTML,13 - Slide in on Scroll/index-SOYAINE.html,index-SOYAINE.html,145,110,0,35,0
+Markdown,22 - Follow Along Link Highlighter/README.md,README.md,74,61,0,13,0
+Markdown,12 - Key Sequence Detection/README.md,README.md,47,34,0,13,0
+Markdown,13 - Slide in on Scroll/README.md,README.md,85,68,0,17,0
+HTML,26 - Stripe Follow Along Nav/index-start.html,index-start.html,214,189,0,25,0
+CSS,17 - Sort Without Articles/style.css,style.css,6,1,5,0,0
+HTML,25 - Event Related/index-finished-Dashrun.html,index-finished-Dashrun.html,90,73,0,17,0
+CSS,22 - Follow Along Link Highlighter/style.css,style.css,59,54,0,5,0
+Markdown,17 - Sort Without Articles/README.md,README.md,42,33,0,9,0
+HTML,03 - CSS Variables/index-START.html,index-START.html,54,42,0,12,0
+Markdown,23 - Speech Synthesis/README.md,README.md,93,74,0,19,0
+Markdown,26 - Stripe Follow Along Nav/README.md,README.md,68,58,0,10,0
+HTML,19 - Webcam Fun/index-start.html,index-start.html,45,20,20,5,0
+HTML,15 - LocalStorage/index-START.html,index-START.html,38,27,4,7,0
+JavaScript,29 - Countdown Timer/scripts-START.js,scripts-START.js,61,43,8,10,3
+HTML,03 - CSS Variables/index-FINISHED.html,index-FINISHED.html,79,62,0,17,0
+Markdown,03 - CSS Variables/README.md,README.md,101,66,0,35,0
+HTML,03 - CSS Variables/index-SOYAINE.html,index-SOYAINE.html,129,104,0,25,0
+CSS,23 - Speech Synthesis/style.css,style.css,98,83,0,15,0
+Markdown,29 - Countdown Timer/README.md,README.md,89,79,0,10,0
+HTML,26 - Stripe Follow Along Nav/index-finished-Dashrun.html,index-finished-Dashrun.html,248,220,0,28,0
+HTML,28 - Video Speed Controller/index-start.html,index-start.html,20,18,0,2,0
+HTML,02 - JS + CSS Clock/index-SOYAINE.html,index-SOYAINE.html,198,165,0,33,0
+Markdown,18 - AddingUpTimesWithReduce/README.md,README.md,51,44,0,7,0
+HTML,04 - Array Cardio Day 1/index-START.html,index-START.html,61,47,0,14,0
+HTML,18 - AddingUpTimesWithReduce/index-finished-Dashrun-es5.html,index-finished-Dashrun-es5.html,216,212,0,4,0
+HTML,15 - LocalStorage/index-SOYAINE.html,index-SOYAINE.html,103,88,4,11,0
+HTML,08 - Fun with HTML5 Canvas/index-FINISHED.html,index-FINISHED.html,74,63,0,11,0
+Markdown,08 - Fun with HTML5 Canvas/README.md,README.md,211,154,0,57,0
+HTML,17 - Sort Without Articles/index-finished-Dashrun-es5.html,index-finished-Dashrun-es5.html,74,62,0,12,0
+HTML,18 - AddingUpTimesWithReduce/index-start.html,index-start.html,187,187,0,0,0
+HTML,18 - AddingUpTimesWithReduce/index-finished-Dashrun-es6.html,index-finished-Dashrun-es6.html,205,204,0,1,0
+Markdown,02 - JS + CSS Clock/README.md,README.md,161,117,0,44,0
+HTML,08 - Fun with HTML5 Canvas/index-SOYAINE.html,index-SOYAINE.html,109,92,0,17,0
+Markdown,28 - Video Speed Controller/README.md,README.md,40,30,0,10,0
+CSS,15 - LocalStorage/style.css,style.css,78,65,0,13,0
+Markdown,15 - LocalStorage/README.md,README.md,80,69,0,11,0
+HTML,28 - Video Speed Controller/index-finished-Dashrun.html,index-finished-Dashrun.html,36,32,0,4,0
+CSS,28 - Video Speed Controller/style.css,style.css,39,38,0,1,0
+HTML,15 - LocalStorage/index-FINISHED.html,index-FINISHED.html,77,60,4,13,0
+HTML,06 - Type Ahead/index-START.html,index-START.html,22,20,0,2,0
+CSS,29 - Countdown Timer/style.css,style.css,82,70,0,12,0
+HTML,04 - Array Cardio Day 1/index-SOYAINE.html,index-SOYAINE.html,157,134,0,23,0
+Markdown,04 - Array Cardio Day 1/README.md,README.md,135,96,0,39,0
+HTML,02 - JS + CSS Clock/index-FINISHED.html,index-FINISHED.html,98,82,0,16,0
+HTML,11 - Custom Video Player/index.html,index.html,27,24,0,3,0
+HTML,17 - Sort Without Articles/index-start.html,index-start.html,53,44,0,9,0
+JavaScript,11 - Custom Video Player/scripts-FINISHED.js,scripts-FINISHED.js,55,43,3,9,1
+JavaScript,11 - Custom Video Player/scripts.js,scripts.js,0,0,0,0,0
+HTML,27 - Click and Drag/index-start.html,index-start.html,41,39,0,2,0
+HTML,06 - Type Ahead/index-SOYAINE.html,index-SOYAINE.html,66,57,0,9,0
+HTML,04 - Array Cardio Day 1/index-FINISHED.html,index-FINISHED.html,106,88,0,18,0
+HTML,02 - JS + CSS Clock/index-START.html,index-START.html,73,61,0,12,0
+CSS,11 - Custom Video Player/style.css,style.css,145,129,1,15,0
+Markdown,06 - Type Ahead/README.md,README.md,141,100,0,41,0
+HTML,09 - Dev Tools Domination/index-START.html,index-START.html,46,30,0,16,0
+CSS,06 - Type Ahead/style.css,style.css,102,89,2,11,0
+Markdown,11 - Custom Video Player/README.md,README.md,248,187,0,61,0
+HTML,06 - Type Ahead/index-FINISHED.html,index-FINISHED.html,61,53,0,8,0
+HTML,09 - Dev Tools Domination/index-SOYAINE.html,index-SOYAINE.html,98,82,0,16,0
+HTML,07 - Array Cardio Day 2/index-START.html,index-START.html,41,35,0,6,0
+HTML,01 - JavaScript Drum Kit/index-START.html,index-START.html,65,59,0,6,0
+HTML,07 - Array Cardio Day 2/index-SOYAINE.html,index-SOYAINE.html,65,58,0,7,0
+HTML,10 - Hold Shift and Check Checkboxes/index-START.html,index-START.html,109,91,6,12,0
+Markdown,09 - Dev Tools Domination/README.md,README.md,125,87,0,38,0
+HTML,01 - JavaScript Drum Kit/index-SOYAINE.html,index-SOYAINE.html,82,74,0,8,0
+HTML,05 - Flex Panel Gallery/index-START.html,index-START.html,119,100,0,19,0
+Markdown,19 - Webcam Fun/README.md,README.md,111,100,0,11,0
+HTML,10 - Hold Shift and Check Checkboxes/index-SOYAINE.html,index-SOYAINE.html,149,127,6,16,0
+Markdown,07 - Array Cardio Day 2/README.md,README.md,90,59,0,31,0
+HTML,20 - Speech Detection/index-start.html,index-start.html,60,50,0,10,0
+HTML,24 - Sticky Nav/index-start.html,index-start.html,61,45,0,16,0
+Markdown,20 - Speech Detection/README.md,README.md,52,43,0,9,0
+HTML,20 - Speech Detection/index-finished-Dashrun.html,index-finished-Dashrun.html,93,78,0,15,0
+Markdown,10 - Hold Shift and Check Checkboxes/README.md,README.md,132,95,0,37,0
+HTML,10 - Hold Shift and Check Checkboxes/index-FINISHED.html,index-FINISHED.html,138,115,6,17,0
+Markdown,24 - Sticky Nav/README.md,README.md,47,38,0,9,0
+HTML,07 - Array Cardio Day 2/index-FINISHED.html,index-FINISHED.html,68,54,0,14,0
+JavaScript,24 - Sticky Nav/app.js,app.js,16,13,1,2,1
+CSS,24 - Sticky Nav/style.css,style.css,90,80,0,10,0
+HTML,09 - Dev Tools Domination/index-FINISHED.html,index-FINISHED.html,89,69,0,20,0
+HTML,05 - Flex Panel Gallery/index-SOYAINE.html,index-SOYAINE.html,158,137,0,21,0
+Markdown,01 - JavaScript Drum Kit/README.md,README.md,105,73,0,32,0
+Markdown,05 - Flex Panel Gallery/README.md,README.md,132,90,0,42,0
+HTML,05 - Flex Panel Gallery/index-SOYAINE2.html,index-SOYAINE2.html,147,130,0,17,0
+HTML,16 - Mouse Move Shadow/index-finished-es5.html,index-finished-es5.html,62,55,2,5,0
+HTML,01 - JavaScript Drum Kit/index-draft.html,index-draft.html,118,102,0,16,0
+HTML,16 - Mouse Move Shadow/index-start.html,index-start.html,40,34,0,6,0
+HTML,24 - Sticky Nav/index-finished-Dashrun.html,index-finished-Dashrun.html,59,45,0,14,0
+CSS,19 - Webcam Fun/style.css,style.css,18,18,0,0,0
+CSS,16 - Mouse Move Shadow/style.css,style.css,6,1,5,0,0
+HTML,05 - Flex Panel Gallery/index-FINISHED.html,index-FINISHED.html,145,128,0,17,0
+Markdown,16 - Mouse Move Shadow/README.md,README.md,55,45,0,10,0
+CSS,01 - JavaScript Drum Kit/style.css,style.css,50,45,0,5,0
+JavaScript,19 - Webcam Fun/script.js,script.js,119,92,18,9,6
+HTML,19 - Webcam Fun/index-finished-Dashrun.html,index-finished-Dashrun.html,58,50,0,8,0
+HTML,01 - JavaScript Drum Kit/index-FINISHED.html,index-FINISHED.html,83,74,0,9,0
+HTML,16 - Mouse Move Shadow/index-finished-es6.html,index-finished-es6.html,72,59,0,13,0
